@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bowen Pan | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/bowen-pan/</link>
+      <atom:link href="https://ustc-ac.github.io/author/bowen-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bowen Pan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/author/bowen-pan/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bowen Pan</title>
+      <link>https://ustc-ac.github.io/author/bowen-pan/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Adversarial Learning for Deep Semi-Supervised Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Spatial and Temporal Patterns for Facial Landmark Tracking through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</guid>
+      <description>&lt;p&gt;The spatial and temporal patterns inherent in facial feature points are crucial for facial landmark tracking, but have not been thoroughly explored yet. In this paper, we propose a novel deep adversarial framework to explore the shape and temporal dependencies from both appearance level and target label level. The proposed deep adversarial framework consists of a deep landmark tracker and a discriminator. The deep landmark tracker is composed of a stacked Hourglass network as well as a convolutional neural network and a long short-term memory network, and thus implicitly capture spatial and temporal patterns from facial appearance for facial landmark tracking. The discriminator is adopted to distinguish the tracked facial landmarks from ground truth ones. It explicitly models shape and temporal dependencies existing in ground truth facial landmarks through another convolutional neural network and another long short-term memory network. The deep landmark tracker and the discriminator compete with each other. Through adversarial learning, the proposed deep adversarial landmark tracking approach leverages inherent spatial and temporal patterns to facilitate facial landmark tracking from both appearance level and target label level. Experimental results on two benchmark databases demonstrate the superiority of the proposed approach to state-of-the-art work.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-approach-consists-of-two-deep-neural-networks-ie-a-tracker-and-a-discriminator-the-tracker-is-used-to-track-landmarks-from-a-facial-video-the-discriminator-is-introduced-to-distinguish-the-predicted-landmark-positions-from-the-ground-truth-ones-the-tracker-tries-to-confuse-the-discriminator-by-predicting-landmark-positions-with-joint-distributions-that-are-close-to-the-ground-truth-ones-through-adversarial-learning-the-inherent-spatial-and-temporal-dependencies-of-a-facial-sequence-are-captured-from-both-appearance-level-and-target-level-for-landmark-tracking-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed approach consists of two deep neural networks, i.e., a tracker and a discriminator. The tracker is used to track landmarks from a facial video. The discriminator is introduced to distinguish the predicted landmark positions from the ground truth ones. The tracker tries to confuse the discriminator by predicting landmark positions with joint distributions that are close to the ground truth ones. Through adversarial learning, the inherent spatial and temporal dependencies of a facial sequence are captured from both appearance level and target level for landmark tracking. See text for details.&#34; srcset=&#34;
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg 400w,
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a56dd2a610ca26e0e1f5ae708692b7f9.jpg 760w,
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;268&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed approach consists of two deep neural networks, i.e., a tracker and a discriminator. The tracker is used to track landmarks from a facial video. The discriminator is introduced to distinguish the predicted landmark positions from the ground truth ones. The tracker tries to confuse the discriminator by predicting landmark positions with joint distributions that are close to the ground truth ones. Through adversarial learning, the inherent spatial and temporal dependencies of a facial sequence are captured from both appearance level and target level for landmark tracking. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Aesthetic Assessment Assisted by Attributes through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</guid>
+      <description>&lt;p&gt;The inherent connections among aesthetic attributes and aesthetics are crucial for image aesthetic assessment, but have not been thoroughly explored yet. In this paper, we propose a novel image aesthetic assessment assisted by attributes through both representation-level and label-level. The attributes are used as privileged information, which is only required during training. Specifically, we first propose a multitask deep convolutional rating network to learn the aesthetic score and attributes simultaneously. The attributes are explored to construct better feature representations for aesthetic assessment through multi-task learning. After that, we introduce a discriminator to distinguish the predicted attributes and aesthetics of the multi-task deep network from the ground truth label distribution embedded in the training data. The multi-task deep network wants to output aesthetic score and attributes as close to the ground truth labels as possible. Thus the deep network and the discriminator compete with each other. Through adversarial learning, the attributes are explored to enforce the distribution of the predicted attributes and aesthetics to converge to the ground truth label distribution. Experimental results on two benchmark databases demonstrate the superiority of the proposed method to state of the art work.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-method&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed method&#34; srcset=&#34;
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_067cc5be1e98063fb6a7e3ab411bb914.PNG 400w,
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_dfbc9fc8fd618ae0bbd0dda16b1bdac2.PNG 760w,
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1200x1200_fit_lanczos_2.PNG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_067cc5be1e98063fb6a7e3ab411bb914.PNG&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed method
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occluded Facial Expression Recognition Enhanced through Privileged Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</guid>
+      <description>&lt;p&gt;In this paper, we propose a novel approach of occluded facial expression recognition under the help of non-occluded facial images. The non-occluded facial images are used as privileged information, which is only required during training, but not required during testing. Specifically, two deep neural networks are first trained from occluded and non-occluded facial images respectively. Then the non-occluded network is fixed and is used to guide the fine-tuning of the occluded network from both label space and feature space. Similarity constraint and loss inequality regularization are imposed to the label space to make the output of occluded network converge to that of the non-occluded network. Adversarial leaning is adopted to force the distribution of the learned features from occluded facial images to be close to that from non-occluded facial images. Furthermore, a decoder network is employed to reconstruct the non-occluded facial images from occluded features. Under the guidance of non-occluded facial images, the occluded network is expected to learn better features and classifier during training. Experiments on the benchmark databases with both synthesized and realistic occluded facial images demonstrate the superiority of the proposed method to state-of-the-art.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-proposed-facial-expression-recognition-with-occlusions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of proposed facial expression recognition with occlusions&#34; srcset=&#34;
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png 400w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_24722a7e877dfcd10fa2a84cb9fed8ca.png 760w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png&#34;
+               width=&#34;760&#34;
+               height=&#34;491&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of proposed facial expression recognition with occlusions
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</guid>
+      <description>&lt;p&gt;Currently, fusing visible and thermal images for facial expression recognition requires two modalities during both training and testing. Visible cameras are commonly used in real-life applications, and thermal cameras are typically only available in lab situations due to their high price. Thermal imaging for facial expression recognition is not frequently used in real-world situations. To address this, we propose a novel thermally enhanced facial expression recognition method which uses thermal images as privileged information to construct better visible feature representation and improved classifiers by incorporating adversarial learning and similarity constraints during training. Specifically, we train two deep neural networks from visible images and thermal images. We impose adversarial loss to enforce statistical similarity between the learned representations of two modalities, and a similarity constraint to regulate the mapping functions from visible and thermal representation to expressions. Thus, thermal images are leveraged to simultaneously improve visible feature representation and classification during training. To mimic real-world scenarios, only visible images are available during testing. We further extend the proposed expression recognition method for partially unpaired data to explore thermal images&#39; supplementary role in visible facial expression recognition when visible images and thermal images are not synchronously recorded. Experimental results on the MAHNOB Laughter database demonstrate that our proposed method can effectively regularize visible representation and expression classifiers with the help of thermal images, achieving state-of-the-art recognition performance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-our-proposed-method-for-facial-expression-recognition&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of our proposed method for facial expression recognition.&#34; srcset=&#34;
+               /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg 400w,
+               /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_4c350ae5a8ecb1aca8ab669937a70122.jpg 760w,
+               /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;496&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of our proposed method for facial expression recognition.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Augmented Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Facial Action Unit Recognition from Partially Labeled Data</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</guid>
+      <description>&lt;p&gt;Current work on facial action unit (AU) recognition requires AU-labeled facial images. Although large amounts of facial images are readily available, AU annotation is expensive and time consuming. To address this, we propose a deep facial action unit recognition approach learning from partially AU-labeled data. The proposed approach makes full use of both partly available ground-truth AU labels and the readily available large scale facial images without annotation. Specifically, we propose to learn label distribution from the ground-truth AU labels, and then train the AU classifiers from the large-scale facial images by maximizing the log likelihood of the mapping functions of AUs with regard to the learnt label distribution for all training data and minimizing the error between predicted AUs and ground-truth AUs for labeled data simultaneously. A restricted Boltzmann machine is adopted to model AU label distribution, a deep neural network is used to learn facial representation from facial images, and the support vector machine is employed as the classifier. Experiments on two benchmark databases demonstrate the effectiveness of the proposed approach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition with Deep two-view Support Vector Machine</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</guid>
+      <description>&lt;p&gt;This paper proposes a novel deep two-view approach to learn features from both visible and thermal images and leverage the commonality among visible and thermal images for facial expression recognition from visible images. The thermal images are used as privileged information, which is required only during training to help visible images learn better features and classifier. Specifically, we first learn a deep model for visible images and thermal images respectively, and use the learned feature representations to train SVM classifiers for expression classification. We then jointly refine the deep models as well as the SVM classifiers for both thermal images and visible images by imposing the constraint that the outputs of the SVM classifiers from two views are similar. Therefore, the resulting representations and classifiers capture the inherent connections among visible facial image, infrared facial image and target expression labels, and hence improve the recognition performance for facial expression recognition from visible images during testing. Experimental results on the benchmark expression database demonstrate the effectiveness of our proposed method.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-scheme-of-deep-network-for-visible-image-data-thermal-image-data-and-the-scheme-of-the-proposed-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The scheme of deep network for visible image data, thermal image data and the scheme of the proposed model.&#34; srcset=&#34;
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d42e773c83cfff73c049ee29dcc4843c.jpg 400w,
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_2add7bc26b666a32da4a1b2155be7ff7.jpg 760w,
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d42e773c83cfff73c049ee29dcc4843c.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The scheme of deep network for visible image data, thermal image data and the scheme of the proposed model.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

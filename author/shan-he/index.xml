@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shan He | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/shan-he/</link>
+      <atom:link href="https://ustc-ac.github.io/author/shan-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shan He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Shan He</title>
+      <link>https://ustc-ac.github.io/author/shan-he/</link>
+    </image>
+    
+    <item>
+      <title>Gender recognition from visible and thermal infrared facial images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with privileged information using Bayesian networks</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from thermal infrared images using deep Boltzmann machine</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of visible and thermal images for facial expression recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition Using Deep Boltzmann Machine from Thermal Infrared Images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wlfj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wlfj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity Measurement and Feature Selection Using Genetic Algorithm</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-hz-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-hz-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Facial Expression Recognition by Fusing Thermal Infrared and Visible Images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confias-wang-h-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confias-wang-h-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Facial Expression Recognition Based on Feature Point Tracking</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficig-he-wl-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficig-he-wl-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

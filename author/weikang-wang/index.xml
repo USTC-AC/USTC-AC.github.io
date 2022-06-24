@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weikang Wang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/weikang-wang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/weikang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weikang Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Weikang Wang</title>
+      <link>https://ustc-ac.github.io/author/weikang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Learning from Macro-expression: a Micro-expression Recognition Framework</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</guid>
+      <description>&lt;p&gt;As one of the most important forms of psychological behaviors, micro-expression can reveal the real emotion. However, the existing labeled micro-expression samples are limited to train a high performance micro-expression classifier. Since micro-expression and macro-expression share some similarities in facial muscle movements and texture changes, in this paper we propose a micro-expression recognition framework that leverages macro-expression samples as guidance. Specifically, we first introduce two Expression Identity Disentangle Network, named MicroNet and MacroNet, as the feature extractor to disentangle expression-related features for micro and macro expression samples. Then MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space. Adversarial learning strategy and triplet loss are added upon feature level between the MicroNet and MacroNet, so the MicroNet can efficiently capture the shared features of micro-expression and macro-expression samples. Loss inequality regularization is imposed to the label space to make the output of MicroNet converge to that of MicroNet. Comprehensive experiments on three public spontaneous micro-expression databases, i.e., SMIC, CASME2 and SAMM demonstrate the superiority of the proposed method.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-our-micro-expression-recognition-model-first-we-pretrain-two-eidnets-with-micro-expression-and-macro-expression-databases-separately-named-micronet-and-macronet-secondly-macronet-is-fixed-and-used-to-guide-the-fine-tuning-of-micronet-from-both-label-and-feature-space-named-mtmnet&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of our micro-expression recognition model. First we pretrain two EIDNets with micro-expression and macro-expression databases separately, named MicroNet and MacroNet. Secondly, MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space, named MTMNet.&#34; srcset=&#34;
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg 400w,
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_0b1bee0764bd1981a1b49b81caca145c.jpg 760w,
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of our micro-expression recognition model. First we pretrain two EIDNets with micro-expression and macro-expression databases separately, named MicroNet and MacroNet. Secondly, MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space, named MTMNet.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

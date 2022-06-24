@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhen Gao | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/zhen-gao/</link>
+      <atom:link href="https://ustc-ac.github.io/author/zhen-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhen Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhen Gao</title>
+      <link>https://ustc-ac.github.io/author/zhen-gao/</link>
+    </image>
+    
+    <item>
+      <title>Feature and label relation modeling for multiple-facial action unit classification and intensity estimation</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized video emotion tagging through a topic model</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from EEG Signals Enhanced by User&#39;s Profile</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from peripheral physiological signals enhanced by EEG</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficassp-chen-gw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-chen-gw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employing subjects&#39; information as privileged information for emotion recognition from EEG signals</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial expression recognition through modeling age-related spatial patterns</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender recognition from visible and thermal infrared facial images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit hybrid video emotion tagging by integrating video content and users&#39; multiple physiological responses</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from EEG Signals by Leveraging Stimulus Videos</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confpcm-gao-w-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confpcm-gao-w-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from EEG Signals using Hierarchical Bayesian Network with Privileged Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmir-gao-w-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmir-gao-w-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Aesthetic Attribute Assessment by Exploiting Relations Among Aesthetic Attributes</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmir-gao-wj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmir-gao-wj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capture expression-dependent AU relations for expression recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from thermal infrared images using deep Boltzmann machine</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit recognition by relation modeling from both qualitative knowledge and quantitative data</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaxin Wang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/yaxin-wang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/yaxin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaxin Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Yaxin Wang</title>
+      <link>https://ustc-ac.github.io/author/yaxin-wang/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Domain Knowledge for Affective Video Content Analyses</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</guid>
+      <description>&lt;p&gt;The well-established film grammar is often used to change visual and audio elements of videos to invoke audiences’ emotional experience. Such film grammar, referred to as domain knowledge, is crucial for affective video content analyses, but has not been thoroughly explored yet. In this paper, we propose a novel method to analyze video affective content through exploring domain knowledge. Specifically, take visual elements as an example, we first infer probabilistic dependencies between visual elements and emotions from the summarized film grammar. Then, we transfer the domain knowledge as constraints, and formulate affective video content analyses as a constrained optimization problem. Experiments on the LIRIS-ACCEDE database and the DEAP database demonstrate that the proposed affective content analyses method can successfully leverage well-established film grammar for better emotion classification from video content.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

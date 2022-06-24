@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xufa Wang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/xufa-wang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/xufa-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xufa Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Xufa Wang</title>
+      <link>https://ustc-ac.github.io/author/xufa-wang/</link>
+    </image>
+    
+    <item>
+      <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional speech synthesis by XML file using interactive genetic algorithms</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrared Facial Expression Recognition Using Wavelet Transform</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Fatigue Reduction by an Absolute Rating Data-trained Predictor in IEC</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcec-wang-wt-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcec-wang-wt-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Semantics Image Retrieval: An Brief Overview</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-wang-w-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-wang-w-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kansei-Oriented Image Retrieval</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confamt-wang-chw-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confamt-wang-chw-01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
