@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/post/</link>
       <atom:link href="https://ustc-ac.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
       <title>Latest News</title>
       <link>https://ustc-ac.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Three papers are accepted by ACMMM2022</title>
+      <link>https://ustc-ac.github.io/post/2022-mm-three/</link>
+      <pubDate>Sun, 10 Jul 2022 08:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/2022-mm-three/</guid>
+      <description>&lt;p&gt;Three paeprs by &lt;a href=&#34;https://ustc-ac.github.io/author/haihan-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/xiangyu-miao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miao&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan&lt;/a&gt; are accepted by ACMMM2022&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>One paper is accepted by ICPR2022</title>

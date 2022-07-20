@@ -5,7 +5,7 @@
     <link>https://ustc-ac.github.io/</link>
       <atom:link href="https://ustc-ac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>USTC-AC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
       <title>USTC-AC</title>
@@ -47,6 +47,14 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Three papers are accepted by ACMMM2022</title>
+      <link>https://ustc-ac.github.io/post/2022-mm-three/</link>
+      <pubDate>Sun, 10 Jul 2022 08:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/2022-mm-three/</guid>
+      <description>&lt;p&gt;Three paeprs by &lt;a href=&#34;https://ustc-ac.github.io/author/haihan-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/xiangyu-miao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miao&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan&lt;/a&gt; are accepted by ACMMM2022&lt;/p&gt;</description>
     </item>
     
     <item>
