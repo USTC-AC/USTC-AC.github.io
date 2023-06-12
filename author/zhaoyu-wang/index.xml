@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhaoyu Wang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/zhaoyu-wang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/zhaoyu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhaoyu Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhaoyu Wang</title>
+      <link>https://ustc-ac.github.io/author/zhaoyu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Multiple emotional tagging of multimedia data by exploiting dependencies among emotions</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing multi-label classification by modeling dependencies among labels</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence-based bias analysis of spontaneous facial expression databases</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional tagging of videos by exploring multiple emotions&#39; coexistence</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit video multi-emotion tagging by exploiting multi-expression relations</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias analyses of spontaneous facial expression database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous facial expression recognition by using feature-level fusion of visible and thermal infrared images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmlsp-wang-w-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmlsp-wang-w-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

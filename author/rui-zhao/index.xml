@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Zhao | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/rui-zhao/</link>
+      <atom:link href="https://ustc-ac.github.io/author/rui-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Rui Zhao</title>
+      <link>https://ustc-ac.github.io/author/rui-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Facial Expression Intensity Estimation Using Ordinal Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</guid>
+      <description>&lt;p&gt;Previous studies on facial expression analysis have been focused on recognizing basic expression categories.  There is limited  amount  of  work  on  the  continuous  expression intensity estimation,  which is important for detecting and tracking emotion change.  Part of the reason is the lack of labeled data with annotated expression intensity since ex-pression intensity annotation requires expertise and is time consuming.  In this work, we treat the expression intensity estimation as a regression problem. By taking advantage of the natural onset-apex-offset evolution pattern of facial ex-pression, the proposed method can handle different amounts of annotations to perform frame-level expression intensity estimation.    In  fully  supervised  case,  all  the  frames  are provided with intensity annotations.  In weakly supervised case, only the annotations of selected key frames are used.While in unsupervised case, expression intensity can be es-timated without any annotations.  An efficient optimization algorithm based on Alternating Direction Method of Mul-tipliers (ADMM) is developed for solving the optimization problem associated with parameter learning.   We demon-strate the effectiveness of proposed method by comparing it against both fully supervised and unsupervised approaches on benchmark facial expression datasets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-diagram-showing-the-experiment-process-depending-on-the-experiment-setting-different-amounts-of-intensity-annotation-information-are-fed-into-model-learning-process-resulting-different-models-training-is-performed-using-complete-expression-sequences-while-testing-is-performed-on-each-frame-of-a-sequence&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A diagram showing the experiment process. Depending on the experiment setting, different amounts of intensity annotation information are fed into model learning process, resulting different models. Training is performed using complete expression sequences while testing is performed on each frame of a sequence.&#34; srcset=&#34;
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg 400w,
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_0b80fe4ea1c3b64497154329948583d3.jpg 760w,
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;153&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A diagram showing the experiment process. Depending on the experiment setting, different amounts of intensity annotation information are fed into model learning process, resulting different models. Training is performed using complete expression sequences while testing is performed on each frame of a sequence.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

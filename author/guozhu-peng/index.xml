@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guozhu Peng | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/guozhu-peng/</link>
+      <atom:link href="https://ustc-ac.github.io/author/guozhu-peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guozhu Peng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 11:58:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/author/guozhu-peng/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Guozhu Peng</title>
+      <link>https://ustc-ac.github.io/author/guozhu-peng/</link>
+    </image>
+    
+    <item>
+      <title>Capturing Emotion Distribution for Multimedia Emotion Tagging</title>
+      <link>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</link>
+      <pubDate>Thu, 18 Feb 2021 11:58:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</guid>
+      <description>&lt;p&gt;Multimedia collections usually induce multiple emotions in audiences. The data distribution of multiple emotions can be leveraged to facilitate the learning process of emotion tagging, yet has not been thoroughly explored. To address this, we propose adversarial learning to fully capture emotion distributions for emotion tagging of multimedia data. The proposed multimedia emotion tagging approach includes an emotion classifier and a discriminator. The emotion classifier predicts emotion labels of multimedia data from their content. The discriminator distinguishes the predicted emotion labels from the ground truth labels. The emotion classifier and the discriminator are trained simultaneously in competition with each other. By jointly minimizing the traditional supervised loss and maximizing the distribution similarity between the predicted emotion labels and the ground truth emotion labels, the proposed multimedia emotion tagging approach successfully captures both the mapping function between multimedia content and emotion labels as well as prior distribution in emotion labels, and thus achieves state-of-the-art performance for multiple emotion tagging, as demonstrated by the experimental results on four benchmark databases.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-multi-emotion-tagging-model-c-is-the-multiple-emotion-tag-classifier-and-d-is-the-multiple-emotion-tag-discriminator-cx-is-the-multiple-emotion-prediction-for-feature-vector-x-y-is-the-ground-truth-multiple-emotion-label-of-x-y-0-is-the-real-multiple-emotion-label-from-ground-truth-label-set-the-dotted-line-indicates-that-there-is-an-one-to-one-correspondence-between-cx-and-y-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed multi-emotion tagging model. C is the multiple emotion tag classifier, and D is the multiple emotion tag discriminator. C(x) is the multiple emotion prediction for feature vector x. y is the ground truth multiple emotion label of x. y 0 is the real multiple emotion label from ground truth label set. The dotted line indicates that there is an one-to-one correspondence between C(x) and y. See text for details.&#34; srcset=&#34;
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg 400w,
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_9d15f47da7b78c49ba5849d19a69178e.jpg 760w,
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed multi-emotion tagging model. C is the multiple emotion tag classifier, and D is the multiple emotion tag discriminator. C(x) is the multiple emotion prediction for feature vector x. y is the ground truth multiple emotion label of x. y 0 is the real multiple emotion label from ground truth label set. The dotted line indicates that there is an one-to-one correspondence between C(x) and y. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Adversarial Learning for Deep Semi-Supervised Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Learning for Facial Action Unit Detection Under Nonfull Annotation</title>
+      <link>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</link>
+      <pubDate>Mon, 13 Jul 2020 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Joint Label Distribution for Multi-Label Classification Through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Domain Knowledge for Facial Expression-Assisted Action Unit Activation Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Feature and Label Relations Simultaneously for Multiple Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Spatial and Temporal Patterns for Facial Landmark Tracking through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</guid>
+      <description>&lt;p&gt;The spatial and temporal patterns inherent in facial feature points are crucial for facial landmark tracking, but have not been thoroughly explored yet. In this paper, we propose a novel deep adversarial framework to explore the shape and temporal dependencies from both appearance level and target label level. The proposed deep adversarial framework consists of a deep landmark tracker and a discriminator. The deep landmark tracker is composed of a stacked Hourglass network as well as a convolutional neural network and a long short-term memory network, and thus implicitly capture spatial and temporal patterns from facial appearance for facial landmark tracking. The discriminator is adopted to distinguish the tracked facial landmarks from ground truth ones. It explicitly models shape and temporal dependencies existing in ground truth facial landmarks through another convolutional neural network and another long short-term memory network. The deep landmark tracker and the discriminator compete with each other. Through adversarial learning, the proposed deep adversarial landmark tracking approach leverages inherent spatial and temporal patterns to facilitate facial landmark tracking from both appearance level and target label level. Experimental results on two benchmark databases demonstrate the superiority of the proposed approach to state-of-the-art work.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-approach-consists-of-two-deep-neural-networks-ie-a-tracker-and-a-discriminator-the-tracker-is-used-to-track-landmarks-from-a-facial-video-the-discriminator-is-introduced-to-distinguish-the-predicted-landmark-positions-from-the-ground-truth-ones-the-tracker-tries-to-confuse-the-discriminator-by-predicting-landmark-positions-with-joint-distributions-that-are-close-to-the-ground-truth-ones-through-adversarial-learning-the-inherent-spatial-and-temporal-dependencies-of-a-facial-sequence-are-captured-from-both-appearance-level-and-target-level-for-landmark-tracking-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed approach consists of two deep neural networks, i.e., a tracker and a discriminator. The tracker is used to track landmarks from a facial video. The discriminator is introduced to distinguish the predicted landmark positions from the ground truth ones. The tracker tries to confuse the discriminator by predicting landmark positions with joint distributions that are close to the ground truth ones. Through adversarial learning, the inherent spatial and temporal dependencies of a facial sequence are captured from both appearance level and target level for landmark tracking. See text for details.&#34; srcset=&#34;
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg 400w,
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a56dd2a610ca26e0e1f5ae708692b7f9.jpg 760w,
+               /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;268&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed approach consists of two deep neural networks, i.e., a tracker and a discriminator. The tracker is used to track landmarks from a facial video. The discriminator is introduced to distinguish the predicted landmark positions from the ground truth ones. The tracker tries to confuse the discriminator by predicting landmark positions with joint distributions that are close to the ground truth ones. Through adversarial learning, the inherent spatial and temporal dependencies of a facial sequence are captured from both appearance level and target level for landmark tracking. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dual Semi-Supervised Learning for Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</guid>
+      <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-labeled training samples. To reduce the reliance on time-consuming manual AU annotations, we propose a novel semi-supervised AU recognition method leveraging two kinds of readily available auxiliary information.The method leverages the dependencies between AUs and expressions as well as the dependencies among AUs, which are caused by facial anatomy and therefore embedded in all facial images, independent on their AU annotation status. The other auxiliary information is facial image synthesis given AUs, the dual task of AU recognition from facial images, and therefore has intrinsic probabilistic connections with AU recognition, regardless of AU annotations. Specifically, we propose a dual semi-supervised generative adversarial network for AU recognition from partially AU-labeled and fully expression-labeled facial images. The proposed network consists of an AU classifier C, an image generator G, and a discriminator D. In addition to minimize the supervised losses of the AU classifier and the face generator for labeled training data,we explore the probabilistic duality between the tasks using adversary learning to force the convergence of the face-AU-expression tuples generated from the AU classifier and the face generator, and the ground-truth distribution in labeled data for all training data. This joint distribution also includes the inherent AU dependencies. Furthermore, we reconstruct the facial image using the output of the AU classifier as the input of the face generator, and create AU labels by feeding the output of the face generator to the AU classifier. We minimize reconstruction losses for all training data, thus exploiting the informative feedback provided by the dual tasks. Within-database and cross-database experiments on three benchmark databases demonstrate the superiority of our method in both AU recognition and face synthesis compared to state-of-the-art works.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-dual-semi-supervised-gan-consisting-of-three-modules-a-discriminator-d-a-classifier-c-and-a-generator-g&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed dual semi-supervised GAN, consisting of three modules: a discriminator D, a classifier C, and a generator G.&#34; srcset=&#34;
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG 400w,
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_c2fe2348982c07e727263e1acbc9ab88.JPG 760w,
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG&#34;
+               width=&#34;760&#34;
+               height=&#34;314&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed dual semi-supervised GAN, consisting of three modules: a discriminator D, a classifier C, and a generator G.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Dual Learning for Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit Recognition Augmented by Their Dependencies</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</guid>
+      <description>&lt;p&gt;Due to the underlying anatomic mechanism that govern facial muscular interactions, there exist inherent de-pendencies between facial action units (AU). Such dependen-cies carry crucial information for AU recognition, yet have not been thoroughly exploited. Therefore, in this paper, we propose a novel AU recognition method with a three-layer hybrid Bayesian network, whose top two layers consist of a latent regression Bayesian network (LRBN), and the bottom two layers are Bayesian networks. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Specifically, the visible nodes of LRBN represent the ground-truth AU labels. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the depen-dencies among the latent variables given the observation and the dependencies among visible variables. Such dependencie ssuccessfully and faithfully represent relations among multiple AUs. The bottom two layers are two node Bayesian networks, connecting the ground truth AU labels and their measurements.Efficient learning and inference algorithms are also proposed.Furthermore, we extend the proposed hybrid Bayesian network model for facial expression-assisted AU recognition, since AUrelations are influenced by expressions. By introducing facial expression nodes in the middle visible layer, facial expressions,which are only required during training, facilitate the estima-tion of label dependencies among AUs. Experimental results on three benchmark databases, i.e. the CK+ database, the SEMAINE database, and the BP4D database, demonstrate that the proposed approaches can successfully capture complex AU relationships, and the expression labels available only during training are benefit for AU recognition during testing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-proposed-au-recognition-through-au-relation-modeling&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The proposed AU recognition through AU-relation modeling&#34; srcset=&#34;
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg 400w,
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_ba6243d78c78efbb864395b00b0b72ca.jpg 760w,
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The proposed AU recognition through AU-relation modeling
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Facial Action Unit Recognition Through Adversarial Training</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</guid>
+      <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-annotated facial images for supervised AU classifier training. AU annotation is a timeconsuming, expensive, and error-prone process. While AUs are hard to annotate, facial expression is relatively easy to label. Furthermore, there exist strong probabilistic dependencies between expressions and AUs as well as dependencies among AUs. Such dependencies are referred to as domain knowledge. In this paper, we propose a novel AU recognition method that learns AU classifiers from domain knowledge and expression-annotated facial images through adversarial training. Specifically, we first generate pseudo AU labels according to the probabilistic dependencies between expressions and AUs as well as correlations among AUs summarized from domain knowledge. Then we propose a weakly supervised AU recognition method via an adversarial process, in which we simultaneously train two models: a recognition model R, which learns AU classifiers, and a discrimination model D, which estimates the probability that AU labels generated from domain knowledge rather than the recognized AU labels from R. The training procedure for R maximizes the probability of D making a mistake. By leveraging the adversarial mechanism, the distribution of recognized AUs is closed to AU prior distribution from domain knowledge. Furthermore, the proposed weakly supervised AU recognition can be extended to semisupervised learning scenarios with partially AU-annotated images. Experimental results on three benchmark databases demonstrate that the proposed method successfully leverages the summarized domain knowledge to weakly supervised AU classifier learning through an adversarial process, and thus achieves state-of-the-art performance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-ran-in-part-1-the-facial-feature-x-is-inputted-into-recognizer-r-and-get-the-fake-au-vector-the-real-au-data-generated-in-section-22-are-in-part-2-in-part-3-p-discriminators-are-trained-real-or-fake-au-data-are-inputted-to-corresponding-discriminator-with-the-same-expression-label-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details.&#34; srcset=&#34;
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg 400w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_4eb4480d88985757ef87bf0ffea1b798.jpg 760w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Facial Action Unit Recognition With Domain Knowledge</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

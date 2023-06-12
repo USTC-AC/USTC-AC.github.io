@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Xue | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/jia-xue/</link>
+      <atom:link href="https://ustc-ac.github.io/author/jia-xue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Xue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Jia Xue</title>
+      <link>https://ustc-ac.github.io/author/jia-xue/</link>
+    </image>
+    
+    <item>
+      <title>Case-Based Facial Action Units Recognition Using Interactive Genetic Algorithm</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-wang-x-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-wang-x-05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

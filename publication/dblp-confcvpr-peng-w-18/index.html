@@ -1,0 +1,1414 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
+  <meta name="copyright" content="Copyright © Indigo6. All rights reserved."  src="https://github.com/Indigo6" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  <!--busuanzi view count -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Lin Fang" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="We propose a novel weakly supervised AU recognition method to learn AU classifiers with only expression labels. Specifically, we notice that there exist domain knowledge about expressions and AUs that can be represented as prior probabilities. We generate pseudo AU data for each expression; for AU classifiers’ training, we propose an RAN model, which consists of a recognition model and a discrimination mode trained simultaneously by leveraging an adversarial process, to make the distribution of the recognized AU close to the distribution of the pseudo AU data. Furthermore, we extend the proposed method to semi-supervised learning with partially AU-annotated images." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="USTC-AC" />
+  <meta property="og:url" content="https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/" />
+  <meta property="og:title" content="Weakly Supervised Facial Action Unit Recognition Through Adversarial Training | USTC-AC" />
+  <meta property="og:description" content="We propose a novel weakly supervised AU recognition method to learn AU classifiers with only expression labels. Specifically, we notice that there exist domain knowledge about expressions and AUs that can be represented as prior probabilities. We generate pseudo AU data for each expression; for AU classifiers’ training, we propose an RAN model, which consists of a recognition model and a discrimination mode trained simultaneously by leveraging an adversarial process, to make the distribution of the recognized AU close to the distribution of the pseudo AU data. Furthermore, we extend the proposed method to semi-supervised learning with partially AU-annotated images." /><meta property="og:image" content="https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured.jpg" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-06-30T12:55:56&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-06-30T20:55:56&#43;08:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/"
+  },
+  "headline": "Weakly Supervised Facial Action Unit Recognition Through Adversarial Training",
+  
+  "image": [
+    "https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured.jpg"
+  ],
+  
+  "datePublished": "2021-06-30T12:55:56Z",
+  "dateModified": "2021-06-30T20:55:56+08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Guozhu Peng"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "USTC-AC",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "We propose a novel weakly supervised AU recognition method to learn AU classifiers with only expression labels. Specifically, we notice that there exist domain knowledge about expressions and AUs that can be represented as prior probabilities. We generate pseudo AU data for each expression; for AU classifiers’ training, we propose an RAN model, which consists of a recognition model and a discrimination mode trained simultaneously by leveraging an adversarial process, to make the distribution of the recognized AU close to the distribution of the pseudo AU data. Furthermore, we extend the proposed method to semi-supervised learning with partially AU-annotated images."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Weakly Supervised Facial Action Unit Recognition Through Adversarial Training | USTC-AC</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="711b4e359229546b8445b579c01e8e25" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/graduated"><span>Graduated</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/nvie"><span>NVIE</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Weakly Supervised Facial Action Unit Recognition Through Adversarial Training</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/guozhu-peng/">Guozhu Peng</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="http://openaccess.thecvf.com/content_cvpr_2018/html/Peng_Weakly_Supervised_Facial_CVPR_2018_paper.html" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/dblp-confcvpr-peng-w-18/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/CVPR.2018.00233" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+  <div class="article-container" align="justify">
+
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>2018 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, USA, June 18-22, 2018</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p>Current works on facial action unit (AU) recognition typically require fully AU-annotated facial images for supervised AU classifier training. AU annotation is a timeconsuming, expensive, and error-prone process. While AUs are hard to annotate, facial expression is relatively easy to label. Furthermore, there exist strong probabilistic dependencies between expressions and AUs as well as dependencies among AUs. Such dependencies are referred to as domain knowledge. In this paper, we propose a novel AU recognition method that learns AU classifiers from domain knowledge and expression-annotated facial images through adversarial training. Specifically, we first generate pseudo AU labels according to the probabilistic dependencies between expressions and AUs as well as correlations among AUs summarized from domain knowledge. Then we propose a weakly supervised AU recognition method via an adversarial process, in which we simultaneously train two models: a recognition model R, which learns AU classifiers, and a discrimination model D, which estimates the probability that AU labels generated from domain knowledge rather than the recognized AU labels from R. The training procedure for R maximizes the probability of D making a mistake. By leveraging the adversarial mechanism, the distribution of recognized AUs is closed to AU prior distribution from domain knowledge. Furthermore, the proposed weakly supervised AU recognition can be extended to semisupervised learning scenarios with partially AU-annotated images. Experimental results on three benchmark databases demonstrate that the proposed method successfully leverages the summarized domain knowledge to weakly supervised AU classifier learning through an adversarial process, and thus achieves state-of-the-art performance.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-fig-the-framework-of-ran-in-part-1-the-facial-feature-x-is-inputted-into-recognizer-r-and-get-the-fake-au-vector-the-real-au-data-generated-in-section-22-are-in-part-2-in-part-3-p-discriminators-are-trained-real-or-fake-au-data-are-inputted-to-corresponding-discriminator-with-the-same-expression-label-see-text-for-details">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details." srcset="
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg 400w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_4eb4480d88985757ef87bf0ffea1b798.jpg 760w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_1200x1200_fit_q75_lanczos.jpg 1200w"
+               src="/publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg"
+               width="760"
+               height="378"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details.
+    </figcaption></figure>
+</div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/au-recognition/">AU Recognition</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/&amp;text=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/&amp;t=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training&amp;body=https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/&amp;title=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training%20https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/&amp;title=Weakly%20Supervised%20Facial%20Action%20Unit%20Recognition%20Through%20Adversarial%20Training" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/guozhu-peng/"><img class="avatar mr-3 avatar-circle" src="/author/guozhu-peng/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg" alt="Guozhu Peng"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/guozhu-peng/">Guozhu Peng</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/shangfei-wang/"><img class="avatar mr-3 avatar-circle" src="/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg" alt="Shangfei Wang"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/shangfei-wang/">Shangfei Wang</a></h5>
+      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <p class="card-text">My research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sfwang@ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=PmDOUfQAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://staff.ustc.edu.cn/~sfwang" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/manual-cvpr22-chang/">Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition</a></li>
+      
+      <li><a href="/publication/dblp-conficcv-wu-wpj-17/">Deep Facial Action Unit Recognition from Partially Labeled Data</a></li>
+      
+      <li><a href="/publication/dblp-confmm-wang-w-18/">Personalized Multiple Facial Action Unit Recognition through Generative Adversarial Recognition Network</a></li>
+      
+      <li><a href="/publication/dblp-conffgr-hao-wpj-18/">Facial Action Unit Recognition Augmented by Their Dependencies</a></li>
+      
+      <li><a href="/publication/dblp-confaaai-peng-w-19/">Dual Semi-Supervised Learning for Facial Action Unit Recognition</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_pv">Page View:<span id="busuanzi_value_site_pv"></span></span>
+  </div>
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_uv">Unique Visitor:<span id="busuanzi_value_site_uv"></span></span>
+  </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.ea2c153d3e439b91646a77d67da36b6a.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

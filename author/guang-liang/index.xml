@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guang Liang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/guang-liang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/guang-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guang Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Dec 2021 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Guang Liang</title>
+      <link>https://ustc-ac.github.io/author/guang-liang/</link>
+    </image>
+    
+    <item>
+      <title>Pose-Invariant Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-fg21-liang/</link>
+      <pubDate>Sun, 05 Dec 2021 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-fg21-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task face analyses through adversarial learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</guid>
+      <description>&lt;p&gt;Existing facial expression recognition methods either focus on pose variations or identity bias, but not both simultaneously. This paper proposes an adversarial feature learning method to address both of these issues. Specifically, the proposed method consists of five components: an encoder, an expression classifier, a pose discriminator, a subject discriminator, and a generator. An encoder extracts feature representations, and an expression classifier tries to perform facial expression recognition using the extracted feature representations. The encoder and the expression classifier are trained collaboratively, so that the extracted feature representations are discriminative for expression recognition. A pose discriminator and a subject discriminator classify the pose and the subject from the extracted feature representations respectively. They are trained adversarially with the encoder. Thus, the extracted feature representations are robust to poses and subjects. A generator reconstructs facial images to further favor the feature representations. Experiments on five benchmark databases demonstrate the superiority of the proposed method to state-of-the-art work.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-structure-of-the-proposed-method-it-consists-of-an-encoder-e--an-expression-classifier-dc--a-pose-discriminator-dp--a-subject-discriminator-dsand-a-generator-g-&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The structure of the proposed method. It consists of an encoder E , an expression classifier Dc , a pose discriminator Dp , a subject discriminator Ds ,and a generator G .&#34; srcset=&#34;
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_f0e65a5c98ebf93f459cb58bf5bd62db.jpg 400w,
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_62d2daca54581aa0aa6cb6bd2d2b6a0d.jpg 760w,
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_f0e65a5c98ebf93f459cb58bf5bd62db.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;469&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The structure of the proposed method. It consists of an encoder &lt;i&gt;E&lt;/i&gt; , an expression classifier &lt;i&gt;D&lt;sub&gt;c&lt;/sub&gt;&lt;/i&gt; , a pose discriminator &lt;i&gt;D&lt;sub&gt;p&lt;/sub&gt;&lt;/i&gt; , a subject discriminator &lt;i&gt;D&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt; ,and a generator &lt;i&gt;G&lt;/i&gt; .
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Face Analyses through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

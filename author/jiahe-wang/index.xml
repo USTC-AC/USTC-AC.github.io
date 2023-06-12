@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiahe Wang | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/jiahe-wang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/jiahe-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiahe Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/author/jiahe-wang/avatar_hub33d7c35266bebcd21997d38161dc849_33535_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jiahe Wang</title>
+      <link>https://ustc-ac.github.io/author/jiahe-wang/</link>
+    </image>
+    
+    <item>
+      <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>
+      <link>https://ustc-ac.github.io/publication/manual-accv22-wang/</link>
+      <pubDate>Thu, 08 Dec 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-accv22-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

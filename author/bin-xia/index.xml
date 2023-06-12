@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Xia | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/bin-xia/</link>
+      <atom:link href="https://ustc-ac.github.io/author/bin-xia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Xia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 10:03:01 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/author/bin-xia/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bin Xia</title>
+      <link>https://ustc-ac.github.io/author/bin-xia/</link>
+    </image>
+    
+    <item>
+      <title>Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain</title>
+      <link>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</link>
+      <pubDate>Thu, 29 Apr 2021 10:03:01 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Macro-expression: a Micro-expression Recognition Framework</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</guid>
+      <description>&lt;p&gt;As one of the most important forms of psychological behaviors, micro-expression can reveal the real emotion. However, the existing labeled micro-expression samples are limited to train a high performance micro-expression classifier. Since micro-expression and macro-expression share some similarities in facial muscle movements and texture changes, in this paper we propose a micro-expression recognition framework that leverages macro-expression samples as guidance. Specifically, we first introduce two Expression Identity Disentangle Network, named MicroNet and MacroNet, as the feature extractor to disentangle expression-related features for micro and macro expression samples. Then MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space. Adversarial learning strategy and triplet loss are added upon feature level between the MicroNet and MacroNet, so the MicroNet can efficiently capture the shared features of micro-expression and macro-expression samples. Loss inequality regularization is imposed to the label space to make the output of MicroNet converge to that of MicroNet. Comprehensive experiments on three public spontaneous micro-expression databases, i.e., SMIC, CASME2 and SAMM demonstrate the superiority of the proposed method.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-our-micro-expression-recognition-model-first-we-pretrain-two-eidnets-with-micro-expression-and-macro-expression-databases-separately-named-micronet-and-macronet-secondly-macronet-is-fixed-and-used-to-guide-the-fine-tuning-of-micronet-from-both-label-and-feature-space-named-mtmnet&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of our micro-expression recognition model. First we pretrain two EIDNets with micro-expression and macro-expression databases separately, named MicroNet and MacroNet. Secondly, MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space, named MTMNet.&#34; srcset=&#34;
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg 400w,
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_0b1bee0764bd1981a1b49b81caca145c.jpg 760w,
+               /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of our micro-expression recognition model. First we pretrain two EIDNets with micro-expression and macro-expression databases separately, named MicroNet and MacroNet. Secondly, MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space, named MTMNet.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</guid>
+      <description>&lt;p&gt;Although facial expression recognition has improved in recent years, it is still very challenging to recognize expressions from occluded facial images in the wild. Due to the lack of large-scale facial expression datasets with diversity of the type and position of occlusions, it is very difficult to learn robust occluded expression classifier directly from limited occluded images. Considering facial images without occlusions usually provide more information for facial expression recognition compared to occluded facial images, we propose a step-wise learning strategy for occluded facial expression recognition that utilizes unpaired non-occluded images as guidance in the feature and label space. Specifically, we first measure the complexity of non-occluded data using distribution density in a feature space and split data into three subsets. In this way, the occluded expression classifier can be guided by basic samples first, and subsequently leverage more meaningful and discriminative samples. Complementary adversarial learning techniques are applied in the global-level and local-level feature space throughout, forcing the distribution of the occluded features to be close to the distribution of the non-occluded features. We also take the variability of the different images&#39; transferability into account via adaptive classification loss. Loss inequality regularization is imposed in the label space to calibrate the output values of the occluded network. Experimental results show that our method improves performance on both synthesized occluded databases and realistic occluded databases.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-approach-consists-of-an-occluded-network-fo-a-non-occluded-network-fc-k-local-level-feature-discriminator-dlk-k--1-2--k-and-a-global-feature-discriminator-dg&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed approach consists of an occluded network fo, a non-occluded network ​fc, K​ local-level feature discriminator ​Dlk (k = 1, 2, ..., K)​, and a global feature discriminator ​Dg&#34; srcset=&#34;
+               /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg 400w,
+               /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_9c4a277e5a6e2fde4662887abbf83019.jpg 760w,
+               /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;274&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed approach consists of an occluded network f&lt;sub&gt;o&lt;/sub&gt;, a non-occluded network ​f&lt;sub&gt;c&lt;/sub&gt;, K​ local-level feature discriminator ​D&lt;sub&gt;l&lt;/sub&gt;&lt;sup&gt;k&lt;/sup&gt; (k = 1, 2, &amp;hellip;, K)​, and a global feature discriminator ​D&lt;sub&gt;g&lt;/sub&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unpaired Multimodal Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</guid>
+      <description>&lt;p&gt;Current works on multimodal facial expression recognition typically require paired visible and thermal facial images. Although visible cameras are readily available in our daily life, thermal cameras are expensive and less prevalent. It is costly to collect a large quantity of synchronous visible and thermal facial images. To tackle this paired training data bottleneck, we propose an unpaired multimodal facial expression recognition method, which makes full use of the massive number of unpaired visible and thermal images by utilizing thermal images to construct better image representations and classifiers for visible images during training. Specifically, two deep neural networks are trained from visible and thermal images to learn image representations and expression classifiers for two modalities. Then, an adversarial strategy is adopted to force statistical similarity between the learned visible and thermal representations, and to minimize the distribution mismatch between the predictions of the visible and thermal images. Through adversarial learning, the proposed method leverages thermal images to construct better image representations and classifiers for visible images during training, without the requirement of paired data. A decoder network is built upon the visible hidden features in order to preserve some inherent features of the visible view. We also take the variability of the different images’ transferability into account via adaptive classification loss. During testing, only visible images are required and the visible network is used. Thus, the proposed method is appropriate for real-world scenarios, since thermal imaging is rare in these instances. Experiments on two benchmark multimodal expression databases and three visible facial expression databases demonstrate the superiority of the proposed method compared to state-of-the-art methods.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-unpaired-facial-expression-recognition-method&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed unpaired facial expression recognition method.&#34; srcset=&#34;
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_187e60a0e1b13b29b938541b310b0029.png 400w,
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_d4c98c86163505a4e42b1b695acc8d92.png 760w,
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_187e60a0e1b13b29b938541b310b0029.png&#34;
+               width=&#34;760&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed unpaired facial expression recognition method.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occluded Facial Expression Recognition Enhanced through Privileged Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</guid>
+      <description>&lt;p&gt;In this paper, we propose a novel approach of occluded facial expression recognition under the help of non-occluded facial images. The non-occluded facial images are used as privileged information, which is only required during training, but not required during testing. Specifically, two deep neural networks are first trained from occluded and non-occluded facial images respectively. Then the non-occluded network is fixed and is used to guide the fine-tuning of the occluded network from both label space and feature space. Similarity constraint and loss inequality regularization are imposed to the label space to make the output of occluded network converge to that of the non-occluded network. Adversarial leaning is adopted to force the distribution of the learned features from occluded facial images to be close to that from non-occluded facial images. Furthermore, a decoder network is employed to reconstruct the non-occluded facial images from occluded features. Under the guidance of non-occluded facial images, the occluded network is expected to learn better features and classifier during training. Experiments on the benchmark databases with both synthesized and realistic occluded facial images demonstrate the superiority of the proposed method to state-of-the-art.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-proposed-facial-expression-recognition-with-occlusions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of proposed facial expression recognition with occlusions&#34; srcset=&#34;
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png 400w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_24722a7e877dfcd10fa2a84cb9fed8ca.png 760w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png&#34;
+               width=&#34;760&#34;
+               height=&#34;491&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of proposed facial expression recognition with occlusions
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

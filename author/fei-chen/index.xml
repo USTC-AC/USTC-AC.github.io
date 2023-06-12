@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Chen | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/fei-chen/</link>
+      <atom:link href="https://ustc-ac.github.io/author/fei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fei Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Fei Chen</title>
+      <link>https://ustc-ac.github.io/author/fei-chen/</link>
+    </image>
+    
+    <item>
+      <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

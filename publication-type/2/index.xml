@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | USTC-AC</title>
+    <link>https://ustc-ac.github.io/publication-type/2/</link>
+      <atom:link href="https://ustc-ac.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 11:54:51 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://ustc-ac.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Emotional Attention Detection and Correlation Exploration for Image Emotion Distribution Learning</title>
+      <link>https://ustc-ac.github.io/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</link>
+      <pubDate>Tue, 06 Apr 2021 11:54:51 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Emotion Distribution for Multimedia Emotion Tagging</title>
+      <link>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</link>
+      <pubDate>Thu, 18 Feb 2021 11:58:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</guid>
+      <description>&lt;p&gt;Multimedia collections usually induce multiple emotions in audiences. The data distribution of multiple emotions can be leveraged to facilitate the learning process of emotion tagging, yet has not been thoroughly explored. To address this, we propose adversarial learning to fully capture emotion distributions for emotion tagging of multimedia data. The proposed multimedia emotion tagging approach includes an emotion classifier and a discriminator. The emotion classifier predicts emotion labels of multimedia data from their content. The discriminator distinguishes the predicted emotion labels from the ground truth labels. The emotion classifier and the discriminator are trained simultaneously in competition with each other. By jointly minimizing the traditional supervised loss and maximizing the distribution similarity between the predicted emotion labels and the ground truth emotion labels, the proposed multimedia emotion tagging approach successfully captures both the mapping function between multimedia content and emotion labels as well as prior distribution in emotion labels, and thus achieves state-of-the-art performance for multiple emotion tagging, as demonstrated by the experimental results on four benchmark databases.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-multi-emotion-tagging-model-c-is-the-multiple-emotion-tag-classifier-and-d-is-the-multiple-emotion-tag-discriminator-cx-is-the-multiple-emotion-prediction-for-feature-vector-x-y-is-the-ground-truth-multiple-emotion-label-of-x-y-0-is-the-real-multiple-emotion-label-from-ground-truth-label-set-the-dotted-line-indicates-that-there-is-an-one-to-one-correspondence-between-cx-and-y-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed multi-emotion tagging model. C is the multiple emotion tag classifier, and D is the multiple emotion tag discriminator. C(x) is the multiple emotion prediction for feature vector x. y is the ground truth multiple emotion label of x. y 0 is the real multiple emotion label from ground truth label set. The dotted line indicates that there is an one-to-one correspondence between C(x) and y. See text for details.&#34; srcset=&#34;
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg 400w,
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_9d15f47da7b78c49ba5849d19a69178e.jpg 760w,
+               /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed multi-emotion tagging model. C is the multiple emotion tag classifier, and D is the multiple emotion tag discriminator. C(x) is the multiple emotion prediction for feature vector x. y is the ground truth multiple emotion label of x. y 0 is the real multiple emotion label from ground truth label set. The dotted line indicates that there is an one-to-one correspondence between C(x) and y. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Adversarial Learning for Deep Semi-Supervised Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task face analyses through adversarial learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Learning for Facial Action Unit Detection Under Nonfull Annotation</title>
+      <link>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</link>
+      <pubDate>Mon, 13 Jul 2020 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Dynamic Model Capturing Spatial and Temporal Patterns for Facial Expression Analysis</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Joint Label Distribution for Multi-Label Classification Through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Domain Knowledge for Facial Expression-Assisted Action Unit Activation Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Augmented Multimodal Deep Regression Bayesian Networks for Emotion Video Tagging</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-hj-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-hj-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posed and Spontaneous Expression Distinction Using Latent Regression Bayesian Networks</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstomccap-wang-hj-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstomccap-wang-hj-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Feature and Label Relations Simultaneously for Multiple Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content-Based Video Emotion Tagging Augmented by Users&#39; Multiple Physiological Responses</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-cj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-cj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstip-wang-hj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstip-wang-hj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Face Analyses through Adversarial Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Dual Learning for Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with privileged information for multi-Label classification</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Augmented Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Facial Action Unit Recognition With Domain Knowledge</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression-assisted facial action unit recognition under incomplete AU annotation</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature and label relation modeling for multiple-facial action unit classification and intensity estimation</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Privileged Information for Multi-Label Classification</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing global spatial patterns for distinguishing posed and spontaneous expressions</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial expression recognition through modeling age-related spatial patterns</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender recognition from visible and thermal infrared facial images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition with the Help of Privileged Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit video emotion tagging from audiences&#39; facial expression</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with privileged information using Bayesian networks</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Emotion Tagging for Multimedia Data by Exploiting High-Order Dependencies Among Emotions</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple emotional tagging of multimedia data by exploiting dependencies among emotions</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posed and spontaneous expression recognition through modeling their spatial patterns</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Affective Content Analysis: A Survey of State-of-the-Art Methods</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-j-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-j-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from thermal infrared images using deep Boltzmann machine</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing multi-label classification by modeling dependencies among labels</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion of visible and thermal images for facial expression recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid video emotional tagging using users&#39; EEG and video content</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye localization from thermal infrared images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Facial Feature Tracking and Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A qualitative and quantitative study of color emotion using valence-arousal</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quan Gan | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/quan-gan/</link>
+      <atom:link href="https://ustc-ac.github.io/author/quan-gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quan Gan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Quan Gan</title>
+      <link>https://ustc-ac.github.io/author/quan-gan/</link>
+    </image>
+    
+    <item>
+      <title>A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/</guid>
+      <description>&lt;p&gt;The inherent dependencies between visual elements and aural elements are crucial for affective video content analyses, yet have not been successfully exploited. Therefore, we propose a multimodal deep regression Bayesian network (MMDRBN) to capture the dependencies between visual elements and aural elements for affective video content analyses. The regression Bayesian network (RBN) is a directed graphical model consisting of one latent layer and one visible layer. Due to the explaining away effect in Bayesian networks (BN), RBN is able to capture both the dependencies among the latent variables given the observation and the dependencies among visible variables. We propose a fast learning algorithm to learn the RBN. For the MMDRBN, first, we learn several RBNs layer-wisely from visual modality and audio modality respectively. Then we stack these RBNs and obtain two deep networks. After that, a joint representation is extracted from the top layers of the two deep networks, and thus captures the high order dependencies between visual modality and audio modality. In order to predict the valence or arousal score of video contents, we initialize a feed-forward inference network from the MMDRBN whose inference is intractable by minimizing the KullbackCLeibler (KL)divergence between the two networks. The back propagation algorithm is adopted for finetuning the inference network. Experimental results on the LIRIS-ACCEDE database demonstrate that the proposed MMDRBN successfully captures the dependencies between visual and audio elements, and thus achieves better performance compared with state-of-the-art work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-our-proposed-method-first-we-train-a-multimodal-generative-network-it-consists-of-two-stacked-rbns-that-are-created-for-visual-and-audio-modalities-respectively&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of our proposed method. First, we train a multimodal generative network. It consists of two stacked RBNs that are created for visual and audio modalities respectively.&#34; srcset=&#34;
+               /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_33de511fe787d72c7424d929317c4505.jpg 400w,
+               /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_70c0a87a200289b1d89f4c6a966a6481.jpg 760w,
+               /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_33de511fe787d72c7424d929317c4505.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;411&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of our proposed method. First, we train a multimodal generative network. It consists of two stacked RBNs that are created for visual and audio modalities respectively.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differentiating Between Posed and Spontaneous Expressions with Latent Regression Bayesian Network</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</guid>
+      <description>&lt;p&gt;Spatial patterns embedded in human faces are crucial for differentiating posed expressions from spontaneous ones, yet they have not been thoroughly exploited in the literature. To tackle this problem, we present a generative model, i.e., Latent Regression Bayesian Network (LRBN), to effectively capture the spatial patterns embedded in facial landmark points to differentiate between posed and spontaneous facial expressions. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the dependencies among the latent variables given the observation and the dependencies among visible variables. We believe that such dependencies are crucial for faithful data representation. Specifically, during training, we construct two LRBNs to capture spatial patterns inherent in displacements of landmark points from spontaneous facial expressions and posed facial expressions respectively. During testing, the samples are classified into posed or spontaneous expressions according to their likelihoods on two models. Efficient learning and inference algorithms are proposed. Experimental results on two benchmark databases demonstrate the advantages of the proposed approach in modeling spatial patterns as well as its superior performance to the existing methods in differentiating between posed and spontaneous expressions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-capturing-spatial-patterns&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of capturing spatial patterns&#34; srcset=&#34;
+               /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg 400w,
+               /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_b9cbd7521ce6355a25d7e9d9350ea896.jpg 760w,
+               /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of capturing spatial patterns
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expression-assisted facial action unit recognition under incomplete AU annotation</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Intensity Estimation Using Ordinal Information</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</guid>
+      <description>&lt;p&gt;Previous studies on facial expression analysis have been focused on recognizing basic expression categories.  There is limited  amount  of  work  on  the  continuous  expression intensity estimation,  which is important for detecting and tracking emotion change.  Part of the reason is the lack of labeled data with annotated expression intensity since ex-pression intensity annotation requires expertise and is time consuming.  In this work, we treat the expression intensity estimation as a regression problem. By taking advantage of the natural onset-apex-offset evolution pattern of facial ex-pression, the proposed method can handle different amounts of annotations to perform frame-level expression intensity estimation.    In  fully  supervised  case,  all  the  frames  are provided with intensity annotations.  In weakly supervised case, only the annotations of selected key frames are used.While in unsupervised case, expression intensity can be es-timated without any annotations.  An efficient optimization algorithm based on Alternating Direction Method of Mul-tipliers (ADMM) is developed for solving the optimization problem associated with parameter learning.   We demon-strate the effectiveness of proposed method by comparing it against both fully supervised and unsupervised approaches on benchmark facial expression datasets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-diagram-showing-the-experiment-process-depending-on-the-experiment-setting-different-amounts-of-intensity-annotation-information-are-fed-into-model-learning-process-resulting-different-models-training-is-performed-using-complete-expression-sequences-while-testing-is-performed-on-each-frame-of-a-sequence&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A diagram showing the experiment process. Depending on the experiment setting, different amounts of intensity annotation information are fed into model learning process, resulting different models. Training is performed using complete expression sequences while testing is performed on each frame of a sequence.&#34; srcset=&#34;
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg 400w,
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_0b80fe4ea1c3b64497154329948583d3.jpg 760w,
+               /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;153&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A diagram showing the experiment process. Depending on the experiment setting, different amounts of intensity annotation information are fed into model learning process, resulting different models. Training is performed using complete expression sequences while testing is performed on each frame of a sequence.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posed and spontaneous facial expression differentiation using deep Boltzmann machines</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

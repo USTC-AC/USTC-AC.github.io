@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhilei Liu | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/zhilei-liu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/zhilei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhilei Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhilei Liu</title>
+      <link>https://ustc-ac.github.io/author/zhilei-liu/</link>
+    </image>
+    
+    <item>
+      <title>Implicit video emotion tagging from audiences&#39; facial expression</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-label Learning with Missing Labels</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-lwhj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-lwhj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyses of the Differences between Posed and Spontaneous Facial Expressions</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional tagging of videos by exploring multiple emotions&#39; coexistence</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye localization from thermal infrared images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit video multi-emotion tagging by exploiting multi-expression relations</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye Localization from Infrared Thermal Images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial expression recognition from infrared thermal images using temperature difference by voting</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition from Infrared Thermal Videos</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posed and spontaneous expression distinguishment from infrared thermal images</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficpr-liu-w-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-liu-w-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition Using Hidden Markov Models from Facial Temperature Sequence</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confacii-liu-w-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confacii-liu-w-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
+      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrared Face Recognition Based on Histogram and K-Nearest Neighbor Classification</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-l-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-l-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

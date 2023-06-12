@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | USTC-AC</title>
+    <link>https://ustc-ac.github.io/publication-type/3/</link>
+      <atom:link href="https://ustc-ac.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://ustc-ac.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>
+      <link>https://ustc-ac.github.io/publication/manual-accv22-wang/</link>
+      <pubDate>Thu, 08 Dec 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-accv22-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Pose Estimation with Shape Aware Loss</title>
+      <link>https://ustc-ac.github.io/publication/manual-fg23-fang/</link>
+      <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-fg23-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Resolution Face Recognition Enhanced by High-Resolution Facial Images</title>
+      <link>https://ustc-ac.github.io/publication/manual-fg23-wang/</link>
+      <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-fg23-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Guided Representation Disentanglement for Face Recognition from Low Illumination Images</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm22-miao/</link>
+      <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm22-miao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning through Multimodal Attention and Time-sync Comments for Video Affective Content Analysis</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm22-pan/</link>
+      <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm22-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Stage Multi-Scale Resolution-Adaptive Network for Low-Resolution Face Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm22-wang/</link>
+      <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm22-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

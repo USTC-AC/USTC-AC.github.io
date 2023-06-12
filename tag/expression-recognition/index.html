@@ -1,0 +1,2205 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
+  <meta name="copyright" content="Copyright © Indigo6. All rights reserved."  src="https://github.com/Indigo6" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  <!--busuanzi view count -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Lin Fang" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="My research group description." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/tag/expression-recognition/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+    <link rel="alternate" href="/tag/expression-recognition/index.xml" type="application/rss+xml" title="USTC-AC" />
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://ustc-ac.github.io/tag/expression-recognition/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="USTC-AC" />
+  <meta property="og:url" content="https://ustc-ac.github.io/tag/expression-recognition/" />
+  <meta property="og:title" content="Expression Recognition | USTC-AC" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2022-12-08T09:53:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+
+
+  <title>Expression Recognition | USTC-AC</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/graduated"><span>Graduated</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/nvie"><span>NVIE</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Expression Recognition</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+
+  
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/manual-accv22-wang/" >Occluded Facial Expression Recognition using Self-supervised Learning</a>
+    </div>
+
+    
+    <a href="/publication/manual-accv22-wang/"  class="summary-link">
+      <div class="article-style">
+        Recent studies on occluded facial expression recognition typically required fully expression-annotated facial images for training. …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/jiahe-wang/">Jiahe Wang</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/manual-fg21-liang/" >Pose-Invariant Facial Expression Recognition</a>
+    </div>
+
+    
+    <a href="/publication/manual-fg21-liang/"  class="summary-link">
+      <div class="article-style">
+        Pose-invariant facial expression recognition is quite challenging due to variations in facial appearance and self-occlusion caused by …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/guang-liang/">Guang Liang</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/can-wang/">Can Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/9666974" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/FG52635.2021.9666974" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/manual-fg21-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_9f0e50a7676ae18598d04941db82419b.jpg" srcset="/publication/manual-fg21-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_5dd63fa22d573c6fc213e4090ff51a29.jpg 1200w,/publication/manual-fg21-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_24da995eff36cbc12e9a705d7a0d3fb5.jpg 800w,/publication/manual-fg21-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_9f0e50a7676ae18598d04941db82419b.jpg 400w" width="450" height="253" alt="Pose-Invariant Facial Expression Recognition">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/manual-ijcai21-xia/" >Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/bin-xia/">Bin Xia</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.ijcai.org/proceedings/2021/164" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/manual-ijcai21-xia/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24963/ijcai.2021/164" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-0012-wwc-20/" >Learning from Macro-expression: a Micro-expression Recognition Framework</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-0012-wwc-20/"  class="summary-link">
+      <div class="article-style">
+        In order to address problems in micro-expression recognition, we propose a micro-expression recognition framework that leverages macroexpression as guidance. Since subjects in macro-expression and micro-expression databases are different, Expression-Identity Disentangle Network (EIDNet) is introduced as feature extractor to disentangle expression-related features for expression samples.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bin-xia/">Bin Xia</a></span>, <span >
+      <a href="/author/weikang-wang/">Weikang Wang</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/enhong-chen/">Enhong Chen</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413774" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-0012-wwc-20/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413774" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_c1bb20ee2b7045a1967d40c977d033dc.jpg" srcset="/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_c4972dbde6b6e62010b30c5e61a8443a.jpg 1200w,/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_e7a8bd1513b3c421043883a770a0ccc9.jpg 800w,/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_c1bb20ee2b7045a1967d40c977d033dc.jpg 400w" width="450" height="240" alt="Learning from Macro-expression: a Micro-expression Recognition Framework">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-0012-w-20/" >Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-0012-w-20/"  class="summary-link">
+      <div class="article-style">
+        To tackle the challenges in occluded facial expression recognition, we propose a step-wise learning strategy including two types of complementary adversarial learning. In this way, the occluded classifier can learn effective information from large-scale unpaired non-occluded facial images.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bin-xia/">Bin Xia</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413773" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-0012-w-20/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413773" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_b8f5b691541651ba9f5a2c07b74496f2.jpg" srcset="/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_4c4bdfd67c436f77a9d243fb599bb5e6.jpg 1200w,/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_b6a039d3697cc2df0a5c6af04a6be7ec.jpg 800w,/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_b8f5b691541651ba9f5a2c07b74496f2.jpg 400w" width="450" height="162" alt="Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confaccv-0012-w-20/" >Unpaired Multimodal Facial Expression Recognition</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confaccv-0012-w-20/"  class="summary-link">
+      <div class="article-style">
+        Since collecting paired visible and thermal facial images is often difficult, requiring paired data during training prevents the usage of the many available unpaired visible and thermal images, and thus may degenerate the learning effect of the visible facial expression classifier.
+To address this, we propose an unpaired adversarial facial expression recognition method. We tackle the unbalanced quantity of visible and thermal images by utilizing thermal images as privileged information. We introduce adversarial learning on the feature-level and label-level spaces to cope with unpaired training data. Finally, we add a decoder network to preserve the inherent visible features.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bin-xia/">Bin Xia</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-69541-5_4" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confaccv-0012-w-20/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-69541-5_4" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png" srcset="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_a39564637022377c83e969e575e99bb8.png 1200w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_b7fc191ae1ef2552008b2f5986e816f2.png 800w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png 400w" width="450" height="213" alt="Unpaired Multimodal Facial Expression Recognition">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-wang-wl-19/" >Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-wang-wl-19/"  class="summary-link">
+      <div class="article-style">
+        Previous facial expression recognition methods either focus on pose variations or identity bias; there is no work that considers both at the same time. To this end, we propose a novel feature representation method that uses adversarial learning to overcome the challenges of both pose variations and identity bias.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/can-wang/">Can Wang</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/guang-liang/">Guang Liang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3343031.3350872" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-wang-wl-19/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3343031.3350872" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_3eec4c7facbcf2775d4639438947e50a.jpg" srcset="/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_167ef5bc0005e7fae635aa39a49c4f02.jpg 1200w,/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_c77dd570972b59e81118066005d10ca9.jpg 800w,/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_3eec4c7facbcf2775d4639438947e50a.jpg 400w" width="450" height="277" alt="Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-pan-wx-19/" >Occluded Facial Expression Recognition Enhanced through Privileged Information</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-pan-wx-19/"  class="summary-link">
+      <div class="article-style">
+        we propose using non-occluded facial images as privileged information to assist the learning process of the occluded view. Specifically, two deep neural networks are first trained from occluded and non-occluded images respectively.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bowen-pan/">Bowen Pan</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/bin-xia/">Bin Xia</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3343031.3351049" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-pan-wx-19/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3343031.3351049" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_3a6b9c463a0edd287810544abf6b9724.png" srcset="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_fe46edd93855adda48108c8396e6f7d5.png 1200w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_46dde4c4ad2ff960311d5d2fad5aaf2c.png 800w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_3a6b9c463a0edd287810544abf6b9724.png 400w" width="450" height="291" alt="Occluded Facial Expression Recognition Enhanced through Privileged Information">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-pan-w-18/" >Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-pan-w-18/"  class="summary-link">
+      <div class="article-style">
+        In this paper, we propose a novel facial expression recognition method enhanced by thermal images. Our method leverages thermal images to construct better visible feature representation and classifiers during training through adversarial learning and similarity constraints. Specifically, we learn two deep neural networks for expression classification from visible and thermal images.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bowen-pan/">Bowen Pan</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3240508.3240608" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-pan-w-18/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3240508.3240608" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_1f791eea86e50dfa6e30ca0216207fee.jpg" srcset="/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_b0d24c5046306cf24ec3e7b1927afd38.jpg 1200w,/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_0e1a6fe593d50f19eb6dde8bc2cbfc8c.jpg 800w,/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_1f791eea86e50dfa6e30ca0216207fee.jpg 400w" width="450" height="293" alt="Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-yang-w-17/" >Capturing Spatial and Temporal Patterns for Distinguishing between Posed and Spontaneous Expressions</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-yang-w-17/"  class="summary-link">
+      <div class="article-style">
+        In this paper, we introduce a novel dynamic model, termed as interval temporal restricted Boltzmann machine(IT-RBM), to jointly capture global spatial patterns and complex temporal patterns embedded in posed expressions and spontaneous expressions respectively for distinguishing posed and spontaneous expressions. The proposed IT-RBM is a three-layer hierarchical probabilistic graphical model.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/jiajia-yang/">Jiajia Yang</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3123266.3123350" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-yang-w-17/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3123266.3123350" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_1de23f25ced74ea692793faa0b57e8be.jpg" srcset="/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_e81852d36fbc461258f08aaf4503d4b1.jpg 1200w,/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_6eb9ab66864a77092a3aa7b0e10fb177.jpg 800w,/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_1de23f25ced74ea692793faa0b57e8be.jpg 400w" width="450" height="271" alt="Capturing Spatial and Temporal Patterns for Distinguishing between Posed and Spontaneous Expressions">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+
+  
+<nav class="mt-1">
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/tag/expression-recognition/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_pv">Page View:<span id="busuanzi_value_site_pv"></span></span>
+  </div>
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_uv">Unique Visitor:<span id="busuanzi_value_site_uv"></span></span>
+  </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.ea2c153d3e439b91646a77d67da36b6a.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

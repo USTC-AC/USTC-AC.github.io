@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongjie Hu | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/yongjie-hu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/yongjie-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongjie Hu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Yongjie Hu</title>
+      <link>https://ustc-ac.github.io/author/yongjie-hu/</link>
+    </image>
+    
+    <item>
+      <title>Affective Classification in Video Based on Semi-supervised Learning</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-lh-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-lh-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Relationships between Color and Emotion by Classification Based on Associations</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

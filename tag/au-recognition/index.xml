@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AU Recognition | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/au-recognition/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/au-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>AU Recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>AU Recognition</title>
+      <link>https://ustc-ac.github.io/tag/au-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-cvpr22-chang/</link>
+      <pubDate>Tue, 01 Mar 2022 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-cvpr22-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Semi-Supervised Learning for Facial Action Unit Recognition</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</guid>
+      <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-labeled training samples. To reduce the reliance on time-consuming manual AU annotations, we propose a novel semi-supervised AU recognition method leveraging two kinds of readily available auxiliary information.The method leverages the dependencies between AUs and expressions as well as the dependencies among AUs, which are caused by facial anatomy and therefore embedded in all facial images, independent on their AU annotation status. The other auxiliary information is facial image synthesis given AUs, the dual task of AU recognition from facial images, and therefore has intrinsic probabilistic connections with AU recognition, regardless of AU annotations. Specifically, we propose a dual semi-supervised generative adversarial network for AU recognition from partially AU-labeled and fully expression-labeled facial images. The proposed network consists of an AU classifier C, an image generator G, and a discriminator D. In addition to minimize the supervised losses of the AU classifier and the face generator for labeled training data,we explore the probabilistic duality between the tasks using adversary learning to force the convergence of the face-AU-expression tuples generated from the AU classifier and the face generator, and the ground-truth distribution in labeled data for all training data. This joint distribution also includes the inherent AU dependencies. Furthermore, we reconstruct the facial image using the output of the AU classifier as the input of the face generator, and create AU labels by feeding the output of the face generator to the AU classifier. We minimize reconstruction losses for all training data, thus exploiting the informative feedback provided by the dual tasks. Within-database and cross-database experiments on three benchmark databases demonstrate the superiority of our method in both AU recognition and face synthesis compared to state-of-the-art works.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-dual-semi-supervised-gan-consisting-of-three-modules-a-discriminator-d-a-classifier-c-and-a-generator-g&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed dual semi-supervised GAN, consisting of three modules: a discriminator D, a classifier C, and a generator G.&#34; srcset=&#34;
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG 400w,
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_c2fe2348982c07e727263e1acbc9ab88.JPG 760w,
+               /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG&#34;
+               width=&#34;760&#34;
+               height=&#34;314&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of the proposed dual semi-supervised GAN, consisting of three modules: a discriminator D, a classifier C, and a generator G.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit Recognition Augmented by Their Dependencies</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</guid>
+      <description>&lt;p&gt;Due to the underlying anatomic mechanism that govern facial muscular interactions, there exist inherent de-pendencies between facial action units (AU). Such dependen-cies carry crucial information for AU recognition, yet have not been thoroughly exploited. Therefore, in this paper, we propose a novel AU recognition method with a three-layer hybrid Bayesian network, whose top two layers consist of a latent regression Bayesian network (LRBN), and the bottom two layers are Bayesian networks. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Specifically, the visible nodes of LRBN represent the ground-truth AU labels. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the depen-dencies among the latent variables given the observation and the dependencies among visible variables. Such dependencie ssuccessfully and faithfully represent relations among multiple AUs. The bottom two layers are two node Bayesian networks, connecting the ground truth AU labels and their measurements.Efficient learning and inference algorithms are also proposed.Furthermore, we extend the proposed hybrid Bayesian network model for facial expression-assisted AU recognition, since AUrelations are influenced by expressions. By introducing facial expression nodes in the middle visible layer, facial expressions,which are only required during training, facilitate the estima-tion of label dependencies among AUs. Experimental results on three benchmark databases, i.e. the CK+ database, the SEMAINE database, and the BP4D database, demonstrate that the proposed approaches can successfully capture complex AU relationships, and the expression labels available only during training are benefit for AU recognition during testing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-proposed-au-recognition-through-au-relation-modeling&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The proposed AU recognition through AU-relation modeling&#34; srcset=&#34;
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg 400w,
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_ba6243d78c78efbb864395b00b0b72ca.jpg 760w,
+               /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The proposed AU recognition through AU-relation modeling
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personalized Multiple Facial Action Unit Recognition through Generative Adversarial Recognition Network</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</guid>
+      <description>&lt;p&gt;Personalized facial action unit (AU) recognition is challenging due to subject-dependent facial behavior. This paper proposes a method to recognize personalized multiple facial AUs through a novel generative adversarial network, which adapts the distribution of source domain facial images to that of target domain facial images and detects multiple AUs by leveraging AU dependencies. Specifically, we use a generative adversarial network to generate synthetic images from source domain; the synthetic images have a similar appearance to the target subject and retain the AU patterns of the source images. We simultaneously leverage AU dependencies to train a multiple AU classifier. Experimental results on three benchmark databases demonstrate that the proposed method can successfully realize unsupervised domain adaptation for individual AU detection, and thus outperforms state-of-the-art AU detection methods.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-our-proposed-architecture-includes-a-generator-a-discriminator-and-a-classifier-the-generator-g-generates-an-image-conditioned-on-a-source-image-the-discriminator-d-discriminates-between-generated-and-target-images-the-classifier-r-assigns-au-labels-to-an-image&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. Our proposed architecture includes a generator, a discriminator and a classifier. The generator G generates an image conditioned on a source image. The discriminator D discriminates between generated and target images. The classifier R assigns AU labels to an image.&#34; srcset=&#34;
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_c475400c87155de83602e9bb3b543260.png 400w,
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_fd6a0ddfd407a7cde67064bb672b2440.png 760w,
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_c475400c87155de83602e9bb3b543260.png&#34;
+               width=&#34;760&#34;
+               height=&#34;332&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. Our proposed architecture includes a generator, a discriminator and a classifier. The generator G generates an image conditioned on a source image. The discriminator D discriminates between generated and target images. The classifier R assigns AU labels to an image.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Facial Action Unit Recognition Through Adversarial Training</title>
+      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</guid>
+      <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-annotated facial images for supervised AU classifier training. AU annotation is a timeconsuming, expensive, and error-prone process. While AUs are hard to annotate, facial expression is relatively easy to label. Furthermore, there exist strong probabilistic dependencies between expressions and AUs as well as dependencies among AUs. Such dependencies are referred to as domain knowledge. In this paper, we propose a novel AU recognition method that learns AU classifiers from domain knowledge and expression-annotated facial images through adversarial training. Specifically, we first generate pseudo AU labels according to the probabilistic dependencies between expressions and AUs as well as correlations among AUs summarized from domain knowledge. Then we propose a weakly supervised AU recognition method via an adversarial process, in which we simultaneously train two models: a recognition model R, which learns AU classifiers, and a discrimination model D, which estimates the probability that AU labels generated from domain knowledge rather than the recognized AU labels from R. The training procedure for R maximizes the probability of D making a mistake. By leveraging the adversarial mechanism, the distribution of recognized AUs is closed to AU prior distribution from domain knowledge. Furthermore, the proposed weakly supervised AU recognition can be extended to semisupervised learning scenarios with partially AU-annotated images. Experimental results on three benchmark databases demonstrate that the proposed method successfully leverages the summarized domain knowledge to weakly supervised AU classifier learning through an adversarial process, and thus achieves state-of-the-art performance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-the-framework-of-ran-in-part-1-the-facial-feature-x-is-inputted-into-recognizer-r-and-get-the-fake-au-vector-the-real-au-data-generated-in-section-22-are-in-part-2-in-part-3-p-discriminators-are-trained-real-or-fake-au-data-are-inputted-to-corresponding-discriminator-with-the-same-expression-label-see-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details.&#34; srcset=&#34;
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg 400w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_4eb4480d88985757ef87bf0ffea1b798.jpg 760w,
+               /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. The framework of RAN. In Part 1, the facial feature X is inputted into recognizer R and get the “fake” AU vector, the “real” AU data generated in section 2.2 are in Part 2. In part 3, P discriminators are trained, “real” or ”fake” AU data are inputted to corresponding discriminator with the same expression label. See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Facial Action Unit Recognition from Partially Labeled Data</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</guid>
+      <description>&lt;p&gt;Current work on facial action unit (AU) recognition requires AU-labeled facial images. Although large amounts of facial images are readily available, AU annotation is expensive and time consuming. To address this, we propose a deep facial action unit recognition approach learning from partially AU-labeled data. The proposed approach makes full use of both partly available ground-truth AU labels and the readily available large scale facial images without annotation. Specifically, we propose to learn label distribution from the ground-truth AU labels, and then train the AU classifiers from the large-scale facial images by maximizing the log likelihood of the mapping functions of AUs with regard to the learnt label distribution for all training data and minimizing the error between predicted AUs and ground-truth AUs for labeled data simultaneously. A restricted Boltzmann machine is adopted to model AU label distribution, a deep neural network is used to learn facial representation from facial images, and the support vector machine is employed as the classifier. Experiments on two benchmark databases demonstrate the effectiveness of the proposed approach.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

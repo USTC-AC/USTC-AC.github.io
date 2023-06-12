@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runlong Wu | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/runlong-wu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/runlong-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Runlong Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Runlong Wu</title>
+      <link>https://ustc-ac.github.io/author/runlong-wu/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Facial Images, Speeches and Time for Empathy Prediction</title>
+      <link>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</guid>
+      <description>&lt;p&gt;We propose a multi-modal method for the OneMinute Empathy Prediction competition. First, we use bottleneck residual and fully-connected network to encode facial images and speeches of the listener. Second, we propose to use the current time stage as a temporal feature and encoded it into the proposed multi-modal network. Third, we select a subset training data based on its performance of empathy prediction on the validation data. Experimental results on the testing set show that the proposed method outperforms the baseline methods significantly according to the CCC metric (0.14 vs 0.06).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-model-architecturethe-inputs-of-the-proposed-multi-modal-deep-network-are-facial-images-audio-signals-and-time-stamps-specifically-we-extract-facial-images-of-the-listener-in-each-frame-through-opencv-and-then-reshape-the-size-of-facial-images-to-120-120-the-preprocessed-facial-images-are-fed-into-a-network-with-one-convolution-layer-and-six-sequential-bottleneck-residual-modulessee-text-for-details&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. Model architecture.The inputs of the proposed multi-modal deep network are facial images, audio signals and time stamps. Specifically, we extract facial images of the listener in each frame through opencv, and then reshape the size of facial images to (120, 120). The preprocessed facial images are fed into a network with one convolution layer and six sequential bottleneck residual modules.See text for details.&#34; srcset=&#34;
+               /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg 400w,
+               /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_56529168d08d4d1cfdc7834a79a338ec.jpg 760w,
+               /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg&#34;
+               width=&#34;485&#34;
+               height=&#34;755&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig. Model architecture.The inputs of the proposed multi-modal deep network are facial images, audio signals and time stamps. Specifically, we extract facial images of the listener in each frame through opencv, and then reshape the size of facial images to (120, 120). The preprocessed facial images are fed into a network with one convolution layer and six sequential bottleneck residual modules.See text for details.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
