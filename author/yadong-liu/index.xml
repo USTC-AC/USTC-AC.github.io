@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yadong Liu | USTC-AC</title>
+    <link>https://ustc-ac.github.io/author/yadong-liu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/yadong-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yadong Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ustc-ac.github.io/author/yadong-liu/avatar_hu6110d4c1a6cf1999eee7a37dd3a62f97_68064_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yadong Liu</title>
+      <link>https://ustc-ac.github.io/author/yadong-liu/</link>
+    </image>
+    
+  </channel>
+</rss>
