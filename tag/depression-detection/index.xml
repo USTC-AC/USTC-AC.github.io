@@ -7,7 +7,7 @@
     <description>Depression Detection</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Depression Detection</title>
       <link>https://ustc-ac.github.io/tag/depression-detection/</link>
     </image>
@@ -35,10 +35,10 @@
 &lt;figure  id=&#34;figure-the-framework-of-the-proposed-hierarchical-recurrent-model-the-first-hierarchy-of-bi-lstm-fuses-multi-modal-features-of-a-single-video-clip-and-the-second-hierarchy-fuses-all-clips-of-a-conversation-to-predict-the-result&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The framework of the proposed hierarchical recurrent model. The first hierarchy of Bi-LSTM fuses multi-modal features of a single video clip. And the second hierarchy fuses all clips of a conversation to predict the result.&#34; srcset=&#34;
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_08bbc1b8ea13fed92a4c0485e9492d5a.png 400w,
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_27d4eb2d2ce1c60538eeb7cae5ea2e11.png 760w,
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_08bbc1b8ea13fed92a4c0485e9492d5a.png&#34;
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png 400w,
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_5630924c619272899f07b90643de324d.png 760w,
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

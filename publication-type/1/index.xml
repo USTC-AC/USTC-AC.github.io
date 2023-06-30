@@ -7,7 +7,7 @@
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://ustc-ac.github.io/publication-type/1/</link>
     </image>
@@ -35,10 +35,10 @@
 &lt;figure  id=&#34;figure-the-framework-of-the-proposed-hierarchical-recurrent-model-the-first-hierarchy-of-bi-lstm-fuses-multi-modal-features-of-a-single-video-clip-and-the-second-hierarchy-fuses-all-clips-of-a-conversation-to-predict-the-result&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The framework of the proposed hierarchical recurrent model. The first hierarchy of Bi-LSTM fuses multi-modal features of a single video clip. And the second hierarchy fuses all clips of a conversation to predict the result.&#34; srcset=&#34;
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_08bbc1b8ea13fed92a4c0485e9492d5a.png 400w,
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_27d4eb2d2ce1c60538eeb7cae5ea2e11.png 760w,
-               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_08bbc1b8ea13fed92a4c0485e9492d5a.png&#34;
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png 400w,
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_5630924c619272899f07b90643de324d.png 760w,
+               /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,10 +104,10 @@
 &lt;figure  id=&#34;figure-fig-the-proposed-detector-a-and-tracker-b&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The proposed detector (a) and tracker (b).&#34; srcset=&#34;
-               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_f25f619f0d47171a309891eef45eee94.png 400w,
-               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_741efa3bfa59a9bda5b44f5e48957951.png 760w,
-               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_f25f619f0d47171a309891eef45eee94.png&#34;
+               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png 400w,
+               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_8c3a8280da7eec8db4b8d933907c5c70.png 760w,
+               /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
                width=&#34;760&#34;
                height=&#34;498&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -230,7 +230,7 @@
       <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</guid>
-      <description>&lt;p&gt;Although facial expression recognition has improved in recent years, it is still very challenging to recognize expressions from occluded facial images in the wild. Due to the lack of large-scale facial expression datasets with diversity of the type and position of occlusions, it is very difficult to learn robust occluded expression classifier directly from limited occluded images. Considering facial images without occlusions usually provide more information for facial expression recognition compared to occluded facial images, we propose a step-wise learning strategy for occluded facial expression recognition that utilizes unpaired non-occluded images as guidance in the feature and label space. Specifically, we first measure the complexity of non-occluded data using distribution density in a feature space and split data into three subsets. In this way, the occluded expression classifier can be guided by basic samples first, and subsequently leverage more meaningful and discriminative samples. Complementary adversarial learning techniques are applied in the global-level and local-level feature space throughout, forcing the distribution of the occluded features to be close to the distribution of the non-occluded features. We also take the variability of the different images&#39; transferability into account via adaptive classification loss. Loss inequality regularization is imposed in the label space to calibrate the output values of the occluded network. Experimental results show that our method improves performance on both synthesized occluded databases and realistic occluded databases.&lt;/p&gt;
+      <description>&lt;p&gt;Although facial expression recognition has improved in recent years, it is still very challenging to recognize expressions from occluded facial images in the wild. Due to the lack of large-scale facial expression datasets with diversity of the type and position of occlusions, it is very difficult to learn robust occluded expression classifier directly from limited occluded images. Considering facial images without occlusions usually provide more information for facial expression recognition compared to occluded facial images, we propose a step-wise learning strategy for occluded facial expression recognition that utilizes unpaired non-occluded images as guidance in the feature and label space. Specifically, we first measure the complexity of non-occluded data using distribution density in a feature space and split data into three subsets. In this way, the occluded expression classifier can be guided by basic samples first, and subsequently leverage more meaningful and discriminative samples. Complementary adversarial learning techniques are applied in the global-level and local-level feature space throughout, forcing the distribution of the occluded features to be close to the distribution of the non-occluded features. We also take the variability of the different images&amp;rsquo; transferability into account via adaptive classification loss. Loss inequality regularization is imposed in the label space to calibrate the output values of the occluded network. Experimental results show that our method improves performance on both synthesized occluded databases and realistic occluded databases.&lt;/p&gt;
 
 
 
@@ -284,10 +284,10 @@
 &lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-unpaired-facial-expression-recognition-method&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed unpaired facial expression recognition method.&#34; srcset=&#34;
-               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_187e60a0e1b13b29b938541b310b0029.png 400w,
-               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_d4c98c86163505a4e42b1b695acc8d92.png 760w,
-               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_187e60a0e1b13b29b938541b310b0029.png&#34;
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png 400w,
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_32e70429dd06375f2df8c780e0a4351c.png 760w,
+               /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png&#34;
                width=&#34;760&#34;
                height=&#34;360&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,10 +392,10 @@
 &lt;figure  id=&#34;figure-fig-the-structure-of-the-proposed-method-it-consists-of-an-encoder-e--an-expression-classifier-dc--a-pose-discriminator-dp--a-subject-discriminator-dsand-a-generator-g-&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The structure of the proposed method. It consists of an encoder E , an expression classifier Dc , a pose discriminator Dp , a subject discriminator Ds ,and a generator G .&#34; srcset=&#34;
-               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_f0e65a5c98ebf93f459cb58bf5bd62db.jpg 400w,
-               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_62d2daca54581aa0aa6cb6bd2d2b6a0d.jpg 760w,
-               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_f0e65a5c98ebf93f459cb58bf5bd62db.jpg&#34;
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG 400w,
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_4df95c27df35fe431c16fd0386aebc1a.JPG 760w,
+               /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -428,10 +428,10 @@
 &lt;figure  id=&#34;figure-fig-the-framework-of-the-proposed-method&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of the proposed method&#34; srcset=&#34;
-               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_067cc5be1e98063fb6a7e3ab411bb914.PNG 400w,
-               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_dfbc9fc8fd618ae0bbd0dda16b1bdac2.PNG 760w,
-               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1200x1200_fit_lanczos_2.PNG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_067cc5be1e98063fb6a7e3ab411bb914.PNG&#34;
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG 400w,
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_59f5b33a19657e3ab31ea7ffc0c860ae.PNG 760w,
+               /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1200x1200_fit_lanczos_3.PNG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -508,10 +508,10 @@
 &lt;figure  id=&#34;figure-fig-the-framework-of-proposed-facial-expression-recognition-with-occlusions&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The framework of proposed facial expression recognition with occlusions&#34; srcset=&#34;
-               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png 400w,
-               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_24722a7e877dfcd10fa2a84cb9fed8ca.png 760w,
-               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_69cd7b6320588c736c30fb402af9138c.png&#34;
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png 400w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_9bc960654f17587aae4a7e9a80742eb0.png 760w,
+               /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png&#34;
                width=&#34;760&#34;
                height=&#34;491&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -562,7 +562,7 @@
       <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</guid>
-      <description>&lt;p&gt;Currently, fusing visible and thermal images for facial expression recognition requires two modalities during both training and testing. Visible cameras are commonly used in real-life applications, and thermal cameras are typically only available in lab situations due to their high price. Thermal imaging for facial expression recognition is not frequently used in real-world situations. To address this, we propose a novel thermally enhanced facial expression recognition method which uses thermal images as privileged information to construct better visible feature representation and improved classifiers by incorporating adversarial learning and similarity constraints during training. Specifically, we train two deep neural networks from visible images and thermal images. We impose adversarial loss to enforce statistical similarity between the learned representations of two modalities, and a similarity constraint to regulate the mapping functions from visible and thermal representation to expressions. Thus, thermal images are leveraged to simultaneously improve visible feature representation and classification during training. To mimic real-world scenarios, only visible images are available during testing. We further extend the proposed expression recognition method for partially unpaired data to explore thermal images&#39; supplementary role in visible facial expression recognition when visible images and thermal images are not synchronously recorded. Experimental results on the MAHNOB Laughter database demonstrate that our proposed method can effectively regularize visible representation and expression classifiers with the help of thermal images, achieving state-of-the-art recognition performance.&lt;/p&gt;
+      <description>&lt;p&gt;Currently, fusing visible and thermal images for facial expression recognition requires two modalities during both training and testing. Visible cameras are commonly used in real-life applications, and thermal cameras are typically only available in lab situations due to their high price. Thermal imaging for facial expression recognition is not frequently used in real-world situations. To address this, we propose a novel thermally enhanced facial expression recognition method which uses thermal images as privileged information to construct better visible feature representation and improved classifiers by incorporating adversarial learning and similarity constraints during training. Specifically, we train two deep neural networks from visible images and thermal images. We impose adversarial loss to enforce statistical similarity between the learned representations of two modalities, and a similarity constraint to regulate the mapping functions from visible and thermal representation to expressions. Thus, thermal images are leveraged to simultaneously improve visible feature representation and classification during training. To mimic real-world scenarios, only visible images are available during testing. We further extend the proposed expression recognition method for partially unpaired data to explore thermal images&amp;rsquo; supplementary role in visible facial expression recognition when visible images and thermal images are not synchronously recorded. Experimental results on the MAHNOB Laughter database demonstrate that our proposed method can effectively regularize visible representation and expression classifiers with the help of thermal images, achieving state-of-the-art recognition performance.&lt;/p&gt;
 
 
 
@@ -616,10 +616,10 @@
 &lt;figure  id=&#34;figure-fig-our-proposed-architecture-includes-a-generator-a-discriminator-and-a-classifier-the-generator-g-generates-an-image-conditioned-on-a-source-image-the-discriminator-d-discriminates-between-generated-and-target-images-the-classifier-r-assigns-au-labels-to-an-image&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. Our proposed architecture includes a generator, a discriminator and a classifier. The generator G generates an image conditioned on a source image. The discriminator D discriminates between generated and target images. The classifier R assigns AU labels to an image.&#34; srcset=&#34;
-               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_c475400c87155de83602e9bb3b543260.png 400w,
-               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_fd6a0ddfd407a7cde67064bb672b2440.png 760w,
-               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_c475400c87155de83602e9bb3b543260.png&#34;
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png 400w,
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_3e4acf7eae93e6a0a1220ced031d9066.png 760w,
+               /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png&#34;
                width=&#34;760&#34;
                height=&#34;332&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -934,10 +934,10 @@
 &lt;figure  id=&#34;figure-fig-the-scheme-of-deep-network-for-visible-image-data-thermal-image-data-and-the-scheme-of-the-proposed-model&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Fig. The scheme of deep network for visible image data, thermal image data and the scheme of the proposed model.&#34; srcset=&#34;
-               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d42e773c83cfff73c049ee29dcc4843c.jpg 400w,
-               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_2add7bc26b666a32da4a1b2155be7ff7.jpg 760w,
-               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d42e773c83cfff73c049ee29dcc4843c.jpg&#34;
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG 400w,
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d620d56d8d33e7b0a84c6ddf224ae0a5.JPG 760w,
+               /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
