@@ -5,12 +5,31 @@
     <link>https://ustc-ac.github.io/author/haofan-zhang/</link>
       <atom:link href="https://ustc-ac.github.io/author/haofan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haofan Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 09:25:52 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/haofan-zhang/avatar_hu7ef347fb7073d472711737835978491f_60835_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Haofan Zhang</title>
       <link>https://ustc-ac.github.io/author/haofan-zhang/</link>
     </image>
+    
+    <item>
+      <title>We have gotten the first price of REACT2023</title>
+      <link>https://ustc-ac.github.io/post/2023-acmmm-react/</link>
+      <pubDate>Tue, 11 Jul 2023 09:25:52 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/2023-acmmm-react/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../author/cong-liang/&#34;&gt;Liang Cong&lt;/a&gt;, &lt;a href=&#34;../author/jiahe-wang/&#34;&gt;Wang Jiahe&lt;/a&gt; and &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Zhang Haofan&lt;/a&gt; participated in the REACT2023 competition (Challenge@ACM-MM23) and won the first place in the offline track.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2023-acmmm-react/featured_hu48e19ef73d479585da3e065e943cc6fb_24659_9418675e90a7b823de539412ce62b12e.jpg 400w,
+               /post/2023-acmmm-react/featured_hu48e19ef73d479585da3e065e943cc6fb_24659_f893843bee4ac8ecec51ce72de3cad02.jpg 760w,
+               /post/2023-acmmm-react/featured_hu48e19ef73d479585da3e065e943cc6fb_24659_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-acmmm-react/featured_hu48e19ef73d479585da3e065e943cc6fb_24659_9418675e90a7b823de539412ce62b12e.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;205&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
   </channel>
 </rss>

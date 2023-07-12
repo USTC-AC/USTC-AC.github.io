@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ustc-ac.github.io/author/cong-liang/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
+  </url><url>
     <loc>https://ustc-ac.github.io/author/shi-yin/</loc>
     <lastmod>2022-04-01T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ustc-ac.github.io/author/cong-liang/</loc>
-    <lastmod>2021-06-30T20:55:55+08:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</loc>
     <lastmod>2021-06-30T20:55:55+08:00</lastmod>
@@ -16,25 +16,31 @@
     <loc>https://ustc-ac.github.io/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
-    <loc>https://ustc-ac.github.io/post/</loc>
-    <lastmod>2023-01-20T08:00:00+00:00</lastmod>
+    <loc>https://ustc-ac.github.io/authors/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
   </url><url>
-    <loc>https://ustc-ac.github.io/post/2023-fg-best/</loc>
-    <lastmod>2023-01-20T08:00:00+00:00</lastmod>
+    <loc>https://ustc-ac.github.io/author/haofan-zhang/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/author/jiahe-wang/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/post/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/post/2023-acmmm-react/</loc>
+    <lastmod>2023-07-11T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/post/2023-fg-best/</loc>
     <lastmod>2023-01-20T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/publication-type/3/</loc>
     <lastmod>2022-12-08T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>https://ustc-ac.github.io/authors/</loc>
-    <lastmod>2022-12-08T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>https://ustc-ac.github.io/tag/expression-recognition/</loc>
-    <lastmod>2022-12-08T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ustc-ac.github.io/author/jiahe-wang/</loc>
     <lastmod>2022-12-08T09:53:00+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/publication/manual-accv22-wang/</loc>
@@ -806,8 +812,6 @@
     <loc>https://ustc-ac.github.io/graduated/</loc>
   </url><url>
     <loc>https://ustc-ac.github.io/author/hao-sun/</loc>
-  </url><url>
-    <loc>https://ustc-ac.github.io/author/haofan-zhang/</loc>
   </url><url>
     <loc>https://ustc-ac.github.io/author/jiabao-mu/</loc>
   </url><url>
