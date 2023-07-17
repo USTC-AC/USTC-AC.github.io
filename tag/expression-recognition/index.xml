@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/tag/expression-recognition/</link>
       <atom:link href="https://ustc-ac.github.io/tag/expression-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Expression Recognition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Expression Recognition</title>
       <link>https://ustc-ac.github.io/tag/expression-recognition/</link>
     </image>
+    
+    <item>
+      <title>Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions</title>
+      <link>https://ustc-ac.github.io/publication/manual-tac23-wu/</link>
+      <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac23-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>

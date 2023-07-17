@@ -5,20 +5,12 @@
     <link>https://ustc-ac.github.io/publication-type/3/</link>
       <atom:link href="https://ustc-ac.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://ustc-ac.github.io/publication-type/3/</link>
     </image>
-    
-    <item>
-      <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>
-      <link>https://ustc-ac.github.io/publication/manual-accv22-wang/</link>
-      <pubDate>Thu, 08 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-accv22-wang/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Human Pose Estimation with Shape Aware Loss</title>
