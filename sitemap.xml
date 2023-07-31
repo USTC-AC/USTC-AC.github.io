@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ustc-ac.github.io/author/shi-yin/</loc>
+    <lastmod>2023-07-30T10:26:05+00:00</lastmod>
+  </url><url>
     <loc>https://ustc-ac.github.io/author/cong-liang/</loc>
     <lastmod>2023-07-16T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ustc-ac.github.io/author/shi-yin/</loc>
-    <lastmod>2022-04-01T09:53:00+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</loc>
     <lastmod>2021-06-30T20:55:55+08:00</lastmod>
@@ -17,18 +17,21 @@
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/authors/</loc>
-    <lastmod>2023-07-25T09:25:52+00:00</lastmod>
+    <lastmod>2023-07-30T10:26:05+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/post/</loc>
+    <lastmod>2023-07-30T10:26:05+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/post/award-2023-yinshi/</loc>
+    <lastmod>2023-07-30T10:26:05+00:00</lastmod>
+  </url><url>
+    <loc>https://ustc-ac.github.io/</loc>
+    <lastmod>2023-07-30T10:26:05+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/author/jicai-pan/</loc>
     <lastmod>2023-07-25T09:25:52+00:00</lastmod>
   </url><url>
-    <loc>https://ustc-ac.github.io/post/</loc>
-    <lastmod>2023-07-25T09:25:52+00:00</lastmod>
-  </url><url>
     <loc>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</loc>
-    <lastmod>2023-07-25T09:25:52+00:00</lastmod>
-  </url><url>
-    <loc>https://ustc-ac.github.io/</loc>
     <lastmod>2023-07-25T09:25:52+00:00</lastmod>
   </url><url>
     <loc>https://ustc-ac.github.io/author/yi-wu/</loc>

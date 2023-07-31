@@ -5,7 +5,7 @@
     <link>https://ustc-ac.github.io/</link>
       <atom:link href="https://ustc-ac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>USTC-AC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 10:26:05 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>USTC-AC</title>
@@ -47,6 +47,25 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>One student from our group was awarded Doctoral Dissertation Award</title>
+      <link>https://ustc-ac.github.io/post/award-2023-yinshi/</link>
+      <pubDate>Sun, 30 Jul 2023 10:26:05 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/award-2023-yinshi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../author/yin-shi/&#34;&gt;Shi Yin&lt;/a&gt; was awarded the 2022 ACM CHINA COUNCIL HEFEI CHAPTER DOCTORAL DISSERTATION AWARD.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_ff7d47b138cc390664c2e2d03d35c269.jpg 400w,
+               /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_b9b2915d9229279fd7270911cde39218.jpg 760w,
+               /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_ff7d47b138cc390664c2e2d03d35c269.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
