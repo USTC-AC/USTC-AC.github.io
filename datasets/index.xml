@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets | USTC-AC</title>
+    <link>https://ustc-ac.github.io/datasets/</link>
+      <atom:link href="https://ustc-ac.github.io/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datasets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 08:57:57 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Datasets</title>
+      <link>https://ustc-ac.github.io/datasets/</link>
+    </image>
+    
+    <item>
+      <title>MEDIC</title>
+      <link>https://ustc-ac.github.io/datasets/medic/</link>
+      <pubDate>Thu, 03 Aug 2023 08:57:57 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/datasets/medic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVIE</title>
+      <link>https://ustc-ac.github.io/datasets/nvie/</link>
+      <pubDate>Mon, 29 Jun 2020 08:57:57 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/datasets/nvie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
