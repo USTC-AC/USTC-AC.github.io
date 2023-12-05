@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facial landmarks | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/facial-landmarks/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/facial-landmarks/index.xml" rel="self" type="application/rss+xml" />
+    <description>facial landmarks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>facial landmarks</title>
+      <link>https://ustc-ac.github.io/tag/facial-landmarks/</link>
+    </image>
+    
+    <item>
+      <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/yi-wu/</link>
       <atom:link href="https://ustc-ac.github.io/author/yi-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/yi-wu/avatar_hu954b23203e64f8f3bde0ac4f01eed8ff_172993_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yi Wu</title>
       <link>https://ustc-ac.github.io/author/yi-wu/</link>
     </image>
+    
+    <item>
+      <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Three papers are accepted by ACMMM2023</title>

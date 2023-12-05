@@ -5,12 +5,28 @@
     <link>https://ustc-ac.github.io/author/jicai-pan/</link>
       <atom:link href="https://ustc-ac.github.io/author/jicai-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jicai Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/jicai-pan/avatar_hu84ee11615308cefd610b815cee8d6842_597212_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jicai Pan</title>
       <link>https://ustc-ac.github.io/author/jicai-pan/</link>
     </image>
+    
+    <item>
+      <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Visual Content Understanding Network for Image Emotion Classification</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-pan/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-pan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Three papers are accepted by ACMMM2023</title>

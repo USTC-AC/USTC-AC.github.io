@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581783.3612342,
+author = {Wu, Yi and Wang, Shangfei and Chang, Yanan},
+title = {Patch-Aware Representation Learning for Facial Expression Recognition},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3612342},
+doi = {10.1145/3581783.3612342},
+abstract = {Existing methods for facial expression recognition (FER) lack the utilization of prior facial knowledge, primarily focusing on expression-related regions while disregarding explicitly processing expression-independent information. This paper proposes a patch-aware FER method that incorporates facial keypoints to guide the model and learns precise representations through two collaborative streams, addressing these issues. First, facial keypoints are detected using a facial landmark detection algorithm, and the facial image is divided into equal-sized patches using the Patch Embedding Module. Then, a correlation is established between the keypoints and patches using a simplified conversion relationship. Two collaborative streams are introduced, each corresponding to a specific mask strategy. The first stream masks patches corresponding to the keypoints, excluding those along the facial contour, with a certain probability. The resulting image embedding is input into the Encoder to obtain expression-related features. The features are passed through the Decoder and Classifier to reconstruct the masked patches and recognize the expression, respectively. The second stream masks patches corresponding to all the above keypoints. The resulting image embedding is input into the Encoder and Classifier successively, with the resulting logit approximating a uniform distribution. Through the first stream, the Encoder learns features in the regions related to expression, while the second stream enables the Encoder to better ignore expression-independent information, such as the background, facial contours, and hair. Experiments on two benchmark datasets demonstrate that the proposed method outperforms state-of-the-art methods.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {6143–6151},
+numpages = {9},
+keywords = {facial expression recognition, two collaborative streams, patch-aware, facial landmarks},
+location = {, Ottawa ON, Canada, },
+series = {MM '23}
+}

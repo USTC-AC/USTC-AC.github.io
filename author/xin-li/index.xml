@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/xin-li/</link>
       <atom:link href="https://ustc-ac.github.io/author/xin-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/xin-li/avatar_hu6ca833e12031350c531cf9cd69fe0715_36341_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xin Li</title>
       <link>https://ustc-ac.github.io/author/xin-li/</link>
     </image>
+    
+    <item>
+      <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

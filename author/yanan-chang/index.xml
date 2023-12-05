@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/yanan-chang/</link>
       <atom:link href="https://ustc-ac.github.io/author/yanan-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ya&#39;nan Chang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/yanan-chang/avatar_hu7fad79f87447af15b28f362037e1a1a0_82453_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ya&#39;nan Chang</title>
       <link>https://ustc-ac.github.io/author/yanan-chang/</link>
     </image>
+    
+    <item>
+      <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adversarial Stacking Ensemble for Facial Landmark Tracking</title>

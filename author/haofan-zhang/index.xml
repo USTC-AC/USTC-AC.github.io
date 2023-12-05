@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/haofan-zhang/</link>
       <atom:link href="https://ustc-ac.github.io/author/haofan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haofan Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 09:53:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/haofan-zhang/avatar_hu7ef347fb7073d472711737835978491f_60835_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Haofan Zhang</title>
       <link>https://ustc-ac.github.io/author/haofan-zhang/</link>
     </image>
+    
+    <item>
+      <title>UniFaRN: Unified Transformer for Facial Reaction Generation</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm23-react/</link>
+      <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm23-react/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>We have gotten the first price of REACT2023</title>
