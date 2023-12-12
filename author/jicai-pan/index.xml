@@ -5,12 +5,31 @@
     <link>https://ustc-ac.github.io/author/jicai-pan/</link>
       <atom:link href="https://ustc-ac.github.io/author/jicai-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jicai Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 10:26:05 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/jicai-pan/avatar_hu84ee11615308cefd610b815cee8d6842_597212_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jicai Pan</title>
       <link>https://ustc-ac.github.io/author/jicai-pan/</link>
     </image>
+    
+    <item>
+      <title>One student from our group was awarded Outstanding Master&#39;s Thesis Award</title>
+      <link>https://ustc-ac.github.io/post/award-2023-panjicai/</link>
+      <pubDate>Sun, 10 Dec 2023 10:26:05 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/award-2023-panjicai/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt; was awarded the 2023 Anhui Computer Society Outstanding Master&amp;rsquo;s Thesis Award.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg 400w,
+               /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1a096c0419713ba7ecdf52793a903956.jpg 760w,
+               /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;541&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
