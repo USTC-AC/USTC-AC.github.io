@@ -813,8 +813,68 @@
 
 
   <div class="col-12">
-    <p>Although empathic interaction between counselor and client is fundamental to success in the psychotherapeutic process, there are currently few datasets to aid a computational approach to empathy understanding. We construct a multimodal empathy dataset collected from face-to-face psychological counseling sessions. The dataset consists of 771 video clips. We also propose three labels (i.e., expression of experience, emotional reaction, and cognitive reaction) to describe the degree of empathy between counselors and their clients.  Expression of experience describes whether the client has expressed experiences that can trigger empathy, and emotional and cognitive reactions indicate the counselor&rsquo;s empathic reactions.</p>
-<p>Download Link: <a href="https://bing.com/" target="_blank" rel="noopener">coming song</a></p>
+    <h2 id="overview">Overview</h2>
+<p>The MEDIC dataset is a valuable resource for the computational analysis of empathy in psychotherapy. It is specifically designed to address the gap in datasets that focus on empathic interactions between counselors and clients, which are crucial for successful psychotherapeutic processes.</p>
+<h2 id="dataset-description">Dataset Description</h2>
+<p>The MEDIC dataset is a multimodal collection derived from face-to-face psychological counseling sessions. It consists of 771 video clips, capturing the dynamic and complex nature of therapeutic interactions.</p>
+<h2 id="dataset-composition">Dataset Composition</h2>
+<p>The dataset is organized into five primary components within the MEDIC dataset folder:</p>
+<ol>
+<li><strong>Text Folder</strong>: Contains textual data corresponding to each sample.</li>
+<li><strong>Audio Features Folder</strong>: Includes audio features of each sample.</li>
+<li><strong>2P Audio Features Folder</strong>: Stores audio features with two-party (2p) interactions, where different speakers&rsquo; features are separated.</li>
+<li><strong>2P Keypoints Features Folder</strong>: Consists of visual keypoints features related to two-party interactions.</li>
+<li><strong>Labels.csv File</strong>: Provides the labels corresponding to each dataset sample.</li>
+</ol>
+<h2 id="labels-and-annotations">Labels and Annotations</h2>
+<p>Three labels are proposed to describe the degree of empathy between counselors and their clients:</p>
+<ol>
+<li><strong>Expression of Experience</strong>: Assesses whether the client has expressed experiences that can trigger empathy.</li>
+<li><strong>Emotional Reaction</strong>: Indicates the counselor’s empathic emotional reaction.</li>
+<li><strong>Cognitive Reaction</strong>: Represents the counselor’s empathic cognitive reaction.</li>
+</ol>
+<p>These labels are instrumental in analyzing and understanding the empathic interactions in the counseling sessions.</p>
+<h2 id="detailed-structure">Detailed Structure</h2>
+<ul>
+<li><strong>Total Samples</strong>: 771</li>
+<li>Each sample includes the following:
+<ul>
+<li><strong>Text</strong>: Narrative or descriptive text data.</li>
+<li><strong>Visual Features</strong>: Data related to visual aspects.</li>
+<li><strong>Audio Features</strong>: Comprises complete MFCC (Mel-Frequency Cepstral Coefficients) features for each audio sample.</li>
+<li><strong>Labels</strong>: Specific labels associated with each sample for classification or identification purposes.</li>
+</ul>
+</li>
+</ul>
+<h3 id="audio-features-specifics">Audio Features Specifics</h3>
+<ul>
+<li>The audio features are further distinguished into individual and two-party (2p) components:
+<ul>
+<li><strong>Individual Audio Features</strong>: Standard MFCC features for each sample.</li>
+<li><strong>Two-Party Audio Features (2p_audio_feature)</strong>: Includes MFCC features with the audio of different speakers separated for more nuanced analysis.
+<ul>
+<li>Filenames ending in &lsquo;_con.npy&rsquo; correspond to features associated with the counselor.</li>
+<li>Filenames ending in &lsquo;_cli.npy&rsquo; correspond to features associated with the client.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="visual-features-specifics">Visual Features Specifics</h3>
+<ul>
+<li><strong>Two-Party Keypoints Features (2p_keypoints_feature)</strong>: This folder contains visual keypoints data, particularly focusing on scenarios involving interactions between two parties (e.g., counselor and client).</li>
+</ul>
+<h2 id="usage">Usage</h2>
+<p>This dataset is ideal for research in fields such as conversational analysis, behavioral studies, and multimodal machine learning. It provides a rich source of data for training models that require a combination of textual, audio, and visual inputs.</p>
+<h2 id="license-and-agreement">License and Agreement</h2>
+<p>To use the MEDIC dataset, users are required to sign an agreement, which encompasses the terms of use and licensing conditions. To download this database, you need to print the agreement, sign it and send it to us. To ensure the responsible and appropriate use of the MEDIC dataset, it is required that the agreement is signed by an individual holding an official position at their respective institution. This ensures that the signatory has the authority and responsibility to adhere to the terms of use and licensing conditions outlined in the agreement.</p>
+<h2 id="contact-us">Contact Us</h2>
+<p>For any inquiries about the MEDIC dataset, please contact:</p>
+<ul>
+<li><strong>Jiahe Wang</strong> (In charge of the database): <a href="mailto:wangjiahe317@mail.ustc.edu.cn">wangjiahe317@mail.ustc.edu.cn</a></li>
+<li><strong>Shangfei Wang</strong>: <a href="mailto:sfwang@ustc.edu.cn">sfwang@ustc.edu.cn</a></li>
+</ul>
+<p><strong>Official Website of our Research Group</strong>: USTC-AC</p>
 
   </div>
 
@@ -887,7 +947,7 @@
 
   
   <section id="image" class="home-section wg-blank dark fullscreen"  >
-   <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://ustc-ac.github.io/media/medic.png&#39;);background-size: cover;background-position: center;"></div>
+   <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://ustc-ac.github.io/media/medic.png&#39;);background-size: contain;background-position: center;"></div>
     <div class="container">
 
     
