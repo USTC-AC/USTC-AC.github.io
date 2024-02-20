@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/yanan-chang/</link>
       <atom:link href="https://ustc-ac.github.io/author/yanan-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ya&#39;nan Chang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/yanan-chang/avatar_hu7fad79f87447af15b28f362037e1a1a0_82453_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ya&#39;nan Chang</title>
       <link>https://ustc-ac.github.io/author/yanan-chang/</link>
     </image>
+    
+    <item>
+      <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
+      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
