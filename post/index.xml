@@ -5,12 +5,50 @@
     <link>https://ustc-ac.github.io/post/</link>
       <atom:link href="https://ustc-ac.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 10:26:05 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 09:25:52 +0000</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://ustc-ac.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
+      <link>https://ustc-ac.github.io/post/2024-tac-lu/</link>
+      <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/2024-tac-lu/</guid>
+      <description>&lt;p&gt;“A Multi-Stage Visual Perception Approach for Image Emotion Analysis” by &lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt;, has been accepted for publication in a future issue of IEEE Transactions on Affective Computing journal.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg 400w,
+               /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_b71ee3bda8c3aff307133170f76b263f.jpg 760w,
+               /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;108&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper is accepted by Pattern Recognition</title>
+      <link>https://ustc-ac.github.io/post/2024-pr-chang/</link>
+      <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/post/2024-pr-chang/</guid>
+      <description>&lt;p&gt;“Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation” by &lt;a href=&#34;../author/yanan-chang/&#34;&gt;Yanan Chang&lt;/a&gt;, has been accepted for publication of Pattern Recognition journal.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg 400w,
+               /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_b199ae5268861479b01ed4f6b1942e81.jpg 760w,
+               /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg&#34;
+               width=&#34;677&#34;
+               height=&#34;279&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>One student from our group was awarded Outstanding Master&#39;s Thesis Award</title>
@@ -205,6 +243,7 @@
       <pubDate>Tue, 11 Jul 2023 09:25:52 +0000</pubDate>
       <guid>https://ustc-ac.github.io/post/2023-acmmm-react/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/cong-liang/&#34;&gt;Liang Cong&lt;/a&gt;, &lt;a href=&#34;../author/jiahe-wang/&#34;&gt;Wang Jiahe&lt;/a&gt; and &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Zhang Haofan&lt;/a&gt; participated in the REACT2023 competition (Challenge@ACM-MM23) and won the first place.&lt;/p&gt;
+&lt;p&gt;If you are interested in this project, please visit &amp;ldquo;&lt;a href=&#34;https://github.com/lc150303/REACT23_Challenge%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lc150303/REACT23_Challenge&#34;&lt;/a&gt;&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
