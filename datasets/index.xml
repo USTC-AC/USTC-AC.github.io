@@ -36,5 +36,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>User_list</title>
+      <link>https://ustc-ac.github.io/datasets/user_lists/</link>
+      <pubDate>Mon, 17 Apr 2000 08:57:57 +0000</pubDate>
+      <guid>https://ustc-ac.github.io/datasets/user_lists/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

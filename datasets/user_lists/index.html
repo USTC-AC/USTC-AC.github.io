@@ -1,0 +1,3412 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
+  <meta name="copyright" content="Copyright © Indigo6. All rights reserved."  src="https://github.com/Indigo6" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  <!--busuanzi view count -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Lin Fang" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/datasets/user_lists/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://ustc-ac.github.io/datasets/user_lists/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="USTC-AC" />
+  <meta property="og:url" content="https://ustc-ac.github.io/datasets/user_lists/" />
+  <meta property="og:title" content="User_list | USTC-AC" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2000-04-17T08:57:57&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2000-04-17T08:57:57&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>User_list | USTC-AC</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ae5c5b25e25bd0d0791910567d7ee690" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1d309c6b3f55725f8869af2651084961.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">USTC-AC</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/graduated"><span>Graduated</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/datasets" data-target="[]"><span>Datasets</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="Intro" class="home-section wg-blank  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  " align="justify">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">User List</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    <p>VAD用户列表</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">申请日期</th>
+<th style="text-align:center">申请者</th>
+<th style="text-align:center">申请单位</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>MEDIC用户列表</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">申请日期</th>
+<th style="text-align:center">申请者</th>
+<th style="text-align:center">申请单位</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2024.2.15</td>
+<td style="text-align:center">Md Zakir Hossain</td>
+<td style="text-align:center">Curtin University</td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>NVIE用户列表</p>
+<table>
+<thead>
+<tr>
+<th>申请日期</th>
+<th>申请者</th>
+<th>申请单位</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024.2.27</td>
+<td>Franziska Biber</td>
+<td>University College Dublin</td>
+</tr>
+<tr>
+<td>2024.2.24</td>
+<td>Leon Wildt</td>
+<td>Karlsruhe institut for Technology</td>
+</tr>
+<tr>
+<td>2024.2.20</td>
+<td>Aayush Gupta</td>
+<td>University of Houston</td>
+</tr>
+<tr>
+<td>2024.1.20</td>
+<td>张俊玉</td>
+<td>中山大学</td>
+</tr>
+<tr>
+<td>2023.11.23</td>
+<td>Eva Krumhuber, Yifan Bian</td>
+<td>University College London</td>
+</tr>
+<tr>
+<td>2023.10.16</td>
+<td>Yuki Otsuka</td>
+<td>Chuo University</td>
+</tr>
+<tr>
+<td>2023.9.4</td>
+<td>Ngumimi Karen Iyortsuun</td>
+<td>Chonnam National University</td>
+</tr>
+<tr>
+<td>2023.7.19</td>
+<td>王浩名</td>
+<td>浙江工业大学</td>
+</tr>
+<tr>
+<td>2023.6.29</td>
+<td>导师：韩杰，学生：蔡婧仪</td>
+<td>桂林电子科技大学</td>
+</tr>
+<tr>
+<td>2023.4.8</td>
+<td>Dr Philipp Ruhnau</td>
+<td>University of Central Lancashire</td>
+</tr>
+<tr>
+<td>2022.11.20</td>
+<td>邵志文</td>
+<td>中国矿业大学</td>
+</tr>
+<tr>
+<td>2022.10.29</td>
+<td>李东浩</td>
+<td>西安电子科技大学</td>
+</tr>
+<tr>
+<td>2022.4.29</td>
+<td>张明亮</td>
+<td>天津大学</td>
+</tr>
+<tr>
+<td>2022.3.18</td>
+<td>祁禹涵</td>
+<td>安徽大学</td>
+</tr>
+<tr>
+<td>2022.3.15</td>
+<td>范紫琪</td>
+<td>西安电子科技大学</td>
+</tr>
+<tr>
+<td>2022.3.10</td>
+<td>杨柳奕</td>
+<td>深圳技术大学</td>
+</tr>
+<tr>
+<td>2022.3.8</td>
+<td>徐睿涵</td>
+<td>湖南科技大学</td>
+</tr>
+<tr>
+<td>2022.2.14</td>
+<td>Hanlin  Mo</td>
+<td>University  of Oulu</td>
+</tr>
+<tr>
+<td>2022.2.4</td>
+<td>Abhyuday  Luthra</td>
+<td>University  of Warwick</td>
+</tr>
+<tr>
+<td>2022.2.4</td>
+<td>Timur  Unaspekov</td>
+<td>Nazarbayev  University</td>
+</tr>
+<tr>
+<td>2022.1.21</td>
+<td>Malshama  Perera</td>
+<td>University  of Westminster</td>
+</tr>
+<tr>
+<td>2022.1.14</td>
+<td>项雷雷</td>
+<td>杭州电子大学</td>
+</tr>
+<tr>
+<td>2022.1.13</td>
+<td>Malek  GHOURABI</td>
+<td>Université de technologie de Troyes</td>
+</tr>
+<tr>
+<td>2021.12.13</td>
+<td>戎千</td>
+<td>合肥科技大学</td>
+</tr>
+<tr>
+<td>2021.11.03</td>
+<td>赵子仪</td>
+<td>华中师范大学心理学院</td>
+</tr>
+<tr>
+<td>2021.11.01</td>
+<td>王若彤</td>
+<td>安徽大学</td>
+</tr>
+<tr>
+<td>2021.10.29</td>
+<td>郭佳琪</td>
+<td>中南民族大学</td>
+</tr>
+<tr>
+<td>2021.10.30</td>
+<td>Mevlüt</td>
+<td>Erzurum  Teknik Üniversitesi</td>
+</tr>
+<tr>
+<td>2021.10.12</td>
+<td>Antonia  Schlieder</td>
+<td>the University of Heidelberg</td>
+</tr>
+<tr>
+<td>2021.10.9</td>
+<td>吴春焕</td>
+<td>哈尔滨工业大学（深圳）</td>
+</tr>
+<tr>
+<td>2021.9.23</td>
+<td>刘锃亮</td>
+<td>长春光学精密机械与物理研究所</td>
+</tr>
+<tr>
+<td>2021.9.2</td>
+<td>Somnath  Chatterjee</td>
+<td>FIEM</td>
+</tr>
+<tr>
+<td>2021.8.13</td>
+<td>DongHawn  Lee</td>
+<td>UST-ETRI  school</td>
+</tr>
+<tr>
+<td>2021.7.8</td>
+<td>赵可欣</td>
+<td>华东师范大学</td>
+</tr>
+<tr>
+<td>2021.7.7</td>
+<td>夏晴</td>
+<td>Ecole  Centrale de Nantes (France)</td>
+</tr>
+<tr>
+<td>2021.7.6</td>
+<td>Debojyoti  Biswas</td>
+<td>Texas  State University</td>
+</tr>
+<tr>
+<td>2021.7.3</td>
+<td>Zhijun  Xu</td>
+<td>厦门大学</td>
+</tr>
+<tr>
+<td>2021.7.1</td>
+<td>胡海峰</td>
+<td>中山大学</td>
+</tr>
+<tr>
+<td>2021.6.23</td>
+<td>彭彦怡</td>
+<td>Nagoya  Institute of Technology</td>
+</tr>
+<tr>
+<td>2021.6.14</td>
+<td>Pablo  Cartes</td>
+<td>University  of Concepción</td>
+</tr>
+<tr>
+<td>2021.6.2</td>
+<td>Madhuka  Nadeeshani</td>
+<td>Sri  Lanka Institute of Information Technology</td>
+</tr>
+<tr>
+<td>2021.5.29</td>
+<td>周欣</td>
+<td>西北工业大学</td>
+</tr>
+<tr>
+<td>2021.5.26</td>
+<td>李炎</td>
+<td>青岛大学</td>
+</tr>
+<tr>
+<td>2021.5.19</td>
+<td>王杰</td>
+<td>南昌航空大学</td>
+</tr>
+<tr>
+<td>2021.4.28</td>
+<td>JEENA  JACOB</td>
+<td>AMAL  JYOTHI COLLEGE OF ENGINEERING</td>
+</tr>
+<tr>
+<td>2021.4.23</td>
+<td>Alyaa  Jaber Jalil</td>
+<td>Basrah  University</td>
+</tr>
+<tr>
+<td>2021.4.16</td>
+<td>徐子钦</td>
+<td>武汉大学</td>
+</tr>
+<tr>
+<td>2021.3.30</td>
+<td>Debosmita  Chakraborty</td>
+<td>Future  institute of engineering and managament</td>
+</tr>
+<tr>
+<td>2021.3.26</td>
+<td>Shankar  Raagav A S</td>
+<td>Anna  University</td>
+</tr>
+<tr>
+<td>2021.3.16</td>
+<td>张子健</td>
+<td>中国科学院心理研究所</td>
+</tr>
+<tr>
+<td>2021.2.19</td>
+<td>Dr.  UMARANI JAYARAMA</td>
+<td>IIITDM  KANCHEEPURAM</td>
+</tr>
+<tr>
+<td>2021.2.5</td>
+<td>I-Chia  Chien</td>
+<td>National  Taiwan University of Science and Technology</td>
+</tr>
+<tr>
+<td>2021.1.20</td>
+<td>杨双</td>
+<td>南京航空航天大学</td>
+</tr>
+<tr>
+<td>2021.1.12</td>
+<td>李乐丁</td>
+<td>首都师范大学</td>
+</tr>
+<tr>
+<td>2021.1.8</td>
+<td>Sayantan  Paul</td>
+<td>IIT Guwahati</td>
+</tr>
+<tr>
+<td>2021.1.4</td>
+<td>Taegyun  Lee</td>
+<td>Electronics  and Telecommunications Research Institute</td>
+</tr>
+<tr>
+<td>2020.12.25</td>
+<td>Mikio  Inagaki</td>
+<td>Osaka  University</td>
+</tr>
+<tr>
+<td>2020.12.24</td>
+<td>David  Ahmedt</td>
+<td>Commonwealth  Scientific and Industrial Research Organisation</td>
+</tr>
+<tr>
+<td>2020.12.22</td>
+<td>燕楠</td>
+<td>中国科学院深圳先进技术研究院</td>
+</tr>
+<tr>
+<td>2020.12.14</td>
+<td>Fardian</td>
+<td>Universitas  Syiah Kuala</td>
+</tr>
+<tr>
+<td>2020.12.2</td>
+<td>李琳琳</td>
+<td>天津师范大学</td>
+</tr>
+<tr>
+<td>2020.11.25</td>
+<td>Hyunjun  Kim</td>
+<td>Korea  Advanced Institute of Science and Technology</td>
+</tr>
+<tr>
+<td>2020.11.12</td>
+<td>Iliescu  Ana-Maria</td>
+<td>University  Politehnica of Bucharest</td>
+</tr>
+<tr>
+<td>2020.10.17</td>
+<td>洪自坤</td>
+<td>合肥工业大学</td>
+</tr>
+<tr>
+<td>2020.9.26</td>
+<td>Alejandra  Valencia</td>
+<td>Universidad  del Valle</td>
+</tr>
+<tr>
+<td>2020.925</td>
+<td>谭功贤</td>
+<td>中国科学院重庆绿色智能技术研究院</td>
+</tr>
+<tr>
+<td>2020.9.18</td>
+<td>范启伟</td>
+<td>South  China University of Technology</td>
+</tr>
+<tr>
+<td>2020.9.15</td>
+<td>Chunhua  DONG</td>
+<td>Fort  Valley State University</td>
+</tr>
+<tr>
+<td>2020.9.15</td>
+<td>Adriano  Alonso Veloso</td>
+<td>Rua  Reitor Píres Albuquerque,  ICEx - Pampulha, Belo Horizonte</td>
+</tr>
+<tr>
+<td>2020.9.6</td>
+<td>刘爽</td>
+<td>天津大学医工院</td>
+</tr>
+<tr>
+<td>2020.9.2</td>
+<td>MUSTAFA  MOHAMMAD AL QU</td>
+<td>University  Sains Mala</td>
+</tr>
+<tr>
+<td>2020.9.1</td>
+<td>Sayan  Mitra</td>
+<td>Sayan  Mitra</td>
+</tr>
+<tr>
+<td>2020.8.18</td>
+<td>孙杰</td>
+<td>浙江工商大学信息学院</td>
+</tr>
+<tr>
+<td>2020.8.10</td>
+<td>Harper</td>
+<td>National  Central University</td>
+</tr>
+<tr>
+<td>2020．8.5</td>
+<td>Takumi  Nakamura</td>
+<td>The  University of Electlo-Comunication</td>
+</tr>
+<tr>
+<td>2020.8.3</td>
+<td>BENAMARA  Nadir Kamel</td>
+<td>University  of sciences and technology of Oran</td>
+</tr>
+<tr>
+<td>2020.8.3</td>
+<td>Eva  Krumhuber</td>
+<td>University  College London</td>
+</tr>
+<tr>
+<td>2020.7.25</td>
+<td>Muhammad  Ali Farooq</td>
+<td>National  University of Ireland Galway</td>
+</tr>
+<tr>
+<td>2020.7.24</td>
+<td>Cristina  Wada</td>
+<td>Eldorado  Research Institute</td>
+</tr>
+<tr>
+<td>2020.7.23</td>
+<td>Diego  Henriquez</td>
+<td>Pontificia  Universidad Catolica de Valparaiso</td>
+</tr>
+<tr>
+<td>2020.7.15</td>
+<td>尹志鑫</td>
+<td>浙江大学</td>
+</tr>
+<tr>
+<td>2020.7.13</td>
+<td>Mohamed  Ali Hamdi</td>
+<td>Université de Carthage</td>
+</tr>
+<tr>
+<td>2020.7.8</td>
+<td>AndréPinto Marotta</td>
+<td>Federal  University of Bahia</td>
+</tr>
+<tr>
+<td>2020.6.23</td>
+<td>邹锦爽</td>
+<td>浙江大学</td>
+</tr>
+<tr>
+<td>2020.6.18</td>
+<td>J  Umarani</td>
+<td>IIITDM  KANCHEEPURAM</td>
+</tr>
+<tr>
+<td>2020.6．9</td>
+<td>Xin  Li</td>
+<td>West  Virginia University</td>
+</tr>
+<tr>
+<td>2020.1.3</td>
+<td>Hanbyeol  Bae</td>
+<td>Yonsei  University</td>
+</tr>
+<tr>
+<td>2019.12.22</td>
+<td>杨冬</td>
+<td>Beijing University Of Technology</td>
+</tr>
+<tr>
+<td>2019.12.11</td>
+<td>Yair  Noshe</td>
+<td>Israel  Institute of Technology</td>
+</tr>
+<tr>
+<td>2019.12.01</td>
+<td>Zhicheng  Cao</td>
+<td>西安电子科技大学</td>
+</tr>
+<tr>
+<td>2019.11.20</td>
+<td>Dr.  Mehdi Norouzi</td>
+<td>University  of Cincinnati, Department of Electrical Eng. and Computer Sci.</td>
+</tr>
+<tr>
+<td>2019.10.19</td>
+<td>Ali  Etemad</td>
+<td>Queen’s University</td>
+</tr>
+<tr>
+<td>2019.10.17</td>
+<td>Tsc-Yu  Pan</td>
+<td>Dept  , of Computer Science and Information Engineering, National Chong Kuns  University</td>
+</tr>
+<tr>
+<td>2019.10.12</td>
+<td>경성구</td>
+<td>Yonsei  university</td>
+</tr>
+<tr>
+<td>2019.10.8</td>
+<td>徐伟</td>
+<td>北京应用物理与计算数学研究所</td>
+</tr>
+<tr>
+<td>2019.9.24</td>
+<td>Joanna  Frankiewicz</td>
+<td>silesian  university of technology</td>
+</tr>
+<tr>
+<td>2019.9.18</td>
+<td>Sarath  S</td>
+<td>Dept.  of CSE Amrita School of  Engineering Amritapuri</td>
+</tr>
+<tr>
+<td>2019.9.18</td>
+<td>王文涛</td>
+<td>安徽大学</td>
+</tr>
+<tr>
+<td>2019.9.16</td>
+<td>吴慧婷</td>
+<td>华中师范大学教育信息化研究中心</td>
+</tr>
+<tr>
+<td>2019.8.22</td>
+<td>GAHATHRI</td>
+<td>SRI  VENKATESWARA COLLEGE OF ENGINEERING</td>
+</tr>
+<tr>
+<td>2019.9.9</td>
+<td>Syed  Muhammad Ammar Sohail</td>
+<td>Technical  University Munich</td>
+</tr>
+<tr>
+<td>2019.9.8</td>
+<td>Crystal  Butler</td>
+<td>Tandon  School of Engineering,New York University</td>
+</tr>
+<tr>
+<td>2019.9.5</td>
+<td>Usman</td>
+<td>Sejong  University</td>
+</tr>
+<tr>
+<td>2019.8.15</td>
+<td>Satyajit  Nayak</td>
+<td>Indian  Institute of Technology</td>
+</tr>
+<tr>
+<td>2019.8.6</td>
+<td>李子涵</td>
+<td>北京航空航天大学</td>
+</tr>
+<tr>
+<td>2019.8.6</td>
+<td>Meng  Pang</td>
+<td>Hong  Kong Baptist University</td>
+</tr>
+<tr>
+<td>2019.7.29</td>
+<td>Paul  Catley</td>
+<td>Curtin  University in Western Australia</td>
+</tr>
+<tr>
+<td>2019.7.22</td>
+<td>Mohd  Asyraf Zulkifley</td>
+<td>Universiti  Kebangsaan Malaysia</td>
+</tr>
+<tr>
+<td>2019.7.9</td>
+<td>沈来信</td>
+<td>黄山学院</td>
+</tr>
+<tr>
+<td>2019.7.9</td>
+<td>Gerard Pons</td>
+<td>國家數學和電腦科學研究學會</td>
+</tr>
+<tr>
+<td>2019.6.19</td>
+<td>June  Kang</td>
+<td>Korea  University</td>
+</tr>
+<tr>
+<td>2019.6.19</td>
+<td>孙上荃</td>
+<td>上海交通大学</td>
+</tr>
+<tr>
+<td>2019.6.14</td>
+<td>Tran Thanh Nha</td>
+<td>Ho  Chi Minh city University of Education.</td>
+</tr>
+<tr>
+<td>2019.5.21</td>
+<td>Tim  Adamson</td>
+<td>Computer  Science    Yale University</td>
+</tr>
+<tr>
+<td>2019.05.05</td>
+<td>Subby  Olubeko</td>
+<td>Massachusetts  Institute of Technology</td>
+</tr>
+<tr>
+<td>2019.05.01</td>
+<td>蔡旻洲</td>
+<td>Tatung  University</td>
+</tr>
+<tr>
+<td>2019.04.29</td>
+<td>Hesham  Haridi</td>
+<td>Assiut  University-Faculty of Engineering</td>
+</tr>
+<tr>
+<td>2019.04.22</td>
+<td>张龙</td>
+<td>山东大学控制科学与工程学院</td>
+</tr>
+<tr>
+<td>2019.04.17</td>
+<td>Hewei  Liu</td>
+<td>University  of Wisconsin-Madison</td>
+</tr>
+<tr>
+<td>2019.04.06</td>
+<td>Michael</td>
+<td>Department  of Anesthesiology | Section Medical Technology</td>
+</tr>
+<tr>
+<td>2019.03.21</td>
+<td>郑岚</td>
+<td>国际关系学院</td>
+</tr>
+<tr>
+<td>2019.03.20</td>
+<td>孙喆</td>
+<td>清华大学 电子工程系</td>
+</tr>
+<tr>
+<td>2019.03.04</td>
+<td>Viktor</td>
+<td>National  University of Ireland</td>
+</tr>
+<tr>
+<td>2019.02.26</td>
+<td>Hongwang</td>
+<td>Swinburne University  of Technology</td>
+</tr>
+<tr>
+<td>2019.02.19</td>
+<td>Mit  freundlichen Grüßen</td>
+<td>DERMALOG  Identification Systems GmbH</td>
+</tr>
+<tr>
+<td>2019.01.25</td>
+<td>Merve</td>
+<td>istanbul  university</td>
+</tr>
+<tr>
+<td>2019.01.23</td>
+<td>Ayan</td>
+<td>PDPM  Indian Institute of Information Technology</td>
+</tr>
+<tr>
+<td>2019.01.22</td>
+<td>冯宇健</td>
+<td>南京邮电大学</td>
+</tr>
+<tr>
+<td>2019.01.21</td>
+<td>Boris  Assanovich</td>
+<td>GrSU, IS&amp;T Department</td>
+</tr>
+<tr>
+<td>2019.01.15</td>
+<td>谭紫晗</td>
+<td>华中科技大学</td>
+</tr>
+<tr>
+<td>2019.01.14</td>
+<td>刘本俊</td>
+<td>中国科学技术大学</td>
+</tr>
+<tr>
+<td>2019.01.09</td>
+<td>Eunseo Kim</td>
+<td>KIST, Korea</td>
+</tr>
+<tr>
+<td>2019.01.08</td>
+<td>Qianfen Jiao</td>
+<td>香港城市大学</td>
+</tr>
+<tr>
+<td>2019.01.04</td>
+<td>Devang  Pandya</td>
+<td>Adani Institute of Infrastructure  (AII)</td>
+</tr>
+<tr>
+<td>2018.12.19</td>
+<td>Dong-Yoon,  Lee</td>
+<td>Korea</td>
+</tr>
+<tr>
+<td>2018.11.28</td>
+<td>Oh Tiong  Keng</td>
+<td>Nanyang Polytechnic, Singapore</td>
+</tr>
+<tr>
+<td>2018.11.15</td>
+<td>Burak  Ilikci</td>
+<td>Sam Houston State University</td>
+</tr>
+<tr>
+<td>2018.10.24</td>
+<td>Zheng Zhang</td>
+<td>Binghamton University</td>
+</tr>
+<tr>
+<td>2018.10.11</td>
+<td>田子</td>
+<td>China Academy of Electronics and  Information Technology</td>
+</tr>
+<tr>
+<td>2018.10.10</td>
+<td>Shreyas  Kamath</td>
+<td>Laboratory for Imaging and  Simulation  Tufts University</td>
+</tr>
+<tr>
+<td>2018.10.09</td>
+<td>钟澜</td>
+<td>首都师范大学心理系</td>
+</tr>
+<tr>
+<td>2018.10.08</td>
+<td>Wölzmüll</td>
+<td>慕尼黑工业大学</td>
+</tr>
+<tr>
+<td>2018.10.08</td>
+<td>陈嘉宇</td>
+<td>北京航空航天大学 可靠性与系统工程学院</td>
+</tr>
+<tr>
+<td>2018.10.05</td>
+<td>C. Baudrit</td>
+<td>Université de Bordeaux</td>
+</tr>
+<tr>
+<td>2018.09.26</td>
+<td>Na Hoo Seung</td>
+<td>Kwong Woon University</td>
+</tr>
+<tr>
+<td>2018.09.26</td>
+<td>Cliff</td>
+<td>Philadelphia</td>
+</tr>
+<tr>
+<td>2018.09.23</td>
+<td>Nicolas  Brunet</td>
+<td>Neuroscience at Millsaps College</td>
+</tr>
+<tr>
+<td>2018.09.20</td>
+<td>Johnny, Shun  Cheung LAI</td>
+<td>香港理工大学</td>
+</tr>
+<tr>
+<td>2018.09.18</td>
+<td>徐升</td>
+<td>华中师范大学</td>
+</tr>
+<tr>
+<td>2018.08.23</td>
+<td>Xiyang</td>
+<td>University of Maryland</td>
+</tr>
+<tr>
+<td>2018.08.20</td>
+<td>Akshita  Sawalka</td>
+<td>AEGIS School of Business</td>
+</tr>
+<tr>
+<td>2018.08.4</td>
+<td>Fang Shen</td>
+<td>Xidian University</td>
+</tr>
+<tr>
+<td>2018.07.27</td>
+<td>Sushree  Sangeeta Behera</td>
+<td>School of Electrical Sciences,   IIT Bhubaneswar</td>
+</tr>
+<tr>
+<td>2018.07.27</td>
+<td>高飞</td>
+<td>杭州电子科技大学</td>
+</tr>
+<tr>
+<td>2018.07.13</td>
+<td>Mark Havens</td>
+<td>德克萨斯大学阿灵顿分校</td>
+</tr>
+<tr>
+<td>2018.06.29</td>
+<td>王子键</td>
+<td>吉林大学软件学院</td>
+</tr>
+<tr>
+<td>2018.06.17</td>
+<td>Neeraj  Kothari</td>
+<td>cogniant</td>
+</tr>
+<tr>
+<td>2018.06.14</td>
+<td>刘吉</td>
+<td>北京航空航天大学</td>
+</tr>
+<tr>
+<td>2018.06.7</td>
+<td>FanLihong</td>
+<td>贵州大学</td>
+</tr>
+<tr>
+<td>2018.06.5</td>
+<td>Christian  Kraetzer</td>
+<td>Otto-von-Guericke-University  Magdeburg</td>
+</tr>
+<tr>
+<td>2018.05.24</td>
+<td>王磊</td>
+<td>个人</td>
+</tr>
+<tr>
+<td>2018.05.22</td>
+<td>张筱晗</td>
+<td>山东烟台海军航空大学信息融合研究所</td>
+</tr>
+<tr>
+<td>2018.05.21</td>
+<td>肖子璇</td>
+<td>北京师范大学</td>
+</tr>
+<tr>
+<td>2018.05.17</td>
+<td>黄轩</td>
+<td>中国科学技术大学</td>
+</tr>
+<tr>
+<td>2018.05.15</td>
+<td>Anis  Benmebrez</td>
+<td>Qans Descurtes University</td>
+</tr>
+<tr>
+<td>2018.05.10</td>
+<td>Quecaño Turpo, Jholiza</td>
+<td>University Esan</td>
+</tr>
+<tr>
+<td>2018.05.7</td>
+<td>张少阳</td>
+<td>北京芯智引擎科技有限公司</td>
+</tr>
+<tr>
+<td>2018.05.2</td>
+<td>商磊</td>
+<td>浙江大学控制科学与工程学院</td>
+</tr>
+<tr>
+<td>2018.05.2</td>
+<td>Moulay</td>
+<td>University de Moncton</td>
+</tr>
+<tr>
+<td>2018.04.28</td>
+<td>李建军</td>
+<td>杭州电子科技大学</td>
+</tr>
+<tr>
+<td>2018.04.26</td>
+<td>杜正印</td>
+<td>北京航空航天大学</td>
+</tr>
+<tr>
+<td>2018.04.26</td>
+<td>Raúl Aguilar Figueroa</td>
+<td>Instituto Tecnológico de León</td>
+</tr>
+<tr>
+<td>2018.04.18</td>
+<td>李习华</td>
+<td>北京航空航天大学</td>
+</tr>
+<tr>
+<td>2018.04.12</td>
+<td>张家强</td>
+<td>中国科学院上海技术物理研究所</td>
+</tr>
+<tr>
+<td>2018.04.02</td>
+<td>Jiyoon Kim</td>
+<td>Smart Ubiquitous Healthcare Lab,  Hanyang Univ</td>
+</tr>
+<tr>
+<td>2018.0.3.25</td>
+<td>范涛</td>
+<td>南京理工大学</td>
+</tr>
+<tr>
+<td>2018.03.2</td>
+<td>Weidan Zhu</td>
+<td>Qingshuihe Campus of UESTC</td>
+</tr>
+<tr>
+<td>2018.03.21</td>
+<td>Md Tauhid  Bin Lpbal</td>
+<td>Kyung Hee University</td>
+</tr>
+<tr>
+<td>2018.03.13</td>
+<td>昌泉</td>
+<td>重庆邮电大学</td>
+</tr>
+<tr>
+<td>2018.03.10</td>
+<td>吴春国</td>
+<td>吉林大学</td>
+</tr>
+<tr>
+<td>2018.03.06</td>
+<td>邱崧</td>
+<td>East  China Normal University</td>
+</tr>
+<tr>
+<td>2018.03.05</td>
+<td>Xudong Liu</td>
+<td>West  Virginia University</td>
+</tr>
+<tr>
+<td>2018.03.01</td>
+<td>徐雅琦</td>
+<td>武汉理工大学</td>
+</tr>
+<tr>
+<td>2018.02.05</td>
+<td>Madhumita Abhijeet Takalkar</td>
+<td>University  of Technology</td>
+</tr>
+<tr>
+<td>2018.02.05</td>
+<td>Charusheela Pandit</td>
+<td>ViMEET</td>
+</tr>
+<tr>
+<td>2018.01.30</td>
+<td>Hongyu Xu</td>
+<td>University of Maryland</td>
+</tr>
+<tr>
+<td>2018.02.01</td>
+<td>Zulfiqar Habib</td>
+<td>COMSATS Institute of  Information Technology</td>
+</tr>
+<tr>
+<td>2018.01.25</td>
+<td>mengmengwang</td>
+<td>浙江大学</td>
+</tr>
+<tr>
+<td>2018.01.24</td>
+<td>dugelay - jean-luc dugelay -</td>
+<td>Research center in Sophia  Antipolis</td>
+</tr>
+<tr>
+<td>2018.01.11</td>
+<td>Suparna Rooj</td>
+<td>IIT KGP</td>
+</tr>
+<tr>
+<td>2017.12.22</td>
+<td>张心鸣</td>
+<td>中国石油大学</td>
+</tr>
+<tr>
+<td>2017.12.21</td>
+<td>Gustavo Silva</td>
+<td>University of Porto</td>
+</tr>
+<tr>
+<td>2017.12.20</td>
+<td>孔令晏</td>
+<td>南开大学</td>
+</tr>
+<tr>
+<td>2017.12.7</td>
+<td>蔡開遠</td>
+<td>National Taiwan  University</td>
+</tr>
+<tr>
+<td>2017.11.25</td>
+<td>Mesut Kuscu</td>
+<td>Technical  University Munich</td>
+</tr>
+<tr>
+<td>2017.11.24</td>
+<td>陈静</td>
+<td>哈尔滨工程学院</td>
+</tr>
+<tr>
+<td>2017.11.20</td>
+<td>Wang Jin</td>
+<td>Northeastern  University, Boston</td>
+</tr>
+<tr>
+<td>2017.11.15</td>
+<td>Viduranga Gunarathne</td>
+<td>General Sir John Kotelawala  Defence University</td>
+</tr>
+<tr>
+<td>2017.11.15</td>
+<td>高日强</td>
+<td>Tsinghua  University</td>
+</tr>
+<tr>
+<td>2017.11.15</td>
+<td>Amir Babaoghli</td>
+<td>Iran-semnan-Semnan  University</td>
+</tr>
+<tr>
+<td>2017.11.14</td>
+<td>Jean-Baptiste Verroken</td>
+<td>KU Leuven</td>
+</tr>
+<tr>
+<td>2017.11.13</td>
+<td>李建</td>
+<td>Tsinghua University</td>
+</tr>
+<tr>
+<td>2017.11.08</td>
+<td>孙王斌</td>
+<td>Tsinghua University</td>
+</tr>
+<tr>
+<td>2017.11.02</td>
+<td>Anubhav Shrivastava</td>
+<td>IIT KANPUR</td>
+</tr>
+<tr>
+<td>2017.11.02</td>
+<td>Lynn Abbott</td>
+<td>Bradley Department of Electrical and  Computer Engineering</td>
+</tr>
+<tr>
+<td>2017.11.01</td>
+<td>VERDUGO ALEJO DAYANA LUCIA</td>
+<td>Escuela Colombiana de Ingeniería Julio Garavito /   Universidad  del Rosario</td>
+</tr>
+<tr>
+<td>2017.10.27</td>
+<td>咸静</td>
+<td>天津大学</td>
+</tr>
+<tr>
+<td>2017.10.26</td>
+<td>李英建</td>
+<td>哈尔滨工业大学</td>
+</tr>
+<tr>
+<td>2017.10.22</td>
+<td>Maximilian Ritter</td>
+<td>University of Applied Science  Pforzheim</td>
+</tr>
+<tr>
+<td>2017.10.20</td>
+<td>楚浩宇</td>
+<td>北京交通大学信息</td>
+</tr>
+<tr>
+<td>2017.10.16</td>
+<td>Kang, Jian</td>
+<td>Technische Universität München</td>
+</tr>
+<tr>
+<td>2017.09.07</td>
+<td>Arnav Choudhury</td>
+<td>UC San Diego</td>
+</tr>
+<tr>
+<td>2017.09.06</td>
+<td>Moncef Gabbouj</td>
+<td>Tampere University of  Technology</td>
+</tr>
+<tr>
+<td>2017.08.18</td>
+<td>Kirill Mityagin</td>
+<td>Moscow Institute of Technology</td>
+</tr>
+<tr>
+<td>2017.08.08</td>
+<td>吴琼</td>
+<td>华中师范大学</td>
+</tr>
+<tr>
+<td>2017.08.05</td>
+<td>肖亚敏</td>
+<td>电子科技大学</td>
+</tr>
+<tr>
+<td>2017.07.28</td>
+<td>Luo Yun</td>
+<td>Hongkong  University of Science and Technology</td>
+</tr>
+<tr>
+<td>2017.07.26</td>
+<td>Mathilde Labrunie</td>
+<td>Université de  Bordeaux</td>
+</tr>
+<tr>
+<td>2017.07.10</td>
+<td>Pedro Santos</td>
+<td>Technische  Universität Darmstadt</td>
+</tr>
+<tr>
+<td>2017.06.28</td>
+<td>Nicu Sebe</td>
+<td>University of  Trento</td>
+</tr>
+<tr>
+<td>2017.06.22</td>
+<td>Snir Gotshal</td>
+<td>Hulon Institute of  Technology</td>
+</tr>
+<tr>
+<td>2017.06.21</td>
+<td>Krystian Radlak</td>
+<td>Silesian  University of Technology in Poland</td>
+</tr>
+<tr>
+<td>2017.06.02</td>
+<td>Zhuhong Shao</td>
+<td>Capital Normal  Unversity</td>
+</tr>
+<tr>
+<td>2017.06.02</td>
+<td>Cheng-Hao Tu</td>
+<td>National Taiwan  University.</td>
+</tr>
+<tr>
+<td>2017.05.16</td>
+<td>Peiyao Chen</td>
+<td>Northwestern  University, Evanston</td>
+</tr>
+<tr>
+<td>2017.05.11</td>
+<td>Hiroharu Saito</td>
+<td>University of  Tokyo</td>
+</tr>
+<tr>
+<td>2017.05.05</td>
+<td>黄颖</td>
+<td>Xiamen University</td>
+</tr>
+<tr>
+<td>2017.04.18</td>
+<td>Jiabei Zeng</td>
+<td>Institute of  Computing Technology</td>
+</tr>
+<tr>
+<td>2017.04.13</td>
+<td>Greenberg, Ariel M.</td>
+<td>JHV APL</td>
+</tr>
+<tr>
+<td>2017.04.11</td>
+<td>RISHABH GOYAL</td>
+<td>DELHI  TECHNOLOGICAL UNIVERSITY,NEW DELHI</td>
+</tr>
+<tr>
+<td>2017.03.24</td>
+<td>Hasanain Al-Sadr</td>
+<td>University of  Missouri - Columbia</td>
+</tr>
+<tr>
+<td>2017.03.22</td>
+<td>RAN A. GODRICH</td>
+<td>Cornell University</td>
+</tr>
+<tr>
+<td>2017.03.14</td>
+<td>邓诗雨</td>
+<td>华南理工大学</td>
+</tr>
+<tr>
+<td>2017.03.09</td>
+<td>Arcangelo Merla</td>
+<td>Dept. Neurosciences,  Imaging and Clinical Science</td>
+</tr>
+<tr>
+<td>2017.03.08</td>
+<td>徐舒霖</td>
+<td>西南大学计算机与信息科学学院</td>
+</tr>
+<tr>
+<td>2017.03.03</td>
+<td>Ефремова Наталия Алексеевна</td>
+<td>Ефремова Наталия Алексеевна</td>
+</tr>
+<tr>
+<td>2017.03.03</td>
+<td>黄铁梅</td>
+<td>南昌大学</td>
+</tr>
+<tr>
+<td>2017.02.25</td>
+<td>Juan Miguel López Gil</td>
+<td>University of the Basque Country</td>
+</tr>
+<tr>
+<td>2017.02.25</td>
+<td>Farid Haq</td>
+<td>The University of Toledo</td>
+</tr>
+<tr>
+<td>2017.02.17</td>
+<td>Michal Joachimczak</td>
+<td>Brain Function Analysis and Imaging  Laboratory  Center for Information and Neural  Networks</td>
+</tr>
+<tr>
+<td>2017.02.17</td>
+<td>Mohammad Hassan</td>
+<td>EAEA</td>
+</tr>
+<tr>
+<td>2017.02.11</td>
+<td>MSc Krzysztof  Kotowski</td>
+<td>Institute of Informatics  Silesian University of Technology</td>
+</tr>
+<tr>
+<td>2017.1.18</td>
+<td>付春萌</td>
+<td>东北大学</td>
+</tr>
+<tr>
+<td>2017.1.18</td>
+<td>Luo Lin</td>
+<td>东南大学</td>
+</tr>
+<tr>
+<td>2017.1.18</td>
+<td>J.Sofia Jennifer</td>
+<td>SSN College of  Engineering</td>
+</tr>
+<tr>
+<td>2017.1.15</td>
+<td>Jin Qin</td>
+<td>中国人民大学</td>
+</tr>
+<tr>
+<td>2016.1.13</td>
+<td>Jo-Ning Wu</td>
+<td>National Chung Cheng University</td>
+</tr>
+<tr>
+<td>2016.1.13</td>
+<td>陈师哲</td>
+<td>中国人民大学</td>
+</tr>
+<tr>
+<td>2016.1.9</td>
+<td>韩芳</td>
+<td>南京师范大学</td>
+</tr>
+<tr>
+<td>2016.12.19</td>
+<td>袁钊</td>
+<td>长春理工大学</td>
+</tr>
+<tr>
+<td>2016.12.12</td>
+<td>Sercan BAYRAM</td>
+<td>Hasan kalyoncu  University</td>
+</tr>
+<tr>
+<td>2016.12.8</td>
+<td>MAECIN KoWAISKI</td>
+<td>Institute of Optoelectronics</td>
+</tr>
+<tr>
+<td>2016.12.6</td>
+<td>王家庆</td>
+<td>台湾中央大学</td>
+</tr>
+<tr>
+<td>2016.11.30</td>
+<td>周天舒</td>
+<td>浙江大学</td>
+</tr>
+<tr>
+<td>2016.11.28</td>
+<td>YaWen Chin</td>
+<td>National  Taiwan University</td>
+</tr>
+<tr>
+<td>2016.11.18</td>
+<td>吴战</td>
+<td>Southwest  University</td>
+</tr>
+<tr>
+<td>2016.11.18</td>
+<td>Mohammed Jaddoa</td>
+<td>University of  Technology</td>
+</tr>
+<tr>
+<td>2016.11.14</td>
+<td>Romain Ravaille</td>
+<td>Telecom  Saint-Etienne</td>
+</tr>
+<tr>
+<td>2016.11.14</td>
+<td>Sean  Aubin</td>
+<td>Honda  Research Institute</td>
+</tr>
+<tr>
+<td>2016.11.4</td>
+<td>石伟</td>
+<td>中南大学</td>
+</tr>
+<tr>
+<td>2016.11.3</td>
+<td>Wafa Waheeda Syed</td>
+<td>Qatar University</td>
+</tr>
+<tr>
+<td>2016.10.19</td>
+<td>Anis KACEM</td>
+<td>Telecom Lille</td>
+</tr>
+<tr>
+<td>2016.10.12</td>
+<td>Carlos Arango</td>
+<td>Hubert Curien Laboratory  in Jean Monnet University</td>
+</tr>
+<tr>
+<td>2016.10.4</td>
+<td>Zheng-de  Wu</td>
+<td>National  Chuing Hsing University,MIS</td>
+</tr>
+<tr>
+<td>2016.09.15</td>
+<td>NUR IZURA UDZIR</td>
+<td>University Putra Malaysia</td>
+</tr>
+<tr>
+<td>2016.09.01</td>
+<td>Bar Livni</td>
+<td>Jungo connectivity</td>
+</tr>
+<tr>
+<td>2016.08.22</td>
+<td>Dr. Mohanmad Sajjad</td>
+<td>Islamia College university</td>
+</tr>
+<tr>
+<td>2016.08.16</td>
+<td>Dr. Sangita Kakrwal</td>
+<td>PESCO Engg.Aurangabad</td>
+</tr>
+<tr>
+<td>2016.08.10</td>
+<td>Mohammad shavandi</td>
+<td>Mohammad Shavandi</td>
+</tr>
+<tr>
+<td>2016.07.25</td>
+<td>Liu Menghan</td>
+<td>Case Western Reserve University</td>
+</tr>
+<tr>
+<td>2016.07.22</td>
+<td>刘阳</td>
+<td>西安电子科技大学</td>
+</tr>
+<tr>
+<td>2016.07.21</td>
+<td>胡骞鹤</td>
+<td>CCNU</td>
+</tr>
+<tr>
+<td>2016.07.14</td>
+<td>Dr. Upendra Kumar</td>
+<td>Indian Institute of Information  Technology, Allahabad, India.</td>
+</tr>
+<tr>
+<td>2016.07.05</td>
+<td>KK Chan</td>
+<td>Panasonic Industrial Devices</td>
+</tr>
+<tr>
+<td>2016.06.09</td>
+<td>齐晓宇</td>
+<td>北京大学</td>
+</tr>
+<tr>
+<td>2016.06.09</td>
+<td>Mohammad shavandi</td>
+<td>Mohammad shavandi</td>
+</tr>
+<tr>
+<td>2016.04.29</td>
+<td>Jose Lezama Torres De La Llosa</td>
+<td>Duke University</td>
+</tr>
+<tr>
+<td>2016.04.27</td>
+<td>Samuel BOLE</td>
+<td>University of Saint-Etienne (Jean  Monnet) and Hubert Curien Laboratory (UMR CNRS 5516)</td>
+</tr>
+<tr>
+<td>2016.04.21</td>
+<td>olatokunbo oloyede</td>
+<td>the University of Pretoria</td>
+</tr>
+<tr>
+<td>2016.04.21</td>
+<td>Xavi   Gallego</td>
+<td>the Center for Genomic Regulation  (CRG) in Barcelona (Spain)</td>
+</tr>
+<tr>
+<td>2016.04.14</td>
+<td>Rifat KURBAN</td>
+<td>University of Tencsscc Kroxville</td>
+</tr>
+<tr>
+<td>2016.04.11</td>
+<td>李秉俊</td>
+<td>清华大学</td>
+</tr>
+<tr>
+<td>2016.04.11</td>
+<td>王逸清</td>
+<td>上海交通大学</td>
+</tr>
+<tr>
+<td>2016.04.06</td>
+<td>Md Zakir Hossain</td>
+<td>Australian National University,  Australia</td>
+</tr>
+<tr>
+<td>2016.03.22</td>
+<td>Ernesto Fernánde</td>
+<td>Universidad Rey Juan Carlos, Mostoles</td>
+</tr>
+<tr>
+<td>2016.02.23</td>
+<td>Huseyin Atakan Varol</td>
+<td>Nazarbayev University</td>
+</tr>
+<tr>
+<td>2015.10.12</td>
+<td>骆祖莹</td>
+<td>北京师范大学</td>
+</tr>
+<tr>
+<td>2016.02.23</td>
+<td>Huseyin Atakan Varol</td>
+<td>Nazarbayev University</td>
+</tr>
+<tr>
+<td>2015.08.11</td>
+<td>施毅明</td>
+<td>香港科技大学</td>
+</tr>
+<tr>
+<td>2015.09.25</td>
+<td>秦涛</td>
+<td>微软亚洲研究院</td>
+</tr>
+<tr>
+<td>2015.08.13</td>
+<td>徐舒霖</td>
+<td>西南大学</td>
+</tr>
+<tr>
+<td>2015.07.28</td>
+<td>Xiaoyi Jiang</td>
+<td>University of Munster</td>
+</tr>
+<tr>
+<td>2015.08.05</td>
+<td>Ropish Arora</td>
+<td>College of Engg &amp; Tech JAMMU</td>
+</tr>
+<tr>
+<td>2015.08.03</td>
+<td>Marcin Kopaczka</td>
+<td>RWTH Aachen University</td>
+</tr>
+<tr>
+<td>2015.05.28</td>
+<td>周文活</td>
+<td>华东理工大学</td>
+</tr>
+<tr>
+<td>2015.07.22</td>
+<td>张石清</td>
+<td>台州学院</td>
+</tr>
+<tr>
+<td>2015.07.20</td>
+<td>韩琥</td>
+<td>中国科学院计算所</td>
+</tr>
+<tr>
+<td>2015.04.24</td>
+<td>黄元亮</td>
+<td>暨南大学</td>
+</tr>
+<tr>
+<td>2015.03.16</td>
+<td>程伟</td>
+<td>电子科技大学</td>
+</tr>
+<tr>
+<td>2015.03.12</td>
+<td>石志国</td>
+<td>北京科技大学</td>
+</tr>
+<tr>
+<td>2015.01.23</td>
+<td>Joao Magalhaes</td>
+<td>Universidade Nova de Lisboa</td>
+</tr>
+<tr>
+<td>2014.12.05</td>
+<td>John Q.Gan</td>
+<td>University of Essex</td>
+</tr>
+<tr>
+<td>2014.12.05</td>
+<td>潘露华</td>
+<td>广东第二师范学院教育学院</td>
+</tr>
+<tr>
+<td>2014.12.25</td>
+<td>施聪莺</td>
+<td>南京师范大学心理学院</td>
+</tr>
+<tr>
+<td>2014.12.12</td>
+<td>田锋</td>
+<td>西安交通大学电子与信息工程学院自动化</td>
+</tr>
+<tr>
+<td>2014.12.5</td>
+<td>夏海英</td>
+<td>广西师范大学电子工程学院</td>
+</tr>
+<tr>
+<td>2014.11.18</td>
+<td>纪国强</td>
+<td>南京师范大学计算机科学与技术学院</td>
+</tr>
+<tr>
+<td>2014.11.11</td>
+<td>刘启和</td>
+<td>电子科技大学视听觉实验室</td>
+</tr>
+<tr>
+<td>2014.10.27</td>
+<td>刘志磊</td>
+<td>天津大学计算机科学与技术学院</td>
+</tr>
+<tr>
+<td>2014.9.28</td>
+<td>王亚鹏</td>
+<td>北京师范大学脑与认知科学研究院</td>
+</tr>
+<tr>
+<td>2014.09.22</td>
+<td>Kuderna-Inlian Benta</td>
+<td>Technical University of Cluj-Napoca</td>
+</tr>
+<tr>
+<td>2014.10.8</td>
+<td>高新波</td>
+<td>西安电子科技大学</td>
+</tr>
+<tr>
+<td>2014.9.18</td>
+<td>Priya Saha</td>
+<td>Tripura University</td>
+</tr>
+<tr>
+<td>2014.9.22</td>
+<td>杨勇</td>
+<td>重庆邮电大学</td>
+</tr>
+<tr>
+<td>2014.09.10</td>
+<td>陈涛</td>
+<td>清华大学工程物理系</td>
+</tr>
+<tr>
+<td>2014.09.02</td>
+<td>何俊</td>
+<td>南昌大学信息工程学院电工电子中心</td>
+</tr>
+<tr>
+<td>2014.06.16</td>
+<td>刘永娜</td>
+<td>北京师范大学</td>
+</tr>
+<tr>
+<td>2014.06.09</td>
+<td>赵启军</td>
+<td>四川大学计算机学院</td>
+</tr>
+<tr>
+<td>2014.06.04</td>
+<td>周风余</td>
+<td>山东大学控制科学与工程学院</td>
+</tr>
+<tr>
+<td>2014.05.27</td>
+<td>黎明</td>
+<td>湖北师范学院（教育信息与技术学院）</td>
+</tr>
+<tr>
+<td>2014.05.23</td>
+<td>Maria T. Wijaya</td>
+<td>National University of Singapore  Centre</td>
+</tr>
+<tr>
+<td>2014.05.22</td>
+<td>Leandro Bugnon</td>
+<td>sinc(i) FICH UNL</td>
+</tr>
+<tr>
+<td>2014.05.20</td>
+<td>刘波</td>
+<td>湖南农业大学信息科学技术学院</td>
+</tr>
+<tr>
+<td>2014.04.30</td>
+<td>张丽萍</td>
+<td>中国科学院半导体研究所</td>
+</tr>
+<tr>
+<td>2014.05.06</td>
+<td>C Krishna Mokan</td>
+<td>Indian Institute of Technology  Hyderabad</td>
+</tr>
+<tr>
+<td>2014.05.05</td>
+<td>王陈浩</td>
+<td>中国科学技术大学</td>
+</tr>
+<tr>
+<td>2014.04.03</td>
+<td>李中权</td>
+<td>南京大学心理系</td>
+</tr>
+<tr>
+<td>2014.03.17</td>
+<td>刘志勇</td>
+<td>深圳职业技术工业中心</td>
+</tr>
+<tr>
+<td>2014.03.01</td>
+<td>支瑞聪</td>
+<td>中国标准化研究院</td>
+</tr>
+<tr>
+<td>2014.01.15</td>
+<td>MOI-HOON YAP</td>
+<td>Manchester Metropolztan University</td>
+</tr>
+<tr>
+<td>2014.01.06</td>
+<td>导师：杨波   学生：赵辉</td>
+<td>中国政法大学社会学院</td>
+</tr>
+<tr>
+<td>2013.12.30</td>
+<td>R.SENTHILKUMAR</td>
+<td>Institute of road and transport  technology</td>
+</tr>
+<tr>
+<td>2013.12.16</td>
+<td>Adam Anderson</td>
+<td>University of Toronto</td>
+</tr>
+<tr>
+<td>2013.12.16</td>
+<td>Mehdi Heydarjamaat</td>
+<td>QIAU university</td>
+</tr>
+<tr>
+<td>2013.12.09</td>
+<td>Aurobinoa Routray</td>
+<td>Indian Institute of Technology</td>
+</tr>
+<tr>
+<td>2013.11.25</td>
+<td>Roseli Aparecida Francelin Romero</td>
+<td>university of sao Paulo</td>
+</tr>
+<tr>
+<td>2013.11.22</td>
+<td>雷震</td>
+<td>中国科学院自动化研究所</td>
+</tr>
+<tr>
+<td>2013.11.08</td>
+<td>屈磊</td>
+<td>安徽大学电子信息工程学院</td>
+</tr>
+<tr>
+<td>2013.09.29</td>
+<td>Derzu Omaia</td>
+<td>Federal University of Paraiba</td>
+</tr>
+<tr>
+<td>2013.09.29</td>
+<td>冯胜闯</td>
+<td>北京大学心理学系</td>
+</tr>
+<tr>
+<td>2013.09.12</td>
+<td>李宏汀</td>
+<td>浙江理工大学理学院心理系</td>
+</tr>
+<tr>
+<td>2013.08.17</td>
+<td>陈靓颖</td>
+<td>华中师范大学国家数字化学习工程研究中心</td>
+</tr>
+<tr>
+<td>2013.07.15</td>
+<td>李典文</td>
+<td>杭州师范大学认知与脑疾病研究中心</td>
+</tr>
+<tr>
+<td>2013.07.15</td>
+<td>吕真</td>
+<td>青岛理工大学通信学院</td>
+</tr>
+<tr>
+<td>2013.07.10</td>
+<td>文贵华</td>
+<td>华南理工大学计算机科学与工程学院</td>
+</tr>
+<tr>
+<td>2013.07.04</td>
+<td>导师：Yong Yu  学生：Chen Jia</td>
+<td>上海交通大学</td>
+</tr>
+<tr>
+<td>2013.06.21</td>
+<td>导师：Raj K Sharma  学生：Vishnu Vardhan Makkapati</td>
+<td>PhilipsElectronicsIndia Limited</td>
+</tr>
+<tr>
+<td>2013.05.30</td>
+<td>Sadi Vural</td>
+<td>Arai Labs, Graduate school of  Engineering Science, Osaka University</td>
+</tr>
+<tr>
+<td>2013.05.27</td>
+<td>梁文靖</td>
+<td>中山大学附属第三医院</td>
+</tr>
+<tr>
+<td>2013.05.06</td>
+<td>胡浩基</td>
+<td>浙江大学信电系</td>
+</tr>
+<tr>
+<td>2013.04.29</td>
+<td>Cesar Martinez</td>
+<td>Universidad  Nacional del Litoral</td>
+</tr>
+<tr>
+<td>2013.04.02</td>
+<td>Svetlana Yanushkevich</td>
+<td>University of Calgary</td>
+</tr>
+<tr>
+<td>2013.04.02</td>
+<td>导师：Son Lam Phung  学生：Ai Zhang</td>
+<td>University of Wollongong</td>
+</tr>
+<tr>
+<td>2013.03.28</td>
+<td>Jean Liu</td>
+<td>Duke-NUS Graduate Medical School</td>
+</tr>
+<tr>
+<td>2013.02.26</td>
+<td>Sayad Safari</td>
+<td>Tabriz University</td>
+</tr>
+<tr>
+<td>2013.01.27</td>
+<td>回红</td>
+<td>上海交通大学信息安全工程学院</td>
+</tr>
+<tr>
+<td>2013.01.14</td>
+<td>prof. : Ehsan Arbabi  Stu: Vahid Alizade</td>
+<td>University of Tehran-School of  Electrical &amp; Computer Engineering</td>
+</tr>
+<tr>
+<td>2013.01.11</td>
+<td>陈晓鹏</td>
+<td>北京理工大学机电学院智能研究所</td>
+</tr>
+<tr>
+<td>2012.12.28</td>
+<td>沈刚</td>
+<td>华中科技大学软件学院</td>
+</tr>
+<tr>
+<td>2012.11.23</td>
+<td>丁希仓</td>
+<td>北京航空航天大学数学与系统科学学院</td>
+</tr>
+<tr>
+<td>2012.11.23</td>
+<td>小谷一孔</td>
+<td>JAIST</td>
+</tr>
+<tr>
+<td>2012.11.23</td>
+<td>Benjamin  Balas</td>
+<td>North Dakota State University, Fargo</td>
+</tr>
+<tr>
+<td>2012.11.15</td>
+<td>Zhuang Song</td>
+<td>University of California, San  Francisco</td>
+</tr>
+<tr>
+<td>2012.11.14</td>
+<td>丁新涛</td>
+<td>安徽师范大学数学计算机科学学院</td>
+</tr>
+<tr>
+<td>2012.11.5</td>
+<td>邱江</td>
+<td>西南大学心理学部</td>
+</tr>
+<tr>
+<td>2012.11.4</td>
+<td>杨光</td>
+<td>中国海洋大学信息科学与工程学院纹理实验室</td>
+</tr>
+<tr>
+<td>2012.10.31</td>
+<td>盛斌</td>
+<td>上海交通大学 计算机科学与工程系</td>
+</tr>
+<tr>
+<td>2012.10.30</td>
+<td>YANG, HYON SEUNG</td>
+<td>Korea Advanced Institute of Science,GuGeong-dong,Yuseong-gu,Daejeon,Korea</td>
+</tr>
+<tr>
+<td>2012.09.17</td>
+<td>李智</td>
+<td>四川大学望江校区电子信息学院</td>
+</tr>
+<tr>
+<td>2012.08.26</td>
+<td>Vijayan K Asari Signature</td>
+<td>University of Dayton</td>
+</tr>
+<tr>
+<td>2012.08.26</td>
+<td>陈华富</td>
+<td>电子科技大学生命科学与技术学院 神经信息教育部重点实验室</td>
+</tr>
+<tr>
+<td>2012.08.22</td>
+<td>Cecilia Cheng</td>
+<td>Dept. Psychology, the University of  Hong Kong</td>
+</tr>
+<tr>
+<td>2012.08.22</td>
+<td>吴艳红</td>
+<td>北京大学心理系</td>
+</tr>
+<tr>
+<td>2012.08.16</td>
+<td>黄磊</td>
+<td>中国科学院自动化研究所</td>
+</tr>
+<tr>
+<td>2012.07.26</td>
+<td>Vijayan K Asari, Nilesh Powar</td>
+<td>Department of ECE, University of Dayton</td>
+</tr>
+<tr>
+<td>2012.07.16</td>
+<td>范立南</td>
+<td>沈阳大学信息工程学院</td>
+</tr>
+<tr>
+<td>2012.07.16</td>
+<td>贺付亮</td>
+<td>西南大学电子信息工程学院</td>
+</tr>
+<tr>
+<td>2012.06.21</td>
+<td>Szabolcs Sergyan</td>
+<td>Óbuda University,Software Engineering Department</td>
+</tr>
+<tr>
+<td>2012.05.25</td>
+<td>杨风雷</td>
+<td>上海大学计算机工程与科学学院</td>
+</tr>
+<tr>
+<td>2012.05.25</td>
+<td>Regent Ayann</td>
+<td>Centre de Robotique et de Vision  Industrielle</td>
+</tr>
+<tr>
+<td>2012.05.23</td>
+<td>Student:HAMDI DIBEKLIOGLU  Prof:Theo Gevers</td>
+<td>Informatics Institute, University of  Amsterdam</td>
+</tr>
+<tr>
+<td>2012.05.18</td>
+<td>孟楠</td>
+<td>北京邮电大学深圳研究院</td>
+</tr>
+<tr>
+<td>2012.04.23</td>
+<td>顾成扬</td>
+<td>淮阴师范学院 数学科学学院 信息与计算科学系</td>
+</tr>
+<tr>
+<td>2012.04.20</td>
+<td>方潜生</td>
+<td>安徽建筑工业学院</td>
+</tr>
+<tr>
+<td>2012.04.15</td>
+<td>M.Asuncion Vicente</td>
+<td>Department of Industrial System Engineering,  Miguel Hernandez University</td>
+</tr>
+<tr>
+<td>2012.04.12</td>
+<td>陈雁秋</td>
+<td>复旦大学计算机学院</td>
+</tr>
+<tr>
+<td>2012.04.01</td>
+<td>王炳元</td>
+<td>内蒙古医学院基础医学院</td>
+</tr>
+<tr>
+<td>2012.04.01</td>
+<td>Alexandre Meyer</td>
+<td>LIRIS Universite Lyon 1</td>
+</tr>
+<tr>
+<td>2012.03.19</td>
+<td>徐俊</td>
+<td>南京脑科医院</td>
+</tr>
+<tr>
+<td>2012.03.19</td>
+<td>学生：肖业清；   导师：侯进</td>
+<td>西南交通大学九里校区</td>
+</tr>
+<tr>
+<td>2012.03.05</td>
+<td>Segun Aina   Raphael Phan</td>
+<td>School of Electronic, Electrical and  Systems Engineering    Loughborough University</td>
+</tr>
+<tr>
+<td>2012.02.17</td>
+<td>田锋</td>
+<td>西安交通大学 电信学院 自动化系</td>
+</tr>
+<tr>
+<td>2012.02.15</td>
+<td>Student: NUTHULA VENKATESH   Prof. M.Hanmandlu</td>
+<td>Indian Institute of Technology (IIT),  Delhi</td>
+</tr>
+<tr>
+<td>2012.01.06</td>
+<td>TEOH Eam Khwang</td>
+<td>Division of Control &amp;  Instrumentation, Nanyang Technological University</td>
+</tr>
+<tr>
+<td>2011.12.31</td>
+<td>胡敏</td>
+<td>合肥工业大学计算机与信息学院情感计算与先进智能机器实验室</td>
+</tr>
+<tr>
+<td>2011.12.21</td>
+<td>方昱春</td>
+<td>上海大学计算机工程与科学学院</td>
+</tr>
+<tr>
+<td>2011.12.18</td>
+<td>郑希付</td>
+<td>华南师范大学教育科学学院心理系</td>
+</tr>
+<tr>
+<td>2011.12.18</td>
+<td>Mohd Norzali Bin Haji Mohd</td>
+<td>Department of Computer Engineering,   Universiti Tun Hussein Onn Malaysia (UTHM)</td>
+</tr>
+<tr>
+<td>2011.12.12</td>
+<td>Y. Rahulamathavan</td>
+<td>School of Electronic, Electrical and  Systems Engineering, Loughborough University</td>
+</tr>
+<tr>
+<td>2011.12.06</td>
+<td>学生：杨立状   Alan Chun-Nang Wong</td>
+<td>Department of Psychology   The Chinese University of Hong Kong</td>
+</tr>
+<tr>
+<td>2011.11.30</td>
+<td>苏满红</td>
+<td>深圳职业技术学院机电工程学院</td>
+</tr>
+<tr>
+<td>2011.11.29</td>
+<td>秦喜文</td>
+<td>成春工业大学基础科学学院</td>
+</tr>
+<tr>
+<td>2011.11.22</td>
+<td>Vineeth N Balasubramanian</td>
+<td>School of Computing, Informatics and  Decision Systems Engineering, Arizona State University</td>
+</tr>
+<tr>
+<td>2011.11.10</td>
+<td>Hongying Meng</td>
+<td>Department of Electronic and Computer  Engineering   School of Engineering and Design, Brunel University</td>
+</tr>
+<tr>
+<td>2011.11.08</td>
+<td>徐新</td>
+<td>武汉科技大学计算机学院</td>
+</tr>
+<tr>
+<td>2011.10.25</td>
+<td>Rama Chellappa   Maria Puertas Calvo</td>
+<td>Centre for Automation Research   University of Maryland, College Park</td>
+</tr>
+<tr>
+<td>2011.10.24</td>
+<td>Hyunsu Jo   Tutor: Jinyun Chung</td>
+<td>S1 Corporation,   Image Computing Research Team</td>
+</tr>
+<tr>
+<td>2010.09.22</td>
+<td>P. Senthil Kumar    Tutor: K.Gokila meena</td>
+<td>Department of Information Technology,  PSG college of Technology</td>
+</tr>
+<tr>
+<td>2011.09.22</td>
+<td>Seven Soderkvist</td>
+<td>Department of Psychology,   Uppsala University</td>
+</tr>
+<tr>
+<td>2011.09.16</td>
+<td>Bruce Sparks</td>
+<td>West Virginia University Research  Corporation acting for and on behalf of West Virginia University</td>
+</tr>
+<tr>
+<td>2011.09.14</td>
+<td>Hyun-Wook Seo</td>
+<td>LED-IT Fusion Technology Research  Center (LIFTRC), Yeungnam University</td>
+</tr>
+<tr>
+<td>2011.08.31</td>
+<td>彭澄宇博士生    黄鸿老师</td>
+<td>重庆大学光电学院</td>
+</tr>
+<tr>
+<td>2011.08.28</td>
+<td>Amin Mohammadian</td>
+<td>Department of Biomedical Engineering,  Amirkabir University of Technology</td>
+</tr>
+<tr>
+<td>2011.08.16</td>
+<td>Wang Tao</td>
+<td>Embedded Application Research Lab,  Intel Labs China, Beijing, PRC</td>
+</tr>
+<tr>
+<td>2011.08.12</td>
+<td>姚鸿勋</td>
+<td>哈尔滨工业技术大学计算机科学与技术学院</td>
+</tr>
+<tr>
+<td>2011.08.10</td>
+<td>Student: Anil Yüce   Jean-Philippe Thiran</td>
+<td>Signal Processing Laboratory (LTS5),  Ecole Polytechnique Fédérale de Lausanne</td>
+</tr>
+<tr>
+<td>2011.07.27</td>
+<td>Stude: Jeanie Chan   Professor G. Nejat</td>
+<td>Autonomous Systems and  Biomechatronics Laboratory,   Mechanical and Industrial Engineering, University of Toronto</td>
+</tr>
+<tr>
+<td>2011.06.29</td>
+<td>Prof. M Hanmadlu</td>
+<td>Electrical Engineering Department   Indian Institute of Technology, Delhi</td>
+</tr>
+<tr>
+<td>2011.06.13</td>
+<td>学生：张庆   韦穗 教授</td>
+<td>安徽大学计算智能与信号处理教育部重点实验室</td>
+</tr>
+<tr>
+<td>2011.06.02</td>
+<td>Gaurav Jain, B.A.Sc    Prof. K.N. Plataniotis</td>
+<td>Electrical and Computer Engineering   University of Toronto</td>
+</tr>
+<tr>
+<td>2011.05.30</td>
+<td>张文超博士</td>
+<td>新加坡松下研究院Panasonic Singapore Laboratories  Pte Ltd (PSL)</td>
+</tr>
+<tr>
+<td>2011.05.25</td>
+<td>学生：吴奇   傅小兰研究员</td>
+<td>中科院心理所</td>
+</tr>
+<tr>
+<td>2011.03.22</td>
+<td>学生：张伟    导师：童莹</td>
+<td>南京工程学院，通信工程学院</td>
+</tr>
+<tr>
+<td>2011.03.01</td>
+<td>学生：潘昕    导师：Masaki Aono</td>
+<td>日本丰桥技术科学大学    计算机科学工程系</td>
+</tr>
+<tr>
+<td>2011.03.07</td>
+<td>学生：杨新权    导师：侯晓荣</td>
+<td>电子科技大学</td>
+</tr>
+<tr>
+<td>2011.03.10</td>
+<td>Peter Hancock</td>
+<td>Department of Psychology,   University of Stirling</td>
+</tr>
+<tr>
+<td>2010.10.01</td>
+<td>学生：黄晓华    导师：Matti  Pietihainen</td>
+<td>Machine Vision Group, Department of  Electrical and Information Engineering, University of Oulu</td>
+</tr>
+<tr>
+<td>2010.12.08</td>
+<td>学生:张立刚    导师:Dian  Tjondronegoro</td>
+<td>Queensland University of Technology</td>
+</tr>
+<tr>
+<td>2010.10.10</td>
+<td>学生：CHEN Fan   导师：小谷 一孔</td>
+<td>Japan Advanced Institute of Science  and Technology</td>
+</tr>
+<tr>
+<td>2010.11.15</td>
+<td>学生：张正    导师：方驰</td>
+<td>清华大学</td>
+</tr>
+<tr>
+<td>2010.11.01</td>
+<td>学生：龚艳敏    导师：陈健生</td>
+<td>清华大学,电子工程系</td>
+</tr>
+<tr>
+<td>2010.10.27</td>
+<td>学生：牛增欣    导师：王 喆</td>
+<td>华东理工大学，信息科学与工程学院计算机系</td>
+</tr>
+<tr>
+<td>2010.11.18</td>
+<td>学生：王宁   导师：牛夏牧</td>
+<td>哈尔滨工业大学信息对抗技术研究所</td>
+</tr>
+<tr>
+<td>2010.12.20</td>
+<td>Pascal Bourdon</td>
+<td>Imaging &amp; Network Experience    Technicolor Research &amp; Innovation</td>
+</tr>
+<tr>
+<td>2011.11.29</td>
+<td>Seng Kah  Phool</td>
+<td>The University  of Nottingham</td>
+</tr>
+<tr>
+<td>2011.01.26</td>
+<td>学生：张文亮    导师：马争鸣</td>
+<td>中山大学信息科技学院信息处理与传输实验室</td>
+</tr>
+<tr>
+<td>2011.07.25</td>
+<td>Student: Jakub Rudner   Toby Breckon</td>
+<td>School of Engineering,   Cranfield of University</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_pv">Page View:<span id="busuanzi_value_site_pv"></span></span>
+  </div>
+  <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
+    <span id="busuanzi_container_site_uv">Unique Visitor:<span id="busuanzi_value_site_uv"></span></span>
+  </div>
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.732501ec195c50108b5d5b22c54532b8.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
