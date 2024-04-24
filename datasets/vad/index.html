@@ -797,13 +797,6 @@
     
       <div class="row  justify-content-center" align="justify">
       
-        
-          <div class="section-heading col-12 mb-3 text-center">
-            <h1 class="mb-0">VAD</h1>
-            
-          </div>
-        
-      
     
 
       
@@ -814,89 +807,29 @@
     <font face="楷书">
 <h1 id="centervadhttpsieeexploreieeeorgdocument10480614"><center><a href="https://ieeexplore.ieee.org/document/10480614" target="_blank" rel="noopener">VAD</a></h1>
 <h2 id="overview">Overview</h2>
-<p>The VAD dataset is conducted to solve the issues that the scale, quality, and affective model of existing datasets are still limited. We hope that the VAD dataset can promote the development of research on video affective content analysis.</p>
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="image.png" alt="alt text" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
+<p>The VAD dataset is a new large-scale dataset in the field of video affective content analysis. It aimed to solve the issues that the scale, quality, and affective model of existing datasets are still limited.</p>
 <h2 id="dataset-description">Dataset Description</h2>
-<p>The VAD dataset consists of 19,267 elaborately segmented video clips from user-generated videos on the BiliBili website. The VAD dataset is annotated by the crowdsourcing platform with discrete valence, arousal, and primary emotions, as well as the comparison of valence and arousal between two consecutive video clips. Unlike previous datasets, including only video clips, our VAD dataset also provides danmu, which is the real-time comment from users as they watch a video. Danmu provides extra information for video affective content analysis.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="image-3.png" alt="alt text" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
+<p>The VAD dataset consists of 19,267 elaborately segmented video clips from user-generated videos on the BiliBili website. The VAD dataset is annotated by the crowdsourcing platform with discrete valence, arousal, and primary emotions, as well as the comparison of valence and arousal between two consecutive video clips. Unlike previous datasets, including only video clips, our VAD dataset also provides danmu as shown in the Fig 1, which is the real-time comment from users as they watch a video. Danmu provides extra information for video affective content analysis.</p>
+<div align=center><img src="image-3.png"></div>
+<center><p>Fig 1. Original video from BiliBili with danmu in our VAD dataset.</p></center>
 <h2 id="annotations-and-labels">Annotations and Labels</h2>
-<p>The purpose of the annotation process is to assign valence, arousal, and primary emotion to the intended affect in these segmented video clips and compare two adjacent clips in the same video with respect to valence and arousal simultaneously.</p>
+<p>The purpose of the annotation process is to assign valence, arousal, and primary emotion to the intended affect in these segmented video clips and compare two adjacent clips in the same video with respect to valence and arousal simultaneously as shown in the Fig 2.</p>
 <ul>
 <li>Valence:  The valence (V) is limited to three discrete levels ranging from 1 to 3. They represent <strong>negative</strong>, <strong>neutral</strong>, and <strong>positive</strong> respectively.</li>
 <li>Arousal: The arousal (A) is limited to three discrete levels classes ranging from 1 to 3. They represent <strong>calm</strong>, <strong>excited</strong>, and <strong>very excited</strong> respectively.</li>
 <li>Primary Emotion: The primary emotion (PE) contains thirteen classes including eight basic emotions from Plutchik&rsquo;s wheel and five other emotions. Specifically, the eight basic emotions are <strong>anger, disgust, fear, happiness, surprise, trust, anticipation, and sadness</strong>. Five other emotions are <strong>love, pride, satisfaction, horror, and neutral</strong>. In particular, love is a combination of joy and trust, and pride is composed of anger and joy through the emotion combinatorial theory of Plutchik&rsquo;s wheel.</li>
 <li>Valence Comparison: The valence comparison (VC) is set to three discrete levels from -1 to 1 to represent more <strong>negative, similar, and more positive valence</strong> respectively.</li>
-<li>Arousal Comparison:: The arousal comparison (AC) is also set to three discrete levels from -1 to 1 to represent <strong>lower, similar, and higher arousal</strong> respectively.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="image-2.png" alt="alt text" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</li>
+<li>Arousal Comparison:: The arousal comparison (AC) is also set to three discrete levels from -1 to 1 to represent <strong>lower, similar, and higher arousal</strong> respectively.</li>
 </ul>
+ <div align=center><img src="image-2.png"></div>
+<center><p>Fig 2. Dataset annotation.</p></center>
 <h2 id="license-and-agreement">License and Agreement</h2>
 <p>To access the VAD dataset, researchers need to print the <a href="agreement.pdf">user license agreement</a>, sign it, and send it to us. Please note that it is required that the agreement is signed by an individual holding an official position at their respective institution. This ensures that the signatory has the authority and responsibility to adhere to the terms of use and licensing conditions outlined in the agreement. After we verify, we will provide a link to download the dataset.</p>
 <h2 id="usage">Usage</h2>
-<p>If the VAD dataset infringes upon the rights of a third party, please contact us. For the directory description of the dataset we return for users, please refer to this <a href="Introduction_to_directories_part.pdf">file</a>.</p>
+<p>If the VAD dataset infringes upon the rights of a third party, please contact us. For the directory description of the dataset we return for users, please refer to this <a href="Introduction_to_directories_part.md">file</a>.</p>
 <h2 id="contact-us">Contact Us</h2>
 <p>For any inquiries about the VAD dataset, please contact:</p>
 <p><strong>Jiahe Wang</strong> (In charge of the database): <a href="mailto:wangjiahe317@mail.ustc.edu.cn">wangjiahe317@mail.ustc.edu.cn</a></p>
-<p><strong>Zhou&rsquo;an Zhu</strong>: <a href="mailto:zza2021@mail.ustc.edu.cn">zza2021@mail.ustc.edu.cn</a></p>
 <p><strong>Shangfei Wang</strong>: <a href="mailto:sfwang@ustc.edu.cn">sfwang@ustc.edu.cn</a></p>
 <h2 id="citation">Citation</h2>
 <pre><code>@article{wang2024vad,
