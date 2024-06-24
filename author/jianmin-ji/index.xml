@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianmin Ji | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jianmin-ji/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jianmin-ji/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jianmin-ji/</link>
+      <atom:link href="http://localhost:1313/author/jianmin-ji/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianmin Ji</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Jianmin Ji</title>
-      <link>https://ustc-ac.github.io/author/jianmin-ji/</link>
+      <link>http://localhost:1313/author/jianmin-ji/</link>
     </image>
     
     <item>
       <title>KDSL: a Knowledge-Driven Supervised Learning Framework for Word Sense Disambiguation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
+      <link>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards robot incremental learning constraints from comparative demonstration</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</link>
+      <link>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
       <description></description>
     </item>
     

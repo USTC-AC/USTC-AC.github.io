@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoxiao Shi | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/xiaoxiao-shi/</link>
-      <atom:link href="https://ustc-ac.github.io/author/xiaoxiao-shi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiaoxiao-shi/</link>
+      <atom:link href="http://localhost:1313/author/xiaoxiao-shi/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoxiao Shi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaoxiao Shi</title>
-      <link>https://ustc-ac.github.io/author/xiaoxiao-shi/</link>
+      <link>http://localhost:1313/author/xiaoxiao-shi/</link>
     </image>
     
     <item>
       <title>Learning with privileged information for multi-Label classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning with Privileged Information for Multi-Label Classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit hybrid video emotion tagging by integrating video content and users&#39; multiple physiological responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression Recognition from Visible Images with the Help of Thermal Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</guid>
       <description></description>
     </item>
     

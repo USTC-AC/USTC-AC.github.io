@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Ding | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/rui-ding/</link>
-      <atom:link href="https://ustc-ac.github.io/author/rui-ding/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/rui-ding/</link>
+      <atom:link href="http://localhost:1313/author/rui-ding/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Ding</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Rui Ding</title>
-      <link>https://ustc-ac.github.io/author/rui-ding/</link>
+      <link>http://localhost:1313/author/rui-ding/</link>
     </image>
     
     <item>
       <title>A qualitative and quantitative study of color emotion using valence-arousal</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-d-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-d-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Relationships between Color and Emotion by Classification Based on Associations</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</link>
+      <link>http://localhost:1313/publication/dblp-confcsse-ding-whw-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcsse-ding-whw-08/</guid>
       <description></description>
     </item>
     

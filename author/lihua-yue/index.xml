@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lihua Yue | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/lihua-yue/</link>
-      <atom:link href="https://ustc-ac.github.io/author/lihua-yue/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lihua-yue/</link>
+      <atom:link href="http://localhost:1313/author/lihua-yue/index.xml" rel="self" type="application/rss+xml" />
     <description>Lihua Yue</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Lihua Yue</title>
-      <link>https://ustc-ac.github.io/author/lihua-yue/</link>
+      <link>http://localhost:1313/author/lihua-yue/</link>
     </image>
     
     <item>
       <title>Employing subjects&#39; information as privileged information for emotion recognition from EEG signals</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition with the Help of Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple-Facial Action Unit Recognition by Shared Feature Learning and Semantic Relation Modeling</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</guid>
       <description></description>
     </item>
     

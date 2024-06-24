@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qiong Li | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/qiong-li/</link>
-      <atom:link href="https://ustc-ac.github.io/author/qiong-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/qiong-li/</link>
+      <atom:link href="http://localhost:1313/author/qiong-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiong Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/qiong-li/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/qiong-li/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Qiong Li</title>
-      <link>https://ustc-ac.github.io/author/qiong-li/</link>
+      <link>http://localhost:1313/author/qiong-li/</link>
     </image>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <link>http://localhost:1313/publication/manual-pr24-chang/</link>
       <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-pr24-chang/</guid>
       <description></description>
     </item>
     

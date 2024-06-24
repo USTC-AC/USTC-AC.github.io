@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Face Recognition | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/face-recognition/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/face-recognition/</link>
+      <atom:link href="http://localhost:1313/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Face Recognition</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Face Recognition</title>
-      <link>https://ustc-ac.github.io/tag/face-recognition/</link>
+      <link>http://localhost:1313/tag/face-recognition/</link>
     </image>
     
     <item>
       <title>Low-Resolution Face Recognition Enhanced by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg23-wang/</link>
+      <link>http://localhost:1313/publication/manual-fg23-wang/</link>
       <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg23-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg23-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge Guided Representation Disentanglement for Face Recognition from Low Illumination Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-miao/</link>
+      <link>http://localhost:1313/publication/manual-mm22-miao/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-miao/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-miao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Multi-Scale Resolution-Adaptive Network for Low-Resolution Face Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-wang/</link>
+      <link>http://localhost:1313/publication/manual-mm22-wang/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-wang/</guid>
       <description></description>
     </item>
     

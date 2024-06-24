@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | USTC-AC</title>
-    <link>https://ustc-ac.github.io/publication/</link>
-      <atom:link href="https://ustc-ac.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://ustc-ac.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>A Multi-Modal Hierarchical Recurrent Neural Network for Depression Detection</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-ldw-19/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-ldw-19/</guid>
       <description>&lt;p&gt;Depression has a severe effect on people’s life. The artificial therapy of depression is facing a shortage of expert therapists. The automatic detection of depression can be an auxiliary means of artificial therapy. As a delicate mental symptom, depression cannot be accurately distinguished via single modal observation. To address this, our work utilizes vision, audio and text features. For vision features, gaze direction, 3D position, the orientation of the head and 17 facial action units are considered. For audio, the hidden layers of pre-trained deep models are used. For text, we build features from two aspects. The first one is the semantic embedding of the whole sentence. The second one is the emotional distribution of several words with obvious emotional tendencies. A subject engaging in a multi-turns conversation may produce several video clips sharing a similar theme. Facing the hierarchical characteristic of such data, we design a framework consisting of two hierarchies of bidirectional long short term memories (LSTM) for the depression detection task. The first hierarchy of bidirectional LSTM extracts vision and audio features for every video clip. The second hierarchy of bidirectional LSTM fuses the visual, audio and textual features and regresses the degree of depression. The indicator in concern in the DDS challenge is the PHQ-8 Score, while the proposed method jointly learns the PTSD Severity to facilitate the prediction of the PHQ-8 Score under a multi-task learning schema.&lt;/p&gt;
 
 
@@ -38,7 +38,7 @@
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png 400w,
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_5630924c619272899f07b90643de324d.png 760w,
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -51,161 +51,161 @@
     
     <item>
       <title>A Multi-Stage Visual Perception Approach for Image Emotion Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-lu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-lu/</link>
       <pubDate>Wed, 27 Mar 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-lu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <link>http://localhost:1313/publication/manual-pr24-chang/</link>
       <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-pr24-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-wu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive Visual Content Understanding Network for Image Emotion Classification</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-pan/</link>
+      <link>http://localhost:1313/publication/manual-mm23-pan/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-pan/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-wu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy-Protected Facial Expression Recognition Augmented by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-icme23-liang/</link>
+      <link>http://localhost:1313/publication/manual-icme23-liang/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icme23-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-icme23-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniFaRN: Unified Transformer for Facial Reaction Generation</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-react/</link>
+      <link>http://localhost:1313/publication/manual-mm23-react/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-react/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>
-      <link>https://ustc-ac.github.io/publication/manual-accv22-wang/</link>
+      <link>http://localhost:1313/publication/manual-accv22-wang/</link>
       <pubDate>Thu, 08 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-accv22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-accv22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Pose Estimation with Shape Aware Loss</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg23-fang/</link>
+      <link>http://localhost:1313/publication/manual-fg23-fang/</link>
       <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg23-fang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg23-fang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Resolution Face Recognition Enhanced by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg23-wang/</link>
+      <link>http://localhost:1313/publication/manual-fg23-wang/</link>
       <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg23-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg23-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge Guided Representation Disentanglement for Face Recognition from Low Illumination Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-miao/</link>
+      <link>http://localhost:1313/publication/manual-mm22-miao/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-miao/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-miao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representation Learning through Multimodal Attention and Time-sync Comments for Video Affective Content Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-pan/</link>
+      <link>http://localhost:1313/publication/manual-mm22-pan/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-pan/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Multi-Scale Resolution-Adaptive Network for Low-Resolution Face Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-wang/</link>
+      <link>http://localhost:1313/publication/manual-mm22-wang/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Stacking Ensemble for Facial Landmark Tracking</title>
-      <link>https://ustc-ac.github.io/publication/manual-icpr22-fang/</link>
+      <link>http://localhost:1313/publication/manual-icpr22-fang/</link>
       <pubDate>Fri, 01 Apr 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icpr22-fang/</guid>
+      <guid>http://localhost:1313/publication/manual-icpr22-fang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-cvpr22-chang/</link>
+      <link>http://localhost:1313/publication/manual-cvpr22-chang/</link>
       <pubDate>Tue, 01 Mar 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-cvpr22-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-cvpr22-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-Invariant Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg21-liang/</link>
+      <link>http://localhost:1313/publication/manual-fg21-liang/</link>
       <pubDate>Sun, 05 Dec 2021 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg21-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg21-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain</title>
-      <link>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</link>
+      <link>http://localhost:1313/publication/manual-ijcai21-xia/</link>
       <pubDate>Thu, 29 Apr 2021 10:03:01 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</guid>
+      <guid>http://localhost:1313/publication/manual-ijcai21-xia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional Attention Detection and Correlation Exploration for Image Emotion Distribution Learning</title>
-      <link>https://ustc-ac.github.io/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</link>
+      <link>http://localhost:1313/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</link>
       <pubDate>Tue, 06 Apr 2021 11:54:51 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</guid>
+      <guid>http://localhost:1313/publication/emotional-attention-detection-and-correlation-exploration-for-image-emotion-distribution-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Emotion Distribution for Multimedia Emotion Tagging</title>
-      <link>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</link>
+      <link>http://localhost:1313/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</link>
       <pubDate>Thu, 18 Feb 2021 11:58:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</guid>
+      <guid>http://localhost:1313/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/</guid>
       <description>&lt;p&gt;Multimedia collections usually induce multiple emotions in audiences. The data distribution of multiple emotions can be leveraged to facilitate the learning process of emotion tagging, yet has not been thoroughly explored. To address this, we propose adversarial learning to fully capture emotion distributions for emotion tagging of multimedia data. The proposed multimedia emotion tagging approach includes an emotion classifier and a discriminator. The emotion classifier predicts emotion labels of multimedia data from their content. The discriminator distinguishes the predicted emotion labels from the ground truth labels. The emotion classifier and the discriminator are trained simultaneously in competition with each other. By jointly minimizing the traditional supervised loss and maximizing the distribution similarity between the predicted emotion labels and the ground truth emotion labels, the proposed multimedia emotion tagging approach successfully captures both the mapping function between multimedia content and emotion labels as well as prior distribution in emotion labels, and thus achieves state-of-the-art performance for multiple emotion tagging, as demonstrated by the experimental results on four benchmark databases.&lt;/p&gt;
 
 
@@ -227,7 +227,7 @@
                /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg 400w,
                /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_9d15f47da7b78c49ba5849d19a69178e.jpg 760w,
                /publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg&#34;
+               src=&#34;http://localhost:1313/publication/capturing-emotion-distribution-for-multimedia-emotion-tagging/featured_hufb81d44ede70ae46d4815dea23d83fa1_71767_247e857c1e6d823735aaa3289daa1c24.jpg&#34;
                width=&#34;760&#34;
                height=&#34;324&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -239,25 +239,25 @@
     
     <item>
       <title>Exploring Adversarial Learning for Deep Semi-Supervised Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-2106-02258/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2106-02258/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-2106-02258/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-task face analyses through adversarial learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-yhl-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-yhl-21/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-yhl-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attentive One-Dimensional Heatmap Regression for Facial Landmark Detection and Tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</guid>
       <description>&lt;p&gt;Although heatmap regression is considered a state-of-the-art method to locate facial landmarks, it suffers from huge spatial complexity and is prone to quantization error. To address this, we propose a novel attentive one-dimensional heatmap regression method for facial landmark localization. First, we predict two groups of 1D heatmaps to represent the marginal distributions of the 𝑥 and 𝑦 coordinates. These 1D heatmaps reduce spatial complexity significantly compared to current heatmap regression methods, which use 2D heatmaps to represent the joint distributions of 𝑥 and 𝑦 coordinates. With much lower spatial complexity, the proposed method can output high-resolution 1D heatmaps despite limited GPU memory, significantly alleviating the quantization error. Second, a co-attention mechanism is adopted to model the inherent spatial patterns existing in 𝑥 and 𝑦 coordinates, and therefore the joint distributions on the 𝑥 and 𝑦 axes are also captured. Third, based on the 1D heatmap structures, we propose a facial landmark detector capturing spatial patterns for landmark detection on an image; and a tracker further capturing temporal patterns with a temporal refinement mechanism for landmark tracking. Experimental results on four benchmark databases demonstrate the superiority of our method.&lt;/p&gt;
 
 
@@ -279,7 +279,7 @@
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png 400w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_8c3a8280da7eec8db4b8d933907c5c70.png 760w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
                width=&#34;760&#34;
                height=&#34;498&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -291,33 +291,33 @@
     
     <item>
       <title>Dual Learning for Facial Action Unit Detection Under Nonfull Annotation</title>
-      <link>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</link>
+      <link>http://localhost:1313/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</link>
       <pubDate>Mon, 13 Jul 2020 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</guid>
+      <guid>http://localhost:1313/publication/dual-learning-for-facial-action-unit-detection-under-nonfull-annotation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Dynamic Model Capturing Spatial and Temporal Patterns for Facial Expression Analysis</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalspami-wang-zyyj-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspami-wang-zyyj-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Joint Label Distribution for Multi-Label Classification Through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalstkde-wang-pz-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstkde-wang-pz-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstkde-wang-pz-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Multi-Emotion Relations at Feature and Label Levels for Emotion Tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-xu-ww-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-xu-ww-20/</guid>
       <description>&lt;p&gt;The dependence among emotions is crucial to boost emotion tagging. In this paper, we propose a novel emotion tagging method, that thoroughly explores emotion relations from both the feature and label levels. Specifically, a graph convolutional network is introduced to inject local dependence among emotions into the model at the feature level, while an adversarial learning strategy is applied to constrain the joint distribution of multiple emotions at the label level. In addition, a new balanced loss function that mitigates the adverse effects of intra-class and inter-class imbalance is introduced to deal with the imbalance of emotion labels. Experimental results on several benchmark databases demonstrate the superiority of the proposed method compared to state-of-the-art works.&lt;/p&gt;
 
 
@@ -339,7 +339,7 @@
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg 400w,
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_3e2c15bb1a0f5c524a41632e86e8c53a.jpg 760w,
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg&#34;
                width=&#34;760&#34;
                height=&#34;305&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -351,9 +351,9 @@
     
     <item>
       <title>Exploiting Self-Supervised and Semi-Supervised Learning for Facial Landmark Tracking with Unlabeled Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-wcc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-wcc-20/</guid>
       <description>&lt;p&gt;Current work of facial landmark tracking usually requires large amounts of fully annotated facial videos to train a landmark tracker. To relieve the burden of manual annotations, we propose a novel facial landmark tracking method that makes full use of unlabeled facial videos by exploiting both self-supervised and semi-supervised learning mechanisms. First, self-supervised learning is adopted for representation learning from unlabeled facial videos. Specifically, a facial video and its shuffled version are fed into a feature encoder and a classifier. The feature encoder is used to learn visual representations, and the classifier distinguishes the input videos as the original or the shuffled ones. The feature encoder and the classifier are trained jointly. Through self-supervised learning, the spatial and temporal patterns of a facial video are captured at representation level. After that, the facial landmark tracker, consisting of the pre-trained feature encoder and a regressor, is trained semi-supervisedly. The consistencies among the tracking results of the original, the inverse and the disturbed facial sequences are exploited as the constraints on the unlabeled facial videos, and the supervised loss is adopted for the labeled videos. Through semi-supervised end to-end training, the tracker captures sequential patterns inherent in facial videos despite small amount of manual annotations. Experiments on two benchmark datasets show that the proposed framework outperforms state-of-the art semi-supervised facial landmark tracking methods, and also achieves advanced performance compared to fully supervised facial landmark tracking methods.&lt;/p&gt;
 
 
@@ -375,7 +375,7 @@
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg 400w,
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_b96c3a48c425c65acb4fcbbfa2599202.jpg 760w,
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg&#34;
                width=&#34;760&#34;
                height=&#34;372&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -387,25 +387,25 @@
     
     <item>
       <title>Exploring Domain Knowledge for Facial Expression-Assisted Action Unit Activation Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-pj-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-pj-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-pj-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge-Augmented Multimodal Deep Regression Bayesian Networks for Emotion Video Tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-hj-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-hj-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-hj-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-hj-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Macro-expression: a Micro-expression Recognition Framework</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-0012-wwc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-0012-wwc-20/</guid>
       <description>&lt;p&gt;As one of the most important forms of psychological behaviors, micro-expression can reveal the real emotion. However, the existing labeled micro-expression samples are limited to train a high performance micro-expression classifier. Since micro-expression and macro-expression share some similarities in facial muscle movements and texture changes, in this paper we propose a micro-expression recognition framework that leverages macro-expression samples as guidance. Specifically, we first introduce two Expression Identity Disentangle Network, named MicroNet and MacroNet, as the feature extractor to disentangle expression-related features for micro and macro expression samples. Then MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space. Adversarial learning strategy and triplet loss are added upon feature level between the MicroNet and MacroNet, so the MicroNet can efficiently capture the shared features of micro-expression and macro-expression samples. Loss inequality regularization is imposed to the label space to make the output of MicroNet converge to that of MicroNet. Comprehensive experiments on three public spontaneous micro-expression databases, i.e., SMIC, CASME2 and SAMM demonstrate the superiority of the proposed method.&lt;/p&gt;
 
 
@@ -427,7 +427,7 @@
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg 400w,
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_0b1bee0764bd1981a1b49b81caca145c.jpg 760w,
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -439,9 +439,9 @@
     
     <item>
       <title>Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-0012-w-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-0012-w-20/</guid>
       <description>&lt;p&gt;Although facial expression recognition has improved in recent years, it is still very challenging to recognize expressions from occluded facial images in the wild. Due to the lack of large-scale facial expression datasets with diversity of the type and position of occlusions, it is very difficult to learn robust occluded expression classifier directly from limited occluded images. Considering facial images without occlusions usually provide more information for facial expression recognition compared to occluded facial images, we propose a step-wise learning strategy for occluded facial expression recognition that utilizes unpaired non-occluded images as guidance in the feature and label space. Specifically, we first measure the complexity of non-occluded data using distribution density in a feature space and split data into three subsets. In this way, the occluded expression classifier can be guided by basic samples first, and subsequently leverage more meaningful and discriminative samples. Complementary adversarial learning techniques are applied in the global-level and local-level feature space throughout, forcing the distribution of the occluded features to be close to the distribution of the non-occluded features. We also take the variability of the different images&amp;rsquo; transferability into account via adaptive classification loss. Loss inequality regularization is imposed in the label space to calibrate the output values of the occluded network. Experimental results show that our method improves performance on both synthesized occluded databases and realistic occluded databases.&lt;/p&gt;
 
 
@@ -463,7 +463,7 @@
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg 400w,
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_9c4a277e5a6e2fde4662887abbf83019.jpg 760w,
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg&#34;
                width=&#34;760&#34;
                height=&#34;274&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -475,25 +475,25 @@
     
     <item>
       <title>Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-2007-05932/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-2007-05932/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and Spontaneous Expression Distinction Using Latent Regression Bayesian Networks</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstomccap-wang-hj-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalstomccap-wang-hj-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstomccap-wang-hj-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstomccap-wang-hj-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unpaired Multimodal Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</link>
+      <link>http://localhost:1313/publication/dblp-confaccv-0012-w-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaccv-0012-w-20/</guid>
       <description>&lt;p&gt;Current works on multimodal facial expression recognition typically require paired visible and thermal facial images. Although visible cameras are readily available in our daily life, thermal cameras are expensive and less prevalent. It is costly to collect a large quantity of synchronous visible and thermal facial images. To tackle this paired training data bottleneck, we propose an unpaired multimodal facial expression recognition method, which makes full use of the massive number of unpaired visible and thermal images by utilizing thermal images to construct better image representations and classifiers for visible images during training. Specifically, two deep neural networks are trained from visible and thermal images to learn image representations and expression classifiers for two modalities. Then, an adversarial strategy is adopted to force statistical similarity between the learned visible and thermal representations, and to minimize the distribution mismatch between the predictions of the visible and thermal images. Through adversarial learning, the proposed method leverages thermal images to construct better image representations and classifiers for visible images during training, without the requirement of paired data. A decoder network is built upon the visible hidden features in order to preserve some inherent features of the visible view. We also take the variability of the different images’ transferability into account via adaptive classification loss. During testing, only visible images are required and the visible network is used. Thus, the proposed method is appropriate for real-world scenarios, since thermal imaging is rare in these instances. Experiments on two benchmark multimodal expression databases and three visible facial expression databases demonstrate the superiority of the proposed method compared to state-of-the-art methods.&lt;/p&gt;
 
 
@@ -515,7 +515,7 @@
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png 400w,
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_32e70429dd06375f2df8c780e0a4351c.png 760w,
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png&#34;
                width=&#34;760&#34;
                height=&#34;360&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -527,25 +527,25 @@
     
     <item>
       <title>Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-1911-05609/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-1911-05609/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Feature and Label Relations Simultaneously for Multiple Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-wpj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-wpj-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Spatial and Temporal Patterns for Facial Landmark Tracking through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</link>
+      <link>http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/</guid>
       <description>&lt;p&gt;The spatial and temporal patterns inherent in facial feature points are crucial for facial landmark tracking, but have not been thoroughly explored yet. In this paper, we propose a novel deep adversarial framework to explore the shape and temporal dependencies from both appearance level and target label level. The proposed deep adversarial framework consists of a deep landmark tracker and a discriminator. The deep landmark tracker is composed of a stacked Hourglass network as well as a convolutional neural network and a long short-term memory network, and thus implicitly capture spatial and temporal patterns from facial appearance for facial landmark tracking. The discriminator is adopted to distinguish the tracked facial landmarks from ground truth ones. It explicitly models shape and temporal dependencies existing in ground truth facial landmarks through another convolutional neural network and another long short-term memory network. The deep landmark tracker and the discriminator compete with each other. Through adversarial learning, the proposed deep adversarial landmark tracking approach leverages inherent spatial and temporal patterns to facilitate facial landmark tracking from both appearance level and target label level. Experimental results on two benchmark databases demonstrate the superiority of the proposed approach to state-of-the-art work.&lt;/p&gt;
 
 
@@ -567,7 +567,7 @@
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg 400w,
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a56dd2a610ca26e0e1f5ae708692b7f9.jpg 760w,
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
                width=&#34;760&#34;
                height=&#34;268&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -579,17 +579,17 @@
     
     <item>
       <title>Content-Based Video Emotion Tagging Augmented by Users&#39; Multiple Physiological Responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-cj-19/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-cj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-cj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-cj-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Semi-Supervised Learning for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-peng-w-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-peng-w-19/</guid>
       <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-labeled training samples. To reduce the reliance on time-consuming manual AU annotations, we propose a novel semi-supervised AU recognition method leveraging two kinds of readily available auxiliary information.The method leverages the dependencies between AUs and expressions as well as the dependencies among AUs, which are caused by facial anatomy and therefore embedded in all facial images, independent on their AU annotation status. The other auxiliary information is facial image synthesis given AUs, the dual task of AU recognition from facial images, and therefore has intrinsic probabilistic connections with AU recognition, regardless of AU annotations. Specifically, we propose a dual semi-supervised generative adversarial network for AU recognition from partially AU-labeled and fully expression-labeled facial images. The proposed network consists of an AU classifier C, an image generator G, and a discriminator D. In addition to minimize the supervised losses of the AU classifier and the face generator for labeled training data,we explore the probabilistic duality between the tasks using adversary learning to force the convergence of the face-AU-expression tuples generated from the AU classifier and the face generator, and the ground-truth distribution in labeled data for all training data. This joint distribution also includes the inherent AU dependencies. Furthermore, we reconstruct the facial image using the output of the AU classifier as the input of the face generator, and create AU labels by feeding the output of the face generator to the AU classifier. We minimize reconstruction losses for all training data, thus exploiting the informative feedback provided by the dual tasks. Within-database and cross-database experiments on three benchmark databases demonstrate the superiority of our method in both AU recognition and face synthesis compared to state-of-the-art works.&lt;/p&gt;
 
 
@@ -611,7 +611,7 @@
                /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG 400w,
                /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_c2fe2348982c07e727263e1acbc9ab88.JPG 760w,
                /publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-peng-w-19/featured_hudd7daa1dca088bf83220ca908efacfc0_71773_ab3401311a2c9492477c955c1bac484b.JPG&#34;
                width=&#34;760&#34;
                height=&#34;314&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -623,17 +623,17 @@
     
     <item>
       <title>Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstip-wang-hj-19/</link>
+      <link>http://localhost:1313/publication/dblp-journalstip-wang-hj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstip-wang-hj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstip-wang-hj-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</guid>
       <description>&lt;p&gt;Existing facial expression recognition methods either focus on pose variations or identity bias, but not both simultaneously. This paper proposes an adversarial feature learning method to address both of these issues. Specifically, the proposed method consists of five components: an encoder, an expression classifier, a pose discriminator, a subject discriminator, and a generator. An encoder extracts feature representations, and an expression classifier tries to perform facial expression recognition using the extracted feature representations. The encoder and the expression classifier are trained collaboratively, so that the extracted feature representations are discriminative for expression recognition. A pose discriminator and a subject discriminator classify the pose and the subject from the extracted feature representations respectively. They are trained adversarially with the encoder. Thus, the extracted feature representations are robust to poses and subjects. A generator reconstructs facial images to further favor the feature representations. Experiments on five benchmark databases demonstrate the superiority of the proposed method to state-of-the-art work.&lt;/p&gt;
 
 
@@ -655,7 +655,7 @@
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG 400w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_4df95c27df35fe431c16fd0386aebc1a.JPG 760w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -667,9 +667,9 @@
     
     <item>
       <title>Image Aesthetic Assessment Assisted by Attributes through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-pan-wj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-pan-wj-19/</guid>
       <description>&lt;p&gt;The inherent connections among aesthetic attributes and aesthetics are crucial for image aesthetic assessment, but have not been thoroughly explored yet. In this paper, we propose a novel image aesthetic assessment assisted by attributes through both representation-level and label-level. The attributes are used as privileged information, which is only required during training. Specifically, we first propose a multitask deep convolutional rating network to learn the aesthetic score and attributes simultaneously. The attributes are explored to construct better feature representations for aesthetic assessment through multi-task learning. After that, we introduce a discriminator to distinguish the predicted attributes and aesthetics of the multi-task deep network from the ground truth label distribution embedded in the training data. The multi-task deep network wants to output aesthetic score and attributes as close to the ground truth labels as possible. Thus the deep network and the discriminator compete with each other. Through adversarial learning, the attributes are explored to enforce the distribution of the predicted attributes and aesthetics to converge to the ground truth label distribution. Experimental results on two benchmark databases demonstrate the superiority of the proposed method to state of the art work.&lt;/p&gt;
 
 
@@ -691,7 +691,7 @@
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG 400w,
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_59f5b33a19657e3ab31ea7ffc0c860ae.PNG 760w,
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1200x1200_fit_lanczos_3.PNG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -703,9 +703,9 @@
     
     <item>
       <title>Integrating Facial Images, Speeches and Time for Empathy Prediction</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/</guid>
       <description>&lt;p&gt;We propose a multi-modal method for the OneMinute Empathy Prediction competition. First, we use bottleneck residual and fully-connected network to encode facial images and speeches of the listener. Second, we propose to use the current time stage as a temporal feature and encoded it into the proposed multi-modal network. Third, we select a subset training data based on its performance of empathy prediction on the validation data. Experimental results on the testing set show that the proposed method outperforms the baseline methods significantly according to the CCC metric (0.14 vs 0.06).
 
 
@@ -727,7 +727,7 @@
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg 400w,
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_56529168d08d4d1cfdc7834a79a338ec.jpg 760w,
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg&#34;
                width=&#34;485&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -739,25 +739,25 @@
     
     <item>
       <title>KDSL: a Knowledge-Driven Supervised Learning Framework for Word Sense Disambiguation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
+      <link>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Face Analyses through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-1911-07846/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-07846/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-1911-07846/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Occluded Facial Expression Recognition Enhanced through Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-pan-wx-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-pan-wx-19/</guid>
       <description>&lt;p&gt;In this paper, we propose a novel approach of occluded facial expression recognition under the help of non-occluded facial images. The non-occluded facial images are used as privileged information, which is only required during training, but not required during testing. Specifically, two deep neural networks are first trained from occluded and non-occluded facial images respectively. Then the non-occluded network is fixed and is used to guide the fine-tuning of the occluded network from both label space and feature space. Similarity constraint and loss inequality regularization are imposed to the label space to make the output of occluded network converge to that of the non-occluded network. Adversarial leaning is adopted to force the distribution of the learned features from occluded facial images to be close to that from non-occluded facial images. Furthermore, a decoder network is employed to reconstruct the non-occluded facial images from occluded features. Under the guidance of non-occluded facial images, the occluded network is expected to learn better features and classifier during training. Experiments on the benchmark databases with both synthesized and realistic occluded facial images demonstrate the superiority of the proposed method to state-of-the-art.&lt;/p&gt;
 
 
@@ -779,7 +779,7 @@
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png 400w,
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_9bc960654f17587aae4a7e9a80742eb0.png 760w,
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png&#34;
                width=&#34;760&#34;
                height=&#34;491&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -791,17 +791,17 @@
     
     <item>
       <title>Weakly Supervised Dual Learning for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-p-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-p-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-p-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit Recognition Augmented by Their Dependencies</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-hao-wpj-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-hao-wpj-18/</guid>
       <description>&lt;p&gt;Due to the underlying anatomic mechanism that govern facial muscular interactions, there exist inherent de-pendencies between facial action units (AU). Such dependen-cies carry crucial information for AU recognition, yet have not been thoroughly exploited. Therefore, in this paper, we propose a novel AU recognition method with a three-layer hybrid Bayesian network, whose top two layers consist of a latent regression Bayesian network (LRBN), and the bottom two layers are Bayesian networks. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Specifically, the visible nodes of LRBN represent the ground-truth AU labels. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the depen-dencies among the latent variables given the observation and the dependencies among visible variables. Such dependencie ssuccessfully and faithfully represent relations among multiple AUs. The bottom two layers are two node Bayesian networks, connecting the ground truth AU labels and their measurements.Efficient learning and inference algorithms are also proposed.Furthermore, we extend the proposed hybrid Bayesian network model for facial expression-assisted AU recognition, since AUrelations are influenced by expressions. By introducing facial expression nodes in the middle visible layer, facial expressions,which are only required during training, facilitate the estima-tion of label dependencies among AUs. Experimental results on three benchmark databases, i.e. the CK+ database, the SEMAINE database, and the BP4D database, demonstrate that the proposed approaches can successfully capture complex AU relationships, and the expression labels available only during training are benefit for AU recognition during testing.&lt;/p&gt;
 
 
@@ -823,7 +823,7 @@
                /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg 400w,
                /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_ba6243d78c78efbb864395b00b0b72ca.jpg 760w,
                /publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-conffgr-hao-wpj-18/featured_hu186a5b8e8dbef9b8cf16ed6628856e29_401689_33d9177604e731c05ae08715c5f01605.jpg&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -835,9 +835,9 @@
     
     <item>
       <title>Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-pan-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-pan-w-18/</guid>
       <description>&lt;p&gt;Currently, fusing visible and thermal images for facial expression recognition requires two modalities during both training and testing. Visible cameras are commonly used in real-life applications, and thermal cameras are typically only available in lab situations due to their high price. Thermal imaging for facial expression recognition is not frequently used in real-world situations. To address this, we propose a novel thermally enhanced facial expression recognition method which uses thermal images as privileged information to construct better visible feature representation and improved classifiers by incorporating adversarial learning and similarity constraints during training. Specifically, we train two deep neural networks from visible images and thermal images. We impose adversarial loss to enforce statistical similarity between the learned representations of two modalities, and a similarity constraint to regulate the mapping functions from visible and thermal representation to expressions. Thus, thermal images are leveraged to simultaneously improve visible feature representation and classification during training. To mimic real-world scenarios, only visible images are available during testing. We further extend the proposed expression recognition method for partially unpaired data to explore thermal images&amp;rsquo; supplementary role in visible facial expression recognition when visible images and thermal images are not synchronously recorded. Experimental results on the MAHNOB Laughter database demonstrate that our proposed method can effectively regularize visible representation and expression classifiers with the help of thermal images, achieving state-of-the-art recognition performance.&lt;/p&gt;
 
 
@@ -859,7 +859,7 @@
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg 400w,
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_4c350ae5a8ecb1aca8ab669937a70122.jpg 760w,
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;496&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -871,17 +871,17 @@
     
     <item>
       <title>Learning with privileged information for multi-Label classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalized Multiple Facial Action Unit Recognition through Generative Adversarial Recognition Network</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wang-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wang-w-18/</guid>
       <description>&lt;p&gt;Personalized facial action unit (AU) recognition is challenging due to subject-dependent facial behavior. This paper proposes a method to recognize personalized multiple facial AUs through a novel generative adversarial network, which adapts the distribution of source domain facial images to that of target domain facial images and detects multiple AUs by leveraging AU dependencies. Specifically, we use a generative adversarial network to generate synthetic images from source domain; the synthetic images have a similar appearance to the target subject and retain the AU patterns of the source images. We simultaneously leverage AU dependencies to train a multiple AU classifier. Experimental results on three benchmark databases demonstrate that the proposed method can successfully realize unsupervised domain adaptation for individual AU detection, and thus outperforms state-of-the-art AU detection methods.&lt;/p&gt;
 
 
@@ -903,7 +903,7 @@
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png 400w,
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_3e4acf7eae93e6a0a1220ced031d9066.png 760w,
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png&#34;
                width=&#34;760&#34;
                height=&#34;332&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -915,17 +915,17 @@
     
     <item>
       <title>Thermal Augmented Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</link>
+      <link>http://localhost:1313/publication/dblp-journalstcyb-wang-pcj-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstcyb-wang-pcj-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakly Supervised Facial Action Unit Recognition Through Adversarial Training</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</link>
+      <link>http://localhost:1313/publication/dblp-confcvpr-peng-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcvpr-peng-w-18/</guid>
       <description>&lt;p&gt;Current works on facial action unit (AU) recognition typically require fully AU-annotated facial images for supervised AU classifier training. AU annotation is a timeconsuming, expensive, and error-prone process. While AUs are hard to annotate, facial expression is relatively easy to label. Furthermore, there exist strong probabilistic dependencies between expressions and AUs as well as dependencies among AUs. Such dependencies are referred to as domain knowledge. In this paper, we propose a novel AU recognition method that learns AU classifiers from domain knowledge and expression-annotated facial images through adversarial training. Specifically, we first generate pseudo AU labels according to the probabilistic dependencies between expressions and AUs as well as correlations among AUs summarized from domain knowledge. Then we propose a weakly supervised AU recognition method via an adversarial process, in which we simultaneously train two models: a recognition model R, which learns AU classifiers, and a discrimination model D, which estimates the probability that AU labels generated from domain knowledge rather than the recognized AU labels from R. The training procedure for R maximizes the probability of D making a mistake. By leveraging the adversarial mechanism, the distribution of recognized AUs is closed to AU prior distribution from domain knowledge. Furthermore, the proposed weakly supervised AU recognition can be extended to semisupervised learning scenarios with partially AU-annotated images. Experimental results on three benchmark databases demonstrate that the proposed method successfully leverages the summarized domain knowledge to weakly supervised AU classifier learning through an adversarial process, and thus achieves state-of-the-art performance.&lt;/p&gt;
 
 
@@ -947,7 +947,7 @@
                /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg 400w,
                /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_4eb4480d88985757ef87bf0ffea1b798.jpg 760w,
                /publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confcvpr-peng-w-18/featured_hu1005fd87fac0ca886d0287f946d2eb97_137194_c02a8747c28f4e2f45f1231add499913.jpg&#34;
                width=&#34;760&#34;
                height=&#34;378&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -959,17 +959,17 @@
     
     <item>
       <title>Weakly Supervised Facial Action Unit Recognition With Domain Knowledge</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</link>
+      <link>http://localhost:1313/publication/dblp-journalstcyb-wang-pcj-18-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstcyb-wang-pcj-18-a/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstcyb-wang-pcj-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-gan-whj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-gan-whj-17/</guid>
       <description>&lt;p&gt;The inherent dependencies between visual elements and aural elements are crucial for affective video content analyses, yet have not been successfully exploited. Therefore, we propose a multimodal deep regression Bayesian network (MMDRBN) to capture the dependencies between visual elements and aural elements for affective video content analyses. The regression Bayesian network (RBN) is a directed graphical model consisting of one latent layer and one visible layer. Due to the explaining away effect in Bayesian networks (BN), RBN is able to capture both the dependencies among the latent variables given the observation and the dependencies among visible variables. We propose a fast learning algorithm to learn the RBN. For the MMDRBN, first, we learn several RBNs layer-wisely from visual modality and audio modality respectively. Then we stack these RBNs and obtain two deep networks. After that, a joint representation is extracted from the top layers of the two deep networks, and thus captures the high order dependencies between visual modality and audio modality. In order to predict the valence or arousal score of video contents, we initialize a feed-forward inference network from the MMDRBN whose inference is intractable by minimizing the KullbackCLeibler (KL)divergence between the two networks. The back propagation algorithm is adopted for finetuning the inference network. Experimental results on the LIRIS-ACCEDE database demonstrate that the proposed MMDRBN successfully captures the dependencies between visual and audio elements, and thus achieves better performance compared with state-of-the-art work.
 
 
@@ -991,7 +991,7 @@
                /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_33de511fe787d72c7424d929317c4505.jpg 400w,
                /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_70c0a87a200289b1d89f4c6a966a6481.jpg 760w,
                /publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_33de511fe787d72c7424d929317c4505.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-conficcv-gan-whj-17/featured_hu0ff0903a4051f103a27ffc3b5d24d0b2_144232_33de511fe787d72c7424d929317c4505.jpg&#34;
                width=&#34;760&#34;
                height=&#34;411&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1003,9 +1003,9 @@
     
     <item>
       <title>Capturing Dependencies among Labels and Features for Multiple Emotion Tagging of Multimedia Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-wu-wj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-wu-wj-17/</guid>
       <description>&lt;p&gt;In this paper,we tackle the problem of emotion tagging of multimedia data by modeling the dependencies among multiple emotions in both the feature and label spaces. These dependencies,which carry crucial top-down and bottom-up evidence for improving multimedia affective content analysis,have not been thoroughly exploited yet. To this end, we propose two hierarchical models that independently and dependently learn the shared features and global semantic relationships among emotion labels to jointly tag multiple emotion labels of multimedia data. Efficient learning and inference algorithms of the proposed models are also developed. Experiments on three benchmark emotion databases demonstrate the superior performance of our methods to existing methods.&lt;/p&gt;
 
 
@@ -1027,7 +1027,7 @@
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG 400w,
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_dfd10bd9528c4784cc86e20ff1f3a372.JPG 760w,
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG&#34;
                width=&#34;760&#34;
                height=&#34;439&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1039,9 +1039,9 @@
     
     <item>
       <title>Capturing Spatial and Temporal Patterns for Distinguishing between Posed and Spontaneous Expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yang-w-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yang-w-17/</guid>
       <description>&lt;p&gt;Spatial and temporal patterns inherent in facial behavior carry crucial information for posed and spontaneous expressions distinction, but have not been thoroughly exploited yet. To address this issue, we propose a novel dynamic model, termed as interval temporal restricted Boltzmann machine (IT-RBM), to jointly capture global spatial patterns and complex temporal patterns embedded in posed and spontaneous expressions respectively for distinguishing between posed and spontaneous expressions. Specifically, we consider a facial expression as a complex activity that consists of temporally overlapping or sequential primitive facial events, which are defined as the motion of feature points. We propose using the Allen s Interval Algebra to represent the complex temporal patterns existing in facial events through a two-layer Bayesian network. Furthermore, we propose employing multi-value restricted Boltzmann machine to capture intrinsic global spatial patterns among facial events. Experimental results on three benchmark databases, the UvA-NEMO smile database, the DISFA+ database, and theSPOS database, demonstrate the proposed interval temporal restricted Boltzmann machine can successfully capture the intrinsic spatial-temporal patterns in facial behavior, and thus outperform state-of-the art work of posed and spontaneous expressions distinction.&lt;/p&gt;
 
 
@@ -1063,7 +1063,7 @@
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg 400w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_3e53e99adac07c31e2ef80d5e9dd326f.jpg 760w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
                width=&#34;760&#34;
                height=&#34;458&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1075,26 +1075,26 @@
     
     <item>
       <title>Deep Facial Action Unit Recognition from Partially Labeled Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-wu-wpj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-wu-wpj-17/</guid>
       <description>&lt;p&gt;Current work on facial action unit (AU) recognition requires AU-labeled facial images. Although large amounts of facial images are readily available, AU annotation is expensive and time consuming. To address this, we propose a deep facial action unit recognition approach learning from partially AU-labeled data. The proposed approach makes full use of both partly available ground-truth AU labels and the readily available large scale facial images without annotation. Specifically, we propose to learn label distribution from the ground-truth AU labels, and then train the AU classifiers from the large-scale facial images by maximizing the log likelihood of the mapping functions of AUs with regard to the learnt label distribution for all training data and minimizing the error between predicted AUs and ground-truth AUs for labeled data simultaneously. A restricted Boltzmann machine is adopted to model AU label distribution, a deep neural network is used to learn facial representation from facial images, and the support vector machine is employed as the classifier. Experiments on two benchmark databases demonstrate the effectiveness of the proposed approach.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep multimodal network for multi-label classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-chen-wc-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-chen-wc-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-chen-wc-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-chen-wc-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiating Between Posed and Spontaneous Expressions with Latent Regression Bayesian Network</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/</guid>
       <description>&lt;p&gt;Spatial patterns embedded in human faces are crucial for differentiating posed expressions from spontaneous ones, yet they have not been thoroughly exploited in the literature. To tackle this problem, we present a generative model, i.e., Latent Regression Bayesian Network (LRBN), to effectively capture the spatial patterns embedded in facial landmark points to differentiate between posed and spontaneous facial expressions. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the dependencies among the latent variables given the observation and the dependencies among visible variables. We believe that such dependencies are crucial for faithful data representation. Specifically, during training, we construct two LRBNs to capture spatial patterns inherent in displacements of landmark points from spontaneous facial expressions and posed facial expressions respectively. During testing, the samples are classified into posed or spontaneous expressions according to their likelihoods on two models. Efficient learning and inference algorithms are proposed. Experimental results on two benchmark databases demonstrate the advantages of the proposed approach in modeling spatial patterns as well as its superior performance to the existing methods in differentiating between posed and spontaneous expressions.&lt;/p&gt;
 
 
@@ -1116,7 +1116,7 @@
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg 400w,
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_b9cbd7521ce6355a25d7e9d9350ea896.jpg 760w,
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg&#34;
                width=&#34;760&#34;
                height=&#34;377&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1128,90 +1128,90 @@
     
     <item>
       <title>Emotion recognition through integrating EEG and peripheral signals</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficassp-shu-w-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficassp-shu-w-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-shu-w-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficassp-shu-w-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Domain Knowledge for Affective Video Content Analyses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-chen-wwc-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-chen-wwc-17/</guid>
       <description>&lt;p&gt;The well-established film grammar is often used to change visual and audio elements of videos to invoke audiences’ emotional experience. Such film grammar, referred to as domain knowledge, is crucial for affective video content analyses, but has not been thoroughly explored yet. In this paper, we propose a novel method to analyze video affective content through exploring domain knowledge. Specifically, take visual elements as an example, we first infer probabilistic dependencies between visual elements and emotions from the summarized film grammar. Then, we transfer the domain knowledge as constraints, and formulate affective video content analyses as a constrained optimization problem. Experiments on the LIRIS-ACCEDE database and the DEAP database demonstrate that the proposed affective content analyses method can successfully leverage well-established film grammar for better emotion classification from video content.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Expression-assisted facial action unit recognition under incomplete AU annotation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-gj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-gj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-gj-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature and label relation modeling for multiple-facial action unit classification and intensity estimation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-ygj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-ygj-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning with Privileged Information for Multi-Label Classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalized video emotion tagging through a topic model</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficassp-wu-wg-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficassp-wu-wg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing global spatial patterns for distinguishing posed and spontaneous expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</link>
+      <link>http://localhost:1313/publication/dblp-journalscviu-wang-wj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscviu-wang-wj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition from EEG Signals Enhanced by User&#39;s Profile</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion recognition from peripheral physiological signals enhanced by EEG</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficassp-chen-gw-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficassp-chen-gw-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-chen-gw-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficassp-chen-gw-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Employing subjects&#39; information as privileged information for emotion recognition from EEG signals</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Intensity Estimation Using Ordinal Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</link>
+      <link>http://localhost:1313/publication/dblp-confcvpr-zhao-gwj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcvpr-zhao-gwj-16/</guid>
       <description>&lt;p&gt;Previous studies on facial expression analysis have been focused on recognizing basic expression categories.  There is limited  amount  of  work  on  the  continuous  expression intensity estimation,  which is important for detecting and tracking emotion change.  Part of the reason is the lack of labeled data with annotated expression intensity since ex-pression intensity annotation requires expertise and is time consuming.  In this work, we treat the expression intensity estimation as a regression problem. By taking advantage of the natural onset-apex-offset evolution pattern of facial ex-pression, the proposed method can handle different amounts of annotations to perform frame-level expression intensity estimation.    In  fully  supervised  case,  all  the  frames  are provided with intensity annotations.  In weakly supervised case, only the annotations of selected key frames are used.While in unsupervised case, expression intensity can be es-timated without any annotations.  An efficient optimization algorithm based on Alternating Direction Method of Mul-tipliers (ADMM) is developed for solving the optimization problem associated with parameter learning.   We demon-strate the effectiveness of proposed method by comparing it against both fully supervised and unsupervised approaches on benchmark facial expression datasets.&lt;/p&gt;
 
 
@@ -1233,7 +1233,7 @@
                /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg 400w,
                /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_0b80fe4ea1c3b64497154329948583d3.jpg 760w,
                /publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confcvpr-zhao-gwj-16/featured_hu82eae57b0a637c9c9c6659cadeeccee4_129242_5b734835e2304d704d3efb8a8632198b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;153&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1245,17 +1245,17 @@
     
     <item>
       <title>Facial expression recognition through modeling age-related spatial patterns</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-wgj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-wgj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Recognition with Deep two-view Support Vector Machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</guid>
       <description>&lt;p&gt;This paper proposes a novel deep two-view approach to learn features from both visible and thermal images and leverage the commonality among visible and thermal images for facial expression recognition from visible images. The thermal images are used as privileged information, which is required only during training to help visible images learn better features and classifier. Specifically, we first learn a deep model for visible images and thermal images respectively, and use the learned feature representations to train SVM classifiers for expression classification. We then jointly refine the deep models as well as the SVM classifiers for both thermal images and visible images by imposing the constraint that the outputs of the SVM classifiers from two views are similar. Therefore, the resulting representations and classifiers capture the inherent connections among visible facial image, infrared facial image and target expression labels, and hence improve the recognition performance for facial expression recognition from visible images during testing. Experimental results on the benchmark expression database demonstrate the effectiveness of our proposed method.&lt;/p&gt;
 
 
@@ -1277,7 +1277,7 @@
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG 400w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d620d56d8d33e7b0a84c6ddf224ae0a5.JPG 760w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1289,577 +1289,577 @@
     
     <item>
       <title>Gender recognition from visible and thermal infrared facial images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-ghhj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-ghhj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-ghhj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit hybrid video emotion tagging by integrating video content and users&#39; multiple physiological responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Facial Action Unit recognition by learning joint features and label relations</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple facial action unit recognition enhanced by facial expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and Spontaneous Expression Recognition Through Restricted Boltzmann Machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmmm-wu-w-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmmm-wu-w-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmmm-wu-w-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmmm-wu-w-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition from EEG Signals by Leveraging Stimulus Videos</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confpcm-gao-w-15/</link>
+      <link>http://localhost:1313/publication/dblp-confpcm-gao-w-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confpcm-gao-w-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confpcm-gao-w-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition from EEG Signals using Hierarchical Bayesian Network with Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-gao-w-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-gao-w-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-gao-w-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-gao-w-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition with the Help of Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhanced facial expression recognition by age</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression Recognition from Visible Images with the Help of Thermal Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit Classification with Hidden Knowledge under Incomplete Annotation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-wang-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-wang-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-wang-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-wang-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit video emotion tagging from audiences&#39; facial expression</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning with privileged information using Bayesian networks</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-instance Hidden Markov Model for facial expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wu-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wu-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wu-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wu-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Aesthetic Attribute Assessment by Exploiting Relations Among Aesthetic Attributes</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-gao-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-gao-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-gao-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-gao-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Emotion Tagging for Multimedia Data by Exploiting High-Order Dependencies Among Emotions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple emotional tagging of multimedia data by exploiting dependencies among emotions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous expression recognition through modeling their spatial patterns</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous facial expression differentiation using deep Boltzmann machines</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-gan-wwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-gan-wwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Affective Content Analysis: A Survey of State-of-the-Art Methods</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-j-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-j-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-j-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-j-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capture expression-dependent AU relations for expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Facial Expression Recognition Using Hidden Markov Models</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wj-14-a/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wang-wj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wj-14-a/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wang-wj-14-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion recognition from thermal infrared images using deep Boltzmann machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-hghj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hghj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-hghj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion recognition from users&#39; EEG signals with the help of stimulus VIDEOS</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-zhu-wj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-zhu-wj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-zhu-wj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-zhu-wj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing multi-label classification by modeling dependencies among labels</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-wwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-wwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit recognition by relation modeling from both qualitative knowledge and quantitative data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fusion of visible and thermal images for facial expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-hwhj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hwhj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-hwhj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid video emotional tagging using users&#39; EEG and video content</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-label Learning with Missing Labels</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-lwhj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-lwhj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-lwhj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-lwhj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple-Facial Action Unit Recognition by Shared Feature Learning and Semantic Relation Modeling</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequence-based bias analysis of spontaneous facial expression databases</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-wang-wwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-wang-wwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Labeling of Facial Feature Points</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wj-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-he-wj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-he-wj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyses of the Differences between Posed and Spontaneous Facial Expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-he-wlc-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-he-wlc-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Complex Spatio-temporal Relations among Facial Muscles for Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-wang-wj-13/</link>
+      <link>http://localhost:1313/publication/dblp-confcvpr-wang-wj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-wang-wj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcvpr-wang-wj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Global Semantic Relationships for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional Influence on SSVEP Based BCI</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional tagging of videos by exploring multiple emotions&#39; coexistence</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wang-whlj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wang-whlj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wang-whlj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye localization from thermal infrared images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-lsj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-lsj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Recognition Using Deep Boltzmann Machine from Thermal Infrared Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wlfj-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-he-wlfj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wlfj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-he-wlfj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit video multi-emotion tagging by exploiting multi-expression relations</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-liu-wwj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-liu-wwj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-liu-wwj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Facial Feature Tracking and Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalstip-li-wzj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstip-li-wzj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A qualitative and quantitative study of color emotion using valence-arousal</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-d-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-d-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-d-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Affective Effects on Steady-State Visual Evoked Potential Responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-wang-wz-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-wang-wz-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bias analyses of spontaneous facial expression database</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wang-wzj-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wang-wzj-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye Localization from Infrared Thermal Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confmprss-wang-sl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmprss-wang-sl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial expression recognition from infrared thermal images using temperature difference by voting</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confccis-wang-sl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confccis-wang-sl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Recognition from Infrared Thermal Videos</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-shen-wl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-shen-wl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous expression distinguishment from infrared thermal images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-liu-w-12/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-liu-w-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-liu-w-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-liu-w-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarity Measurement and Feature Selection Using Genetic Algorithm</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-hz-12/</link>
+      <link>http://localhost:1313/publication/dblp-confisnn-wang-hz-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-hz-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confisnn-wang-hz-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spontaneous Facial Expression Recognition by Fusing Thermal Infrared and Visible Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-wang-h-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-wang-h-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-wang-h-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-wang-h-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A real-time attitude recognition by eye-tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficimcs-lv-ws-11/</link>
+      <link>http://localhost:1313/publication/dblp-conficimcs-lv-ws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficimcs-lv-ws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficimcs-lv-ws-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affective Classification in Video Based on Semi-supervised Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-lh-11/</link>
+      <link>http://localhost:1313/publication/dblp-confisnn-wang-lh-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-lh-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confisnn-wang-lh-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition Using Hidden Markov Models from Facial Temperature Sequence</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-liu-w-11/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-liu-w-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-liu-w-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-liu-w-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spontaneous Facial Expression Recognition Based on Feature Point Tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficig-he-wl-11/</link>
+      <link>http://localhost:1313/publication/dblp-conficig-he-wl-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficig-he-wl-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficig-he-wl-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spontaneous facial expression recognition by using feature-level fusion of visible and thermal infrared images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmlsp-wang-w-11/</link>
+      <link>http://localhost:1313/publication/dblp-confmlsp-wang-w-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmlsp-wang-w-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmlsp-wang-w-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards robot incremental learning constraints from comparative demonstration</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</link>
+      <link>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A spontaneous facial expression recognition method using head motion and AAM features</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confnabic-lv-w-10/</link>
+      <link>http://localhost:1313/publication/dblp-confnabic-lv-w-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confnabic-lv-w-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-confnabic-lv-w-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An emotional harmony generation system</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcec-xu-wl-10/</link>
+      <link>http://localhost:1313/publication/dblp-confcec-xu-wl-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcec-xu-wl-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcec-xu-wl-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrared Face Recognition Based on Histogram and K-Nearest Neighbor Classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confisnn-wang-l-10/</link>
+      <link>http://localhost:1313/publication/dblp-confisnn-wang-l-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confisnn-wang-l-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-confisnn-wang-l-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musical perceptual similarity estimation using interactive genetic algorithm</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcec-wang-z-10/</link>
+      <link>http://localhost:1313/publication/dblp-confcec-wang-z-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcec-wang-z-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcec-wang-z-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional speech synthesis by XML file using interactive genetic algorithms</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</link>
+      <link>http://localhost:1313/publication/dblp-confgecco-lv-ww-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</guid>
+      <guid>http://localhost:1313/publication/dblp-confgecco-lv-ww-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Relationships between Color and Emotion by Classification Based on Associations</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</link>
+      <link>http://localhost:1313/publication/dblp-confcsse-ding-whw-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcsse-ding-whw-08/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcsse-ding-whw-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional Music Generation Using Interactive Genetic Algorithm</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcsse-zhu-ww-08/</link>
+      <link>http://localhost:1313/publication/dblp-confcsse-zhu-ww-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcsse-zhu-ww-08/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcsse-zhu-ww-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrared Facial Expression Recognition Using Wavelet Transform</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</link>
+      <link>http://localhost:1313/publication/dblp-confiscsct-wang-lw-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</guid>
+      <guid>http://localhost:1313/publication/dblp-confiscsct-wang-lw-08/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Fatigue Reduction by an Absolute Rating Data-trained Predictor in IEC</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcec-wang-wt-06/</link>
+      <link>http://localhost:1313/publication/dblp-confcec-wang-wt-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcec-wang-wt-06/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcec-wang-wt-06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case-Based Facial Action Units Recognition Using Interactive Genetic Algorithm</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-wang-x-05/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-wang-x-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-wang-x-05/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-wang-x-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Semantics Image Retrieval: An Brief Overview</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-wang-w-05/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-wang-w-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-wang-w-05/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-wang-w-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of User Fatigue Reduction Through IEC Rating-Scale Mapping</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confwstst-wang-t-05/</link>
+      <link>http://localhost:1313/publication/dblp-confwstst-wang-t-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confwstst-wang-t-05/</guid>
+      <guid>http://localhost:1313/publication/dblp-confwstst-wang-t-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kansei-Oriented Image Retrieval</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confamt-wang-chw-01/</link>
+      <link>http://localhost:1313/publication/dblp-confamt-wang-chw-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confamt-wang-chw-01/</guid>
+      <guid>http://localhost:1313/publication/dblp-confamt-wang-chw-01/</guid>
       <description></description>
     </item>
     

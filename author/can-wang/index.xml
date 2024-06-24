@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Can Wang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/can-wang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/can-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/can-wang/</link>
+      <atom:link href="http://localhost:1313/author/can-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Can Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/can-wang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/can-wang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Can Wang</title>
-      <link>https://ustc-ac.github.io/author/can-wang/</link>
+      <link>http://localhost:1313/author/can-wang/</link>
     </image>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <link>http://localhost:1313/publication/manual-pr24-chang/</link>
       <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-pr24-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-Invariant Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg21-liang/</link>
+      <link>http://localhost:1313/publication/manual-fg21-liang/</link>
       <pubDate>Sun, 05 Dec 2021 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg21-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg21-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Multi-Emotion Relations at Feature and Label Levels for Emotion Tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-xu-ww-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-xu-ww-20/</guid>
       <description>&lt;p&gt;The dependence among emotions is crucial to boost emotion tagging. In this paper, we propose a novel emotion tagging method, that thoroughly explores emotion relations from both the feature and label levels. Specifically, a graph convolutional network is introduced to inject local dependence among emotions into the model at the feature level, while an adversarial learning strategy is applied to constrain the joint distribution of multiple emotions at the label level. In addition, a new balanced loss function that mitigates the adverse effects of intra-class and inter-class imbalance is introduced to deal with the imbalance of emotion labels. Experimental results on several benchmark databases demonstrate the superiority of the proposed method compared to state-of-the-art works.&lt;/p&gt;
 
 
@@ -54,7 +54,7 @@
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg 400w,
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_3e2c15bb1a0f5c524a41632e86e8c53a.jpg 760w,
                /publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_ea8d120282a84a3099ac9e43758706b0.jpg&#34;
                width=&#34;760&#34;
                height=&#34;305&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,17 +66,17 @@
     
     <item>
       <title>Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-2007-05932/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-2007-05932/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-2007-05932/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</guid>
       <description>&lt;p&gt;Existing facial expression recognition methods either focus on pose variations or identity bias, but not both simultaneously. This paper proposes an adversarial feature learning method to address both of these issues. Specifically, the proposed method consists of five components: an encoder, an expression classifier, a pose discriminator, a subject discriminator, and a generator. An encoder extracts feature representations, and an expression classifier tries to perform facial expression recognition using the extracted feature representations. The encoder and the expression classifier are trained collaboratively, so that the extracted feature representations are discriminative for expression recognition. A pose discriminator and a subject discriminator classify the pose and the subject from the extracted feature representations respectively. They are trained adversarially with the encoder. Thus, the extracted feature representations are robust to poses and subjects. A generator reconstructs facial images to further favor the feature representations. Experiments on five benchmark databases demonstrate the superiority of the proposed method to state-of-the-art work.&lt;/p&gt;
 
 
@@ -98,7 +98,7 @@
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG 400w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_4df95c27df35fe431c16fd0386aebc1a.JPG 760w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -110,9 +110,9 @@
     
     <item>
       <title>Integrating Facial Images, Speeches and Time for Empathy Prediction</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/</guid>
       <description>&lt;p&gt;We propose a multi-modal method for the OneMinute Empathy Prediction competition. First, we use bottleneck residual and fully-connected network to encode facial images and speeches of the listener. Second, we propose to use the current time stage as a temporal feature and encoded it into the proposed multi-modal network. Third, we select a subset training data based on its performance of empathy prediction on the validation data. Experimental results on the testing set show that the proposed method outperforms the baseline methods significantly according to the CCC metric (0.14 vs 0.06).
 
 
@@ -134,7 +134,7 @@
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg 400w,
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_56529168d08d4d1cfdc7834a79a338ec.jpg 760w,
                /publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-conffgr-yin-fwwdw-19/network_hu9c2d1df41939a3017ee182bef8e8ca87_57891_3ed075402035858ba13ed0aef6a9a279.jpg&#34;
                width=&#34;485&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,9 +146,9 @@
     
     <item>
       <title>Personalized Multiple Facial Action Unit Recognition through Generative Adversarial Recognition Network</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wang-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wang-w-18/</guid>
       <description>&lt;p&gt;Personalized facial action unit (AU) recognition is challenging due to subject-dependent facial behavior. This paper proposes a method to recognize personalized multiple facial AUs through a novel generative adversarial network, which adapts the distribution of source domain facial images to that of target domain facial images and detects multiple AUs by leveraging AU dependencies. Specifically, we use a generative adversarial network to generate synthetic images from source domain; the synthetic images have a similar appearance to the target subject and retain the AU patterns of the source images. We simultaneously leverage AU dependencies to train a multiple AU classifier. Experimental results on three benchmark databases demonstrate that the proposed method can successfully realize unsupervised domain adaptation for individual AU detection, and thus outperforms state-of-the-art AU detection methods.&lt;/p&gt;
 
 
@@ -170,7 +170,7 @@
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png 400w,
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_3e4acf7eae93e6a0a1220ced031d9066.png 760w,
                /publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wang-w-18/featured_hu2b619861a230c980126dcce3eefea7b7_166103_ccd5082ef9a156d22656b435b79e6c77.png&#34;
                width=&#34;760&#34;
                height=&#34;332&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

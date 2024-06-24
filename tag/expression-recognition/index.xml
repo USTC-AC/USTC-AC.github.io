@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expression Recognition | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/expression-recognition/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/expression-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/expression-recognition/</link>
+      <atom:link href="http://localhost:1313/tag/expression-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Expression Recognition</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Expression Recognition</title>
-      <link>https://ustc-ac.github.io/tag/expression-recognition/</link>
+      <link>http://localhost:1313/tag/expression-recognition/</link>
     </image>
     
     <item>
       <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-wu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-wu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Occluded Facial Expression Recognition using Self-supervised Learning</title>
-      <link>https://ustc-ac.github.io/publication/manual-accv22-wang/</link>
+      <link>http://localhost:1313/publication/manual-accv22-wang/</link>
       <pubDate>Thu, 08 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-accv22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-accv22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose-Invariant Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg21-liang/</link>
+      <link>http://localhost:1313/publication/manual-fg21-liang/</link>
       <pubDate>Sun, 05 Dec 2021 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg21-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg21-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain</title>
-      <link>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</link>
+      <link>http://localhost:1313/publication/manual-ijcai21-xia/</link>
       <pubDate>Thu, 29 Apr 2021 10:03:01 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-ijcai21-xia/</guid>
+      <guid>http://localhost:1313/publication/manual-ijcai21-xia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Macro-expression: a Micro-expression Recognition Framework</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-0012-wwc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-0012-wwc-20/</guid>
       <description>&lt;p&gt;As one of the most important forms of psychological behaviors, micro-expression can reveal the real emotion. However, the existing labeled micro-expression samples are limited to train a high performance micro-expression classifier. Since micro-expression and macro-expression share some similarities in facial muscle movements and texture changes, in this paper we propose a micro-expression recognition framework that leverages macro-expression samples as guidance. Specifically, we first introduce two Expression Identity Disentangle Network, named MicroNet and MacroNet, as the feature extractor to disentangle expression-related features for micro and macro expression samples. Then MacroNet is fixed and used to guide the fine-tuning of MicroNet from both label and feature space. Adversarial learning strategy and triplet loss are added upon feature level between the MicroNet and MacroNet, so the MicroNet can efficiently capture the shared features of micro-expression and macro-expression samples. Loss inequality regularization is imposed to the label space to make the output of MicroNet converge to that of MicroNet. Comprehensive experiments on three public spontaneous micro-expression databases, i.e., SMIC, CASME2 and SAMM demonstrate the superiority of the proposed method.&lt;/p&gt;
 
 
@@ -78,7 +78,7 @@
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg 400w,
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_0b1bee0764bd1981a1b49b81caca145c.jpg 760w,
                /publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-0012-wwc-20/featured_hucbe6b30a302d6c912ad5aaa64ac11de4_85027_f2b0e8b8233ae160b6b4596c5cec04fa.jpg&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-0012-w-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-0012-w-20/</guid>
       <description>&lt;p&gt;Although facial expression recognition has improved in recent years, it is still very challenging to recognize expressions from occluded facial images in the wild. Due to the lack of large-scale facial expression datasets with diversity of the type and position of occlusions, it is very difficult to learn robust occluded expression classifier directly from limited occluded images. Considering facial images without occlusions usually provide more information for facial expression recognition compared to occluded facial images, we propose a step-wise learning strategy for occluded facial expression recognition that utilizes unpaired non-occluded images as guidance in the feature and label space. Specifically, we first measure the complexity of non-occluded data using distribution density in a feature space and split data into three subsets. In this way, the occluded expression classifier can be guided by basic samples first, and subsequently leverage more meaningful and discriminative samples. Complementary adversarial learning techniques are applied in the global-level and local-level feature space throughout, forcing the distribution of the occluded features to be close to the distribution of the non-occluded features. We also take the variability of the different images&amp;rsquo; transferability into account via adaptive classification loss. Loss inequality regularization is imposed in the label space to calibrate the output values of the occluded network. Experimental results show that our method improves performance on both synthesized occluded databases and realistic occluded databases.&lt;/p&gt;
 
 
@@ -114,7 +114,7 @@
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg 400w,
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_9c4a277e5a6e2fde4662887abbf83019.jpg 760w,
                /publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-0012-w-20/featured_hu82f0b636e3d7f43c2e4e1586bc541f2e_109475_a39a576ac3712e5dd318ceca017099cc.jpg&#34;
                width=&#34;760&#34;
                height=&#34;274&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Unpaired Multimodal Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</link>
+      <link>http://localhost:1313/publication/dblp-confaccv-0012-w-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaccv-0012-w-20/</guid>
       <description>&lt;p&gt;Current works on multimodal facial expression recognition typically require paired visible and thermal facial images. Although visible cameras are readily available in our daily life, thermal cameras are expensive and less prevalent. It is costly to collect a large quantity of synchronous visible and thermal facial images. To tackle this paired training data bottleneck, we propose an unpaired multimodal facial expression recognition method, which makes full use of the massive number of unpaired visible and thermal images by utilizing thermal images to construct better image representations and classifiers for visible images during training. Specifically, two deep neural networks are trained from visible and thermal images to learn image representations and expression classifiers for two modalities. Then, an adversarial strategy is adopted to force statistical similarity between the learned visible and thermal representations, and to minimize the distribution mismatch between the predictions of the visible and thermal images. Through adversarial learning, the proposed method leverages thermal images to construct better image representations and classifiers for visible images during training, without the requirement of paired data. A decoder network is built upon the visible hidden features in order to preserve some inherent features of the visible view. We also take the variability of the different images’ transferability into account via adaptive classification loss. During testing, only visible images are required and the visible network is used. Thus, the proposed method is appropriate for real-world scenarios, since thermal imaging is rare in these instances. Experiments on two benchmark multimodal expression databases and three visible facial expression databases demonstrate the superiority of the proposed method compared to state-of-the-art methods.&lt;/p&gt;
 
 
@@ -150,7 +150,7 @@
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png 400w,
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_32e70429dd06375f2df8c780e0a4351c.png 760w,
                /publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_46950f1829ab083feeea48c0f692f8f7.png&#34;
                width=&#34;760&#34;
                height=&#34;360&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,9 +162,9 @@
     
     <item>
       <title>Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wang-wl-19/</guid>
       <description>&lt;p&gt;Existing facial expression recognition methods either focus on pose variations or identity bias, but not both simultaneously. This paper proposes an adversarial feature learning method to address both of these issues. Specifically, the proposed method consists of five components: an encoder, an expression classifier, a pose discriminator, a subject discriminator, and a generator. An encoder extracts feature representations, and an expression classifier tries to perform facial expression recognition using the extracted feature representations. The encoder and the expression classifier are trained collaboratively, so that the extracted feature representations are discriminative for expression recognition. A pose discriminator and a subject discriminator classify the pose and the subject from the extracted feature representations respectively. They are trained adversarially with the encoder. Thus, the extracted feature representations are robust to poses and subjects. A generator reconstructs facial images to further favor the feature representations. Experiments on five benchmark databases demonstrate the superiority of the proposed method to state-of-the-art work.&lt;/p&gt;
 
 
@@ -186,7 +186,7 @@
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG 400w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_4df95c27df35fe431c16fd0386aebc1a.JPG 760w,
                /publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wang-wl-19/featured_hu6a8143bd29530d43f3d1f85b0d638a7e_147884_35f4bf217e4a06d8325c371a0ddf8b16.JPG&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -198,9 +198,9 @@
     
     <item>
       <title>Occluded Facial Expression Recognition Enhanced through Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-pan-wx-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-pan-wx-19/</guid>
       <description>&lt;p&gt;In this paper, we propose a novel approach of occluded facial expression recognition under the help of non-occluded facial images. The non-occluded facial images are used as privileged information, which is only required during training, but not required during testing. Specifically, two deep neural networks are first trained from occluded and non-occluded facial images respectively. Then the non-occluded network is fixed and is used to guide the fine-tuning of the occluded network from both label space and feature space. Similarity constraint and loss inequality regularization are imposed to the label space to make the output of occluded network converge to that of the non-occluded network. Adversarial leaning is adopted to force the distribution of the learned features from occluded facial images to be close to that from non-occluded facial images. Furthermore, a decoder network is employed to reconstruct the non-occluded facial images from occluded features. Under the guidance of non-occluded facial images, the occluded network is expected to learn better features and classifier during training. Experiments on the benchmark databases with both synthesized and realistic occluded facial images demonstrate the superiority of the proposed method to state-of-the-art.&lt;/p&gt;
 
 
@@ -222,7 +222,7 @@
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png 400w,
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_9bc960654f17587aae4a7e9a80742eb0.png 760w,
                /publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_804330664a43426320a8d1cc0818d0a2.png&#34;
                width=&#34;760&#34;
                height=&#34;491&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -234,9 +234,9 @@
     
     <item>
       <title>Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-pan-w-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-pan-w-18/</guid>
       <description>&lt;p&gt;Currently, fusing visible and thermal images for facial expression recognition requires two modalities during both training and testing. Visible cameras are commonly used in real-life applications, and thermal cameras are typically only available in lab situations due to their high price. Thermal imaging for facial expression recognition is not frequently used in real-world situations. To address this, we propose a novel thermally enhanced facial expression recognition method which uses thermal images as privileged information to construct better visible feature representation and improved classifiers by incorporating adversarial learning and similarity constraints during training. Specifically, we train two deep neural networks from visible images and thermal images. We impose adversarial loss to enforce statistical similarity between the learned representations of two modalities, and a similarity constraint to regulate the mapping functions from visible and thermal representation to expressions. Thus, thermal images are leveraged to simultaneously improve visible feature representation and classification during training. To mimic real-world scenarios, only visible images are available during testing. We further extend the proposed expression recognition method for partially unpaired data to explore thermal images&amp;rsquo; supplementary role in visible facial expression recognition when visible images and thermal images are not synchronously recorded. Experimental results on the MAHNOB Laughter database demonstrate that our proposed method can effectively regularize visible representation and expression classifiers with the help of thermal images, achieving state-of-the-art recognition performance.&lt;/p&gt;
 
 
@@ -258,7 +258,7 @@
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg 400w,
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_4c350ae5a8ecb1aca8ab669937a70122.jpg 760w,
                /publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-pan-w-18/featured_hubbc45ea9bf79dd9eb975f82036f90e3d_46195_a23dec5de33bab404eca82a58b7c5a2b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;496&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -270,9 +270,9 @@
     
     <item>
       <title>Capturing Spatial and Temporal Patterns for Distinguishing between Posed and Spontaneous Expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yang-w-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yang-w-17/</guid>
       <description>&lt;p&gt;Spatial and temporal patterns inherent in facial behavior carry crucial information for posed and spontaneous expressions distinction, but have not been thoroughly exploited yet. To address this issue, we propose a novel dynamic model, termed as interval temporal restricted Boltzmann machine (IT-RBM), to jointly capture global spatial patterns and complex temporal patterns embedded in posed and spontaneous expressions respectively for distinguishing between posed and spontaneous expressions. Specifically, we consider a facial expression as a complex activity that consists of temporally overlapping or sequential primitive facial events, which are defined as the motion of feature points. We propose using the Allen s Interval Algebra to represent the complex temporal patterns existing in facial events through a two-layer Bayesian network. Furthermore, we propose employing multi-value restricted Boltzmann machine to capture intrinsic global spatial patterns among facial events. Experimental results on three benchmark databases, the UvA-NEMO smile database, the DISFA+ database, and theSPOS database, demonstrate the proposed interval temporal restricted Boltzmann machine can successfully capture the intrinsic spatial-temporal patterns in facial behavior, and thus outperform state-of-the art work of posed and spontaneous expressions distinction.&lt;/p&gt;
 
 
@@ -294,7 +294,7 @@
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg 400w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_3e53e99adac07c31e2ef80d5e9dd326f.jpg 760w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
                width=&#34;760&#34;
                height=&#34;458&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -306,9 +306,9 @@
     
     <item>
       <title>Differentiating Between Posed and Spontaneous Expressions with Latent Regression Bayesian Network</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/</guid>
       <description>&lt;p&gt;Spatial patterns embedded in human faces are crucial for differentiating posed expressions from spontaneous ones, yet they have not been thoroughly exploited in the literature. To tackle this problem, we present a generative model, i.e., Latent Regression Bayesian Network (LRBN), to effectively capture the spatial patterns embedded in facial landmark points to differentiate between posed and spontaneous facial expressions. The LRBN is a directed graphical model consisting of one latent layer and one visible layer. Due to the “explaining away” effect in Bayesian networks, LRBN is able to capture both the dependencies among the latent variables given the observation and the dependencies among visible variables. We believe that such dependencies are crucial for faithful data representation. Specifically, during training, we construct two LRBNs to capture spatial patterns inherent in displacements of landmark points from spontaneous facial expressions and posed facial expressions respectively. During testing, the samples are classified into posed or spontaneous expressions according to their likelihoods on two models. Efficient learning and inference algorithms are proposed. Experimental results on two benchmark databases demonstrate the advantages of the proposed approach in modeling spatial patterns as well as its superior performance to the existing methods in differentiating between posed and spontaneous expressions.&lt;/p&gt;
 
 
@@ -330,7 +330,7 @@
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg 400w,
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_b9cbd7521ce6355a25d7e9d9350ea896.jpg 760w,
                /publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-gan-nwj-17/featured_hu5eafe8c2628672eb14e0c65744466ffa_86294_efc2b202e0496b643e7469c436369d59.jpg&#34;
                width=&#34;760&#34;
                height=&#34;377&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -342,9 +342,9 @@
     
     <item>
       <title>Facial Expression Recognition with Deep two-view Support Vector Machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</guid>
       <description>&lt;p&gt;This paper proposes a novel deep two-view approach to learn features from both visible and thermal images and leverage the commonality among visible and thermal images for facial expression recognition from visible images. The thermal images are used as privileged information, which is required only during training to help visible images learn better features and classifier. Specifically, we first learn a deep model for visible images and thermal images respectively, and use the learned feature representations to train SVM classifiers for expression classification. We then jointly refine the deep models as well as the SVM classifiers for both thermal images and visible images by imposing the constraint that the outputs of the SVM classifiers from two views are similar. Therefore, the resulting representations and classifiers capture the inherent connections among visible facial image, infrared facial image and target expression labels, and hence improve the recognition performance for facial expression recognition from visible images during testing. Experimental results on the benchmark expression database demonstrate the effectiveness of our proposed method.&lt;/p&gt;
 
 
@@ -366,7 +366,7 @@
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG 400w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d620d56d8d33e7b0a84c6ddf224ae0a5.JPG 760w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

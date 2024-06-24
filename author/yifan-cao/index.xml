@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifan Cao | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/yifan-cao/</link>
-      <atom:link href="https://ustc-ac.github.io/author/yifan-cao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yifan-cao/</link>
+      <atom:link href="http://localhost:1313/author/yifan-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifan Cao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/yifan-cao/avatar_hu78dc5a6e1bb39685c707afd89e5ccf01_49064_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/yifan-cao/avatar_hu78dc5a6e1bb39685c707afd89e5ccf01_49064_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yifan Cao</title>
-      <link>https://ustc-ac.github.io/author/yifan-cao/</link>
+      <link>http://localhost:1313/author/yifan-cao/</link>
     </image>
     
   </channel>

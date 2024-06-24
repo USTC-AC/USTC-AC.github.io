@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aesthetic Assessment | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/aesthetic-assessment/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/aesthetic-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/aesthetic-assessment/</link>
+      <atom:link href="http://localhost:1313/tag/aesthetic-assessment/index.xml" rel="self" type="application/rss+xml" />
     <description>Aesthetic Assessment</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Aesthetic Assessment</title>
-      <link>https://ustc-ac.github.io/tag/aesthetic-assessment/</link>
+      <link>http://localhost:1313/tag/aesthetic-assessment/</link>
     </image>
     
     <item>
       <title>Image Aesthetic Assessment Assisted by Attributes through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-pan-wj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-pan-wj-19/</guid>
       <description>&lt;p&gt;The inherent connections among aesthetic attributes and aesthetics are crucial for image aesthetic assessment, but have not been thoroughly explored yet. In this paper, we propose a novel image aesthetic assessment assisted by attributes through both representation-level and label-level. The attributes are used as privileged information, which is only required during training. Specifically, we first propose a multitask deep convolutional rating network to learn the aesthetic score and attributes simultaneously. The attributes are explored to construct better feature representations for aesthetic assessment through multi-task learning. After that, we introduce a discriminator to distinguish the predicted attributes and aesthetics of the multi-task deep network from the ground truth label distribution embedded in the training data. The multi-task deep network wants to output aesthetic score and attributes as close to the ground truth labels as possible. Thus the deep network and the discriminator compete with each other. Through adversarial learning, the attributes are explored to enforce the distribution of the predicted attributes and aesthetics to converge to the ground truth label distribution. Experimental results on two benchmark databases demonstrate the superiority of the proposed method to state of the art work.&lt;/p&gt;
 
 
@@ -38,7 +38,7 @@
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG 400w,
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_59f5b33a19657e3ab31ea7ffc0c860ae.PNG 760w,
                /publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1200x1200_fit_lanczos_3.PNG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_4e387916ae9a39d9b4f079e98792d7fa.PNG&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

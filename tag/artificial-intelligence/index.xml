@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artificial intelligence | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/artificial-intelligence/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    <description>Artificial intelligence</description>
+    <title>Artificial Intelligence | USTC-AC</title>
+    <link>http://localhost:1313/tag/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Artificial intelligence</title>
-      <link>https://ustc-ac.github.io/tag/artificial-intelligence/</link>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tag/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniFaRN: Unified Transformer for Facial Reaction Generation</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-react/</link>
+      <link>http://localhost:1313/publication/manual-mm23-react/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-react/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-react/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cong Liang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/cong-liang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/cong-liang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/cong-liang/</link>
+      <atom:link href="http://localhost:1313/author/cong-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Liang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/cong-liang/avatar_hud1b6cbd3a1c5c2ea00e15a54248a0b90_94342_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/cong-liang/avatar_hud1b6cbd3a1c5c2ea00e15a54248a0b90_94342_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cong Liang</title>
-      <link>https://ustc-ac.github.io/author/cong-liang/</link>
+      <link>http://localhost:1313/author/cong-liang/</link>
     </image>
     
     <item>
       <title>A Multi-Modal Hierarchical Recurrent Neural Network for Depression Detection</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-ldw-19/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-ldw-19/</guid>
       <description>&lt;p&gt;Depression has a severe effect on people’s life. The artificial therapy of depression is facing a shortage of expert therapists. The automatic detection of depression can be an auxiliary means of artificial therapy. As a delicate mental symptom, depression cannot be accurately distinguished via single modal observation. To address this, our work utilizes vision, audio and text features. For vision features, gaze direction, 3D position, the orientation of the head and 17 facial action units are considered. For audio, the hidden layers of pre-trained deep models are used. For text, we build features from two aspects. The first one is the semantic embedding of the whole sentence. The second one is the emotional distribution of several words with obvious emotional tendencies. A subject engaging in a multi-turns conversation may produce several video clips sharing a similar theme. Facing the hierarchical characteristic of such data, we design a framework consisting of two hierarchies of bidirectional long short term memories (LSTM) for the depression detection task. The first hierarchy of bidirectional LSTM extracts vision and audio features for every video clip. The second hierarchy of bidirectional LSTM fuses the visual, audio and textual features and regresses the degree of depression. The indicator in concern in the DDS challenge is the PHQ-8 Score, while the proposed method jointly learns the PTSD Severity to facilitate the prediction of the PHQ-8 Score under a multi-task learning schema.&lt;/p&gt;
 
 
@@ -38,7 +38,7 @@
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png 400w,
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_5630924c619272899f07b90643de324d.png 760w,
                /publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-ldw-19/featured_hu7dee86ac700df39881feb7af9e18242c_138487_aee75ebbef059b6f84c61be574151c85.png&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -50,34 +50,83 @@
     </item>
     
     <item>
+      <title>We have gotten the Second price of REACT2024</title>
+      <link>http://localhost:1313/post/2024-fg-react/</link>
+      <pubDate>Sun, 23 Jun 2024 15:33:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-fg-react/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ustc-ac.github.io/author/zhenjie-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhenjie Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/cong-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cong Liang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jiahe-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiahe Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/haofan-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haofan Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/yadong-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/caichao-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caichao Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jialin-gui/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jialin Gui&lt;/a&gt; participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.&lt;/p&gt;
+&lt;p&gt;If you are interested in this project, please visit &lt;a href=&#34;https://brosdocs.net/fg2024/CT09.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png 400w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_5268892867024cd1e4512f6c97f506eb.png 760w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png&#34;
+               width=&#34;760&#34;
+               height=&#34;533&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+W&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Privacy-Protected Facial Expression Recognition Augmented by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-icme23-liang/</link>
+      <link>http://localhost:1313/publication/manual-icme23-liang/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icme23-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-icme23-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniFaRN: Unified Transformer for Facial Reaction Generation</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-react/</link>
+      <link>http://localhost:1313/publication/manual-mm23-react/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-react/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper is accepted by ICME2023</title>
-      <link>https://ustc-ac.github.io/post/2023-icme-liang/</link>
+      <link>http://localhost:1313/post/2023-icme-liang/</link>
       <pubDate>Sat, 15 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2023-icme-liang/</guid>
+      <guid>http://localhost:1313/post/2023-icme-liang/</guid>
       <description>&lt;p&gt;One paper by &lt;a href=&#34;author/cong-liang/&#34;&gt;Cong Liang&lt;/a&gt; is accepted by ICME23&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg 400w,
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_52998d0cbcc1f271cf16ad73f4ee2576.jpg 760w,
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg&#34;
+               src=&#34;http://localhost:1313/post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg&#34;
                width=&#34;760&#34;
                height=&#34;208&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -86,18 +135,32 @@
     
     <item>
       <title>We have gotten the first price of REACT2023</title>
-      <link>https://ustc-ac.github.io/post/2023-acmmm-react/</link>
+      <link>http://localhost:1313/post/2023-acmmm-react/</link>
       <pubDate>Tue, 11 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2023-acmmm-react/</guid>
+      <guid>http://localhost:1313/post/2023-acmmm-react/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/cong-liang/&#34;&gt;Liang Cong&lt;/a&gt;, &lt;a href=&#34;../author/jiahe-wang/&#34;&gt;Wang Jiahe&lt;/a&gt; and &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Zhang Haofan&lt;/a&gt; participated in the REACT2023 competition (Challenge@ACM-MM23) and won the first place.&lt;/p&gt;
 &lt;p&gt;If you are interested in this project, please visit &amp;ldquo;&lt;a href=&#34;https://github.com/lc150303/REACT23_Challenge%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lc150303/REACT23_Challenge&#34;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_69c7911dc53f3be358e232e76e27413b.png 400w,
                /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_aa70236b70b4bf0a138bda4bf599bd16.png 760w,
                /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_69c7911dc53f3be358e232e76e27413b.png&#34;
+               src=&#34;http://localhost:1313/post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_69c7911dc53f3be358e232e76e27413b.png&#34;
                width=&#34;760&#34;
                height=&#34;545&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -106,9 +169,9 @@
     
     <item>
       <title>Attentive One-Dimensional Heatmap Regression for Facial Landmark Detection and Tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</guid>
       <description>&lt;p&gt;Although heatmap regression is considered a state-of-the-art method to locate facial landmarks, it suffers from huge spatial complexity and is prone to quantization error. To address this, we propose a novel attentive one-dimensional heatmap regression method for facial landmark localization. First, we predict two groups of 1D heatmaps to represent the marginal distributions of the 𝑥 and 𝑦 coordinates. These 1D heatmaps reduce spatial complexity significantly compared to current heatmap regression methods, which use 2D heatmaps to represent the joint distributions of 𝑥 and 𝑦 coordinates. With much lower spatial complexity, the proposed method can output high-resolution 1D heatmaps despite limited GPU memory, significantly alleviating the quantization error. Second, a co-attention mechanism is adopted to model the inherent spatial patterns existing in 𝑥 and 𝑦 coordinates, and therefore the joint distributions on the 𝑥 and 𝑦 axes are also captured. Third, based on the 1D heatmap structures, we propose a facial landmark detector capturing spatial patterns for landmark detection on an image; and a tracker further capturing temporal patterns with a temporal refinement mechanism for landmark tracking. Experimental results on four benchmark databases demonstrate the superiority of our method.&lt;/p&gt;
 
 
@@ -130,7 +193,7 @@
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png 400w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_8c3a8280da7eec8db4b8d933907c5c70.png 760w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
                width=&#34;760&#34;
                height=&#34;498&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

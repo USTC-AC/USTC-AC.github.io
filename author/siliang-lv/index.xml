@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siliang Lv | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/siliang-lv/</link>
-      <atom:link href="https://ustc-ac.github.io/author/siliang-lv/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/siliang-lv/</link>
+      <atom:link href="http://localhost:1313/author/siliang-lv/index.xml" rel="self" type="application/rss+xml" />
     <description>Siliang Lv</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Siliang Lv</title>
-      <link>https://ustc-ac.github.io/author/siliang-lv/</link>
+      <link>http://localhost:1313/author/siliang-lv/</link>
     </image>
     
     <item>
       <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional speech synthesis by XML file using interactive genetic algorithms</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</link>
+      <link>http://localhost:1313/publication/dblp-confgecco-lv-ww-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confgecco-lv-ww-09/</guid>
+      <guid>http://localhost:1313/publication/dblp-confgecco-lv-ww-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrared Facial Expression Recognition Using Wavelet Transform</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</link>
+      <link>http://localhost:1313/publication/dblp-confiscsct-wang-lw-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confiscsct-wang-lw-08/</guid>
+      <guid>http://localhost:1313/publication/dblp-confiscsct-wang-lw-08/</guid>
       <description></description>
     </item>
     

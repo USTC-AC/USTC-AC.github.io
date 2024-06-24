@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | USTC-AC</title>
-    <link>https://ustc-ac.github.io/categories/</link>
-      <atom:link href="https://ustc-ac.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/</link>
+      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://ustc-ac.github.io/categories/</link>
+      <link>http://localhost:1313/categories/</link>
     </image>
     
   </channel>

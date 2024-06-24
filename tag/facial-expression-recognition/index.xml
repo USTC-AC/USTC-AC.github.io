@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facial Expression Recognition | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/facial-expression-recognition/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/facial-expression-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/facial-expression-recognition/</link>
+      <atom:link href="http://localhost:1313/tag/facial-expression-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Facial Expression Recognition</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/tag/facial-expression-recognition/</link>
+      <link>http://localhost:1313/tag/facial-expression-recognition/</link>
     </image>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <link>http://localhost:1313/publication/manual-pr24-chang/</link>
       <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-pr24-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy-Protected Facial Expression Recognition Augmented by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-icme23-liang/</link>
+      <link>http://localhost:1313/publication/manual-icme23-liang/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icme23-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-icme23-liang/</guid>
       <description></description>
     </item>
     

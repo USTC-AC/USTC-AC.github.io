@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanfang Chen | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/tanfang-chen/</link>
-      <atom:link href="https://ustc-ac.github.io/author/tanfang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/tanfang-chen/</link>
+      <atom:link href="http://localhost:1313/author/tanfang-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Tanfang Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/tanfang-chen/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/tanfang-chen/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Tanfang Chen</title>
-      <link>https://ustc-ac.github.io/author/tanfang-chen/</link>
+      <link>http://localhost:1313/author/tanfang-chen/</link>
     </image>
     
     <item>
       <title>Learning with privileged information for multi-Label classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ccs-18/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-ccs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep multimodal network for multi-label classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-chen-wc-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-chen-wc-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-chen-wc-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-chen-wc-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Domain Knowledge for Affective Video Content Analyses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-chen-wwc-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-chen-wwc-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-chen-wwc-17/</guid>
       <description>&lt;p&gt;The well-established film grammar is often used to change visual and audio elements of videos to invoke audiences’ emotional experience. Such film grammar, referred to as domain knowledge, is crucial for affective video content analyses, but has not been thoroughly explored yet. In this paper, we propose a novel method to analyze video affective content through exploring domain knowledge. Specifically, take visual elements as an example, we first infer probabilistic dependencies between visual elements and emotions from the summarized film grammar. Then, we transfer the domain knowledge as constraints, and formulate affective video content analyses as a constrained optimization problem. Experiments on the LIRIS-ACCEDE database and the DEAP database demonstrate that the proposed affective content analyses method can successfully leverage well-established film grammar for better emotion classification from video content.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning with Privileged Information for Multi-Label Classification</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorr-chen-wcs-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorr-chen-wcs-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition from EEG Signals Enhanced by User&#39;s Profile</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</guid>
       <description></description>
     </item>
     

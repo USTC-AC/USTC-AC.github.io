@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jun Wang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jun-wang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jun-wang/</link>
+      <atom:link href="http://localhost:1313/author/jun-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Jun Wang</title>
-      <link>https://ustc-ac.github.io/author/jun-wang/</link>
+      <link>http://localhost:1313/author/jun-wang/</link>
     </image>
     
     <item>
       <title>Enhanced facial expression recognition by age</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit Classification with Hidden Knowledge under Incomplete Annotation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-wang-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-wang-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-wang-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-wang-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Emotion Tagging for Multimedia Data by Exploiting High-Order Dependencies Among Emotions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous expression recognition through modeling their spatial patterns</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capture expression-dependent AU relations for expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Facial Expression Recognition Using Hidden Markov Models</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wj-14-a/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wang-wj-14-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wj-14-a/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wang-wj-14-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing multi-label classification by modeling dependencies among labels</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-wwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-wwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-wwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit recognition by relation modeling from both qualitative knowledge and quantitative data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequence-based bias analysis of spontaneous facial expression databases</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-wang-wwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-wwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-wang-wwj-14/</guid>
       <description></description>
     </item>
     

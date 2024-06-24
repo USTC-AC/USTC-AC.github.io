@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiabao Mu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jiabao-mu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jiabao-mu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiabao-mu/</link>
+      <atom:link href="http://localhost:1313/author/jiabao-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiabao Mu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/jiabao-mu/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jiabao-mu/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiabao Mu</title>
-      <link>https://ustc-ac.github.io/author/jiabao-mu/</link>
+      <link>http://localhost:1313/author/jiabao-mu/</link>
     </image>
     
   </channel>

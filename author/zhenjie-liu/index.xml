@@ -2,15 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhenjie Liu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/zhenjie-liu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/zhenjie-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zhenjie-liu/</link>
+      <atom:link href="http://localhost:1313/author/zhenjie-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenjie Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/zhenjie-liu/avatar_hu4b2fc739846ed7eff9f0d643a7e54b2e_76380_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/zhenjie-liu/avatar_hu4b2fc739846ed7eff9f0d643a7e54b2e_76380_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zhenjie Liu</title>
-      <link>https://ustc-ac.github.io/author/zhenjie-liu/</link>
+      <link>http://localhost:1313/author/zhenjie-liu/</link>
     </image>
+    
+    <item>
+      <title>We have gotten the Second price of REACT2024</title>
+      <link>http://localhost:1313/post/2024-fg-react/</link>
+      <pubDate>Sun, 23 Jun 2024 15:33:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-fg-react/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ustc-ac.github.io/author/zhenjie-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhenjie Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/cong-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cong Liang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jiahe-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiahe Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/haofan-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haofan Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/yadong-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/caichao-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caichao Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jialin-gui/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jialin Gui&lt;/a&gt; participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.&lt;/p&gt;
+&lt;p&gt;If you are interested in this project, please visit &lt;a href=&#34;https://brosdocs.net/fg2024/CT09.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png 400w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_5268892867024cd1e4512f6c97f506eb.png 760w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png&#34;
+               width=&#34;760&#34;
+               height=&#34;533&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+W&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ziheng Wang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/ziheng-wang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/ziheng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ziheng-wang/</link>
+      <atom:link href="http://localhost:1313/author/ziheng-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ziheng Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Ziheng Wang</title>
-      <link>https://ustc-ac.github.io/author/ziheng-wang/</link>
+      <link>http://localhost:1313/author/ziheng-wang/</link>
     </image>
     
     <item>
       <title>Multiple Emotion Tagging for Multimedia Data by Exploiting High-Order Dependencies Among Emotions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-wwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-wwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Complex Spatio-temporal Relations among Facial Muscles for Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confcvpr-wang-wj-13/</link>
+      <link>http://localhost:1313/publication/dblp-confcvpr-wang-wj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confcvpr-wang-wj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confcvpr-wang-wj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Global Semantic Relationships for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-source domain adaptation | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/multi-source-domain-adaptation/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/multi-source-domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Multi-source domain adaptation</description>
+    <title>Multi-Source Domain Adaptation | USTC-AC</title>
+    <link>http://localhost:1313/tag/multi-source-domain-adaptation/</link>
+      <atom:link href="http://localhost:1313/tag/multi-source-domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Source Domain Adaptation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/tag/multi-source-domain-adaptation/</link>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-Source Domain Adaptation</title>
+      <link>http://localhost:1313/tag/multi-source-domain-adaptation/</link>
     </image>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
-      <link>https://ustc-ac.github.io/publication/manual-pr24-chang/</link>
+      <link>http://localhost:1313/publication/manual-pr24-chang/</link>
       <pubDate>Mon, 19 Feb 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-pr24-chang/</guid>
+      <guid>http://localhost:1313/publication/manual-pr24-chang/</guid>
       <description></description>
     </item>
     

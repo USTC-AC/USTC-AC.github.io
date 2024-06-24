@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lin Fang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/lin-fang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/lin-fang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lin-fang/</link>
+      <atom:link href="http://localhost:1313/author/lin-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lin Fang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/lin-fang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/lin-fang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lin Fang</title>
-      <link>https://ustc-ac.github.io/author/lin-fang/</link>
+      <link>http://localhost:1313/author/lin-fang/</link>
     </image>
     
     <item>
       <title>Human Pose Estimation with Shape Aware Loss</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg23-fang/</link>
+      <link>http://localhost:1313/publication/manual-fg23-fang/</link>
       <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg23-fang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg23-fang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representation Learning through Multimodal Attention and Time-sync Comments for Video Affective Content Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-pan/</link>
+      <link>http://localhost:1313/publication/manual-mm22-pan/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-pan/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Multi-Scale Resolution-Adaptive Network for Low-Resolution Face Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-wang/</link>
+      <link>http://localhost:1313/publication/manual-mm22-wang/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Stacking Ensemble for Facial Landmark Tracking</title>
-      <link>https://ustc-ac.github.io/publication/manual-icpr22-fang/</link>
+      <link>http://localhost:1313/publication/manual-icpr22-fang/</link>
       <pubDate>Fri, 01 Apr 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icpr22-fang/</guid>
+      <guid>http://localhost:1313/publication/manual-icpr22-fang/</guid>
       <description></description>
     </item>
     

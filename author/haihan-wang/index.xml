@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haihan Wang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/haihan-wang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/haihan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/haihan-wang/</link>
+      <atom:link href="http://localhost:1313/author/haihan-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haihan Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/haihan-wang/avatar_hu40ca3fc2578e983d717c75011dee10a9_193127_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/haihan-wang/avatar_hu40ca3fc2578e983d717c75011dee10a9_193127_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Haihan Wang</title>
-      <link>https://ustc-ac.github.io/author/haihan-wang/</link>
+      <link>http://localhost:1313/author/haihan-wang/</link>
     </image>
     
     <item>
       <title>Low-Resolution Face Recognition Enhanced by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-fg23-wang/</link>
+      <link>http://localhost:1313/publication/manual-fg23-wang/</link>
       <pubDate>Wed, 07 Dec 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-fg23-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-fg23-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-Stage Multi-Scale Resolution-Adaptive Network for Low-Resolution Face Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-wang/</link>
+      <link>http://localhost:1313/publication/manual-mm22-wang/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-wang/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-wang/</guid>
       <description></description>
     </item>
     

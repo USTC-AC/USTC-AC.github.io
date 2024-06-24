@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yachen Zhu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/yachen-zhu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/yachen-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yachen-zhu/</link>
+      <atom:link href="http://localhost:1313/author/yachen-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yachen Zhu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Yachen Zhu</title>
-      <link>https://ustc-ac.github.io/author/yachen-zhu/</link>
+      <link>http://localhost:1313/author/yachen-zhu/</link>
     </image>
     
     <item>
       <title>Employing subjects&#39; information as privileged information for emotion recognition from EEG signals</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition with the Help of Privileged Information</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstamd-wang-zyj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstamd-wang-zyj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression Recognition from Visible Images with the Help of Thermal Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-shi-wz-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-shi-wz-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit video emotion tagging from audiences&#39; facial expression</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning with privileged information using Bayesian networks</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsfcsc-wang-hzhlj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsfcsc-wang-hzhlj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion recognition from users&#39; EEG signals with the help of stimulus VIDEOS</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-zhu-wj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-zhu-wj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-zhu-wj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-zhu-wj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid video emotional tagging using users&#39; EEG and video content</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple-Facial Action Unit Recognition by Shared Feature Learning and Semantic Relation Modeling</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-zhu-wyj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-zhu-wyj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional Influence on SSVEP Based BCI</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Affective Effects on Steady-State Visual Evoked Potential Responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-wang-wz-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-wang-wz-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bias analyses of spontaneous facial expression database</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wang-wzj-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wang-wzj-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wang-wzj-12/</guid>
       <description></description>
     </item>
     

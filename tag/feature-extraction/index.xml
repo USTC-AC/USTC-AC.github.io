@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feature extraction | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/feature-extraction/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/feature-extraction/index.xml" rel="self" type="application/rss+xml" />
-    <description>Feature extraction</description>
+    <title>Feature Extraction | USTC-AC</title>
+    <link>http://localhost:1313/tag/feature-extraction/</link>
+      <atom:link href="http://localhost:1313/tag/feature-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Extraction</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Feature extraction</title>
-      <link>https://ustc-ac.github.io/tag/feature-extraction/</link>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Extraction</title>
+      <link>http://localhost:1313/tag/feature-extraction/</link>
     </image>
     
     <item>
       <title>A Multi-Stage Visual Perception Approach for Image Emotion Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-lu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-lu/</link>
       <pubDate>Wed, 27 Mar 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-lu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-lu/</guid>
       <description></description>
     </item>
     

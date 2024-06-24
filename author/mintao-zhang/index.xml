@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mintao Zhang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/mintao-zhang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/mintao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mintao-zhang/</link>
+      <atom:link href="http://localhost:1313/author/mintao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Mintao Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/mintao-zhang/avatar_hu7581896d548031eb89b41ceafb460a62_75835_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/mintao-zhang/avatar_hu7581896d548031eb89b41ceafb460a62_75835_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mintao Zhang</title>
-      <link>https://ustc-ac.github.io/author/mintao-zhang/</link>
+      <link>http://localhost:1313/author/mintao-zhang/</link>
     </image>
     
   </channel>

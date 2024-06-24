@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hao Sun | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/hao-sun/</link>
-      <atom:link href="https://ustc-ac.github.io/author/hao-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/hao-sun/</link>
+      <atom:link href="http://localhost:1313/author/hao-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Sun</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/hao-sun/avatar_huf19e9e0ee91897e5bde2469ac719e6a4_325730_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/hao-sun/avatar_huf19e9e0ee91897e5bde2469ac719e6a4_325730_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hao Sun</title>
-      <link>https://ustc-ac.github.io/author/hao-sun/</link>
+      <link>http://localhost:1313/author/hao-sun/</link>
     </image>
     
   </channel>

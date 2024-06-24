@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>expression descriptions | USTC-AC</title>
-    <link>https://ustc-ac.github.io/tag/expression-descriptions/</link>
-      <atom:link href="https://ustc-ac.github.io/tag/expression-descriptions/index.xml" rel="self" type="application/rss+xml" />
-    <description>expression descriptions</description>
+    <title>Expression Descriptions | USTC-AC</title>
+    <link>http://localhost:1313/tag/expression-descriptions/</link>
+      <atom:link href="http://localhost:1313/tag/expression-descriptions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Expression Descriptions</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>expression descriptions</title>
-      <link>https://ustc-ac.github.io/tag/expression-descriptions/</link>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Expression Descriptions</title>
+      <link>http://localhost:1313/tag/expression-descriptions/</link>
     </image>
     
     <item>
       <title>Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-wu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-wu/</guid>
       <description></description>
     </item>
     

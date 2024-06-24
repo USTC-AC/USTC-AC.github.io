@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Yun | USTC-AC</title>
+    <link>http://localhost:1313/author/xin-yun/</link>
+      <atom:link href="http://localhost:1313/author/xin-yun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Yun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/xin-yun/avatar_hu430876e586bb1d10925f67b141652aa5_64636_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xin Yun</title>
+      <link>http://localhost:1313/author/xin-yun/</link>
+    </image>
+    
+  </channel>
+</rss>

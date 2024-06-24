@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiajia Yang | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jiajia-yang/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jiajia-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiajia-yang/</link>
+      <atom:link href="http://localhost:1313/author/jiajia-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiajia Yang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/jiajia-yang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jiajia-yang/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiajia Yang</title>
-      <link>https://ustc-ac.github.io/author/jiajia-yang/</link>
+      <link>http://localhost:1313/author/jiajia-yang/</link>
     </image>
     
     <item>
       <title>A Novel Dynamic Model Capturing Spatial and Temporal Patterns for Facial Expression Analysis</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</link>
+      <link>http://localhost:1313/publication/dblp-journalspami-wang-zyyj-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspami-wang-zyyj-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspami-wang-zyyj-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Spatial and Temporal Patterns for Distinguishing between Posed and Spontaneous Expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yang-w-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yang-w-17/</guid>
       <description>&lt;p&gt;Spatial and temporal patterns inherent in facial behavior carry crucial information for posed and spontaneous expressions distinction, but have not been thoroughly exploited yet. To address this issue, we propose a novel dynamic model, termed as interval temporal restricted Boltzmann machine (IT-RBM), to jointly capture global spatial patterns and complex temporal patterns embedded in posed and spontaneous expressions respectively for distinguishing between posed and spontaneous expressions. Specifically, we consider a facial expression as a complex activity that consists of temporally overlapping or sequential primitive facial events, which are defined as the motion of feature points. We propose using the Allen s Interval Algebra to represent the complex temporal patterns existing in facial events through a two-layer Bayesian network. Furthermore, we propose employing multi-value restricted Boltzmann machine to capture intrinsic global spatial patterns among facial events. Experimental results on three benchmark databases, the UvA-NEMO smile database, the DISFA+ database, and theSPOS database, demonstrate the proposed interval temporal restricted Boltzmann machine can successfully capture the intrinsic spatial-temporal patterns in facial behavior, and thus outperform state-of-the art work of posed and spontaneous expressions distinction.&lt;/p&gt;
 
 
@@ -46,7 +46,7 @@
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg 400w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_3e53e99adac07c31e2ef80d5e9dd326f.jpg 760w,
                /publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yang-w-17/featured_hu0bd183b9574ce216c435855d547551be_121258_0768ee6974650f9c803706a12511ded7.jpg&#34;
                width=&#34;760&#34;
                height=&#34;458&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -58,17 +58,17 @@
     
     <item>
       <title>Feature and label relation modeling for multiple-facial action unit classification and intensity estimation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-ygj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-ygj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-ygj-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple facial action unit recognition enhanced by facial expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</guid>
       <description></description>
     </item>
     

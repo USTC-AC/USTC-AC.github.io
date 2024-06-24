@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xin Li | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/xin-li/</link>
-      <atom:link href="https://ustc-ac.github.io/author/xin-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xin-li/</link>
+      <atom:link href="http://localhost:1313/author/xin-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/xin-li/avatar_hu6ca833e12031350c531cf9cd69fe0715_36341_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/xin-li/avatar_hu6ca833e12031350c531cf9cd69fe0715_36341_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xin Li</title>
-      <link>https://ustc-ac.github.io/author/xin-li/</link>
+      <link>http://localhost:1313/author/xin-li/</link>
     </image>
     
     <item>
       <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feiyi Zheng | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/feiyi-zheng/</link>
-      <atom:link href="https://ustc-ac.github.io/author/feiyi-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/feiyi-zheng/</link>
+      <atom:link href="http://localhost:1313/author/feiyi-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Feiyi Zheng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/feiyi-zheng/avatar_hu842de58aaea5ac17c0265db3823a37ae_82880_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/feiyi-zheng/avatar_hu842de58aaea5ac17c0265db3823a37ae_82880_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Feiyi Zheng</title>
-      <link>https://ustc-ac.github.io/author/feiyi-zheng/</link>
+      <link>http://localhost:1313/author/feiyi-zheng/</link>
     </image>
     
   </channel>

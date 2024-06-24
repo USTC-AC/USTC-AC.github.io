@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guobing Wu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/guobing-wu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/guobing-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/guobing-wu/</link>
+      <atom:link href="http://localhost:1313/author/guobing-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guobing Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Guobing Wu</title>
-      <link>https://ustc-ac.github.io/author/guobing-wu/</link>
+      <link>http://localhost:1313/author/guobing-wu/</link>
     </image>
     
     <item>
       <title>Hybrid video emotional tagging using users&#39; EEG and video content</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-zwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-zwj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional Influence on SSVEP Based BCI</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-zhu-twgwc-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-zhu-twgwc-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Affective Effects on Steady-State Visual Evoked Potential Responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-wang-wz-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-wang-wz-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-wang-wz-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
+      <link>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstmm-wang-lllwpcw-10/</guid>
       <description></description>
     </item>
     

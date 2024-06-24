@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammad Soleymani | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/mohammad-soleymani/</link>
-      <atom:link href="https://ustc-ac.github.io/author/mohammad-soleymani/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mohammad-soleymani/</link>
+      <atom:link href="http://localhost:1313/author/mohammad-soleymani/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Soleymani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Soleymani</title>
-      <link>https://ustc-ac.github.io/author/mohammad-soleymani/</link>
+      <link>http://localhost:1313/author/mohammad-soleymani/</link>
     </image>
     
     <item>
       <title>Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</link>
+      <link>http://localhost:1313/publication/dblp-journalscorrabs-1911-05609/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscorrabs-1911-05609/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscorrabs-1911-05609/</guid>
       <description></description>
     </item>
     

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peijia Shen | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/peijia-shen/</link>
-      <atom:link href="https://ustc-ac.github.io/author/peijia-shen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/peijia-shen/</link>
+      <atom:link href="http://localhost:1313/author/peijia-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Peijia Shen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Peijia Shen</title>
-      <link>https://ustc-ac.github.io/author/peijia-shen/</link>
+      <link>http://localhost:1313/author/peijia-shen/</link>
     </image>
     
     <item>
       <title>Analyses of a Multimodal Spontaneous Facial Expression Database</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-lwwshw-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye localization from thermal infrared images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalspr-wang-lsj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalspr-wang-lsj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalspr-wang-lsj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye Localization from Infrared Thermal Images</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confmprss-wang-sl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmprss-wang-sl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmprss-wang-sl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial expression recognition from infrared thermal images using temperature difference by voting</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confccis-wang-sl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confccis-wang-sl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confccis-wang-sl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Recognition from Infrared Thermal Videos</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</link>
+      <link>http://localhost:1313/publication/dblp-confias-shen-wl-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confias-shen-wl-12/</guid>
+      <guid>http://localhost:1313/publication/dblp-confias-shen-wl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A real-time attitude recognition by eye-tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficimcs-lv-ws-11/</link>
+      <link>http://localhost:1313/publication/dblp-conficimcs-lv-ws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficimcs-lv-ws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficimcs-lv-ws-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards robot incremental learning constraints from comparative demonstration</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</link>
+      <link>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
       <description></description>
     </item>
     

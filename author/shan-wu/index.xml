@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shan Wu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/shan-wu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/shan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shan-wu/</link>
+      <atom:link href="http://localhost:1313/author/shan-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shan Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Shan Wu</title>
-      <link>https://ustc-ac.github.io/author/shan-wu/</link>
+      <link>http://localhost:1313/author/shan-wu/</link>
     </image>
     
     <item>
       <title>Capturing Feature and Label Relations Simultaneously for Multiple Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</link>
+      <link>http://localhost:1313/publication/dblp-journalstaffco-wang-wpj-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstaffco-wang-wpj-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstaffco-wang-wpj-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Dependencies among Labels and Features for Multiple Emotion Tagging of Multimedia Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/</link>
+      <link>http://localhost:1313/publication/dblp-confaaai-wu-wj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-confaaai-wu-wj-17/</guid>
       <description>&lt;p&gt;In this paper,we tackle the problem of emotion tagging of multimedia data by modeling the dependencies among multiple emotions in both the feature and label spaces. These dependencies,which carry crucial top-down and bottom-up evidence for improving multimedia affective content analysis,have not been thoroughly exploited yet. To this end, we propose two hierarchical models that independently and dependently learn the shared features and global semantic relationships among emotion labels to jointly tag multiple emotion labels of multimedia data. Efficient learning and inference algorithms of the proposed models are also developed. Experiments on three benchmark emotion databases demonstrate the superior performance of our methods to existing methods.&lt;/p&gt;
 
 
@@ -46,7 +46,7 @@
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG 400w,
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_dfd10bd9528c4784cc86e20ff1f3a372.JPG 760w,
                /publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confaaai-wu-wj-17/featured_hu703fb9dff318081c89de1de4167dd036_98867_f9dbd9aa622db9e1b1e017a870c9ff02.JPG&#34;
                width=&#34;760&#34;
                height=&#34;439&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -58,58 +58,58 @@
     
     <item>
       <title>Deep Facial Action Unit Recognition from Partially Labeled Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-wu-wpj-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wu-wpj-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-wu-wpj-17/</guid>
       <description>&lt;p&gt;Current work on facial action unit (AU) recognition requires AU-labeled facial images. Although large amounts of facial images are readily available, AU annotation is expensive and time consuming. To address this, we propose a deep facial action unit recognition approach learning from partially AU-labeled data. The proposed approach makes full use of both partly available ground-truth AU labels and the readily available large scale facial images without annotation. Specifically, we propose to learn label distribution from the ground-truth AU labels, and then train the AU classifiers from the large-scale facial images by maximizing the log likelihood of the mapping functions of AUs with regard to the learnt label distribution for all training data and minimizing the error between predicted AUs and ground-truth AUs for labeled data simultaneously. A restricted Boltzmann machine is adopted to model AU label distribution, a deep neural network is used to learn facial representation from facial images, and the support vector machine is employed as the classifier. Experiments on two benchmark databases demonstrate the effectiveness of the proposed approach.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Personalized video emotion tagging through a topic model</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</link>
+      <link>http://localhost:1313/publication/dblp-conficassp-wu-wg-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficassp-wu-wg-17/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficassp-wu-wg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Employing subjects&#39; information as privileged information for emotion recognition from EEG signals</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wzgyj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wzgyj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial expression recognition through modeling age-related spatial patterns</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-wgj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-wgj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-wgj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Facial Action Unit recognition by learning joint features and label relations</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-wu-wj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-wu-wj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-wu-wj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple facial action unit recognition enhanced by facial expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-yang-wwj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-yang-wwj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhanced facial expression recognition by age</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wu-ww-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wu-ww-15/</guid>
       <description></description>
     </item>
     

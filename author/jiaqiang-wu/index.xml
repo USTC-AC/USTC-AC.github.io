@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaqiang Wu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jiaqiang-wu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiaqiang-wu/</link>
+      <atom:link href="http://localhost:1313/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaqiang Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiaqiang Wu</title>
-      <link>https://ustc-ac.github.io/author/jiaqiang-wu/</link>
+      <link>http://localhost:1313/author/jiaqiang-wu/</link>
     </image>
     
   </channel>

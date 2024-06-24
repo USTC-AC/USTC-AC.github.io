@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chongliang Wu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/chongliang-wu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/chongliang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/chongliang-wu/</link>
+      <atom:link href="http://localhost:1313/author/chongliang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chongliang Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Chongliang Wu</title>
-      <link>https://ustc-ac.github.io/author/chongliang-wu/</link>
+      <link>http://localhost:1313/author/chongliang-wu/</link>
     </image>
     
     <item>
       <title>Capturing global spatial patterns for distinguishing posed and spontaneous expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</link>
+      <link>http://localhost:1313/publication/dblp-journalscviu-wang-wj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalscviu-wang-wj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalscviu-wang-wj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion Recognition from EEG Signals Enhanced by User&#39;s Profile</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmir-chen-wgw-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmir-chen-wgw-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Expression Recognition with Deep two-view Support Vector Machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-wu-wpc-16/</guid>
       <description>&lt;p&gt;This paper proposes a novel deep two-view approach to learn features from both visible and thermal images and leverage the commonality among visible and thermal images for facial expression recognition from visible images. The thermal images are used as privileged information, which is required only during training to help visible images learn better features and classifier. Specifically, we first learn a deep model for visible images and thermal images respectively, and use the learned feature representations to train SVM classifiers for expression classification. We then jointly refine the deep models as well as the SVM classifiers for both thermal images and visible images by imposing the constraint that the outputs of the SVM classifiers from two views are similar. Therefore, the resulting representations and classifiers capture the inherent connections among visible facial image, infrared facial image and target expression labels, and hence improve the recognition performance for facial expression recognition from visible images during testing. Experimental results on the benchmark expression database demonstrate the effectiveness of our proposed method.&lt;/p&gt;
 
 
@@ -54,7 +54,7 @@
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG 400w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_d620d56d8d33e7b0a84c6ddf224ae0a5.JPG 760w,
                /publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-wu-wpc-16/featured_hu4a007d55c83268e1c22352006fcba45d_180260_0ecaa368acedc411a8d4fff2952e216b.JPG&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,57 +66,57 @@
     
     <item>
       <title>Implicit hybrid video emotion tagging by integrating video content and users&#39; multiple physiological responses</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</link>
+      <link>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficpr-chen-wwgsj-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficpr-chen-wwgsj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and Spontaneous Expression Recognition Through Restricted Boltzmann Machine</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmmm-wu-w-16/</link>
+      <link>http://localhost:1313/publication/dblp-confmmm-wu-w-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmmm-wu-w-16/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmmm-wu-w-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-instance Hidden Markov Model for facial expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conffgr-wu-wj-15/</link>
+      <link>http://localhost:1313/publication/dblp-conffgr-wu-wj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conffgr-wu-wj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-conffgr-wu-wj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous expression recognition through modeling their spatial patterns</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmva-wang-whwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmva-wang-whwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posed and spontaneous facial expression differentiation using deep Boltzmann machines</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-gan-wwj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-gan-wwj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-gan-wwj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capture expression-dependent AU relations for expression recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-wang-whwglj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-wang-whwglj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit recognition by relation modeling from both qualitative knowledge and quantitative data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</link>
+      <link>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficmcs-gao-wwwj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficmcs-gao-wwwj-14/</guid>
       <description></description>
     </item>
     

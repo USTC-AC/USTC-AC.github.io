@@ -2,37 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jicai Pan | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/jicai-pan/</link>
-      <atom:link href="https://ustc-ac.github.io/author/jicai-pan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jicai-pan/</link>
+      <atom:link href="http://localhost:1313/author/jicai-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jicai Pan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 09:50:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/jicai-pan/avatar_hu84ee11615308cefd610b815cee8d6842_597212_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jicai-pan/avatar_hu84ee11615308cefd610b815cee8d6842_597212_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jicai Pan</title>
-      <link>https://ustc-ac.github.io/author/jicai-pan/</link>
+      <link>http://localhost:1313/author/jicai-pan/</link>
     </image>
     
     <item>
       <title>A Multi-Stage Visual Perception Approach for Image Emotion Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-lu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-lu/</link>
       <pubDate>Wed, 27 Mar 2024 09:50:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-lu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
-      <link>https://ustc-ac.github.io/post/2024-tac-lu/</link>
+      <link>http://localhost:1313/post/2024-tac-lu/</link>
       <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2024-tac-lu/</guid>
+      <guid>http://localhost:1313/post/2024-tac-lu/</guid>
       <description>&lt;p&gt;“A Multi-Stage Visual Perception Approach for Image Emotion Analysis” by &lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt;, has been accepted for publication in a future issue of IEEE Transactions on Affective Computing journal.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg 400w,
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_b71ee3bda8c3aff307133170f76b263f.jpg 760w,
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg&#34;
+               src=&#34;http://localhost:1313/post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg&#34;
                width=&#34;760&#34;
                height=&#34;108&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -41,9 +55,9 @@
     
     <item>
       <title>One student from our group was awarded Outstanding Master&#39;s Thesis Award</title>
-      <link>https://ustc-ac.github.io/post/award-2023-panjicai/</link>
+      <link>http://localhost:1313/post/award-2023-panjicai/</link>
       <pubDate>Sun, 10 Dec 2023 10:26:05 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/award-2023-panjicai/</guid>
+      <guid>http://localhost:1313/post/award-2023-panjicai/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt; was awarded the 2023 Anhui Computer Society Outstanding Master&amp;rsquo;s Thesis Award.&lt;/p&gt;
 &lt;p&gt;
 
@@ -65,7 +79,7 @@
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg 400w,
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1a096c0419713ba7ecdf52793a903956.jpg 760w,
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg&#34;
+               src=&#34;http://localhost:1313/post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg&#34;
                width=&#34;760&#34;
                height=&#34;541&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -90,7 +104,7 @@
                /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_81ad5d10b0ab30aa1b0cdfc2bdd39ee3.png 400w,
                /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_01f7475be8fb4bae962c3c9badeb69fc.png 760w,
                /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_81ad5d10b0ab30aa1b0cdfc2bdd39ee3.png&#34;
+               src=&#34;http://localhost:1313/post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_81ad5d10b0ab30aa1b0cdfc2bdd39ee3.png&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -99,39 +113,53 @@
     
     <item>
       <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-zhu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-zhu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive Visual Content Understanding Network for Image Emotion Classification</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-pan/</link>
+      <link>http://localhost:1313/publication/manual-mm23-pan/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-pan/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three papers are accepted by ACMMM2023</title>
-      <link>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</link>
+      <link>http://localhost:1313/post/2023-acmmm-threepapers/</link>
       <pubDate>Tue, 25 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</guid>
+      <guid>http://localhost:1313/post/2023-acmmm-threepapers/</guid>
       <description>&lt;p&gt;Three papers by &lt;a href=&#34;https://ustc-ac.github.io/author/yi-wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Wu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/zhouan-zhu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhouan Zhu&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jicai Pan&lt;/a&gt; are accepted by ACMMM2023&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://ustc-ac.github.io/post/2023-acmmm-threepapers/featured.gif&#34;
+           src=&#34;http://localhost:1313/post/2023-acmmm-threepapers/featured.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>Representation Learning through Multimodal Attention and Time-sync Comments for Video Affective Content Analysis</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-pan/</link>
+      <link>http://localhost:1313/publication/manual-mm22-pan/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-pan/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-pan/</guid>
       <description></description>
     </item>
     

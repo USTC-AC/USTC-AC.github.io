@@ -2,29 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi Wu | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/yi-wu/</link>
-      <atom:link href="https://ustc-ac.github.io/author/yi-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yi-wu/</link>
+      <atom:link href="http://localhost:1313/author/yi-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 09:25:52 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/yi-wu/avatar_hu954b23203e64f8f3bde0ac4f01eed8ff_172993_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/yi-wu/avatar_hu954b23203e64f8f3bde0ac4f01eed8ff_172993_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yi Wu</title>
-      <link>https://ustc-ac.github.io/author/yi-wu/</link>
+      <link>http://localhost:1313/author/yi-wu/</link>
     </image>
     
     <item>
       <title>One paper is accepted by Pattern Recognition</title>
-      <link>https://ustc-ac.github.io/post/2024-pr-chang/</link>
+      <link>http://localhost:1313/post/2024-pr-chang/</link>
       <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2024-pr-chang/</guid>
+      <guid>http://localhost:1313/post/2024-pr-chang/</guid>
       <description>&lt;p&gt;“Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation” by &lt;a href=&#34;../author/yanan-chang/&#34;&gt;Yanan Chang&lt;/a&gt;, has been accepted for publication of Pattern Recognition journal.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg 400w,
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_b199ae5268861479b01ed4f6b1942e81.jpg 760w,
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg&#34;
+               src=&#34;http://localhost:1313/post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg&#34;
                width=&#34;677&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -33,47 +47,75 @@
     
     <item>
       <title>Patch-Aware Representation Learning for Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm23-wu/</link>
+      <link>http://localhost:1313/publication/manual-mm23-wu/</link>
       <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-mm23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three papers are accepted by ACMMM2023</title>
-      <link>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</link>
+      <link>http://localhost:1313/post/2023-acmmm-threepapers/</link>
       <pubDate>Tue, 25 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</guid>
+      <guid>http://localhost:1313/post/2023-acmmm-threepapers/</guid>
       <description>&lt;p&gt;Three papers by &lt;a href=&#34;https://ustc-ac.github.io/author/yi-wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Wu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/zhouan-zhu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhouan Zhu&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jicai Pan&lt;/a&gt; are accepted by ACMMM2023&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://ustc-ac.github.io/post/2023-acmmm-threepapers/featured.gif&#34;
+           src=&#34;http://localhost:1313/post/2023-acmmm-threepapers/featured.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions</title>
-      <link>https://ustc-ac.github.io/publication/manual-tac23-wu/</link>
+      <link>http://localhost:1313/publication/manual-tac23-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-tac23-wu/</guid>
+      <guid>http://localhost:1313/publication/manual-tac23-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
-      <link>https://ustc-ac.github.io/post/2023-tac-wu/</link>
+      <link>http://localhost:1313/post/2023-tac-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/post/2023-tac-wu/</guid>
+      <guid>http://localhost:1313/post/2023-tac-wu/</guid>
       <description>&lt;p&gt;“Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions” by &lt;a href=&#34;../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of IEEE Transactions on Affective Computing journal.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg 400w,
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_f73d324e32df4956c9477c7b3018ecce.jpg 760w,
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg&#34;
+               src=&#34;http://localhost:1313/post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg&#34;
                width=&#34;760&#34;
                height=&#34;158&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

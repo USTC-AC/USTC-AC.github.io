@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunes Al-Dhabi | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/yunes-al-dhabi/</link>
-      <atom:link href="https://ustc-ac.github.io/author/yunes-al-dhabi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yunes-al-dhabi/</link>
+      <atom:link href="http://localhost:1313/author/yunes-al-dhabi/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunes Al-Dhabi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ustc-ac.github.io/author/yunes-al-dhabi/avatar_hu09f47f3cf26d9d91c14a1cdf793d8135_34679_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/yunes-al-dhabi/avatar_hu09f47f3cf26d9d91c14a1cdf793d8135_34679_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yunes Al-Dhabi</title>
-      <link>https://ustc-ac.github.io/author/yunes-al-dhabi/</link>
+      <link>http://localhost:1313/author/yunes-al-dhabi/</link>
     </image>
     
   </channel>

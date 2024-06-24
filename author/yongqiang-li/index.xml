@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yongqiang Li | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/yongqiang-li/</link>
-      <atom:link href="https://ustc-ac.github.io/author/yongqiang-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yongqiang-li/</link>
+      <atom:link href="http://localhost:1313/author/yongqiang-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongqiang Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Yongqiang Li</title>
-      <link>https://ustc-ac.github.io/author/yongqiang-li/</link>
+      <link>http://localhost:1313/author/yongqiang-li/</link>
     </image>
     
     <item>
       <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing Global Semantic Relationships for Facial Action Unit Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</link>
+      <link>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-conficcv-wang-lwj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-conficcv-wang-lwj-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Facial Feature Tracking and Facial Expression Recognition</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</link>
+      <link>http://localhost:1313/publication/dblp-journalstip-li-wzj-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalstip-li-wzj-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalstip-li-wzj-13/</guid>
       <description></description>
     </item>
     

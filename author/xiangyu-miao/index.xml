@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiangyu Miao | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/xiangyu-miao/</link>
-      <atom:link href="https://ustc-ac.github.io/author/xiangyu-miao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiangyu-miao/</link>
+      <atom:link href="http://localhost:1313/author/xiangyu-miao/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiangyu Miao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/author/xiangyu-miao/avatar_hu876e5e49c6b6bdf1126ee5954d1f3f77_824470_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/xiangyu-miao/avatar_hu876e5e49c6b6bdf1126ee5954d1f3f77_824470_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xiangyu Miao</title>
-      <link>https://ustc-ac.github.io/author/xiangyu-miao/</link>
+      <link>http://localhost:1313/author/xiangyu-miao/</link>
     </image>
     
     <item>
       <title>Knowledge Guided Representation Disentanglement for Face Recognition from Low Illumination Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-mm22-miao/</link>
+      <link>http://localhost:1313/publication/manual-mm22-miao/</link>
       <pubDate>Tue, 28 Jun 2022 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-mm22-miao/</guid>
+      <guid>http://localhost:1313/publication/manual-mm22-miao/</guid>
       <description></description>
     </item>
     

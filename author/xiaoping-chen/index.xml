@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoping Chen | USTC-AC</title>
-    <link>https://ustc-ac.github.io/author/xiaoping-chen/</link>
-      <atom:link href="https://ustc-ac.github.io/author/xiaoping-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiaoping-chen/</link>
+      <atom:link href="http://localhost:1313/author/xiaoping-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoping Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jul 2023 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaoping Chen</title>
-      <link>https://ustc-ac.github.io/author/xiaoping-chen/</link>
+      <link>http://localhost:1313/author/xiaoping-chen/</link>
     </image>
     
     <item>
       <title>Privacy-Protected Facial Expression Recognition Augmented by High-Resolution Facial Images</title>
-      <link>https://ustc-ac.github.io/publication/manual-icme23-liang/</link>
+      <link>http://localhost:1313/publication/manual-icme23-liang/</link>
       <pubDate>Sun, 16 Jul 2023 09:53:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/manual-icme23-liang/</guid>
+      <guid>http://localhost:1313/publication/manual-icme23-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attentive One-Dimensional Heatmap Regression for Facial Landmark Detection and Tracking</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-wccl-20/</guid>
       <description>&lt;p&gt;Although heatmap regression is considered a state-of-the-art method to locate facial landmarks, it suffers from huge spatial complexity and is prone to quantization error. To address this, we propose a novel attentive one-dimensional heatmap regression method for facial landmark localization. First, we predict two groups of 1D heatmaps to represent the marginal distributions of the 𝑥 and 𝑦 coordinates. These 1D heatmaps reduce spatial complexity significantly compared to current heatmap regression methods, which use 2D heatmaps to represent the joint distributions of 𝑥 and 𝑦 coordinates. With much lower spatial complexity, the proposed method can output high-resolution 1D heatmaps despite limited GPU memory, significantly alleviating the quantization error. Second, a co-attention mechanism is adopted to model the inherent spatial patterns existing in 𝑥 and 𝑦 coordinates, and therefore the joint distributions on the 𝑥 and 𝑦 axes are also captured. Third, based on the 1D heatmap structures, we propose a facial landmark detector capturing spatial patterns for landmark detection on an image; and a tracker further capturing temporal patterns with a temporal refinement mechanism for landmark tracking. Experimental results on four benchmark databases demonstrate the superiority of our method.&lt;/p&gt;
 
 
@@ -46,7 +46,7 @@
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png 400w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_8c3a8280da7eec8db4b8d933907c5c70.png 760w,
                /publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_b2b2b5e4846adc9bf0e43146ebc4a648.png&#34;
                width=&#34;760&#34;
                height=&#34;498&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Exploiting Self-Supervised and Semi-Supervised Learning for Facial Landmark Tracking with Unlabeled Data</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/</link>
+      <link>http://localhost:1313/publication/dblp-confmm-yin-wcc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/</guid>
+      <guid>http://localhost:1313/publication/dblp-confmm-yin-wcc-20/</guid>
       <description>&lt;p&gt;Current work of facial landmark tracking usually requires large amounts of fully annotated facial videos to train a landmark tracker. To relieve the burden of manual annotations, we propose a novel facial landmark tracking method that makes full use of unlabeled facial videos by exploiting both self-supervised and semi-supervised learning mechanisms. First, self-supervised learning is adopted for representation learning from unlabeled facial videos. Specifically, a facial video and its shuffled version are fed into a feature encoder and a classifier. The feature encoder is used to learn visual representations, and the classifier distinguishes the input videos as the original or the shuffled ones. The feature encoder and the classifier are trained jointly. Through self-supervised learning, the spatial and temporal patterns of a facial video are captured at representation level. After that, the facial landmark tracker, consisting of the pre-trained feature encoder and a regressor, is trained semi-supervisedly. The consistencies among the tracking results of the original, the inverse and the disturbed facial sequences are exploited as the constraints on the unlabeled facial videos, and the supervised loss is adopted for the labeled videos. Through semi-supervised end to-end training, the tracker captures sequential patterns inherent in facial videos despite small amount of manual annotations. Experiments on two benchmark datasets show that the proposed framework outperforms state-of-the art semi-supervised facial landmark tracking methods, and also achieves advanced performance compared to fully supervised facial landmark tracking methods.&lt;/p&gt;
 
 
@@ -82,7 +82,7 @@
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg 400w,
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_b96c3a48c425c65acb4fcbbfa2599202.jpg 760w,
                /publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confmm-yin-wcc-20/featured_hub08f116c5b40a4b0bfaddc695f5ffa21_256954_579755cb69722ad3b53926d39f603b7a.jpg&#34;
                width=&#34;760&#34;
                height=&#34;372&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>Capturing Spatial and Temporal Patterns for Facial Landmark Tracking through Adversarial Learning</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</link>
+      <link>http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/</guid>
       <description>&lt;p&gt;The spatial and temporal patterns inherent in facial feature points are crucial for facial landmark tracking, but have not been thoroughly explored yet. In this paper, we propose a novel deep adversarial framework to explore the shape and temporal dependencies from both appearance level and target label level. The proposed deep adversarial framework consists of a deep landmark tracker and a discriminator. The deep landmark tracker is composed of a stacked Hourglass network as well as a convolutional neural network and a long short-term memory network, and thus implicitly capture spatial and temporal patterns from facial appearance for facial landmark tracking. The discriminator is adopted to distinguish the tracked facial landmarks from ground truth ones. It explicitly models shape and temporal dependencies existing in ground truth facial landmarks through another convolutional neural network and another long short-term memory network. The deep landmark tracker and the discriminator compete with each other. Through adversarial learning, the proposed deep adversarial landmark tracking approach leverages inherent spatial and temporal patterns to facilitate facial landmark tracking from both appearance level and target label level. Experimental results on two benchmark databases demonstrate the superiority of the proposed approach to state-of-the-art work.&lt;/p&gt;
 
 
@@ -118,7 +118,7 @@
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg 400w,
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a56dd2a610ca26e0e1f5ae708692b7f9.jpg 760w,
                /publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://ustc-ac.github.io/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
+               src=&#34;http://localhost:1313/publication/dblp-confijcai-yin-wpcp-19/featured_hu83191d9c4948d0db84b838d1cd056b88_246371_a1a25f4b20008f3a0b9b4cfdd267d247.jpg&#34;
                width=&#34;760&#34;
                height=&#34;268&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -130,41 +130,41 @@
     
     <item>
       <title>KDSL: a Knowledge-Driven Supervised Learning Framework for Word Sense Disambiguation</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
+      <link>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
+      <guid>http://localhost:1313/publication/dblp-confijcnn-yin-zlwjcw-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit video emotion tagging from audiences&#39; facial expression</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</link>
+      <link>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsmta-wang-lzhcj-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting multi-expression dependences for implicit multi-emotion video tagging</title>
-      <link>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
+      <link>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
+      <guid>http://localhost:1313/publication/dblp-journalsivc-wang-lwwlcj-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyses of the Differences between Posed and Spontaneous Facial Expressions</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</link>
+      <link>http://localhost:1313/publication/dblp-confacii-he-wlc-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confacii-he-wlc-13/</guid>
+      <guid>http://localhost:1313/publication/dblp-confacii-he-wlc-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards robot incremental learning constraints from comparative demonstration</title>
-      <link>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</link>
+      <link>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ustc-ac.github.io/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
+      <guid>http://localhost:1313/publication/dblp-confatal-zhang-wcyccljws-11/</guid>
       <description></description>
     </item>
     
