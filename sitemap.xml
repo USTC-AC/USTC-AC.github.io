@@ -959,6 +959,8 @@
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
+    <loc>http://localhost:1313/author/renjie-lu/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/author/xin-yun/</loc>
