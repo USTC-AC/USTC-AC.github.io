@@ -1,51 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhouan Zhu | USTC-AC</title>
+    <title>Zhou&#39;an Zhu | USTC-AC</title>
     <link>http://localhost:1313/author/zhouan-zhu/</link>
       <atom:link href="http://localhost:1313/author/zhouan-zhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zhouan Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 09:53:00 +0000</lastBuildDate>
+    <description>Zhou&#39;an Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/zhouan-zhu/avatar_hu029f03f8972449a6d0f2b51e74a842df_696039_270x270_fill_lanczos_center_3.png</url>
-      <title>Zhouan Zhu</title>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhou&#39;an Zhu</title>
       <link>http://localhost:1313/author/zhouan-zhu/</link>
     </image>
     
     <item>
-      <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
-      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
-      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
+      <title>VAD: A Video Affective Dataset with Danmu</title>
+      <link>http://localhost:1313/publication/manual-tac24-wang/</link>
+      <pubDate>Thu, 28 Mar 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-wang/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Three papers are accepted by ACMMM2023</title>
-      <link>http://localhost:1313/post/2023-acmmm-threepapers/</link>
-      <pubDate>Tue, 25 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-acmmm-threepapers/</guid>
-      <description>&lt;p&gt;Three papers by &lt;a href=&#34;https://ustc-ac.github.io/author/yi-wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Wu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/zhouan-zhu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhouan Zhu&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jicai Pan&lt;/a&gt; are accepted by ACMMM2023&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;http://localhost:1313/post/2023-acmmm-threepapers/featured.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
   </channel>

@@ -18,8 +18,50 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/feiyi-zheng/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jicai-pan/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/user-generated-video/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/manual-tac24-wang/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/video-affective-content-analysis/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/xin-li/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/xuewei-li/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yanan-chang/</loc>
+    <lastmod>2024-06-26T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/caichao-zhang/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
@@ -36,9 +78,6 @@
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/2024-fg-react/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
@@ -51,17 +90,11 @@
     <loc>http://localhost:1313/post/talk-2024-csig/</loc>
     <lastmod>2024-05-01T09:25:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2024-05-01T09:25:52+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/datasets/</loc>
     <lastmod>2024-04-17T08:57:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/datasets/vad/</loc>
     <lastmod>2024-04-17T08:57:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-03-27T09:50:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-tac23-lu/</loc>
     <lastmod>2024-03-27T09:50:00+00:00</lastmod>
@@ -75,19 +108,7 @@
     <loc>http://localhost:1313/tag/image-emotion-analysis/</loc>
     <lastmod>2024-03-27T09:50:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/jicai-pan/</loc>
-    <lastmod>2024-03-27T09:50:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/author/jinqiao-lu/</loc>
-    <lastmod>2024-03-27T09:50:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-03-27T09:50:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-03-27T09:50:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-27T09:50:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2024-tac-lu/</loc>
@@ -148,9 +169,6 @@
     <lastmod>2023-12-04T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-mm23-pan/</loc>
-    <lastmod>2023-12-04T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/xin-li/</loc>
     <lastmod>2023-12-04T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/zhouan-zhu/</loc>
@@ -939,8 +957,6 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/feiyi-zheng/</loc>
-  </url><url>
     <loc>http://localhost:1313/graduated/</loc>
   </url><url>
     <loc>http://localhost:1313/author/hao-sun/</loc>
@@ -966,8 +982,6 @@
     <loc>http://localhost:1313/author/xin-yun/</loc>
   </url><url>
     <loc>http://localhost:1313/author/xuandong-huang/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/xuewei-li/</loc>
   </url><url>
     <loc>http://localhost:1313/author/yifan-cao/</loc>
   </url><url>

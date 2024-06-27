@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/feiyi-zheng/</link>
       <atom:link href="http://localhost:1313/author/feiyi-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Feiyi Zheng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/feiyi-zheng/avatar_hu842de58aaea5ac17c0265db3823a37ae_82880_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Feiyi Zheng</title>
       <link>http://localhost:1313/author/feiyi-zheng/</link>
     </image>
+    
+    <item>
+      <title>VAD: A Video Affective Dataset with Danmu</title>
+      <link>http://localhost:1313/publication/manual-tac24-wang/</link>
+      <pubDate>Thu, 28 Mar 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-wang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
