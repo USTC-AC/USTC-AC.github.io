@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xuandong Huang | USTC-AC</title>
-    <link>http://localhost:1313/author/xuandong-huang/</link>
-      <atom:link href="http://localhost:1313/author/xuandong-huang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xuandong Huang</description>
+    <title>Temporal Enhancement | USTC-AC</title>
+    <link>http://localhost:1313/tag/temporal-enhancement/</link>
+      <atom:link href="http://localhost:1313/tag/temporal-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temporal Enhancement</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Xuandong Huang</title>
-      <link>http://localhost:1313/author/xuandong-huang/</link>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Temporal Enhancement</title>
+      <link>http://localhost:1313/tag/temporal-enhancement/</link>
     </image>
     
     <item>

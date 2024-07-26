@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/yufei-xiao/</link>
       <atom:link href="http://localhost:1313/author/yufei-xiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yufei Xiao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/yufei-xiao/avatar_huf7f201416797291cd4c87382092082fb_526219_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yufei Xiao</title>
       <link>http://localhost:1313/author/yufei-xiao/</link>
     </image>
+    
+    <item>
+      <title>VAD: A Video Affective Dataset with Danmu</title>
+      <link>http://localhost:1313/publication/manual-tac24-wang/</link>
+      <pubDate>Thu, 28 Mar 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-wang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

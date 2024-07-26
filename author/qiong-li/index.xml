@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/qiong-li/</link>
       <atom:link href="http://localhost:1313/author/qiong-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiong Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 09:50:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/qiong-li/avatar_huf57b1dedfce8498c6317a36bc3138c51_8831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Qiong Li</title>
       <link>http://localhost:1313/author/qiong-li/</link>
     </image>
+    
+    <item>
+      <title>VAD: A Video Affective Dataset with Danmu</title>
+      <link>http://localhost:1313/publication/manual-tac24-wang/</link>
+      <pubDate>Thu, 28 Mar 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation</title>
