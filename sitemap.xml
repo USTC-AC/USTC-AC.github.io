@@ -18,7 +18,7 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
+    <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
@@ -89,6 +89,9 @@
   </url><url>
     <loc>http://localhost:1313/datasets/vad/</loc>
     <lastmod>2024-04-17T08:57:57+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
+    <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/danmu/</loc>
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
@@ -161,9 +164,6 @@
   </url><url>
     <loc>http://localhost:1313/post/award-2023-panjicai/</loc>
     <lastmod>2023-12-10T10:26:05+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication-type/1/</loc>
-    <lastmod>2023-12-04T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/artificial-intelligence/</loc>
     <lastmod>2023-12-04T09:53:00+00:00</lastmod>
