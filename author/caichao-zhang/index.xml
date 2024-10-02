@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/caichao-zhang/</link>
       <atom:link href="http://localhost:1313/author/caichao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Caichao Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/caichao-zhang/avatar_hu431b1269bfa24607072f9ffc6f79f08a_41722_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Caichao Zhang</title>
       <link>http://localhost:1313/author/caichao-zhang/</link>
     </image>
+    
+    <item>
+      <title>Facial Action Unit Recognition Enhanced by Text Descriptions of FACS</title>
+      <link>http://localhost:1313/publication/manual-tac24-chang/</link>
+      <pubDate>Mon, 30 Sep 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-chang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>We have gotten the Second price of REACT2024</title>

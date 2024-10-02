@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shangfei-wang/</link>
       <atom:link href="http://localhost:1313/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -50,9 +50,17 @@
     </item>
     
     <item>
+      <title>Facial Action Unit Recognition Enhanced by Text Descriptions of FACS</title>
+      <link>http://localhost:1313/publication/manual-tac24-chang/</link>
+      <pubDate>Mon, 30 Sep 2024 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac24-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shangfei Wang</title>
       <link>http://localhost:1313/author/shangfei-wang/</link>
-      <pubDate>Thu, 25 Jul 2024 09:53:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/author/shangfei-wang/</guid>
       <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
 </description>

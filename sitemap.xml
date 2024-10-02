@@ -18,34 +18,58 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/caichao-zhang/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/descriptions/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/facial-action-unit-recognition/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/manual-tac24-chang/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/representation-learning/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yanan-chang/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yi-wu/</loc>
+    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/crossmodal-attention/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/temporal-enhancement/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-mm24-li/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/video-affective-content-analysis/</loc>
@@ -56,9 +80,6 @@
   </url><url>
     <loc>http://localhost:1313/author/xuandong-huang/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/caichao-zhang/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/haofan-zhang/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
@@ -90,9 +111,6 @@
     <loc>http://localhost:1313/datasets/vad/</loc>
     <lastmod>2024-04-17T08:57:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-03-28T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/danmu/</loc>
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
@@ -112,9 +130,6 @@
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/xuewei-li/</loc>
-    <lastmod>2024-03-28T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/yanan-chang/</loc>
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yufei-xiao/</loc>
@@ -142,9 +157,6 @@
     <lastmod>2024-03-27T09:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2024-pr-chang/</loc>
-    <lastmod>2024-03-27T09:25:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/yi-wu/</loc>
     <lastmod>2024-03-27T09:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/can-wang/</loc>
