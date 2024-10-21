@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhou&#39;an Zhu | USTC-AC</title>
+    <title>Zhouan Zhu | USTC-AC</title>
     <link>http://localhost:1313/author/zhouan-zhu/</link>
       <atom:link href="http://localhost:1313/author/zhouan-zhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zhou&#39;an Zhu</description>
+    <description>Zhouan Zhu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 09:53:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Zhou&#39;an Zhu</title>
+      <url>http://localhost:1313/author/zhouan-zhu/avatar_hu029f03f8972449a6d0f2b51e74a842df_696039_270x270_fill_lanczos_center_3.png</url>
+      <title>Zhouan Zhu</title>
       <link>http://localhost:1313/author/zhouan-zhu/</link>
     </image>
     
@@ -20,9 +20,16 @@
       <description></description>
     </item>
     
-  </channel>
-</rss>
-<title>Three papers are accepted by ACMMM2023</title>
+    <item>
+      <title>MEDIC: A Multimodal Empathy Dataset in Counseling</title>
+      <link>http://localhost:1313/publication/manual-mm23-zhu/</link>
+      <pubDate>Mon, 04 Dec 2023 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm23-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three papers are accepted by ACMMM2023</title>
       <link>http://localhost:1313/post/2023-acmmm-threepapers/</link>
       <pubDate>Tue, 25 Jul 2023 09:25:52 +0000</pubDate>
       <guid>http://localhost:1313/post/2023-acmmm-threepapers/</guid>
