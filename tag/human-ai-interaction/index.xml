@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human-AI Interaction | USTC-AC</title>
+    <link>http://localhost:1313/tag/human-ai-interaction/</link>
+      <atom:link href="http://localhost:1313/tag/human-ai-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human-AI Interaction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Human-AI Interaction</title>
+      <link>http://localhost:1313/tag/human-ai-interaction/</link>
+    </image>
+    
+    <item>
+      <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
+      <link>http://localhost:1313/publication/manual-coling24-wu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

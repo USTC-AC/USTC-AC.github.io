@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/xuandong-huang/</link>
       <atom:link href="http://localhost:1313/author/xuandong-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuandong Huang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xuandong Huang</title>
       <link>http://localhost:1313/author/xuandong-huang/</link>
     </image>
+    
+    <item>
+      <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
+      <link>http://localhost:1313/publication/manual-coling24-wu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temporal Enhancement for Video Affective Content Analysis</title>

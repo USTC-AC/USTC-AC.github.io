@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/jiaqiang-wu/</link>
       <atom:link href="http://localhost:1313/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaqiang Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiaqiang Wu</title>
       <link>http://localhost:1313/author/jiaqiang-wu/</link>
     </image>
+    
+    <item>
+      <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
+      <link>http://localhost:1313/publication/manual-coling24-wu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

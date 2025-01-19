@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingzhao Cai | USTC-AC</title>
+    <link>http://localhost:1313/author/bingzhao_cai/</link>
+      <atom:link href="http://localhost:1313/author/bingzhao_cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bingzhao Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/bingzhao_cai/avatar_hu10505691f10e07964d4959843703a161_72332_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bingzhao Cai</title>
+      <link>http://localhost:1313/author/bingzhao_cai/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -19,10 +19,40 @@
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/manual-coling24-wu/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/human-ai-interaction/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jiaqiang-wu/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/xuandong-huang/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zhouan-zhu/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/caichao-zhang/</loc>
     <lastmod>2024-09-30T09:53:00+00:00</lastmod>
@@ -36,22 +66,7 @@
     <loc>http://localhost:1313/publication/manual-tac24-chang/</loc>
     <lastmod>2024-09-30T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/representation-learning/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-30T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yanan-chang/</loc>
@@ -76,9 +91,6 @@
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/xin-li/</loc>
-    <lastmod>2024-07-25T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/xuandong-huang/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/haofan-zhang/</loc>
@@ -133,9 +145,6 @@
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yufei-xiao/</loc>
-    <lastmod>2024-03-28T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/zhouan-zhu/</loc>
     <lastmod>2024-03-28T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-tac23-lu/</loc>
@@ -993,8 +1002,6 @@
     <loc>http://localhost:1313/author/jiale-huang/</loc>
   </url><url>
     <loc>http://localhost:1313/author/jianzhang-lu/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/jiaqiang-wu/</loc>
   </url><url>
     <loc>http://localhost:1313/author/jingtian-li/</loc>
   </url><url>
