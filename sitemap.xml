@@ -993,6 +993,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/publication/manual-tac25-zhang/</loc>
+  </url><url>
     <loc>http://localhost:1313/graduated/</loc>
   </url><url>
     <loc>http://localhost:1313/author/hao-sun/</loc>
@@ -1005,6 +1007,8 @@
   </url><url>
     <loc>http://localhost:1313/author/jingtian-li/</loc>
   </url><url>
+    <loc>http://localhost:1313/tag/labeling-rules/</loc>
+  </url><url>
     <loc>http://localhost:1313/author/mintao-zhang/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
@@ -1012,6 +1016,8 @@
     <loc>http://localhost:1313/author/renjie-lu/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tag/transformer/</loc>
   </url><url>
     <loc>http://localhost:1313/author/xin-yun/</loc>
   </url><url>

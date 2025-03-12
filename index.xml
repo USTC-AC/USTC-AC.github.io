@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>USTC-AC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
     <item>
       <title>A Multi-Modal Hierarchical Recurrent Neural Network for Depression Detection</title>
       <link>http://localhost:1313/publication/dblp-confmm-yin-ldw-19/</link>
@@ -41,6 +41,14 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
+      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
+      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
+      <description></description>
     </item>
     
     <item>

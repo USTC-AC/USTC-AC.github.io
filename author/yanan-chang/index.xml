@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/yanan-chang/</link>
       <atom:link href="http://localhost:1313/author/yanan-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ya&#39;nan Chang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/yanan-chang/avatar_hu7fad79f87447af15b28f362037e1a1a0_82453_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ya&#39;nan Chang</title>
       <link>http://localhost:1313/author/yanan-chang/</link>
     </image>
+    
+    <item>
+      <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
+      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
+      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Facial Action Unit Recognition Enhanced by Text Descriptions of FACS</title>

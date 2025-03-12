@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labeling Rules | USTC-AC</title>
+    <link>http://localhost:1313/tag/labeling-rules/</link>
+      <atom:link href="http://localhost:1313/tag/labeling-rules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labeling Rules</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Labeling Rules</title>
+      <link>http://localhost:1313/tag/labeling-rules/</link>
+    </image>
+    
+    <item>
+      <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
+      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
