@@ -5,12 +5,45 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 09:25:52 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Incoming Talk in The 7th Jianghuai Information Technology Development Forum​​ Embodied Intelligence Sub-Forum</title>
+      <link>http://localhost:1313/post/talk-2025-ccf/</link>
+      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-ccf/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in The 7th Jianghuai Information Technology Development Forum Embodied Intelligence Sub-Forum.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png 400w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_8b79179ad82ee90b335fc8c5ee939048.png 760w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>We have gotten the Second price of REACT2024</title>

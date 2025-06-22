@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shangfei-wang/</link>
       <atom:link href="http://localhost:1313/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 May 2025 09:25:52 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -50,6 +50,48 @@
     </item>
     
     <item>
+      <title>Incoming Talk in The 7th Jianghuai Information Technology Development Forum​​ Embodied Intelligence Sub-Forum</title>
+      <link>http://localhost:1313/post/talk-2025-ccf/</link>
+      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-ccf/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in The 7th Jianghuai Information Technology Development Forum Embodied Intelligence Sub-Forum.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png 400w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_8b79179ad82ee90b335fc8c5ee939048.png 760w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shangfei Wang</title>
+      <link>http://localhost:1313/author/shangfei-wang/</link>
+      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/author/shangfei-wang/</guid>
+      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
       <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
       <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
@@ -58,19 +100,18 @@
     </item>
     
     <item>
-      <title>Shangfei Wang</title>
-      <link>http://localhost:1313/author/shangfei-wang/</link>
-      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/shangfei-wang/</guid>
-      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
       <link>http://localhost:1313/publication/manual-coling24-wu/</link>
       <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     
@@ -2001,6 +2042,54 @@
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/dblp-confamt-wang-chw-01/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/restricted/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/restricted/example/</guid>
+      <description>&lt;script&gt;
+// 检查访问权限是否有效
+function checkAccess() {
+  const accessGranted = localStorage.getItem(&#39;accessGranted&#39;) === &#39;true&#39;;
+  const expirationTime = localStorage.getItem(&#39;accessExpiration&#39;);
+  const currentTime = new Date().getTime();
+  
+  // 如果没有授权或授权已过期，则返回false
+  if (!accessGranted || !expirationTime || currentTime &gt; parseInt(expirationTime)) {
+    localStorage.removeItem(&#39;accessGranted&#39;);
+    localStorage.removeItem(&#39;accessExpiration&#39;);
+    return false;
+  }
+  
+  return true;
+}
+
+// 检查当前页面是否在受保护路径下
+function isRestrictedPath() {
+  return window.location.pathname.toLowerCase().includes(&#39;/restricted/&#39;);
+}
+
+// 重定向到密码保护页面
+function redirectToPasswordPage() {
+  // 保存当前URL，以便验证后返回
+  localStorage.setItem(&#39;redirectAfterAuth&#39;, window.location.href);
+  window.location.href = &#39;/restricted/&#39;;
+}
+
+// 页面加载时执行
+(function() {
+  // 如果是受保护路径且未通过验证，则重定向
+  if (isRestrictedPath() &amp;&amp; !checkAccess()) {
+    // 如果当前不是密码保护主页，则重定向
+    if (window.location.pathname !== &#39;/restricted/&#39; &amp;&amp; 
+        window.location.pathname !== &#39;/restricted&#39;) {
+      redirectToPasswordPage();
+    }
+  }
+})();
+&lt;/script&gt;</description>
     </item>
     
   </channel>

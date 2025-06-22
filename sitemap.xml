@@ -18,19 +18,31 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/datasets/</loc>
-    <lastmod>2025-05-28T23:20:57+00:00</lastmod>
+    <loc>http://localhost:1313/restricted/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/datasets/</loc>
     <lastmod>2025-05-28T23:20:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/datasets/vacd/</loc>
     <lastmod>2025-05-28T23:20:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2025-03-11T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/talk-2025-ccf/</loc>
+    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2025-03-11T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/caichao-zhang/</loc>
@@ -51,9 +63,6 @@
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-03-11T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2025-03-11T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-11T09:53:00+00:00</lastmod>
   </url><url>
@@ -63,16 +72,25 @@
     <loc>http://localhost:1313/author/yanan-chang/</loc>
     <lastmod>2025-03-11T09:53:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tag/computational-linguistics/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication/manual-coling24-wu/</loc>
     <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/human-ai-interaction/</loc>
     <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/publication/manual-coling25-zhu/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/author/jiaqiang-wu/</loc>
     <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/xuandong-huang/</loc>
+    <lastmod>2025-01-18T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yuxin-wang/</loc>
     <lastmod>2025-01-18T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/zhouan-zhu/</loc>
@@ -115,9 +133,6 @@
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/jialin-gui/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2024-fg-react/</loc>
@@ -1030,8 +1045,6 @@
     <loc>http://localhost:1313/author/yifan-cao/</loc>
   </url><url>
     <loc>http://localhost:1313/author/yunes-al-dhabi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/yuxin-wang/</loc>
   </url><url>
     <loc>http://localhost:1313/author/yuzhe-zhou/</loc>
   </url>

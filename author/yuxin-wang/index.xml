@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/yuxin-wang/</link>
       <atom:link href="http://localhost:1313/author/yuxin-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxin Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/yuxin-wang/avatar_huab0eee81afc61e7aad0d39d2968428ed_21734_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuxin Wang</title>
       <link>http://localhost:1313/author/yuxin-wang/</link>
     </image>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
