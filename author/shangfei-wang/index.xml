@@ -2044,53 +2044,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/restricted/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/restricted/example/</guid>
-      <description>&lt;script&gt;
-// 检查访问权限是否有效
-function checkAccess() {
-  const accessGranted = localStorage.getItem(&#39;accessGranted&#39;) === &#39;true&#39;;
-  const expirationTime = localStorage.getItem(&#39;accessExpiration&#39;);
-  const currentTime = new Date().getTime();
-  
-  // 如果没有授权或授权已过期，则返回false
-  if (!accessGranted || !expirationTime || currentTime &gt; parseInt(expirationTime)) {
-    localStorage.removeItem(&#39;accessGranted&#39;);
-    localStorage.removeItem(&#39;accessExpiration&#39;);
-    return false;
-  }
-  
-  return true;
-}
-
-// 检查当前页面是否在受保护路径下
-function isRestrictedPath() {
-  return window.location.pathname.toLowerCase().includes(&#39;/restricted/&#39;);
-}
-
-// 重定向到密码保护页面
-function redirectToPasswordPage() {
-  // 保存当前URL，以便验证后返回
-  localStorage.setItem(&#39;redirectAfterAuth&#39;, window.location.href);
-  window.location.href = &#39;/restricted/&#39;;
-}
-
-// 页面加载时执行
-(function() {
-  // 如果是受保护路径且未通过验证，则重定向
-  if (isRestrictedPath() &amp;&amp; !checkAccess()) {
-    // 如果当前不是密码保护主页，则重定向
-    if (window.location.pathname !== &#39;/restricted/&#39; &amp;&amp; 
-        window.location.pathname !== &#39;/restricted&#39;) {
-      redirectToPasswordPage();
-    }
-  }
-})();
-&lt;/script&gt;</description>
-    </item>
-    
   </channel>
 </rss>

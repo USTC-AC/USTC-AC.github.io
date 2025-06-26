@@ -87,6 +87,8 @@
       
         
       
+        
+      
     
     
     
@@ -902,6 +904,124 @@ document.addEventListener('DOMContentLoaded', function() {
     background-color: #0d47a1;
   }
 </style>
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="example" class="home-section wg-blank  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  " align="justify">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Example</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    <script>
+// 检查访问权限是否有效
+function checkAccess() {
+  const accessGranted = localStorage.getItem('accessGranted') === 'true';
+  const expirationTime = localStorage.getItem('accessExpiration');
+  const currentTime = new Date().getTime();
+  
+  // 如果没有授权或授权已过期，则返回false
+  if (!accessGranted || !expirationTime || currentTime > parseInt(expirationTime)) {
+    localStorage.removeItem('accessGranted');
+    localStorage.removeItem('accessExpiration');
+    return false;
+  }
+  
+  return true;
+}
+
+// 检查当前页面是否在受保护路径下
+function isRestrictedPath() {
+  return window.location.pathname.toLowerCase().includes('/restricted/');
+}
+
+// 重定向到密码保护页面
+function redirectToPasswordPage() {
+  // 保存当前URL，以便验证后返回
+  localStorage.setItem('redirectAfterAuth', window.location.href);
+  window.location.href = '/restricted/';
+}
+
+// 页面加载时执行
+(function() {
+  // 如果是受保护路径且未通过验证，则重定向
+  if (isRestrictedPath() && !checkAccess()) {
+    // 如果当前不是密码保护主页，则重定向
+    if (window.location.pathname !== '/restricted/' && 
+        window.location.pathname !== '/restricted') {
+      redirectToPasswordPage();
+    }
+  }
+})();
+</script>
   </div>
 
 
