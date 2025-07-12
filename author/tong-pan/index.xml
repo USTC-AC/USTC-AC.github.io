@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Pan | USTC-AC</title>
+    <link>http://localhost:1313/author/tong-pan/</link>
+      <atom:link href="http://localhost:1313/author/tong-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Pan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/tong-pan/avatar_hu6fe5bbf12b0a749e3496c776260b7df8_47074_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tong Pan</title>
+      <link>http://localhost:1313/author/tong-pan/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiashu Li | USTC-AC</title>
+    <link>http://localhost:1313/author/jiashu-li/</link>
+      <atom:link href="http://localhost:1313/author/jiashu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiashu Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 09:53:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/jiashu-li/avatar_hub9a1780b3c972c4f23b64021895bff1c_35687_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jiashu Li</title>
+      <link>http://localhost:1313/author/jiashu-li/</link>
+    </image>
+    
+    <item>
+      <title>EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</title>
+      <link>http://localhost:1313/publication/manual-mm25-huang/</link>
+      <pubDate>Fri, 11 Jul 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-huang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

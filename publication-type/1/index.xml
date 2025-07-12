@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication-type/1/</link>
       <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 10:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -47,6 +47,22 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>EmIT: Emotional Interaction control in Text-to-image diffusion models</title>
+      <link>http://localhost:1313/publication/manual-mm25-zhang/</link>
+      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</title>
+      <link>http://localhost:1313/publication/manual-mm25-huang/</link>
+      <pubDate>Fri, 11 Jul 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-huang/</guid>
+      <description></description>
     </item>
     
     <item>
