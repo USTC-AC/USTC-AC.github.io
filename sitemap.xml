@@ -93,6 +93,9 @@
     <loc>http://localhost:1313/post/talk-2025-ccf/</loc>
     <lastmod>2025-05-24T09:25:52+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/talk-2025-medical/</loc>
+    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2025-03-11T09:53:00+00:00</lastmod>
   </url><url>
@@ -1069,6 +1072,8 @@
     <loc>http://localhost:1313/author/renjie-lu/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/author/tong-pan/</loc>
   </url><url>
     <loc>http://localhost:1313/author/xin-yun/</loc>
   </url><url>
