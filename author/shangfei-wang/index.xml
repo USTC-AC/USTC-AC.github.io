@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shangfei-wang/</link>
       <atom:link href="http://localhost:1313/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 10:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jul 2025 09:25:52 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -50,20 +50,53 @@
     </item>
     
     <item>
-      <title>EmIT: Emotional Interaction control in Text-to-image diffusion models</title>
-      <link>http://localhost:1313/publication/manual-mm25-zhang/</link>
-      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm25-zhang/</guid>
-      <description></description>
+      <title>Incoming Talk in The 6th Yangtze River Delta Psychiatry Development Forum</title>
+      <link>http://localhost:1313/post/talk-2025-medical/</link>
+      <pubDate>Sat, 12 Jul 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-medical/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Multimodal Mental Health Support Research&lt;/em&gt; in 6th Yangtze River Delta Psychiatry Development Forum​.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg 400w,
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_b7ba842d6f5a189629cd3ff6d55acda2.jpg 760w,
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg&#34;
+               width=&#34;538&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>Shangfei Wang</title>
       <link>http://localhost:1313/author/shangfei-wang/</link>
-      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
+      <pubDate>Sat, 12 Jul 2025 09:25:52 +0000</pubDate>
       <guid>http://localhost:1313/author/shangfei-wang/</guid>
       <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>EmIT: Emotional Interaction control in Text-to-image diffusion models</title>
+      <link>http://localhost:1313/publication/manual-mm25-zhang/</link>
+      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-zhang/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -103,39 +136,6 @@
                src=&#34;http://localhost:1313/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png&#34;
                width=&#34;760&#34;
                height=&#34;432&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Incoming Talk in The 7th Jianghuai Information Technology Development Forum​​ Embodied Intelligence Sub-Forum</title>
-      <link>http://localhost:1313/post/talk-2025-medical/</link>
-      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2025-medical/</guid>
-      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in The 7th Jianghuai Information Technology Development Forum Embodied Intelligence Sub-Forum.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg 400w,
-               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_b7ba842d6f5a189629cd3ff6d55acda2.jpg 760w,
-               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg&#34;
-               width=&#34;538&#34;
-               height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>

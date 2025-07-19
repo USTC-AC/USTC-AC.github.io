@@ -18,13 +18,25 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-07-12T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/talk-2025-medical/</loc>
+    <lastmod>2025-07-12T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-07-12T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2025-07-12T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-12T09:25:52+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2025-07-11T10:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/artificial-intelligence/</loc>
-    <lastmod>2025-07-11T10:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-07-11T10:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-mm25-zhang/</loc>
@@ -42,13 +54,7 @@
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-07-11T10:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2025-07-11T10:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-11T10:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-11T10:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-mm25-huang/</loc>
@@ -75,9 +81,6 @@
     <loc>http://localhost:1313/author/yuzhe-zhou/</loc>
     <lastmod>2025-07-11T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-07-11T09:25:52+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/2025-mm-two/</loc>
     <lastmod>2025-07-11T09:25:52+00:00</lastmod>
   </url><url>
@@ -91,9 +94,6 @@
     <lastmod>2025-05-28T23:20:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/talk-2025-ccf/</loc>
-    <lastmod>2025-05-24T09:25:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/talk-2025-medical/</loc>
     <lastmod>2025-05-24T09:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
