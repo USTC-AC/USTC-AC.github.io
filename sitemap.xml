@@ -87,12 +87,6 @@
     <loc>http://localhost:1313/restricted/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/datasets/</loc>
-    <lastmod>2025-05-28T23:20:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/datasets/vacd/</loc>
-    <lastmod>2025-05-28T23:20:57+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/talk-2025-ccf/</loc>
     <lastmod>2025-05-24T09:25:52+00:00</lastmod>
   </url><url>
@@ -182,6 +176,9 @@
   </url><url>
     <loc>http://localhost:1313/post/talk-2024-csig/</loc>
     <lastmod>2024-05-01T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/datasets/</loc>
+    <lastmod>2024-04-17T08:57:57+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/datasets/vad/</loc>
     <lastmod>2024-04-17T08:57:57+00:00</lastmod>
