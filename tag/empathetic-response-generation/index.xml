@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transformer | USTC-AC</title>
-    <link>http://localhost:1313/tag/transformer/</link>
-      <atom:link href="http://localhost:1313/tag/transformer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Transformer</description>
+    <title>Empathetic Response Generation | USTC-AC</title>
+    <link>http://localhost:1313/tag/empathetic-response-generation/</link>
+      <atom:link href="http://localhost:1313/tag/empathetic-response-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Empathetic Response Generation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Transformer</title>
-      <link>http://localhost:1313/tag/transformer/</link>
+      <title>Empathetic Response Generation</title>
+      <link>http://localhost:1313/tag/empathetic-response-generation/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>http://localhost:1313/publication/manual-tac25-wu/</link>
       <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
-      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
-      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
       <description></description>
     </item>
     
