@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shangfei-wang/</link>
       <atom:link href="http://localhost:1313/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Oct 2025 15:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -50,6 +50,31 @@
     </item>
     
     <item>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-wy/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-wy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shangfei Wang</title>
+      <link>http://localhost:1313/author/shangfei-wang/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/shangfei-wang/</guid>
+      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Incoming Talk in The 8th Chinese Conference on Pattern Recognition and Computer Vision</title>
       <link>http://localhost:1313/post/talk-2025-prcv/</link>
       <pubDate>Thu, 16 Oct 2025 15:25:52 +0000</pubDate>
@@ -80,15 +105,6 @@
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shangfei Wang</title>
-      <link>http://localhost:1313/author/shangfei-wang/</link>
-      <pubDate>Thu, 16 Oct 2025 15:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/author/shangfei-wang/</guid>
-      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
-</description>
     </item>
     
     <item>

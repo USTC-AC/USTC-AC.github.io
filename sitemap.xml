@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/author/cong-liang/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/shi-yin/</loc>
     <lastmod>2023-07-30T10:26:05+00:00</lastmod>
@@ -22,19 +22,85 @@
     <loc>http://localhost:1313/author/zhiwei-xu/</loc>
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/publication-type/1/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/3d-human-pose-estimation/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/aigc/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2025-10-16T15:25:52+00:00</lastmod>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/talk-2025-prcv/</loc>
-    <lastmod>2025-10-16T15:25:52+00:00</lastmod>
+    <loc>http://localhost:1313/publication/manual-aaai26-lzj/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-16T15:25:52+00:00</lastmod>
+    <loc>http://localhost:1313/tag/cross-modality-feature-alignment/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/diffusion-model/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/guoming-li/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jianzhang-lu/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jingtian-li/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/manual-aaai26-wy/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/linxiang-tan/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/meng-mao/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/pose-textual-descriptions/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/renjie-lu/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2025-10-16T15:25:52+00:00</lastmod>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/talking-head-generation/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yi-wu/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zhenjie-liu/</loc>
+    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-11-15T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-aaai-three/</loc>
+    <lastmod>2025-11-15T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yadong-liu/</loc>
+    <lastmod>2025-11-15T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/talk-2025-prcv/</loc>
     <lastmod>2025-10-16T15:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/2/</loc>
@@ -52,15 +118,6 @@
     <loc>http://localhost:1313/author/jiaqiang-wu/</loc>
     <lastmod>2025-08-14T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-08-14T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2025-08-14T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-14T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/transformer/</loc>
     <lastmod>2025-08-14T09:53:00+00:00</lastmod>
   </url><url>
@@ -72,9 +129,6 @@
   </url><url>
     <loc>http://localhost:1313/post/talk-2025-medical/</loc>
     <lastmod>2025-07-12T09:25:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication-type/1/</loc>
-    <lastmod>2025-07-11T10:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/artificial-intelligence/</loc>
     <lastmod>2025-07-11T10:53:00+00:00</lastmod>
@@ -157,9 +211,6 @@
     <loc>http://localhost:1313/tag/representation-learning/</loc>
     <lastmod>2024-09-30T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/yi-wu/</loc>
-    <lastmod>2024-09-30T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/crossmodal-attention/</loc>
     <lastmod>2024-07-25T09:53:00+00:00</lastmod>
   </url><url>
@@ -182,12 +233,6 @@
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2024-fg-react/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/yadong-liu/</loc>
-    <lastmod>2024-06-23T15:33:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/zhenjie-liu/</loc>
     <lastmod>2024-06-23T15:33:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/talk-2024-csig/</loc>
@@ -1074,15 +1119,9 @@
   </url><url>
     <loc>http://localhost:1313/author/jiale-huang/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/jianzhang-lu/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/jingtian-li/</loc>
-  </url><url>
     <loc>http://localhost:1313/author/mintao-zhang/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/renjie-lu/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
