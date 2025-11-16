@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/cong-liang/</link>
       <atom:link href="http://localhost:1313/author/cong-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Liang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/cong-liang/avatar_hud1b6cbd3a1c5c2ea00e15a54248a0b90_94342_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cong Liang</title>
@@ -47,6 +47,14 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
+      <description></description>
     </item>
     
     <item>

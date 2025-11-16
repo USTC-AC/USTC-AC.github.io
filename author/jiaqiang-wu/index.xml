@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/jiaqiang-wu/</link>
       <atom:link href="http://localhost:1313/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaqiang Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiaqiang Wu</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Empathetic Response Generation Through Multi-modality</title>
+      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
       <link>http://localhost:1313/publication/manual-coling24-wu/</link>
       <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     

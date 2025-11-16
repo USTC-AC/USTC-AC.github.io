@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/jianzhang-lu/</link>
       <atom:link href="http://localhost:1313/author/jianzhang-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianzhang Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jianzhang-lu/avatar_hu5557e1307668bdf0ebe92917612f816b_78477_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jianzhang Lu</title>
       <link>http://localhost:1313/author/jianzhang-lu/</link>
     </image>
+    
+    <item>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

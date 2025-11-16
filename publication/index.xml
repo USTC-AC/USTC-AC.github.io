@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -50,6 +50,54 @@
     </item>
     
     <item>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-wy/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-wy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lyd/</link>
+      <pubDate>Sat, 15 Nov 2025 06:58:40 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empathetic Response Generation Through Multi-modality</title>
+      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmIT: Emotional Interaction control in Text-to-image diffusion models</title>
+      <link>http://localhost:1313/publication/manual-mm25-zhang/</link>
+      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</title>
+      <link>http://localhost:1313/publication/manual-mm25-huang/</link>
+      <pubDate>Fri, 11 Jul 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
       <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
       <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
@@ -62,6 +110,14 @@
       <link>http://localhost:1313/publication/manual-coling24-wu/</link>
       <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     

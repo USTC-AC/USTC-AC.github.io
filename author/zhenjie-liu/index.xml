@@ -5,12 +5,55 @@
     <link>http://localhost:1313/author/zhenjie-liu/</link>
       <atom:link href="http://localhost:1313/author/zhenjie-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenjie Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 15:33:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/zhenjie-liu/avatar_hu4b2fc739846ed7eff9f0d643a7e54b2e_76380_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zhenjie Liu</title>
       <link>http://localhost:1313/author/zhenjie-liu/</link>
     </image>
+    
+    <item>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence</title>
+      <link>http://localhost:1313/post/2025-aaai-three/</link>
+      <pubDate>Sat, 15 Nov 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-aaai-three/</guid>
+      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png 400w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_4f74e2568c94e7e0cf126ba9373eeca6.png 760w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png&#34;
+               width=&#34;760&#34;
+               height=&#34;211&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>We have gotten the Second price of REACT2024</title>

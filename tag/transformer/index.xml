@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tag/transformer/</link>
       <atom:link href="http://localhost:1313/tag/transformer/index.xml" rel="self" type="application/rss+xml" />
     <description>Transformer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Transformer</title>
       <link>http://localhost:1313/tag/transformer/</link>
     </image>
+    
+    <item>
+      <title>Empathetic Response Generation Through Multi-modality</title>
+      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Facial Action Unit Recognition Guided by Labeling Rules</title>

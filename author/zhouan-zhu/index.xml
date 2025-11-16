@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/zhouan-zhu/</link>
       <atom:link href="http://localhost:1313/author/zhouan-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhouan Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/zhouan-zhu/avatar_hu029f03f8972449a6d0f2b51e74a842df_696039_270x270_fill_lanczos_center_3.png</url>
       <title>Zhouan Zhu</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Empathetic Response Generation Through Multi-modality</title>
+      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
       <link>http://localhost:1313/publication/manual-coling24-wu/</link>
       <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     

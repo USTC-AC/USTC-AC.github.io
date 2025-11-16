@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/jingtian-li/</link>
       <atom:link href="http://localhost:1313/author/jingtian-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingtian Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jingtian-li/avatar_hubd57d91c7e26bccdcaa5aae99f26d23b_52466_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jingtian Li</title>
       <link>http://localhost:1313/author/jingtian-li/</link>
     </image>
+    
+    <item>
+      <title>Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-wy/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-wy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

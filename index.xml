@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>USTC-AC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 May 2025 23:20:57 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>USTC-AC</title>
@@ -50,11 +50,220 @@
     </item>
     
     <item>
-      <title>VACD</title>
-      <link>http://localhost:1313/datasets/vacd/</link>
-      <pubDate>Wed, 28 May 2025 23:20:57 +0000</pubDate>
-      <guid>http://localhost:1313/datasets/vacd/</guid>
+      <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lzj/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-wy/</link>
+      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-wy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence</title>
+      <link>http://localhost:1313/post/2025-aaai-three/</link>
+      <pubDate>Sat, 15 Nov 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-aaai-three/</guid>
+      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png 400w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_4f74e2568c94e7e0cf126ba9373eeca6.png 760w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png&#34;
+               width=&#34;760&#34;
+               height=&#34;211&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lyd/</link>
+      <pubDate>Sat, 15 Nov 2025 06:58:40 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incoming Talk in The 8th Chinese Conference on Pattern Recognition and Computer Vision</title>
+      <link>http://localhost:1313/post/talk-2025-prcv/</link>
+      <pubDate>Thu, 16 Oct 2025 15:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-prcv/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in 8th Chinese Conference on Pattern Recognition and Computer Vision.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_866b349a5d49713b681bb6c165937a35.png 400w,
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_17b72ae8ff9398f337095ab41c13205f.png 760w,
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_866b349a5d49713b681bb6c165937a35.png&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Empathetic Response Generation Through Multi-modality</title>
+      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incoming Talk in The 6th Yangtze River Delta Psychiatry Development Forum</title>
+      <link>http://localhost:1313/post/talk-2025-medical/</link>
+      <pubDate>Sat, 12 Jul 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-medical/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Multimodal Mental Health Support Research&lt;/em&gt; in 6th Yangtze River Delta Psychiatry Development Forum​.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg 400w,
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_b7ba842d6f5a189629cd3ff6d55acda2.jpg 760w,
+               /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg&#34;
+               width=&#34;538&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>EmIT: Emotional Interaction control in Text-to-image diffusion models</title>
+      <link>http://localhost:1313/publication/manual-mm25-zhang/</link>
+      <pubDate>Fri, 11 Jul 2025 10:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</title>
+      <link>http://localhost:1313/publication/manual-mm25-huang/</link>
+      <pubDate>Fri, 11 Jul 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-mm25-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers are accepted by ACM International Conference on Multimedia</title>
+      <link>http://localhost:1313/post/2025-mm-two/</link>
+      <pubDate>Fri, 11 Jul 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-mm-two/</guid>
+      <description>&lt;p&gt;“EmIT: Emotional Interaction control in Text-to-image diffusion models” by &lt;a href=&#34;../../author/haofan-zhang/&#34;&gt;Haofan Zhang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+&lt;p&gt;“EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos” by &lt;a href=&#34;../../author/xuandong-huang/&#34;&gt;Xuandong Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Restricted</title>
+      <link>http://localhost:1313/restricted/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/restricted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incoming Talk in The 7th Jianghuai Information Technology Development Forum​​ Embodied Intelligence Sub-Forum</title>
+      <link>http://localhost:1313/post/talk-2025-ccf/</link>
+      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/talk-2025-ccf/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in The 7th Jianghuai Information Technology Development Forum Embodied Intelligence Sub-Forum.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png 400w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_8b79179ad82ee90b335fc8c5ee939048.png 760w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -70,6 +279,14 @@
       <link>http://localhost:1313/publication/manual-coling24-wu/</link>
       <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
+      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     
