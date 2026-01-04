@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixture of Experts | USTC-AC</title>
+    <link>http://localhost:1313/tag/mixture-of-experts/</link>
+      <atom:link href="http://localhost:1313/tag/mixture-of-experts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mixture of Experts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 06:58:40 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <title>Mixture of Experts</title>
+      <link>http://localhost:1313/tag/mixture-of-experts/</link>
+    </image>
+    
+    <item>
+      <title>FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation</title>
+      <link>http://localhost:1313/publication/manual-aaai26-lyd/</link>
+      <pubDate>Sat, 15 Nov 2025 06:58:40 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-aaai26-lyd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
