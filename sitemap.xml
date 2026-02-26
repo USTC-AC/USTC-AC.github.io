@@ -25,15 +25,48 @@
     <lastmod>2021-06-30T20:55:52+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication-type/1/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/3d-referring-expression-segmentation/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/jiale-huang/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/query-based-mask-generation/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/manual-cvpr26-huang/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/shangfei-wang/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-25T09:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-02-25T09:25:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2026-cvpr-one/</loc>
+    <lastmod>2026-02-25T09:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/3d-human-pose-estimation/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/aigc/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/manual-aaai26-lzj/</loc>
@@ -66,25 +99,10 @@
     <loc>http://localhost:1313/tag/pose-textual-descriptions/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/author/renjie-lu/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/shangfei-wang/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/talking-head-generation/</loc>
-    <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yi-wu/</loc>
@@ -92,9 +110,6 @@
   </url><url>
     <loc>http://localhost:1313/author/zhenjie-liu/</loc>
     <lastmod>2025-11-15T09:53:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-11-15T09:25:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/2025-aaai-three/</loc>
     <lastmod>2025-11-15T09:25:52+00:00</lastmod>
@@ -1133,8 +1148,6 @@
     <loc>http://localhost:1313/author/hao-sun/</loc>
   </url><url>
     <loc>http://localhost:1313/author/jiabao-mu/</loc>
-  </url><url>
-    <loc>http://localhost:1313/author/jiale-huang/</loc>
   </url><url>
     <loc>http://localhost:1313/author/mintao-zhang/</loc>
   </url><url>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shangfei-wang/</link>
       <atom:link href="http://localhost:1313/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Feb 2026 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -50,6 +50,56 @@
     </item>
     
     <item>
+      <title>SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation</title>
+      <link>http://localhost:1313/publication/manual-cvpr26-huang/</link>
+      <pubDate>Wed, 25 Feb 2026 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-cvpr26-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shangfei Wang</title>
+      <link>http://localhost:1313/author/shangfei-wang/</link>
+      <pubDate>Wed, 25 Feb 2026 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/shangfei-wang/</guid>
+      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One of our work is accepted by CVPR2026 !</title>
+      <link>http://localhost:1313/post/2026-cvpr-one/</link>
+      <pubDate>Wed, 25 Feb 2026 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/2026-cvpr-one/</guid>
+      <description>&lt;p&gt;“SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation” by &lt;a href=&#34;../../author/jiale-huang/&#34;&gt;Jiale Huang&lt;/a&gt;, has been accepted for publication in a future issue of CVPR2026.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69a0b2cf7f49df310f9b5ce14b771458.png 400w,
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_adcdc7bae08d69842d8e5be1cfa21e6e.png 760w,
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69a0b2cf7f49df310f9b5ce14b771458.png&#34;
+               width=&#34;517&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
       <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>
       <link>http://localhost:1313/publication/manual-aaai26-lzj/</link>
       <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
@@ -63,15 +113,6 @@
       <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/manual-aaai26-wy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Shangfei Wang</title>
-      <link>http://localhost:1313/author/shangfei-wang/</link>
-      <pubDate>Sat, 15 Nov 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/shangfei-wang/</guid>
-      <description>&lt;p&gt;Shangfei Wang is a professor of artificial intelligence at the USTC Robotics Lab. Her research interests include Pattern Recognition, Affective Computing, Probabilistic Graphical Models, Computation Intelligence. She leads the USTC Affective Computing group.&lt;/p&gt;
-</description>
     </item>
     
     <item>
