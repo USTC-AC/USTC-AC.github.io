@@ -5,12 +5,95 @@
     <link>http://localhost:1313/author/tong-pan/</link>
       <atom:link href="http://localhost:1313/author/tong-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 09:25:52 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/tong-pan/avatar_hu6fe5bbf12b0a749e3496c776260b7df8_47074_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Tong Pan</title>
       <link>http://localhost:1313/author/tong-pan/</link>
     </image>
+    
+    <item>
+      <title>We have won the First Prize of AdoDAS Challenge @ ACM MM 2026</title>
+      <link>http://localhost:1313/post/award-2026-adodas/</link>
+      <pubDate>Sat, 27 Jun 2026 09:25:52 +0000</pubDate>
+      <guid>http://localhost:1313/post/award-2026-adodas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;../../author/binyan-chen/&#34;&gt;Binyan Chen&lt;/a&gt;, &lt;a href=&#34;../../author/tong-pan/&#34;&gt;Tong Pan&lt;/a&gt;, and &lt;a href=&#34;../../author/xin-yun/&#34;&gt;Xin Yun&lt;/a&gt; participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by &lt;a href=&#34;../../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png 400w,
+               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_2ee5d68da15a05755fec1a13eec2dddd.png 760w,
+               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;270&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png 400w,
+               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_4e89a7df085b231b59ac5f811a0e1f43.png 760w,
+               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png&#34;
+               width=&#34;503&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png 400w,
+               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9a665b57ce25f20a4501fed24d790d89.png 760w,
+               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://localhost:1313/post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png&#34;
+               width=&#34;512&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

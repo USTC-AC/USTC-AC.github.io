@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tag/affective-computing/</link>
       <atom:link href="http://localhost:1313/tag/affective-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Affective Computing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 09:53:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
       <title>Affective Computing</title>
       <link>http://localhost:1313/tag/affective-computing/</link>
     </image>
+    
+    <item>
+      <title>TED: Towards Explainable and Holistically Aligned Empathetic Dialogue Generation</title>
+      <link>http://localhost:1313/publication/manual-tac26-wu/</link>
+      <pubDate>Sat, 27 Jun 2026 09:53:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/manual-tac26-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Empathetic Response Generation Through Multi-modality</title>
