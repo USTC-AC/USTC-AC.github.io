@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/post/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -280,10 +319,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/post/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/post/" />
 
   
   
@@ -300,13 +339,13 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/post/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/post/" />
   <meta property="og:title" content="Latest News | USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2026-06-27T09:25:52&#43;00:00" />
+      <meta property="og:updated_time" content="2026-06-27T17:25:52&#43;08:00" />
     
   
 
@@ -337,7 +376,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -633,36 +672,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -748,6 +757,126 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/2021-journal-chang/" >One paper is accepted by IEEE Transactions on Affective Computing</a>
+    </div>
+
+    
+    <a href="/post/2021-journal-chang/"  class="summary-link">
+      <div class="article-style">
+        <p>&ldquo;Dual Learning for Joint Facial Landmark Detection and Action Unit Recognition&rdquo; by Ya&rsquo;nan Chang, has been accepted for publication in a future issue of <em>IEEE Transactions on Affective Computing</em> journal. You can find it in <em><strong>Publications</strong></em> column and <a href="https://ieeexplore.ieee.org/document/9543559" target="_blank" rel="noopener">Link</a></p>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 24, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_8259ac963b97a806703e62b9bac49199.jpg" srcset="/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_41cbf73dc80c88aebb7791965ed01646.jpg 1200w,/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_d2a1116022a4142726eac4699bb2a90d.jpg 800w,/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_8259ac963b97a806703e62b9bac49199.jpg 400w" width="450" height="135" alt="One paper is accepted by IEEE Transactions on Affective Computing">
+
+    
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1132,6 +1261,126 @@
   <div class="col-12 col-md-9">
 
     <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/outstanding-doctor-yinshi/" >Three students from our group were awarded outstanding graduates</a>
+    </div>
+
+    
+    <a href="/post/outstanding-doctor-yinshi/"  class="summary-link">
+      <div class="article-style">
+        <p>They accepted the award at the graduation ceremony.</p>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 20, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/post/outstanding-doctor-yinshi/featured_hubac859aa24d48443df50ef54c1c835f4_1229321_603b2bf55bd44f0938b8259ee6db3ead.jpg" srcset="/post/outstanding-doctor-yinshi/featured_hubac859aa24d48443df50ef54c1c835f4_1229321_8aced2164ce468005451b43ea463a749.jpg 1200w,/post/outstanding-doctor-yinshi/featured_hubac859aa24d48443df50ef54c1c835f4_1229321_ea51b369012ce97c7b515d1d40d91956.jpg 800w,/post/outstanding-doctor-yinshi/featured_hubac859aa24d48443df50ef54c1c835f4_1229321_603b2bf55bd44f0938b8259ee6db3ead.jpg 400w" width="450" height="300" alt="Three students from our group were awarded outstanding graduates">
+
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/" >Our facial expression recognition job is filmed in a CCTV-9 documentary</a>
     </div>
 
@@ -1384,7 +1633,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1409,7 +1658,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

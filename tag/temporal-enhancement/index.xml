@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temporal Enhancement | USTC-AC</title>
-    <link>http://localhost:1313/tag/temporal-enhancement/</link>
-      <atom:link href="http://localhost:1313/tag/temporal-enhancement/index.xml" rel="self" type="application/rss+xml" />
-    <description>Temporal Enhancement</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
+    <title>Temporal enhancement | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/temporal-enhancement/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/temporal-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temporal enhancement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Temporal Enhancement</title>
-      <link>http://localhost:1313/tag/temporal-enhancement/</link>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Temporal enhancement</title>
+      <link>https://ustc-ac.github.io/tag/temporal-enhancement/</link>
     </image>
     
     <item>
       <title>Temporal Enhancement for Video Affective Content Analysis</title>
-      <link>http://localhost:1313/publication/manual-mm24-li/</link>
-      <pubDate>Thu, 25 Jul 2024 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm24-li/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-mm24-li/</link>
+      <pubDate>Thu, 25 Jul 2024 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm24-li/</guid>
       <description></description>
     </item>
     

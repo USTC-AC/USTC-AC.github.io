@@ -2,107 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yadong Liu | USTC-AC</title>
-    <link>http://localhost:1313/author/yadong-liu/</link>
-      <atom:link href="http://localhost:1313/author/yadong-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-ac.github.io/author/yadong-liu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/yadong-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yadong Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 17:25:52 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/yadong-liu/avatar_hu6110d4c1a6cf1999eee7a37dd3a62f97_68064_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ustc-ac.github.io/author/yadong-liu/avatar_hu6110d4c1a6cf1999eee7a37dd3a62f97_68064_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yadong Liu</title>
-      <link>http://localhost:1313/author/yadong-liu/</link>
+      <link>https://ustc-ac.github.io/author/yadong-liu/</link>
     </image>
     
     <item>
       <title>We have won the First Prize of AdoDAS Challenge @ ACM MM 2026</title>
-      <link>http://localhost:1313/post/award-2026-adodas/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/award-2026-adodas/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;../../author/binyan-chen/&#34;&gt;Binyan Chen&lt;/a&gt;, &lt;a href=&#34;../../author/tong-pan/&#34;&gt;Tong Pan&lt;/a&gt;, and &lt;a href=&#34;../../author/xin-yun/&#34;&gt;Xin Yun&lt;/a&gt; participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by &lt;a href=&#34;../../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png 400w,
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_2ee5d68da15a05755fec1a13eec2dddd.png 760w,
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png&#34;
-               width=&#34;760&#34;
-               height=&#34;270&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png 400w,
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_4e89a7df085b231b59ac5f811a0e1f43.png 760w,
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png&#34;
-               width=&#34;503&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png 400w,
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9a665b57ce25f20a4501fed24d790d89.png 760w,
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png&#34;
-               width=&#34;512&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;</description>
+      <link>https://ustc-ac.github.io/post/award-2026-adodas/</link>
+      <pubDate>Sat, 27 Jun 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/award-2026-adodas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;../author/binyan-chen/&#34;&gt;Binyan Chen&lt;/a&gt;, &lt;a href=&#34;../author/tong-pan/&#34;&gt;Tong Pan&lt;/a&gt;, and &lt;a href=&#34;../author/xin-yun/&#34;&gt;Xin Yun&lt;/a&gt; participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence</title>
-      <link>http://localhost:1313/post/2025-aaai-three/</link>
-      <pubDate>Sat, 15 Nov 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-aaai-three/</guid>
-      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
-&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
-&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+      <link>https://ustc-ac.github.io/post/2025-aaai-three/</link>
+      <pubDate>Sat, 15 Nov 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2025-aaai-three/</guid>
+      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
 
 
 
@@ -120,10 +48,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png 400w,
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_4f74e2568c94e7e0cf126ba9373eeca6.png 760w,
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png&#34;
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_f353a110b3a18243f991c95b2683ce96.png 400w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_db1fd92105882ffdd3194a7ecff6d4e9.png 760w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_f353a110b3a18243f991c95b2683ce96.png&#34;
                width=&#34;760&#34;
                height=&#34;211&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,17 +60,17 @@
     
     <item>
       <title>FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation</title>
-      <link>http://localhost:1313/publication/manual-aaai26-lyd/</link>
-      <pubDate>Sat, 15 Nov 2025 06:58:40 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-aaai26-lyd/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-aaai26-lyd/</link>
+      <pubDate>Sat, 15 Nov 2025 14:58:40 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-aaai26-lyd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>We have gotten the Second price of REACT2024</title>
-      <link>http://localhost:1313/post/2024-fg-react/</link>
+      <link>https://ustc-ac.github.io/post/2024-fg-react/</link>
       <pubDate>Sun, 23 Jun 2024 15:33:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-fg-react/</guid>
+      <guid>https://ustc-ac.github.io/post/2024-fg-react/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ustc-ac.github.io/author/zhenjie-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhenjie Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/cong-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cong Liang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jiahe-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiahe Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/haofan-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haofan Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/yadong-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/caichao-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caichao Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jialin-gui/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jialin Gui&lt;/a&gt; participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.&lt;/p&gt;
 &lt;p&gt;If you are interested in this project, please visit &lt;a href=&#34;https://brosdocs.net/fg2024/CT09.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -162,10 +90,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png 400w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_5268892867024cd1e4512f6c97f506eb.png 760w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png&#34;
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png 400w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_8c4e5f8f545e39d7c42c2e97d625ad11.png 760w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png&#34;
                width=&#34;760&#34;
                height=&#34;533&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

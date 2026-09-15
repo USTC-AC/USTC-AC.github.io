@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video Affective Content Analysis | USTC-AC</title>
-    <link>http://localhost:1313/tag/video-affective-content-analysis/</link>
-      <atom:link href="http://localhost:1313/tag/video-affective-content-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Video Affective Content Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 09:53:00 +0000</lastBuildDate>
+    <title>Video affective content analysis | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/video-affective-content-analysis/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/video-affective-content-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video affective content analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Video Affective Content Analysis</title>
-      <link>http://localhost:1313/tag/video-affective-content-analysis/</link>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Video affective content analysis</title>
+      <link>https://ustc-ac.github.io/tag/video-affective-content-analysis/</link>
     </image>
     
     <item>
       <title>Temporal Enhancement for Video Affective Content Analysis</title>
-      <link>http://localhost:1313/publication/manual-mm24-li/</link>
-      <pubDate>Thu, 25 Jul 2024 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm24-li/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-mm24-li/</link>
+      <pubDate>Thu, 25 Jul 2024 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm24-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VAD: A Video Affective Dataset with Danmu</title>
-      <link>http://localhost:1313/publication/manual-tac24-wang/</link>
+      <link>https://ustc-ac.github.io/publication/manual-tac24-wang/</link>
       <pubDate>Thu, 28 Mar 2024 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac24-wang/</guid>
+      <guid>https://ustc-ac.github.io/publication/manual-tac24-wang/</guid>
       <description></description>
     </item>
     

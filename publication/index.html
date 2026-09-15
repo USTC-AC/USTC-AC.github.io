@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/publication/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -280,10 +319,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/publication/" />
 
   
   
@@ -300,13 +339,13 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/publication/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/publication/" />
   <meta property="og:title" content="Publications | USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2026-06-27T09:53:00&#43;00:00" />
+      <meta property="og:updated_time" content="2026-06-27T17:53:00&#43;08:00" />
     
   
 
@@ -337,7 +376,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -633,36 +672,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -750,6 +759,9 @@
       
 
       
+      
+        
+        
       
         
         
@@ -1403,11 +1415,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-tac26-wu/cite.bib">
-  Cite
-</a>
-
 
 
 
@@ -1476,11 +1483,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-cvpr26-huang/cite.bib">
-  Cite
-</a>
-
 
 
 
@@ -1548,11 +1550,6 @@
 
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-aaai26-wy/cite.bib">
-  Cite
-</a>
 
 
 
@@ -1627,11 +1624,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-aaai26-lzj/cite.bib">
-  Cite
-</a>
-
 
 
 
@@ -1696,10 +1688,73 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-aaai26-lyd/cite.bib">
-  Cite
-</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2025">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/yi-wu/">Yi Wu</a></span>, <span >
+      <a href="/author/jingtian-li/">Jingtian Li</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/guoming-li/">Guoming Li</a></span>, <span >
+      <a href="/author/meng-mao/">Meng Mao</a></span>, <span >
+      <a href="/author/linxiang-tan/">Linxiang Tan</a></span>
+  </span>
+  (2025).
+  <a href="/publication/manual-aaai25-wy/">Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation</a>.
+  <em>The Fortieth AAAI Conference on Artificial Intelligence</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
 
 
 
@@ -1773,11 +1828,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-tac25-wu/cite.bib">
-  Cite
-</a>
-
 
 
 
@@ -1829,7 +1879,6 @@
   </span>
   (2025).
   <a href="/publication/manual-mm25-zhang/">EmIT: Emotional Interaction control in Text-to-image diffusion models</a>.
-  MM 25: Proceedings of the 33rd ACM International Conference on Multimedia..
   
   <p>
 
@@ -1851,11 +1900,6 @@
 </a>
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-mm25-zhang/cite.bib">
-  Cite
-</a>
 
 
 
@@ -1911,7 +1955,6 @@
   </span>
   (2025).
   <a href="/publication/manual-mm25-huang/">EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</a>.
-  MM 25: Proceedings of the 33rd ACM International Conference on Multimedia..
   
   <p>
 
@@ -1933,11 +1976,6 @@
 </a>
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-mm25-huang/cite.bib">
-  Cite
-</a>
 
 
 
@@ -2013,11 +2051,6 @@
 </a>
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-tac25-zhang/cite.bib">
-  Cite
-</a>
 
 
 
@@ -2095,11 +2128,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-coling25-zhu/cite.bib">
-  Cite
-</a>
-
 
 
 
@@ -2172,19 +2200,6 @@
 
 
 
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-coling24-wu/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/personalityempathy/Personality-Aware-MERG" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -2256,11 +2271,6 @@
 </a>
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-tac24-chang/cite.bib">
-  Cite
-</a>
 
 
 
@@ -2336,11 +2346,6 @@
 </a>
 
 
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/manual-mm24-li/cite.bib">
-  Cite
-</a>
 
 
 
@@ -14269,7 +14274,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -14294,7 +14299,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

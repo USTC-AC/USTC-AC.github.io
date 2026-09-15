@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/people/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/people/" />
 
   
 
@@ -257,10 +257,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -282,10 +321,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/people/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/people/" />
 
   
   
@@ -302,10 +341,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/people/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/people/" />
   <meta property="og:title" content="People | USTC-AC" />
-  <meta property="og:description" content="" /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
     
@@ -340,7 +379,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -636,36 +675,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -816,6 +825,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -824,14 +835,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/shangfei-wang/"><img class="avatar avatar-circle" src="/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Shangfei Wang</h2>
-      
+      <h2><a href="/author/shangfei-wang/">Shangfei Wang</a></h2>
       
       <h3>Professor of Artificial Intelligence</h3>
       <ul class="network-icon" aria-hidden="true">
@@ -903,6 +911,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -911,14 +921,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/hao-jiang/avatar_huff9701b758f0205d3d9484e2de224e2c_65022_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/hao-jiang/"><img class="avatar avatar-circle" src="/author/hao-jiang/avatar_huff9701b758f0205d3d9484e2de224e2c_65022_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Hao Jiang</h2>
-      
+      <h2><a href="/author/hao-jiang/">Hao Jiang</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -973,6 +980,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -981,14 +990,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/cong-liang/avatar_hud1b6cbd3a1c5c2ea00e15a54248a0b90_94342_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/cong-liang/"><img class="avatar avatar-circle" src="/author/cong-liang/avatar_hud1b6cbd3a1c5c2ea00e15a54248a0b90_94342_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Cong Liang</h2>
-      
+      <h2><a href="/author/cong-liang/">Cong Liang</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1018,6 +1024,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1026,14 +1034,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jiaqiang-wu/"><img class="avatar avatar-circle" src="/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Jiaqiang Wu</h2>
-      
+      <h2><a href="/author/jiaqiang-wu/">Jiaqiang Wu</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1063,6 +1068,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1071,14 +1078,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/yi-wu/avatar_hu954b23203e64f8f3bde0ac4f01eed8ff_172993_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/zhouan-zhu/"><img class="avatar avatar-circle" src="/author/zhouan-zhu/avatar_hu029f03f8972449a6d0f2b51e74a842df_696039_270x270_fill_lanczos_center_2.png" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Yi Wu</h2>
-      
+      <h2><a href="/author/zhouan-zhu/">Zhouan Zhu</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1093,7 +1097,7 @@
     
     
     <li>
-      <a href="mailto:wy221711@mail.ustc.edu.cn" >
+      <a href="mailto:zza2021@mail.ustc.edu.cn" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1108,6 +1112,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1116,14 +1122,55 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/yunes-al-dhabi/avatar_hu09f47f3cf26d9d91c14a1cdf793d8135_34679_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/xuandong-huang/"><img class="avatar avatar-circle" src="/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
+    <div class="portrait-title">
+      <h2><a href="/author/xuandong-huang/">Xuandong Huang</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:xuandong@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/yunes-al-dhabi/"><img class="avatar avatar-circle" src="/author/yunes-al-dhabi/avatar_hu09f47f3cf26d9d91c14a1cdf793d8135_34679_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
 
     <div class="portrait-title">
-      <h2>Yunes Al-Dhabi</h2>
-      
+      <h2><a href="/author/yunes-al-dhabi/">Yunes Al-Dhabi</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1163,50 +1210,7 @@
   
   
   
-  <div class="col-12 col-sm-auto people-person">
     
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/zhouan-zhu/avatar_hu029f03f8972449a6d0f2b51e74a842df_696039_270x270_fill_lanczos_center_3.png" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Zhouan Zhu</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:zza2021@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -1216,69 +1220,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jiahe-wang/"><img class="avatar avatar-circle" src="/author/jiahe-wang/avatar_hub33d7c35266bebcd21997d38161dc849_33535_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
-
 
     <div class="portrait-title">
-      <h2>Xuandong Huang</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:xuandong@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-
-  
-  <div class="col-md-12">
-    <h2 class="mb-4">Doctor (Second Year)</h2>
-  </div>
-  
-
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/jiahe-wang/avatar_hub33d7c35266bebcd21997d38161dc849_33535_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Jiahe Wang</h2>
-      
+      <h2><a href="/author/jiahe-wang/">Jiahe Wang</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1308,6 +1254,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1316,14 +1264,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/jinqiao-lu/avatar_hucdeb865d1ce57cf12582ee8049efbfaf_444414_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jinqiao-lu/"><img class="avatar avatar-circle" src="/author/jinqiao-lu/avatar_hucdeb865d1ce57cf12582ee8049efbfaf_444414_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Jinqiao Lu</h2>
-      
+      <h2><a href="/author/jinqiao-lu/">Jinqiao Lu</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1354,7 +1299,7 @@
 
   
   <div class="col-md-12">
-    <h2 class="mb-4">Doctor (First Year)</h2>
+    <h2 class="mb-4">Doctor (Second Year)</h2>
   </div>
   
 
@@ -1362,6 +1307,8 @@
   
   
   
+  
+    
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -1371,59 +1318,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/md-al-alif/avatar_hu84430366fee49ba57dd815fb5b8a49f0_325556_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jiale-huang/"><img class="avatar avatar-circle" src="/author/jiale-huang/avatar_hu828b080362dc6449363d330c9ede6912_36190_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
-
 
     <div class="portrait-title">
-      <h2>MD AL ALIF</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:alif@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/jiale-huang/avatar_hu828b080362dc6449363d330c9ede6912_36190_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Jiale Huang</h2>
-      
+      <h2><a href="/author/jiale-huang/">Jiale Huang</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1453,6 +1352,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1461,14 +1362,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/zhenjie-liu/avatar_hu4b2fc739846ed7eff9f0d643a7e54b2e_76380_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/zhenjie-liu/"><img class="avatar avatar-circle" src="/author/zhenjie-liu/avatar_hu4b2fc739846ed7eff9f0d643a7e54b2e_76380_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Zhenjie Liu</h2>
-      
+      <h2><a href="/author/zhenjie-liu/">Zhenjie Liu</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1530,17 +1428,9 @@
   
   
   
-
-  
-  <div class="col-md-12">
-    <h2 class="mb-4">Master (Third Year)</h2>
-  </div>
-  
-
   
   
-  
-  
+    
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -1550,14 +1440,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/yadong-liu/avatar_hu6110d4c1a6cf1999eee7a37dd3a62f97_68064_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/md-al-alif/"><img class="avatar avatar-circle" src="/author/md-al-alif/avatar_hu84430366fee49ba57dd815fb5b8a49f0_325556_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Yadong Liu</h2>
-      
+      <h2><a href="/author/md-al-alif/">MD AL ALIF</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1572,222 +1459,8 @@
     
     
     <li>
-      <a href="mailto:yadongliu@mail.ustc.edu.cn" >
+      <a href="mailto:alif@mail.ustc.edu.cn" >
         <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/Soceremite/" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/haofan-zhang/avatar_hu7ef347fb7073d472711737835978491f_60835_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Haofan Zhang</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:haofan0202@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/caichao-zhang/avatar_hu431b1269bfa24607072f9ffc6f79f08a_41722_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Caichao Zhang</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:zcc1101@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/mintao-zhang/avatar_hu7581896d548031eb89b41ceafb460a62_75835_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Mintao Zhang</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:1033610755@qq.com" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/yifan-cao/avatar_hu78dc5a6e1bb39685c707afd89e5ccf01_49064_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Yifan Cao</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:yyff@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/caoyfcode" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1802,7 +1475,7 @@
 
   
   <div class="col-md-12">
-    <h2 class="mb-4">Master (Second Year)</h2>
+    <h2 class="mb-4">Doctor (First Year)</h2>
   </div>
   
 
@@ -1810,6 +1483,8 @@
   
   
   
+  
+    
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -1819,14 +1494,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/bingzhao-cai/avatar_hu10505691f10e07964d4959843703a161_72332_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/bingzhao-cai/"><img class="avatar avatar-circle" src="/author/bingzhao-cai/avatar_hu10505691f10e07964d4959843703a161_72332_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Bingzhao Cai</h2>
-      
+      <h2><a href="/author/bingzhao-cai/">Bingzhao Cai</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1873,6 +1545,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -1881,14 +1555,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/yuxin-wang/avatar_huab0eee81afc61e7aad0d39d2968428ed_21734_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/yadong-liu/"><img class="avatar avatar-circle" src="/author/yadong-liu/avatar_hu6110d4c1a6cf1999eee7a37dd3a62f97_68064_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Yuxin Wang</h2>
-      
+      <h2><a href="/author/yadong-liu/">Yadong Liu</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1903,7 +1574,7 @@
     
     
     <li>
-      <a href="mailto:wyx2020@mail.ustc.edu.cn" >
+      <a href="mailto:yadongliu@mail.ustc.edu.cn" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1920,7 +1591,7 @@
       
     
     <li>
-      <a href="https://github.com/wyx-ustc" target="_blank" rel="noopener">
+      <a href="https://github.com/Soceremite/" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
       </a>
     </li>
@@ -1935,67 +1606,7 @@
   
   
   
-  <div class="col-12 col-sm-auto people-person">
     
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/xin-yun/avatar_hu5b590f8e225d11534c633e5e373cd87b_62262_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Xin Yun</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:yx9329@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/whyx" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -2005,200 +1616,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/jianzhang-lu/avatar_hu5557e1307668bdf0ebe92917612f816b_78477_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jialin-gui/"><img class="avatar avatar-circle" src="/author/jialin-gui/avatar_hue0149850572ea2255a328a6c29ff8bcd_151507_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
-
 
     <div class="portrait-title">
-      <h2>Jianzhang Lu</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:jzlu@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/CaptainZhang27" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/renjie-lu/avatar_hu049a7d04ab3930648e01f3df85b16ada_549729_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Renjie Lu</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:Lu-H@mail.ustc.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/answer-Lu" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/yuzhe-zhou/avatar_hu5f33179811e9207e2ad310c97935248b_25229_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Yuzhe Zhou</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:cszhouyuzhe@outlook.com" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/csZhouYuzhe" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/jialin-gui/avatar_hue0149850572ea2255a328a6c29ff8bcd_151507_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Jialin Gui</h2>
-      
+      <h2><a href="/author/jialin-gui/">Jialin Gui</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -2246,7 +1668,7 @@
 
   
   <div class="col-md-12">
-    <h2 class="mb-4">Master (First Year)</h2>
+    <h2 class="mb-4">Master (Third Year)</h2>
   </div>
   
 
@@ -2254,6 +1676,8 @@
   
   
   
+  
+    
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -2263,14 +1687,370 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/binyan-chen/avatar_hub50ad5daa667cb36264ed130247dbde2_44038_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/yuxin-wang/"><img class="avatar avatar-circle" src="/author/yuxin-wang/avatar_huab0eee81afc61e7aad0d39d2968428ed_21734_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
+    <div class="portrait-title">
+      <h2><a href="/author/yuxin-wang/">Yuxin Wang</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:wyx2020@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/wyx-ustc" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/xin-yun/"><img class="avatar avatar-circle" src="/author/xin-yun/avatar_hu5b590f8e225d11534c633e5e373cd87b_62262_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
 
     <div class="portrait-title">
-      <h2>Binyan Chen</h2>
+      <h2><a href="/author/xin-yun/">Xin Yun</a></h2>
       
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:yx9329@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/whyx" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/jianzhang-lu/"><img class="avatar avatar-circle" src="/author/jianzhang-lu/avatar_hu5557e1307668bdf0ebe92917612f816b_78477_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/jianzhang-lu/">Jianzhang Lu</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:jzlu@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/CaptainZhang27" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/renjie-lu/"><img class="avatar avatar-circle" src="/author/renjie-lu/avatar_hu049a7d04ab3930648e01f3df85b16ada_549729_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/renjie-lu/">Renjie Lu</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:Lu-H@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/answer-Lu" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/yuzhe-zhou/"><img class="avatar avatar-circle" src="/author/yuzhe-zhou/avatar_hu5f33179811e9207e2ad310c97935248b_25229_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/yuzhe-zhou/">Yuzhe Zhou</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:cszhouyuzhe@outlook.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/csZhouYuzhe" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/hao-sun/"><img class="avatar avatar-circle" src="/author/hao-sun/avatar_huf19e9e0ee91897e5bde2469ac719e6a4_325730_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/hao-sun/">Hao Sun</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sh2zx@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Master (Second Year)</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/binyan-chen/"><img class="avatar avatar-circle" src="/author/binyan-chen/avatar_hub50ad5daa667cb36264ed130247dbde2_44038_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/binyan-chen/">Binyan Chen</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -2317,50 +2097,7 @@
   
   
   
-  <div class="col-12 col-sm-auto people-person">
     
-    
-      
-      
-    
-    
-      
-      <img class='avatar avatar-circle' src="/author/hao-chen/avatar_hu1e243f0b14aedeec570a3756c77b3e5f_18050_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
-    
-
-
-    <div class="portrait-title">
-      <h2>Hao Chen</h2>
-      
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:2405389376@qq.com" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
   
   <div class="col-12 col-sm-auto people-person">
     
@@ -2370,14 +2107,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/tong-pan/avatar_hu6fe5bbf12b0a749e3496c776260b7df8_47074_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/tong-pan/"><img class="avatar avatar-circle" src="/author/tong-pan/avatar_hu6fe5bbf12b0a749e3496c776260b7df8_47074_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Tong Pan</h2>
-      
+      <h2><a href="/author/tong-pan/">Tong Pan</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -2424,6 +2158,8 @@
   
   
   
+    
+  
   <div class="col-12 col-sm-auto people-person">
     
     
@@ -2432,14 +2168,11 @@
     
     
       
-      <img class='avatar avatar-circle' src="/author/jiashu-li/avatar_hub9a1780b3c972c4f23b64021895bff1c_35687_270x270_fill_q75_lanczos_center.jpg" alt="Avatar">
-      
+      <a href="/author/jiashu-li/"><img class="avatar avatar-circle" src="/author/jiashu-li/avatar_hub9a1780b3c972c4f23b64021895bff1c_35687_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
-
     <div class="portrait-title">
-      <h2>Jiashu Li</h2>
-      
+      <h2><a href="/author/jiashu-li/">Jiashu Li</a></h2>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -2467,15 +2200,233 @@
   
   
   
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/hao-chen/"><img class="avatar avatar-circle" src="/author/hao-chen/avatar_hu1e243f0b14aedeec570a3756c77b3e5f_18050_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/hao-chen/">Hao Chen</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:2405389376@qq.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
 
   
-
-  
-  
-  
-
+  <div class="col-md-12">
+    <h2 class="mb-4">Master (First Year)</h2>
+  </div>
   
 
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/danhua-zeng/"><img class="avatar avatar-circle" src="/author/danhua-zeng/avatar_hu4631b9b20b09b6e6642139625f3fdf4d_166354_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/danhua-zeng/">Danhua Zeng</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:dhkeda2226@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/haoxuan-liu/"><img class="avatar avatar-circle" src="/author/haoxuan-liu/avatar_hudfe6959b356b93290da7097d3703f648_56820_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/haoxuan-liu/">Haoxuan Liu</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:3421578057@qq.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/jiali-zhou/"><img class="avatar avatar-circle" src="/author/jiali-zhou/avatar_hu5d1a7709eb90a14173d03f33b5315748_350999_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/jiali-zhou/">Jiali Zhou</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:zjljelly@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/qinghao-liu/"><img class="avatar avatar-circle" src="/author/qinghao-liu/avatar_hu1bbc5e88837e69bdd3be3538dad4e563_89926_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/qinghao-liu/">Qinghao Liu</a></h2>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:lqh_ustc@mail.ustc.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
   
   
 </div>
@@ -2626,7 +2577,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -2651,7 +2602,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

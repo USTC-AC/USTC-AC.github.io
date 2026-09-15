@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaqiang Wu | USTC-AC</title>
-    <link>http://localhost:1313/author/jiaqiang-wu/</link>
-      <atom:link href="http://localhost:1313/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-ac.github.io/author/jiaqiang-wu/</link>
+      <atom:link href="https://ustc-ac.github.io/author/jiaqiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaqiang Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ustc-ac.github.io/author/jiaqiang-wu/avatar_hu85b59fe8ee7060f7fa981c82f598737d_30374_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiaqiang Wu</title>
-      <link>http://localhost:1313/author/jiaqiang-wu/</link>
+      <link>https://ustc-ac.github.io/author/jiaqiang-wu/</link>
     </image>
     
     <item>
       <title>TED: Towards Explainable and Holistically Aligned Empathetic Dialogue Generation</title>
-      <link>http://localhost:1313/publication/manual-tac26-wu/</link>
-      <pubDate>Sat, 27 Jun 2026 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac26-wu/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-tac26-wu/</link>
+      <pubDate>Sat, 27 Jun 2026 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac26-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empathetic Response Generation Through Multi-modality</title>
-      <link>http://localhost:1313/publication/manual-tac25-wu/</link>
-      <pubDate>Thu, 14 Aug 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac25-wu/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-tac25-wu/</link>
+      <pubDate>Thu, 14 Aug 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac25-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
-      <link>http://localhost:1313/publication/manual-coling24-wu/</link>
-      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-coling24-wu/</link>
+      <pubDate>Sat, 18 Jan 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-coling24-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Visual Modalities with Large Language Models for Mental Health Support</title>
-      <link>http://localhost:1313/publication/manual-coling25-zhu/</link>
-      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-coling25-zhu/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-coling25-zhu/</link>
+      <pubDate>Sat, 18 Jan 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-coling25-zhu/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users&#39; perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/manual-tac23-lu/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/publication/manual-tac23-lu/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -278,10 +317,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/manual-tac23-lu/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/publication/manual-tac23-lu/" />
 
   
   
@@ -298,10 +337,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/publication/manual-tac23-lu/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/publication/manual-tac23-lu/" />
   <meta property="og:title" content="A Multi-Stage Visual Perception Approach for Image Emotion Analysis | USTC-AC" />
-  <meta property="og:description" content="Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users&#39; perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users&#39; perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -331,7 +370,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/manual-tac23-lu/"
+    "@id": "https://ustc-ac.github.io/publication/manual-tac23-lu/"
   },
   "headline": "A Multi-Stage Visual Perception Approach for Image Emotion Analysis",
   
@@ -348,7 +387,7 @@
     "name": "USTC-AC",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_3.png"
+      "url": "https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users' perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network."
@@ -382,7 +421,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -678,36 +717,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -902,9 +911,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users&rsquo; perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network.</p>
-    
-
+    <p class="pub-abstract">Most current methods for image emotion analysis suffer from the affective gap, in which features directly extracted from images are supervised by a single emotional label, which may not align with users' perceived emotions. To effectively address this limitation, this paper introduces a novel multi-stage perception approach inspired by the human staged emotion perception process. The proposed approach comprises three perception modules: entity perception, attribute perception, and emotion perception. The entity perception module identifies entities in images, while the attribute perception module captures the attribute content associated with each entity. Finally, the emotion perception module combines entity and attribute information to extract emotion features. Pseudo-labels of entities and attributes are generated through image segmentation and vision-language models to provide auxiliary guidance for network learning. A progressive understanding of entities and attributes allows the network to hierarchically extract semantic-level features for emotion analysis. Comprehensive experiments on image emotion classification, regression, and distribution learning demonstrate the superior performance of our multi-stage perception network.</p>
     
 
     
@@ -951,9 +958,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/feature-extraction/">Feature Extraction</a>
+  <a class="badge badge-light" href="/tag/feature-extraction/">Feature extraction</a>
   
-  <a class="badge badge-light" href="/tag/emotion-recognition/">Emotion Recognition</a>
+  <a class="badge badge-light" href="/tag/emotion-recognition/">Emotion recognition</a>
   
   <a class="badge badge-light" href="/tag/image-emotion-analysis/">Image Emotion Analysis</a>
   
@@ -972,7 +979,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/publication/manual-tac23-lu/&amp;text=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ustc-ac.github.io/publication/manual-tac23-lu/&amp;text=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -985,7 +992,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/publication/manual-tac23-lu/&amp;t=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ustc-ac.github.io/publication/manual-tac23-lu/&amp;t=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -998,7 +1005,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis&amp;body=http://localhost:1313/publication/manual-tac23-lu/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis&amp;body=https://ustc-ac.github.io/publication/manual-tac23-lu/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1011,7 +1018,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/publication/manual-tac23-lu/&amp;title=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ustc-ac.github.io/publication/manual-tac23-lu/&amp;title=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1024,7 +1031,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis%20http://localhost:1313/publication/manual-tac23-lu/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis%20https://ustc-ac.github.io/publication/manual-tac23-lu/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1037,7 +1044,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/publication/manual-tac23-lu/&amp;title=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ustc-ac.github.io/publication/manual-tac23-lu/&amp;title=A%20Multi-Stage%20Visual%20Perception%20Approach%20for%20Image%20Emotion%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1380,7 +1387,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1405,7 +1412,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

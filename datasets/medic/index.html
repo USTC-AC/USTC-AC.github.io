@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/datasets/medic/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/datasets/medic/" />
 
   
 
@@ -259,10 +259,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -284,10 +323,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/datasets/medic/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/datasets/medic/" />
 
   
   
@@ -304,10 +343,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/datasets/medic/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/datasets/medic/" />
   <meta property="og:title" content="MEDIC | USTC-AC" />
-  <meta property="og:description" content="" /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -347,7 +386,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -643,36 +682,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -813,7 +822,7 @@
 <ol>
 <li><strong>Text Folder</strong>: Contains textual data corresponding to each sample.</li>
 <li><strong>Audio Features Folder</strong>: Includes audio features of each sample.</li>
-<li><strong>2P Audio Features Folder</strong>: Stores audio features with two-party (2p) interactions, where different speakers&rsquo; features are separated.</li>
+<li><strong>2P Audio Features Folder</strong>: Stores audio features with two-party (2p) interactions, where different speakers' features are separated.</li>
 <li><strong>2P Keypoints Features Folder</strong>: Consists of visual keypoints features related to two-party interactions.</li>
 <li><strong>Labels.csv File</strong>: Provides the labels corresponding to each dataset sample.</li>
 </ol>
@@ -855,8 +864,6 @@
 <ul>
 <li><strong>Two-Party Keypoints Features (2p_keypoints_feature)</strong>: This folder contains visual keypoints data, particularly focusing on scenarios involving interactions between two parties (e.g., counselor and client).</li>
 </ul>
-<h2 id="recent-dataset-expansion">Recent Dataset Expansion</h2>
-<p>In addition to the original <strong>771 samples</strong>, the dataset has been expanded with <strong>373 new samples</strong> sourced from the <strong>看见心理-双面镜计划</strong> (<a href="https://app.kjxl.net/#/observationDetail?enter=commonsearch_business_item&amp;forceNewWebview=1&amp;courseId=451" target="_blank" rel="noopener">link</a>). This expansion enriches the diversity of the dataset, providing more instances for the analysis of empathic interactions in therapeutic settings.</p>
 <h2 id="usage">Usage</h2>
 <p>This dataset is ideal for research in fields such as conversational analysis, behavioral studies, and multimodal machine learning. It provides a rich source of data for training models that require a combination of textual, audio, and visual inputs.</p>
 <h2 id="license-and-agreement">License and Agreement</h2>
@@ -890,27 +897,23 @@
   
 
   
-
+    
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
   
 
   
 
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
   
 
   
@@ -923,10 +926,28 @@
 
   
   
+  
 
   
-  <section id="image" class="home-section wg-blank  "  >
-   <div class="home-section-bg " ></div>
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="image" class="home-section wg-blank dark fullscreen"  >
+   <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://ustc-ac.github.io/media/medic.png&#39;);background-size: contain;background-position: center;"></div>
     <div class="container">
 
     
@@ -938,8 +959,8 @@
 
 
 
-  <div class="col-12 col-lg-8">
-    <center><img src = medic.png></center>
+  <div class="col-12">
+    
   </div>
 
 
@@ -1091,7 +1112,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1116,7 +1137,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

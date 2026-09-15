@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/tag/expression-recognition/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/tag/expression-recognition/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -280,10 +319,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/tag/expression-recognition/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/tag/expression-recognition/" />
 
   
   
@@ -300,10 +339,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/tag/expression-recognition/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/tag/expression-recognition/" />
   <meta property="og:title" content="Expression Recognition | USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2023-12-04T09:53:00&#43;00:00" />
@@ -337,7 +376,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -628,36 +667,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
         </li>
 
         
@@ -1715,7 +1724,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
         
         
 
-        <img src="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_9e551947ef3bcdca637c2bb5c050fcbf.png" srcset="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_862d72f0490051bb43a6663b92f8dd73.png 1200w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_f86ba04a087b624366df91a22ed0c753.png 800w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_9e551947ef3bcdca637c2bb5c050fcbf.png 400w" width="450" height="213" alt="Unpaired Multimodal Facial Expression Recognition">
+        <img src="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png" srcset="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_a39564637022377c83e969e575e99bb8.png 1200w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_b7fc191ae1ef2552008b2f5986e816f2.png 800w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png 400w" width="450" height="213" alt="Unpaired Multimodal Facial Expression Recognition">
 
     
     
@@ -1991,7 +2000,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
         
         
 
-        <img src="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_b4a29631e522b4e6470db369efa91f8a.png" srcset="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_a4606a5b5320fd2d1b6d846834d0b4ed.png 1200w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_c93c12d80b71b21a0891b5f7d12e4869.png 800w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_b4a29631e522b4e6470db369efa91f8a.png 400w" width="450" height="291" alt="Occluded Facial Expression Recognition Enhanced through Privileged Information">
+        <img src="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_3a6b9c463a0edd287810544abf6b9724.png" srcset="/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_fe46edd93855adda48108c8396e6f7d5.png 1200w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_46dde4c4ad2ff960311d5d2fad5aaf2c.png 800w,/publication/dblp-confmm-pan-wx-19/featured_hucf65a7887d8ff00a6d7a1a8fcf59d04f_218950_3a6b9c463a0edd287810544abf6b9724.png 400w" width="450" height="291" alt="Occluded Facial Expression Recognition Enhanced through Privileged Information">
 
     
     
@@ -2152,7 +2161,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -2177,7 +2186,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

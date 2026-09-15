@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Labeling Rules | USTC-AC</title>
-    <link>http://localhost:1313/tag/labeling-rules/</link>
-      <atom:link href="http://localhost:1313/tag/labeling-rules/index.xml" rel="self" type="application/rss+xml" />
-    <description>Labeling Rules</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
+    <title>Labeling rules | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/labeling-rules/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/labeling-rules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labeling rules</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Labeling Rules</title>
-      <link>http://localhost:1313/tag/labeling-rules/</link>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Labeling rules</title>
+      <link>https://ustc-ac.github.io/tag/labeling-rules/</link>
     </image>
     
     <item>
       <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
-      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
-      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-tac25-zhang/</link>
+      <pubDate>Tue, 11 Mar 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac25-zhang/</guid>
       <description></description>
     </item>
     

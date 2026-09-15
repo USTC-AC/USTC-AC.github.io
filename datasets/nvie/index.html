@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/datasets/nvie/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/datasets/nvie/" />
 
   
 
@@ -84,8 +84,6 @@
       
       
       
-      
-        
       
         
       
@@ -261,10 +259,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -286,10 +323,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/datasets/nvie/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/datasets/nvie/" />
 
   
   
@@ -306,10 +343,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/datasets/nvie/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/datasets/nvie/" />
   <meta property="og:title" content="NVIE | USTC-AC" />
-  <meta property="og:description" content="" /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -349,7 +386,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -645,36 +682,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -792,6 +799,13 @@
     
       <div class="row  justify-content-center" align="justify">
       
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">NVIE</h1>
+            
+          </div>
+        
+      
     
 
       
@@ -799,40 +813,8 @@
 
 
   <div class="col-12">
-    <font face="楷书">
-<h1 id="centernviehttpsieeexploreieeeorgdocument5523955"><center><a href="https://ieeexplore.ieee.org/document/5523955" target="_blank" rel="noopener">NVIE</a></h1>
-<h2 id="overview">Overview</h2>
-<p>A Natural Visible and Infrared facial Expression Database</p>
-<h2 id="dataset-description">Dataset Description</h2>
-<p>The Key Laboratory of Computing and Communication Software of Anhui Province(CCSL) has constructed the USTC-NVIE (Natural Visible and Infrared facial Expression) database under the sponsor of the 863 project. To date, most facial expression analysis has been based on visible and posed expression databases. Visible images, however, are easily affected by illumination variations, while posed expressions differ in appearance and timing from natural ones. We propose and establish a natural visible and infrared facial expression database, which contains both spontaneous and posed expressions of more than 100 subjects, recorded simultaneously by a visible and an infrared thermal camera, with illumination provided from three different directions. The posed database also includes expression image sequences with and without glasses.</p>
-<h2 id="update-information">Update Information</h2>
-<p><strong><font color=red>Released Version: V3.0 Released Date: 2012.11.19</font></strong>
-<strong>Description</strong>: On the basis of Version 2.0, most of Visible and Infrared thermal samples in USTC-NVIE database have been successfully marked with several feature points with the help of Prof. Qiang Ji and Yue Wu from the Intelligent Systems Laboratory (ISL) of Rensselaer Polytechnic Institute.All these point data are released togther with our USTC-NVIE database. Several example images are shown below. We really appreciate Prof. Ji&rsquo;s supports and Yue Wu&rsquo;s efforts. We hope that these data will be helpful for your research.</p>
-<p><strong><font color=red>Released Version: V2.0 Released Date: 2011.11.01</font></strong>
-<strong>Description</strong>: On the basis of Version 1.0, two kinds of neutral expressional images are included for each subject in the Posed Facial Expression Database, one is the neutral frame with eyeglasses, the other is without eyeglasses. Both the infrared thermal image and the visible image are considered for each kind of neutral frame, and all these neutral frames are with the frontal lights. What&rsquo;s more, some information about the experiment subjects are provided in this version, including the gender information, eyeglasses wearing information, the root directory of the image or txt files and so on.</p>
-<p><strong><font color=red>Released Version: V 1.0 Released Date: 2010.9.01</font></strong>
-<strong>Description</strong>: In this version of released databse, the spontaneous database includes images of 103 subjects under front illumination, 99 subjects under left illumination, and 103 subjects under right illumination, while 107 subjects are included in the posed database.</p>
-<h2 id="contact-us">Contact Us</h2>
-<p>For any inquiries about the NVIE database, please contact:</p>
-<p><strong>Bingzhao Cai</strong> (In charge of the database): <a href="mailto:cbz_2020@mail.ustc.edu.cn">cbz_2020@mail.ustc.edu.cn</a></p>
-<p><strong>Shangfei Wang</strong>: <a href="mailto:sfwang@ustc.edu.cn">sfwang@ustc.edu.cn</a></p>
-<h2 id="how-to-download-this-database">How to download this database</h2>
-<p>To download this database, you need to print the <a href="release_agreement_nvie.pdf">agreement</a>, sign it and send it to us.</p>
-<h3 id="the-address">The address:</h3>
-<p>To: Dr. Shangfei Wang (Forward to Bingzhao Cai)</p>
-<p>School of Computer Science and Technology,</p>
-<p>High-tech Campus, University of Science and Technology of China,</p>
-<p>Hefei, Anhui, P.R. China, 230037</p>
-<h2 id="citation">Citation</h2>
-<pre><code>@article{wang2010NVIE,
-  title={A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference},
-  author={Wang, Shangfei and Liu, Zhilei and Lv, Siliang and Lv, Yanpeng and Wu, Guobing and Peng, peng and Chen, Fei and Wang, Xufa},
-  journal={IEEE Transactions on Multimedia},
-  year={2010},
-  publisher={IEEE}
-}
-</code></pre>
-</font>
+    <p>The Key Laboratory of Computing and Communication Software of Anhui Province(CCSL) has constructed the USTC-NVIE (Natural Visible and Infrared facial Expression) database under the sponsor of the 863 project. To date, most facial expression analysis has been based on visible and posed expression databases. Visible images, however, are easily affected by illumination variations, while posed expressions differ in appearance and timing from natural ones. We propose and establish a natural visible and infrared facial expression database, which contains both spontaneous and posed expressions of more than 100 subjects, recorded simultaneously by a visible and an infrared thermal camera, with illumination provided from three different directions. The posed database also includes expression image sequences with and without glasses.</p>
+<p>Link: <a href="https://nvie.ustc.edu.cn/" target="_blank" rel="noopener">https://nvie.ustc.edu.cn/</a></p>
 
   </div>
 
@@ -855,76 +837,19 @@
   
 
   
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="image" class="home-section wg-blank  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
     
-      <div class="row  justify-content-center" align="justify">
+    
+    
       
     
-
+    
       
-
-
-
-  <div class="col-12 col-lg-8">
-    <center><img src = nvie.png></center>
-  </div>
-
-
-
+      
     
-      </div>
     
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
+      
+      
+    
   
 
   
@@ -961,8 +886,8 @@
   
 
   
-  <section id="download" class="home-section wg-blank  fullscreen"  >
-   <div class="home-section-bg " ></div>
+  <section id="image" class="home-section wg-blank dark fullscreen"  >
+   <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://ustc-ac.github.io/media/nvie.png&#39;);background-size: contain;background-position: center;"></div>
     <div class="container">
 
     
@@ -975,93 +900,7 @@
 
 
   <div class="col-12">
-    <table>
-<thead>
-<tr>
-<th>name</th>
-<th>download links</th>
-<th>size</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Readme</td>
-<td><a href="0Readme.rar">Introduction</a></td>
-<td>2M</td>
-</tr>
-<tr>
-<td>Updated Evaluation Tables</td>
-<td><a href="20120115-Updated-Evaluation-Tables.rar">Updated Evaluation Tables</a></td>
-<td>791K</td>
-</tr>
-<tr>
-<td>USTC_NVIE_PosedDatabase</td>
-<td><a href="USTC_NVIE_PosedDatabase.rar">USTC_NVIE_PosedDatabase</a></td>
-<td>1.79G</td>
-</tr>
-<tr>
-<td>USTC_NVIE_SpontaneousDatabase.part01</td>
-<td><a href="USTC_NVIE_SpontaneousDatabase.part01.rar">USTC_NVIE_SpontaneousDatabase.part01</a></td>
-<td>15G</td>
-</tr>
-<tr>
-<td>USTC_NVIE_SpontaneousDatabase.part02</td>
-<td><a href="USTC_NVIE_SpontaneousDatabase.part02.rar">USTC_NVIE_SpontaneousDatabase.part02</a></td>
-<td>15G</td>
-</tr>
-<tr>
-<td>USTC_NVIE_SpontaneousDatabase.part03</td>
-<td><a href="USTC_NVIE_SpontaneousDatabase.part03.rar">USTC_NVIE_SpontaneousDatabase.part03</a></td>
-<td>15G</td>
-</tr>
-<tr>
-<td>USTC_NVIE_SpontaneousDatabase.part04</td>
-<td><a href="USTC_NVIE_SpontaneousDatabase.part04.rar">USTC_NVIE_SpontaneousDatabase.part04</a></td>
-<td>15G</td>
-</tr>
-<tr>
-<td>USTC_NVIE_SpontaneousDatabase.part05</td>
-<td><a href="USTC_NVIE_SpontaneousDatabase.part05.rar">USTC_NVIE_SpontaneousDatabase.part05</a></td>
-<td>5G</td>
-</tr>
-<tr>
-<td>USTC-NVIE Spontaneous Visible Database Points</td>
-<td><a href="1_USTC-NVIE-Spontaneous-Visible-Database-Points.rar">USTC-NVIE Spontaneous Visible Database Points</a></td>
-<td>27.9M</td>
-</tr>
-<tr>
-<td>USTC-NVIE Posed Visible Database Points</td>
-<td><a href="2_USTC-NVIE-Posed-Visible-Database-Points.rar">USTC-NVIE Posed Visible Database Points</a></td>
-<td>620K</td>
-</tr>
-<tr>
-<td>USTC-NVIE Spontaneous Infrared Database Points</td>
-<td><a href="3_USTC-NVIE-Spontaneous-Infrared-Database-Points.rar">USTC-NVIE Spontaneous Infrared Database Points</a></td>
-<td>18.9M</td>
-</tr>
-<tr>
-<td>USTC-Infrared_ManualLocationReslutDatabase</td>
-<td><a href="4_USTC-Infrared_ManualLocationReslutDatabase.rar">USTC-Infrared_ManualLocationReslutDatabase</a></td>
-<td>3.24M</td>
-</tr>
-<tr>
-<td>USTC-ApexVisibleSpontaneousExpressionFrame_AAM Points</td>
-<td><a href="5_USTC-ApexVisibleSpontaneousExpressionFrame_AAM-Points.rar">USTC-ApexVisibleSpontaneousExpressionFrame_AAM Points</a></td>
-<td>455M</td>
-</tr>
-<tr>
-<td>Visible_EyesDetectionResults</td>
-<td><a href="6_Visible_EyesDetectionResults.rar">Visible_EyesDetectionResults</a></td>
-<td>465M</td>
-</tr>
-<tr>
-<td>InfraredSequenceEyesLocation</td>
-<td><a href="7_InfraredSequenceEyesLocation.rar">InfraredSequenceEyesLocation</a></td>
-<td>393K</td>
-</tr>
-</tbody>
-</table>
-
+    
   </div>
 
 
@@ -1213,7 +1052,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1238,7 +1077,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

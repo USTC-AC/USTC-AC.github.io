@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/tag/landmark-tracking/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/tag/landmark-tracking/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -280,10 +319,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/tag/landmark-tracking/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/tag/landmark-tracking/" />
 
   
   
@@ -300,10 +339,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/tag/landmark-tracking/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/tag/landmark-tracking/" />
   <meta property="og:title" content="Landmark Tracking | USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2022-04-01T09:53:00&#43;00:00" />
@@ -337,7 +376,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -628,36 +667,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
         </li>
 
         
@@ -971,7 +980,7 @@
         
         
 
-        <img src="/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_43481045afbcec0f9844f86e4ec34cfd.png" srcset="/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_73cb60b5af68f4246e8e8a1465554b5f.png 1200w,/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_6a28ba0c000be97c1c35542887d58c59.png 800w,/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_43481045afbcec0f9844f86e4ec34cfd.png 400w" width="450" height="295" alt="Attentive One-Dimensional Heatmap Regression for Facial Landmark Detection and Tracking">
+        <img src="/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_5cbd3c950becfc70e4f57bb068ec51f7.png" srcset="/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_6e0f050c187aaeb0bebe9541adb63c1e.png 1200w,/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_27db89dbdb196fd8332852b67f8cb81d.png 800w,/publication/dblp-confmm-yin-wccl-20/featured_hu22c09b2bbf7a4fd412912d6cba403c45_869902_5cbd3c950becfc70e4f57bb068ec51f7.png 400w" width="450" height="295" alt="Attentive One-Dimensional Heatmap Regression for Facial Landmark Detection and Tracking">
 
     
     
@@ -1402,7 +1411,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1427,7 +1436,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

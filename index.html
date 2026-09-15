@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/" />
 
   
 
@@ -261,10 +261,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -290,10 +329,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/" />
 
   
   
@@ -310,13 +349,13 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/" />
   <meta property="og:title" content="USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2026-06-27T09:53:00&#43;00:00" />
+      <meta property="og:updated_time" content="2026-06-27T17:53:00&#43;08:00" />
     
   
 
@@ -328,10 +367,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "http://localhost:1313/?q={search_term_string}",
+    "target": "https://ustc-ac.github.io?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "http://localhost:1313/"
+  "url": "https://ustc-ac.github.io"
 }
 </script>
 
@@ -341,9 +380,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "http://localhost:1313/",
+  "@id": "https://ustc-ac.github.io",
   "name": "USTC-AC",
-  "logo": "http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_3.png",
+  "logo": "https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_2.png",
   
   
   
@@ -357,7 +396,7 @@
   },
   
   
-  "url": "http://localhost:1313/"
+  "url": "https://ustc-ac.github.io"
 }
 </script>
 
@@ -386,7 +425,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -682,36 +721,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -854,7 +863,7 @@
     
 
     
-      <div class="hero-lead"><p>The USTC-AC Research Group is a center of excellence for Affective Computing research. Papers from our group have been accepted by several top conferences, like CVPR, AAAI and ACMMM etc.</p>
+      <div class="hero-lead"><p>The USTC-AC Research Group is a center of excellence for Affective Comuputing research. Papers from our group have been accepted by several top conferences, like CVPR, AAAI and ACMMM etc.</p>
 </div>
     
 
@@ -1022,7 +1031,7 @@
     
     <a href="/post/award-2026-adodas/"  class="summary-link">
       <div class="article-style">
-        <p><a href="../../author/yadong-liu/">Yadong Liu</a>, <a href="../../author/binyan-chen/">Binyan Chen</a>, <a href="../../author/tong-pan/">Tong Pan</a>, and <a href="../../author/xin-yun/">Xin Yun</a> participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by <a href="../../author/shangfei-wang/">Shangfei Wang</a>.</p>
+        <p><a href="../author/yadong-liu/">Yadong Liu</a>, <a href="../author/binyan-chen/">Binyan Chen</a>, <a href="../author/tong-pan/">Tong Pan</a>, and <a href="../author/xin-yun/">Xin Yun</a> participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by <a href="../author/shangfei-wang/">Shangfei Wang</a>.</p>
       </div>
     </a>
     
@@ -1119,7 +1128,7 @@
         
         
 
-        <img src="/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_654110747aa6d67ce4b9b67a663dad56.png" srcset="/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_f9a5c457b099089a7e3a4c23c400b4c0.png 1200w,/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_95d657b94151eac0bd60592f2ffc4d63.png 800w,/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_654110747aa6d67ce4b9b67a663dad56.png 400w" width="450" height="680" alt="We have won the First Prize of AdoDAS Challenge @ ACM MM 2026">
+        <img src="/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_e36507fa5f78b29f7f37ec46ea5bcf94.png" srcset="/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_124ed9f49fa79ef9de4ddd4299afd9d5.png 1200w,/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_77594465ebaca3738334d92535e00e6d.png 800w,/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_e36507fa5f78b29f7f37ec46ea5bcf94.png 400w" width="450" height="680" alt="We have won the First Prize of AdoDAS Challenge @ ACM MM 2026">
 
     
     
@@ -1286,7 +1295,7 @@
     
     <a href="/post/2026-cvpr-one/"  class="summary-link">
       <div class="article-style">
-        <p>“SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation” by <a href="../../author/jiale-huang/">Jiale Huang</a>, has been accepted for publication in a future issue of CVPR2026.</p>
+        <p>“SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation” by <a href="../author/jiale-huang/">Jiale Huang</a>, has been accepted for publication in a future issue of CVPR2026.</p>
       </div>
     </a>
     
@@ -1380,7 +1389,7 @@
         
         
 
-        <img src="/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_8037c5360d244a7f6d5710845b0a7573.png" srcset="/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_9859ba28f2b31765e731e3cbee3051f9.png 1200w,/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_a5f6facdf6c79c8bfa5ace514f2f3011.png 800w,/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_8037c5360d244a7f6d5710845b0a7573.png 400w" width="450" height="304" alt="One of our work is accepted by CVPR2026 !">
+        <img src="/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69b721c0631434d0c51f9e56ff780d54.png" srcset="/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_876e2070f7e56ef0f8fb4e52062c5f6b.png 1200w,/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_4ffdc40c0aea1b99c0b261ee29267b50.png 800w,/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69b721c0631434d0c51f9e56ff780d54.png 400w" width="450" height="304" alt="One of our work is accepted by CVPR2026 !">
 
     
     
@@ -1417,9 +1426,7 @@
     
     <a href="/post/2025-aaai-three/"  class="summary-link">
       <div class="article-style">
-        <p>“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by <a href="../../author/yi-wu/">Yi Wu</a>, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.</p>
-<p>“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by <a href="../../author/zhenjie-liu/">Zhenjie Liu</a>, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.</p>
-<p>“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by <a href="../../author/yadong-liu/">Yadong Liu</a>, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.</p>
+        <p>“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by <a href="../author/yi-wu/">Yi Wu</a>, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.</p>
       </div>
     </a>
     
@@ -1514,7 +1521,7 @@
         
         
 
-        <img src="/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_49f2c30d06363a0beb1c35edd1adb089.png" srcset="/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_ad087d9216c42d54fb68233999e5500b.png 1200w,/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_304a92f57d1a020f23f0675978cb0bc1.png 800w,/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_49f2c30d06363a0beb1c35edd1adb089.png 400w" width="450" height="125" alt="Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence">
+        <img src="/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_521931232cd801f98f9064dc297d269a.png" srcset="/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_cb42d08e3d4b5a48dfd8030f2a784247.png 1200w,/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_306e57f18296c72a559ae7ed8de38d13.png 800w,/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_521931232cd801f98f9064dc297d269a.png 400w" width="450" height="125" alt="Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence">
 
     
     
@@ -1779,7 +1786,7 @@
         
         
         
-        <a href="/tag/3d-human-pose-estimation/" style="font-size:0.7rem">3D Human Pose Estimation</a>
+        <a href="/tag/3d-human-pose-estimation/" style="font-size:1.03274543225276rem">3D Human Pose Estimation</a>
       
         
         
@@ -1804,12 +1811,7 @@
         
         
         
-        <a href="/tag/aigc/" style="font-size:0.7rem">AIGC</a>
-      
-        
-        
-        
-        <a href="/tag/artificial-intelligence/" style="font-size:1.3654908645055204rem">Artificial Intelligence</a>
+        <a href="/tag/artificial-intelligence/" style="font-size:1.3654908645055204rem">Artificial intelligence</a>
       
         
         
@@ -1819,7 +1821,7 @@
         
         
         
-        <a href="/tag/computational-linguistics/" style="font-size:0.7rem">Computational Linguistics</a>
+        <a href="/tag/cross-modality-feature-alignment/" style="font-size:1.03274543225276rem">Cross-Modality Feature Alignment</a>
       
         
         
@@ -1844,7 +1846,7 @@
         
         
         
-        <a href="/tag/facial-action-unit-recognition/" style="font-size:1.03274543225276rem">Facial Action Unit Recognition</a>
+        <a href="/tag/facial-action-unit-recognition/" style="font-size:1.03274543225276rem">Facial action unit recognition</a>
       
         
         
@@ -1869,12 +1871,17 @@
         
         
         
+        <a href="/tag/pose-textual-descriptions/" style="font-size:1.03274543225276rem">Pose Textual Descriptions</a>
+      
+        
+        
+        
         <a href="/tag/transformer/" style="font-size:1.03274543225276rem">Transformer</a>
       
         
         
         
-        <a href="/tag/video-affective-content-analysis/" style="font-size:1.03274543225276rem">Video Affective Content Analysis</a>
+        <a href="/tag/video-affective-content-analysis/" style="font-size:1.03274543225276rem">Video affective content analysis</a>
       
     </div>
   
@@ -2030,7 +2037,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -2055,7 +2062,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

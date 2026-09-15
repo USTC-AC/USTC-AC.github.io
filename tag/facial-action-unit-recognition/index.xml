@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Facial Action Unit Recognition | USTC-AC</title>
-    <link>http://localhost:1313/tag/facial-action-unit-recognition/</link>
-      <atom:link href="http://localhost:1313/tag/facial-action-unit-recognition/index.xml" rel="self" type="application/rss+xml" />
-    <description>Facial Action Unit Recognition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 09:53:00 +0000</lastBuildDate>
+    <title>Facial action unit recognition | USTC-AC</title>
+    <link>https://ustc-ac.github.io/tag/facial-action-unit-recognition/</link>
+      <atom:link href="https://ustc-ac.github.io/tag/facial-action-unit-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Facial action unit recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
-      <title>Facial Action Unit Recognition</title>
-      <link>http://localhost:1313/tag/facial-action-unit-recognition/</link>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
+      <title>Facial action unit recognition</title>
+      <link>https://ustc-ac.github.io/tag/facial-action-unit-recognition/</link>
     </image>
     
     <item>
       <title>Facial Action Unit Recognition Guided by Labeling Rules</title>
-      <link>http://localhost:1313/publication/manual-tac25-zhang/</link>
-      <pubDate>Tue, 11 Mar 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac25-zhang/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-tac25-zhang/</link>
+      <pubDate>Tue, 11 Mar 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac25-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facial Action Unit Recognition Enhanced by Text Descriptions of FACS</title>
-      <link>http://localhost:1313/publication/manual-tac24-chang/</link>
-      <pubDate>Mon, 30 Sep 2024 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-tac24-chang/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-tac24-chang/</link>
+      <pubDate>Mon, 30 Sep 2024 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-tac24-chang/</guid>
       <description></description>
     </item>
     

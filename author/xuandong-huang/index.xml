@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuandong Huang | USTC-AC</title>
-    <link>http://localhost:1313/author/xuandong-huang/</link>
-      <atom:link href="http://localhost:1313/author/xuandong-huang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-ac.github.io/author/xuandong-huang/</link>
+      <atom:link href="https://ustc-ac.github.io/author/xuandong-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuandong Huang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 09:53:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 17:53:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ustc-ac.github.io/author/xuandong-huang/avatar_hu886d59f95d254c05cf60b58d88b26624_91028_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xuandong Huang</title>
-      <link>http://localhost:1313/author/xuandong-huang/</link>
+      <link>https://ustc-ac.github.io/author/xuandong-huang/</link>
     </image>
     
     <item>
       <title>EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos</title>
-      <link>http://localhost:1313/publication/manual-mm25-huang/</link>
-      <pubDate>Fri, 11 Jul 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm25-huang/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-mm25-huang/</link>
+      <pubDate>Fri, 11 Jul 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm25-huang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two papers are accepted by ACM International Conference on Multimedia</title>
-      <link>http://localhost:1313/post/2025-mm-two/</link>
-      <pubDate>Fri, 11 Jul 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-mm-two/</guid>
-      <description>&lt;p&gt;“EmIT: Emotional Interaction control in Text-to-image diffusion models” by &lt;a href=&#34;../../author/haofan-zhang/&#34;&gt;Haofan Zhang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
-&lt;p&gt;“EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos” by &lt;a href=&#34;../../author/xuandong-huang/&#34;&gt;Xuandong Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+      <link>https://ustc-ac.github.io/post/2025-mm-two/</link>
+      <pubDate>Fri, 11 Jul 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2025-mm-two/</guid>
+      <description>&lt;p&gt;“EmIT: Emotional Interaction control in Text-to-image diffusion models” by &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Haofan Zhang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+&lt;p&gt;“EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos” by &lt;a href=&#34;../author/xuandong-huang/&#34;&gt;Xuandong Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
 
 
 
@@ -43,23 +43,30 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_a8fc6ebcabdc5661a44aa1f11c8dc75e.png 400w,
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_e6cd79ce6f2286ea297e5d921963a0fa.png 760w,
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_a8fc6ebcabdc5661a44aa1f11c8dc75e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation</title>
-      <link>http://localhost:1313/publication/manual-coling24-wu/</link>
-      <pubDate>Sat, 18 Jan 2025 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-coling24-wu/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-coling24-wu/</link>
+      <pubDate>Sat, 18 Jan 2025 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-coling24-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal Enhancement for Video Affective Content Analysis</title>
-      <link>http://localhost:1313/publication/manual-mm24-li/</link>
-      <pubDate>Thu, 25 Jul 2024 09:53:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/manual-mm24-li/</guid>
+      <link>https://ustc-ac.github.io/publication/manual-mm24-li/</link>
+      <pubDate>Thu, 25 Jul 2024 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm24-li/</guid>
       <description></description>
     </item>
     

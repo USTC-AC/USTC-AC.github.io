@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="My research group description." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication-type/1/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/publication-type/1/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -280,10 +319,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication-type/1/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/publication-type/1/" />
 
   
   
@@ -300,13 +339,13 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/publication-type/1/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/publication-type/1/" />
   <meta property="og:title" content="1 | USTC-AC" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2026-02-25T09:53:00&#43;00:00" />
+      <meta property="og:updated_time" content="2026-02-25T17:53:00&#43;08:00" />
     
   
 
@@ -337,7 +376,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -633,36 +672,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -747,6 +756,144 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="col-12 col-md-9">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/dblp-confmm-xu-ww-20/" >Exploiting Multi-Emotion Relations at Feature and Label Levels for Emotion Tagging</a>
+    </div>
+
+    
+    <a href="/publication/dblp-confmm-xu-ww-20/"  class="summary-link">
+      <div class="article-style">
+        To address the shortcomings in emotion tagging, we consider applying emotion relationship patterns at both feature and label levels. We propose a novel emotion tagging framework, that makes full use of the emotion relationship patterns in local and global distribution.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/zhiwei-xu/">Zhiwei Xu</a></span>, <span >
+      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
+      <a href="/author/can-wang/">Can Wang</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413506" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dblp-confmm-xu-ww-20/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3394171.3413506" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="col-12 col-md-3">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_f5a9dd2198c840aadbfaa76945d277a6.jpg" srcset="/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_90ca1dac7dcf75569db8b4362e78e627.jpg 1200w,/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_4ac60dec3ee94c314dcf4d94f000cf00.jpg 800w,/publication/dblp-confmm-xu-ww-20/featured_hu3761510e6e147991b8afa8272c353f87_120835_f5a9dd2198c840aadbfaa76945d277a6.jpg 400w" width="450" height="180" alt="Exploiting Multi-Emotion Relations at Feature and Label Levels for Emotion Tagging">
+
+    
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1292,7 +1439,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
         
         
 
-        <img src="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_9e551947ef3bcdca637c2bb5c050fcbf.png" srcset="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_862d72f0490051bb43a6663b92f8dd73.png 1200w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_f86ba04a087b624366df91a22ed0c753.png 800w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_9e551947ef3bcdca637c2bb5c050fcbf.png 400w" width="450" height="213" alt="Unpaired Multimodal Facial Expression Recognition">
+        <img src="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png" srcset="/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_a39564637022377c83e969e575e99bb8.png 1200w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_b7fc191ae1ef2552008b2f5986e816f2.png 800w,/publication/dblp-confaccv-0012-w-20/featured_hu3699aaa94be3003441bff909318fbaba_230095_e679cad89e919d0cc8cf1941fc0e1714.png 400w" width="450" height="213" alt="Unpaired Multimodal Facial Expression Recognition">
 
     
     
@@ -1845,7 +1992,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
         
         
 
-        <img src="/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1aa0903c7926b51abb2e357eb4a283a7.PNG" srcset="/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_169ca3d33492725134ceb088215de3d6.PNG 1200w,/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_6d7d94f873330971c33927e75c9f8df4.PNG 800w,/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_1aa0903c7926b51abb2e357eb4a283a7.PNG 400w" width="450" height="281" alt="Image Aesthetic Assessment Assisted by Attributes through Adversarial Learning">
+        <img src="/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_6b08c62b547148653aae1398c4cd3f62.PNG" srcset="/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_125d74e3e0da0be8a910d6e627f105aa.PNG 1200w,/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_d6e77b3fa5a6717bfd0be6f8273b4361.PNG 800w,/publication/dblp-confaaai-pan-wj-19/featured_hu2a714477b00e9d9445d21b555b800bff_206782_6b08c62b547148653aae1398c4cd3f62.PNG 400w" width="450" height="281" alt="Image Aesthetic Assessment Assisted by Attributes through Adversarial Learning">
 
     
     
@@ -1988,112 +2135,6 @@ To address this, we propose an unpaired adversarial facial expression recognitio
 
         <img src="/publication/dblp-conffgr-yin-fwwdw-19/featured_hu2c69917c91855ca124047f9f7218696c_145547_73b16d004db21e231b2d143ae054666b.jpg" srcset="/publication/dblp-conffgr-yin-fwwdw-19/featured_hu2c69917c91855ca124047f9f7218696c_145547_8f86281a72809879b36ac3dfd090be20.jpg 1200w,/publication/dblp-conffgr-yin-fwwdw-19/featured_hu2c69917c91855ca124047f9f7218696c_145547_6c81e6c620ad74ab22f9bf8e33a2d5e3.jpg 800w,/publication/dblp-conffgr-yin-fwwdw-19/featured_hu2c69917c91855ca124047f9f7218696c_145547_73b16d004db21e231b2d143ae054666b.jpg 400w" width="450" height="257" alt="Integrating Facial Images, Speeches and Time for Empathy Prediction">
 
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="col-12 col-md-9">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/dblp-confijcnn-yin-zlwjcw-19/" >KDSL: a Knowledge-Driven Supervised Learning Framework for Word Sense Disambiguation</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/shi-yin/">Shi Yin</a></span>, <span >
-      <a href="/author/yi-zhou/">Yi Zhou</a></span>, <span >
-      <a href="/author/chenguang-li/">Chenguang Li</a></span>, <span >
-      <a href="/author/shangfei-wang/">Shangfei Wang</a></span>, <span >
-      <a href="/author/jianmin-ji/">Jianmin Ji</a></span>, <span >
-      <a href="/author/xiaoping-chen/">Xiaoping Chen</a></span>, <span >
-      <a href="/author/ruili-wang/">Ruili Wang</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/IJCNN.2019.8851718" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/dblp-confijcnn-yin-zlwjcw-19/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/IJCNN.2019.8851718" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="col-12 col-md-3">
-    
     
     
   </div>
@@ -2255,7 +2296,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -2280,7 +2321,7 @@ To address this, we propose an unpaired adversarial facial expression recognitio
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

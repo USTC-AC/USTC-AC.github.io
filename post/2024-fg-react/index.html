@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -39,7 +39,7 @@
 If you are interested in this project, please visit PDF" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/2024-fg-react/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/post/2024-fg-react/" />
 
   
 
@@ -254,10 +254,49 @@ If you are interested in this project, please visit PDF" />
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -279,10 +318,10 @@ If you are interested in this project, please visit PDF" />
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/post/2024-fg-react/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/post/2024-fg-react/" />
 
   
   
@@ -298,11 +337,11 @@ If you are interested in this project, please visit PDF" />
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/post/2024-fg-react/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/post/2024-fg-react/" />
   <meta property="og:title" content="We have gotten the Second price of REACT2024 | USTC-AC" />
   <meta property="og:description" content="Zhenjie Liu, Cong Liang, Jiahe Wang, Haofan Zhang, Yadong Liu, Caichao Zhang, Jialin Gui participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.
-If you are interested in this project, please visit PDF" /><meta property="og:image" content="http://localhost:1313/post/2024-fg-react/featured.png" />
-    <meta property="twitter:image" content="http://localhost:1313/post/2024-fg-react/featured.png" /><meta property="og:locale" content="en-us" />
+If you are interested in this project, please visit PDF" /><meta property="og:image" content="https://ustc-ac.github.io/post/2024-fg-react/featured.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/post/2024-fg-react/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -334,12 +373,12 @@ If you are interested in this project, please visit PDF" /><meta property="og:im
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/2024-fg-react/"
+    "@id": "https://ustc-ac.github.io/post/2024-fg-react/"
   },
   "headline": "We have gotten the Second price of REACT2024",
   
   "image": [
-    "http://localhost:1313/post/2024-fg-react/featured.png"
+    "https://ustc-ac.github.io/post/2024-fg-react/featured.png"
   ],
   
   "datePublished": "2024-06-23T15:33:52Z",
@@ -355,7 +394,7 @@ If you are interested in this project, please visit PDF" /><meta property="og:im
     "name": "USTC-AC",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_3.png"
+      "url": "https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "\u003cp\u003e\u003ca href=\"https://ustc-ac.github.io/author/zhenjie-liu/\" target=\"_blank\" rel=\"noopener\"\u003eZhenjie Liu\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/cong-liang/\" target=\"_blank\" rel=\"noopener\"\u003eCong Liang\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/jiahe-wang/\" target=\"_blank\" rel=\"noopener\"\u003eJiahe Wang\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/haofan-zhang/\" target=\"_blank\" rel=\"noopener\"\u003eHaofan Zhang\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/yadong-liu/\" target=\"_blank\" rel=\"noopener\"\u003eYadong Liu\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/caichao-zhang/\" target=\"_blank\" rel=\"noopener\"\u003eCaichao Zhang\u003c/a\u003e, \u003ca href=\"https://ustc-ac.github.io/author/jialin-gui/\" target=\"_blank\" rel=\"noopener\"\u003eJialin Gui\u003c/a\u003e participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.\u003c/p\u003e\n\u003cp\u003eIf you are interested in this project, please visit \u003ca href=\"https://brosdocs.net/fg2024/CT09.pdf\" target=\"_blank\" rel=\"noopener\"\u003ePDF\u003c/a\u003e\u003c/p\u003e"
@@ -389,7 +428,7 @@ If you are interested in this project, please visit PDF" /><meta property="og:im
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -685,36 +724,6 @@ If you are interested in this project, please visit PDF" /><meta property="og:im
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -888,10 +897,10 @@ If you are interested in this project, please visit PDF" /><meta property="og:im
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="" srcset="
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png 400w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_5268892867024cd1e4512f6c97f506eb.png 760w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_3.png 1200w"
-               src="/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png"
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png 400w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_8c4e5f8f545e39d7c42c2e97d625ad11.png 760w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_2.png 1200w"
+               src="/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png"
                width="760"
                height="533"
                loading="lazy" data-zoomable /></div>
@@ -917,7 +926,7 @@ W</p>
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/2024-fg-react/&amp;text=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ustc-ac.github.io/post/2024-fg-react/&amp;text=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -930,7 +939,7 @@ W</p>
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/2024-fg-react/&amp;t=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ustc-ac.github.io/post/2024-fg-react/&amp;t=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -943,7 +952,7 @@ W</p>
       
       
       <li>
-        <a href="mailto:?subject=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024&amp;body=http://localhost:1313/post/2024-fg-react/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024&amp;body=https://ustc-ac.github.io/post/2024-fg-react/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -956,7 +965,7 @@ W</p>
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/2024-fg-react/&amp;title=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ustc-ac.github.io/post/2024-fg-react/&amp;title=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -969,7 +978,7 @@ W</p>
       
       
       <li>
-        <a href="whatsapp://send?text=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024%20http://localhost:1313/post/2024-fg-react/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024%20https://ustc-ac.github.io/post/2024-fg-react/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -982,7 +991,7 @@ W</p>
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/2024-fg-react/&amp;title=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ustc-ac.github.io/post/2024-fg-react/&amp;title=We%20have%20gotten%20the%20Second%20price%20of%20REACT2024" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1533,7 +1542,7 @@ W</p>
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1558,7 +1567,7 @@ W</p>
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 

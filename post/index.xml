@@ -2,104 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | USTC-AC</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-ac.github.io/post/</link>
+      <atom:link href="https://ustc-ac.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 09:25:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 17:25:52 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
       <title>Latest News</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://ustc-ac.github.io/post/</link>
     </image>
     
     <item>
       <title>We have won the First Prize of AdoDAS Challenge @ ACM MM 2026</title>
-      <link>http://localhost:1313/post/award-2026-adodas/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/award-2026-adodas/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;../../author/binyan-chen/&#34;&gt;Binyan Chen&lt;/a&gt;, &lt;a href=&#34;../../author/tong-pan/&#34;&gt;Tong Pan&lt;/a&gt;, and &lt;a href=&#34;../../author/xin-yun/&#34;&gt;Xin Yun&lt;/a&gt; participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by &lt;a href=&#34;../../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png 400w,
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_2ee5d68da15a05755fec1a13eec2dddd.png 760w,
-               /post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/post_hu63d1ba7ce209f89081e2903b8f81a50d_289144_8d46207401fe306be7fc520a901ea20f.png&#34;
-               width=&#34;760&#34;
-               height=&#34;270&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png 400w,
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_4e89a7df085b231b59ac5f811a0e1f43.png 760w,
-               /post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/featured_huf41b84985bf453a26614cc52082d0d0f_434149_93856ae0d7f44eb42e94d2101bc82aaa.png&#34;
-               width=&#34;503&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png 400w,
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9a665b57ce25f20a4501fed24d790d89.png 760w,
-               /post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2026-adodas/featured2_hufd40b41381ba664efcfd908666e3078d_418464_9dea3dc17b115fbd3f6328d6040a40ac.png&#34;
-               width=&#34;512&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;</description>
+      <link>https://ustc-ac.github.io/post/award-2026-adodas/</link>
+      <pubDate>Sat, 27 Jun 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/award-2026-adodas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;../author/binyan-chen/&#34;&gt;Binyan Chen&lt;/a&gt;, &lt;a href=&#34;../author/tong-pan/&#34;&gt;Tong Pan&lt;/a&gt;, and &lt;a href=&#34;../author/xin-yun/&#34;&gt;Xin Yun&lt;/a&gt; participated in the AdoDAS Challenge @ ACM MM 2026 and won the First Prize in Track A1, ranking 2 out of 95 eligible teams. The team was advised by &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Prof. Shangfei Wang delivered an invited talk at the First International Symposium on Intelligent Well-being</title>
-      <link>http://localhost:1313/post/talk-2026-smart-wellbeing/</link>
-      <pubDate>Tue, 16 Jun 2026 10:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2026-smart-wellbeing/</guid>
+      <link>https://ustc-ac.github.io/post/talk-2026-smart-wellbeing/</link>
+      <pubDate>Tue, 16 Jun 2026 18:10:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/talk-2026-smart-wellbeing/</guid>
       <description>&lt;p&gt;Prof. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; delivered an invited talk titled &lt;em&gt;Multimodal Emotional Support&lt;/em&gt; at the First International Symposium on Intelligent Well-being, held from June 15 to 17, 2026 in Hefei, China.&lt;/p&gt;
 
 
@@ -121,7 +49,7 @@
                /post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_ca01544658c0eacf66a49eab3c3d4579.jpg 400w,
                /post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_cab5ed9f5aaf2081f4626d99b5319bcb.jpg 760w,
                /post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_ca01544658c0eacf66a49eab3c3d4579.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_ca01544658c0eacf66a49eab3c3d4579.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -130,10 +58,10 @@
     
     <item>
       <title>One of our work is accepted by CVPR2026 !</title>
-      <link>http://localhost:1313/post/2026-cvpr-one/</link>
-      <pubDate>Wed, 25 Feb 2026 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2026-cvpr-one/</guid>
-      <description>&lt;p&gt;“SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation” by &lt;a href=&#34;../../author/jiale-huang/&#34;&gt;Jiale Huang&lt;/a&gt;, has been accepted for publication in a future issue of CVPR2026.&lt;/p&gt;
+      <link>https://ustc-ac.github.io/post/2026-cvpr-one/</link>
+      <pubDate>Wed, 25 Feb 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2026-cvpr-one/</guid>
+      <description>&lt;p&gt;“SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation” by &lt;a href=&#34;../author/jiale-huang/&#34;&gt;Jiale Huang&lt;/a&gt;, has been accepted for publication in a future issue of CVPR2026.&lt;/p&gt;
 
 
 
@@ -151,10 +79,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69a0b2cf7f49df310f9b5ce14b771458.png 400w,
-               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_adcdc7bae08d69842d8e5be1cfa21e6e.png 760w,
-               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_69a0b2cf7f49df310f9b5ce14b771458.png&#34;
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_4deaaa778248d46a1c5ed6a22e827aba.png 400w,
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_82acec1a99e413df1113ca9fd0eedcea.png 760w,
+               /post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2026-cvpr-one/featured_hu6dae962e03fb1f466412e11974f73dc7_312867_4deaaa778248d46a1c5ed6a22e827aba.png&#34;
                width=&#34;517&#34;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -163,12 +91,12 @@
     
     <item>
       <title>Three papers are accepted by the Fortieth AAAI Conference on Artificial Intelligence</title>
-      <link>http://localhost:1313/post/2025-aaai-three/</link>
-      <pubDate>Sat, 15 Nov 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-aaai-three/</guid>
-      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
-&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
-&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+      <link>https://ustc-ac.github.io/post/2025-aaai-three/</link>
+      <pubDate>Sat, 15 Nov 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2025-aaai-three/</guid>
+      <description>&lt;p&gt;“Learning Knowledge from Textual Descriptions for 3D Human Pose Estimation” by &lt;a href=&#34;../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search” by &lt;a href=&#34;../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;“FINE: Factorized Multimodal Sentiment Analysis via Mutual INformation Estimation” by &lt;a href=&#34;../author/yadong-liu/&#34;&gt;Yadong Liu&lt;/a&gt;, has been accepted for publication in a future issue of AAAI Conference on Artificial Intelligence.&lt;/p&gt;
 
 
 
@@ -186,10 +114,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png 400w,
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_4f74e2568c94e7e0cf126ba9373eeca6.png 760w,
-               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_345bcb817997b2790a4a9b3e81aebadf.png&#34;
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_f353a110b3a18243f991c95b2683ce96.png 400w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_db1fd92105882ffdd3194a7ecff6d4e9.png 760w,
+               /post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2025-aaai-three/featured_hu8d7b1ea264233852247b6cb3c98827d8_46863_f353a110b3a18243f991c95b2683ce96.png&#34;
                width=&#34;760&#34;
                height=&#34;211&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -198,9 +126,9 @@
     
     <item>
       <title>Incoming Talk in The 8th Chinese Conference on Pattern Recognition and Computer Vision</title>
-      <link>http://localhost:1313/post/talk-2025-prcv/</link>
-      <pubDate>Thu, 16 Oct 2025 15:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2025-prcv/</guid>
+      <link>https://ustc-ac.github.io/post/talk-2025-prcv/</link>
+      <pubDate>Thu, 16 Oct 2025 23:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/talk-2025-prcv/</guid>
       <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in 8th Chinese Conference on Pattern Recognition and Computer Vision.&lt;/p&gt;
 
 
@@ -219,10 +147,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_866b349a5d49713b681bb6c165937a35.png 400w,
-               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_17b72ae8ff9398f337095ab41c13205f.png 760w,
-               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_866b349a5d49713b681bb6c165937a35.png&#34;
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_8ee5057dd8c220568a5a293f90d7516b.png 400w,
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_9274f59117291c6aa505600e7375069c.png 760w,
+               /post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2025-prcv/post1_hu7c916fc1f050bb0f1c6a331a7b053c32_774568_8ee5057dd8c220568a5a293f90d7516b.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -231,9 +159,9 @@
     
     <item>
       <title>Incoming Talk in The 6th Yangtze River Delta Psychiatry Development Forum</title>
-      <link>http://localhost:1313/post/talk-2025-medical/</link>
-      <pubDate>Sat, 12 Jul 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2025-medical/</guid>
+      <link>https://ustc-ac.github.io/post/talk-2025-medical/</link>
+      <pubDate>Sat, 12 Jul 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/talk-2025-medical/</guid>
       <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Multimodal Mental Health Support Research&lt;/em&gt; in 6th Yangtze River Delta Psychiatry Development Forum​.&lt;/p&gt;
 
 
@@ -255,7 +183,7 @@
                /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg 400w,
                /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_b7ba842d6f5a189629cd3ff6d55acda2.jpg 760w,
                /post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2025-medical/post1_hue074dcc392324f6a9c090090cb58b5cd_491338_30655198e6536017db00afca15e141c5.jpg&#34;
                width=&#34;538&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -264,11 +192,11 @@
     
     <item>
       <title>Two papers are accepted by ACM International Conference on Multimedia</title>
-      <link>http://localhost:1313/post/2025-mm-two/</link>
-      <pubDate>Fri, 11 Jul 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-mm-two/</guid>
-      <description>&lt;p&gt;“EmIT: Emotional Interaction control in Text-to-image diffusion models” by &lt;a href=&#34;../../author/haofan-zhang/&#34;&gt;Haofan Zhang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
-&lt;p&gt;“EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos” by &lt;a href=&#34;../../author/xuandong-huang/&#34;&gt;Xuandong Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+      <link>https://ustc-ac.github.io/post/2025-mm-two/</link>
+      <pubDate>Fri, 11 Jul 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2025-mm-two/</guid>
+      <description>&lt;p&gt;“EmIT: Emotional Interaction control in Text-to-image diffusion models” by &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Haofan Zhang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
+&lt;p&gt;“EmoDETective: Detecting, Exploring, and Thinking Emotional Causes in Videos” by &lt;a href=&#34;../author/xuandong-huang/&#34;&gt;Xuandong Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM International Conference on Multimedia.&lt;/p&gt;
 
 
 
@@ -285,15 +213,22 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_a8fc6ebcabdc5661a44aa1f11c8dc75e.png 400w,
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_e6cd79ce6f2286ea297e5d921963a0fa.png 760w,
+               /post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2025-mm-two/featured_hu35f6bd7316d067e74019101945d02032_139719_a8fc6ebcabdc5661a44aa1f11c8dc75e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>Incoming Talk in The 7th Jianghuai Information Technology Development Forum​​ Embodied Intelligence Sub-Forum</title>
-      <link>http://localhost:1313/post/talk-2025-ccf/</link>
-      <pubDate>Sat, 24 May 2025 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2025-ccf/</guid>
+      <link>https://ustc-ac.github.io/post/talk-2025-ccf/</link>
+      <pubDate>Sat, 24 May 2025 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/talk-2025-ccf/</guid>
       <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Emotional Interactive Robot&lt;/em&gt; in The 7th Jianghuai Information Technology Development Forum Embodied Intelligence Sub-Forum.&lt;/p&gt;
 
 
@@ -312,10 +247,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png 400w,
-               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_8b79179ad82ee90b335fc8c5ee939048.png 760w,
-               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_a2154ce8038bf2ce088da5249beb7667.png&#34;
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_c52da0a5f9c1d2b9adebb49cfdd372be.png 400w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_dd64238ac0c7a03cb1c48c275adc01c4.png 760w,
+               /post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2025-ccf/post1_hub00f4c785fb63071d2f502c6334299ab_574658_c52da0a5f9c1d2b9adebb49cfdd372be.png&#34;
                width=&#34;760&#34;
                height=&#34;432&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -324,9 +259,9 @@
     
     <item>
       <title>We have gotten the Second price of REACT2024</title>
-      <link>http://localhost:1313/post/2024-fg-react/</link>
+      <link>https://ustc-ac.github.io/post/2024-fg-react/</link>
       <pubDate>Sun, 23 Jun 2024 15:33:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-fg-react/</guid>
+      <guid>https://ustc-ac.github.io/post/2024-fg-react/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ustc-ac.github.io/author/zhenjie-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhenjie Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/cong-liang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cong Liang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jiahe-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiahe Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/haofan-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haofan Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/yadong-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yadong Liu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/caichao-zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caichao Zhang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/jialin-gui/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jialin Gui&lt;/a&gt; participated in the REACT2024 competition (Challenge@IEEE FG 2024) and won the second place.&lt;/p&gt;
 &lt;p&gt;If you are interested in this project, please visit &lt;a href=&#34;https://brosdocs.net/fg2024/CT09.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -346,10 +281,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png 400w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_5268892867024cd1e4512f6c97f506eb.png 760w,
-               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_ffa22c4d3b3bd0bb3ffffef1db037177.png&#34;
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png 400w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_8c4e5f8f545e39d7c42c2e97d625ad11.png 760w,
+               /post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-fg-react/React%20Second%20Place_hue2811aa2f1532d00d6dc11cf67fc8a29_22581616_9b6ff3b983d5e1e4b25d1161c9b41d8d.png&#34;
                width=&#34;760&#34;
                height=&#34;533&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -359,9 +294,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Incoming Talk in The 36th CSIG young elite Qingyun Forum</title>
-      <link>http://localhost:1313/post/talk-2024-csig/</link>
+      <link>https://ustc-ac.github.io/post/talk-2024-csig/</link>
       <pubDate>Wed, 01 May 2024 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2024-csig/</guid>
+      <guid>https://ustc-ac.github.io/post/talk-2024-csig/</guid>
       <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Visual Sentiment Content Analysis Aided by Content Description&lt;/em&gt; in The 36th CSIG young elite Qingyun Forum.&lt;/p&gt;
 
 
@@ -383,7 +318,7 @@ W&lt;/p&gt;</description>
                /post/talk-2024-csig/post1_hua71271ad9834a50dc959b155d82c164e_263735_4620bc4d71b0d3a63ebc1d1b6097af00.jpg 400w,
                /post/talk-2024-csig/post1_hua71271ad9834a50dc959b155d82c164e_263735_e38eb344d94f249b537055105ab04183.jpg 760w,
                /post/talk-2024-csig/post1_hua71271ad9834a50dc959b155d82c164e_263735_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2024-csig/post1_hua71271ad9834a50dc959b155d82c164e_263735_4620bc4d71b0d3a63ebc1d1b6097af00.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2024-csig/post1_hua71271ad9834a50dc959b155d82c164e_263735_4620bc4d71b0d3a63ebc1d1b6097af00.jpg&#34;
                width=&#34;760&#34;
                height=&#34;431&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,9 +327,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
-      <link>http://localhost:1313/post/2024-tac-lu/</link>
+      <link>https://ustc-ac.github.io/post/2024-tac-lu/</link>
       <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-tac-lu/</guid>
+      <guid>https://ustc-ac.github.io/post/2024-tac-lu/</guid>
       <description>&lt;p&gt;“A Multi-Stage Visual Perception Approach for Image Emotion Analysis” by &lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt;, has been accepted for publication in a future issue of IEEE Transactions on Affective Computing journal.&lt;/p&gt;
 
 
@@ -416,7 +351,7 @@ W&lt;/p&gt;</description>
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg 400w,
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_b71ee3bda8c3aff307133170f76b263f.jpg 760w,
                /post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-tac-lu/featured_hu98d758a2529daf8efcf08f5a32103983_22384_81c116aba92ac9d231c73330d9c8ae64.jpg&#34;
                width=&#34;760&#34;
                height=&#34;108&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,9 +360,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by Pattern Recognition</title>
-      <link>http://localhost:1313/post/2024-pr-chang/</link>
+      <link>https://ustc-ac.github.io/post/2024-pr-chang/</link>
       <pubDate>Wed, 27 Mar 2024 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-pr-chang/</guid>
+      <guid>https://ustc-ac.github.io/post/2024-pr-chang/</guid>
       <description>&lt;p&gt;“Pose-robust personalized facial expression recognition through unsupervised multi-source domain adaptation” by &lt;a href=&#34;../author/yanan-chang/&#34;&gt;Yanan Chang&lt;/a&gt;, has been accepted for publication of Pattern Recognition journal.&lt;/p&gt;
 
 
@@ -449,7 +384,7 @@ W&lt;/p&gt;</description>
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg 400w,
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_b199ae5268861479b01ed4f6b1942e81.jpg 760w,
                /post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2024-pr-chang/featured_hue57ae8beb82e367d059005482036bb09_26459_c6fcda3315f3a90220b0fc829ac97c20.jpg&#34;
                width=&#34;677&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -458,9 +393,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One student from our group was awarded Outstanding Master&#39;s Thesis Award</title>
-      <link>http://localhost:1313/post/award-2023-panjicai/</link>
+      <link>https://ustc-ac.github.io/post/award-2023-panjicai/</link>
       <pubDate>Sun, 10 Dec 2023 10:26:05 +0000</pubDate>
-      <guid>http://localhost:1313/post/award-2023-panjicai/</guid>
+      <guid>https://ustc-ac.github.io/post/award-2023-panjicai/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/jicai-pan/&#34;&gt;Jicai Pan&lt;/a&gt; was awarded the 2023 Anhui Computer Society Outstanding Master&amp;rsquo;s Thesis Award.&lt;/p&gt;
 &lt;p&gt;
 
@@ -482,7 +417,7 @@ W&lt;/p&gt;</description>
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg 400w,
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1a096c0419713ba7ecdf52793a903956.jpg 760w,
                /post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/award-2023-panjicai/featured_hu605b07ccb20d836221f8582ae9e78ad6_539913_328da4cb6276c4b9076d97f68b400998.jpg&#34;
                width=&#34;760&#34;
                height=&#34;541&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -504,10 +439,10 @@ W&lt;/p&gt;</description>
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_81ad5d10b0ab30aa1b0cdfc2bdd39ee3.png 400w,
-               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_01f7475be8fb4bae962c3c9badeb69fc.png 760w,
-               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_81ad5d10b0ab30aa1b0cdfc2bdd39ee3.png&#34;
+               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_3906f64acca2a19f637d9fcedc3af328.png 400w,
+               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_39c953eb4ceceb1b65700c4acda0d517.png 760w,
+               /post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/award-2023-panjicai/featured2_hue6e91d7d8c82d57ad2a0b2a4309462ba_115184_3906f64acca2a19f637d9fcedc3af328.png&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -516,9 +451,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Incoming Talk in The 2023 CSIG Conference on Emotional Intelligence</title>
-      <link>http://localhost:1313/post/talk-2023-csig/</link>
+      <link>https://ustc-ac.github.io/post/talk-2023-csig/</link>
       <pubDate>Sun, 26 Nov 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2023-csig/</guid>
+      <guid>https://ustc-ac.github.io/post/talk-2023-csig/</guid>
       <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will deliver a talk name &lt;em&gt;Visual Sentiment Content Analysis Aided by Content Description&lt;/em&gt; in &lt;a href=&#34;https://www.cei2023.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023 CSIG&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
@@ -540,7 +475,7 @@ W&lt;/p&gt;</description>
                /post/talk-2023-csig/poster_hud7ec24b922440a90ed09acd78c0c7a8a_22503_d1b763ede37b54d80986f4f99b1bc648.jpg 400w,
                /post/talk-2023-csig/poster_hud7ec24b922440a90ed09acd78c0c7a8a_22503_6c5d49116db98f8c21cf89b8ba202967.jpg 760w,
                /post/talk-2023-csig/poster_hud7ec24b922440a90ed09acd78c0c7a8a_22503_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2023-csig/poster_hud7ec24b922440a90ed09acd78c0c7a8a_22503_d1b763ede37b54d80986f4f99b1bc648.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2023-csig/poster_hud7ec24b922440a90ed09acd78c0c7a8a_22503_d1b763ede37b54d80986f4f99b1bc648.jpg&#34;
                width=&#34;674&#34;
                height=&#34;266&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -565,7 +500,7 @@ W&lt;/p&gt;</description>
                /post/talk-2023-csig/poster1_hu5eccd0190de03c604c0d89cf6221dc55_793042_af75da42ffe5defa465f31a95bf70a28.jpg 400w,
                /post/talk-2023-csig/poster1_hu5eccd0190de03c604c0d89cf6221dc55_793042_489216bf4c7d4170a5aabf78da1e49e5.jpg 760w,
                /post/talk-2023-csig/poster1_hu5eccd0190de03c604c0d89cf6221dc55_793042_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2023-csig/poster1_hu5eccd0190de03c604c0d89cf6221dc55_793042_af75da42ffe5defa465f31a95bf70a28.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2023-csig/poster1_hu5eccd0190de03c604c0d89cf6221dc55_793042_af75da42ffe5defa465f31a95bf70a28.jpg&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -573,10 +508,43 @@ W&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Incoming Talk in Guangdong Rehabilitation Medicine Clinical Research Centre&#39;s Symposium</title>
+      <link>https://ustc-ac.github.io/post/talk-2023-guang/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/talk-2023-guang/</guid>
+      <description>&lt;p&gt;Pro. &lt;a href=&#34;../author/shangfei-wang/&#34;&gt;Shangfei Wang&lt;/a&gt; will give a talk on &lt;em&gt;Expression Recognition&lt;/em&gt; at the Guangdong Rehabilitation Medicine Clinical Research Centre’s Symposium on Clinical Application of Intelligent Rehabilitation Aids.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/talk-2023-guang/poster_hu0de3debe6e31f3c007365d6b947566eb_390261_0f34a1bc873d3be4cfd8700dc9561fea.jpg 400w,
+               /post/talk-2023-guang/poster_hu0de3debe6e31f3c007365d6b947566eb_390261_2c638426807ab80e2cad4d43fec921d5.jpg 760w,
+               /post/talk-2023-guang/poster_hu0de3debe6e31f3c007365d6b947566eb_390261_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2023-guang/poster_hu0de3debe6e31f3c007365d6b947566eb_390261_0f34a1bc873d3be4cfd8700dc9561fea.jpg&#34;
+               width=&#34;304&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
       <title>One student from our group was awarded Doctoral Dissertation Award</title>
-      <link>http://localhost:1313/post/award-2023-yinshi/</link>
+      <link>https://ustc-ac.github.io/post/award-2023-yinshi/</link>
       <pubDate>Sun, 30 Jul 2023 10:26:05 +0000</pubDate>
-      <guid>http://localhost:1313/post/award-2023-yinshi/</guid>
+      <guid>https://ustc-ac.github.io/post/award-2023-yinshi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/yin-shi/&#34;&gt;Shi Yin&lt;/a&gt; was awarded the 2022 ACM CHINA COUNCIL HEFEI CHAPTER DOCTORAL DISSERTATION AWARD.&lt;/p&gt;
 
 
@@ -598,7 +566,7 @@ W&lt;/p&gt;</description>
                /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_ff7d47b138cc390664c2e2d03d35c269.jpg 400w,
                /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_b9b2915d9229279fd7270911cde39218.jpg 760w,
                /post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_ff7d47b138cc390664c2e2d03d35c269.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/award-2023-yinshi/yin_hu0c815f353e4a9fcaa5e2dca36bf51048_358300_ff7d47b138cc390664c2e2d03d35c269.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -607,9 +575,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Three papers are accepted by ACMMM2023</title>
-      <link>http://localhost:1313/post/2023-acmmm-threepapers/</link>
+      <link>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</link>
       <pubDate>Tue, 25 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-acmmm-threepapers/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-acmmm-threepapers/</guid>
       <description>&lt;p&gt;Three papers by &lt;a href=&#34;https://ustc-ac.github.io/author/yi-wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi Wu&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/zhouan-zhu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhouan Zhu&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jicai Pan&lt;/a&gt; are accepted by ACMMM2023&lt;/p&gt;
 
 
@@ -628,16 +596,16 @@ W&lt;/p&gt;</description>
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;http://localhost:1313/post/2023-acmmm-threepapers/featured.gif&#34;
+           src=&#34;https://ustc-ac.github.io/post/2023-acmmm-threepapers/featured.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
-      <link>http://localhost:1313/post/2023-tac-wu/</link>
+      <link>https://ustc-ac.github.io/post/2023-tac-wu/</link>
       <pubDate>Sun, 16 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-tac-wu/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-tac-wu/</guid>
       <description>&lt;p&gt;“Pose-Aware Facial Expression Recognition Assisted by Expression Descriptions” by &lt;a href=&#34;../author/yi-wu/&#34;&gt;Yi Wu&lt;/a&gt;, has been accepted for publication in a future issue of IEEE Transactions on Affective Computing journal.&lt;/p&gt;
 
 
@@ -659,7 +627,7 @@ W&lt;/p&gt;</description>
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg 400w,
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_f73d324e32df4956c9477c7b3018ecce.jpg 760w,
                /post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-tac-wu/featured_huf05967657e7a7c84beaa1d9b073d1d52_29203_04c13bf0700e73fd96d7b1ec873729f1.jpg&#34;
                width=&#34;760&#34;
                height=&#34;158&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -668,9 +636,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by ICME2023</title>
-      <link>http://localhost:1313/post/2023-icme-liang/</link>
+      <link>https://ustc-ac.github.io/post/2023-icme-liang/</link>
       <pubDate>Sat, 15 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-icme-liang/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-icme-liang/</guid>
       <description>&lt;p&gt;One paper by &lt;a href=&#34;author/cong-liang/&#34;&gt;Cong Liang&lt;/a&gt; is accepted by ICME23&lt;/p&gt;
 
 
@@ -692,7 +660,7 @@ W&lt;/p&gt;</description>
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg 400w,
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_52998d0cbcc1f271cf16ad73f4ee2576.jpg 760w,
                /post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-icme-liang/featured_hu344999ba05594e9a9414be4923011afa_23178_d3bf62b0fc38f92ee34ba45354202377.jpg&#34;
                width=&#34;760&#34;
                height=&#34;208&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -701,11 +669,11 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>We have gotten the first price of REACT2023</title>
-      <link>http://localhost:1313/post/2023-acmmm-react/</link>
+      <link>https://ustc-ac.github.io/post/2023-acmmm-react/</link>
       <pubDate>Tue, 11 Jul 2023 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-acmmm-react/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-acmmm-react/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;../author/cong-liang/&#34;&gt;Liang Cong&lt;/a&gt;, &lt;a href=&#34;../author/jiahe-wang/&#34;&gt;Wang Jiahe&lt;/a&gt; and &lt;a href=&#34;../author/haofan-zhang/&#34;&gt;Zhang Haofan&lt;/a&gt; participated in the REACT2023 competition (Challenge@ACM-MM23) and won the first place.&lt;/p&gt;
-&lt;p&gt;If you are interested in this project, please visit &amp;ldquo;&lt;a href=&#34;https://github.com/lc150303/REACT23_Challenge%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lc150303/REACT23_Challenge&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested in this project, please visit &amp;ldquo;&lt;a href=&#34;https://github.com/lc150303/REACT23_Challenge%22&#34;&gt;https://github.com/lc150303/REACT23_Challenge&amp;quot;&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -723,10 +691,10 @@ W&lt;/p&gt;</description>
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_69c7911dc53f3be358e232e76e27413b.png 400w,
-               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_aa70236b70b4bf0a138bda4bf599bd16.png 760w,
-               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_69c7911dc53f3be358e232e76e27413b.png&#34;
+               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_7ad527498ccca570bb13207488b6b7bb.png 400w,
+               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_d1b71028cd314841a91a9ed4e27baafa.png 760w,
+               /post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-acmmm-react/React%20First%20Place_hu2ffea36ea9f9e8ff985901e2f4c8b02d_1104629_7ad527498ccca570bb13207488b6b7bb.png&#34;
                width=&#34;760&#34;
                height=&#34;545&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -735,9 +703,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is awarded the FG2023 Best Paper</title>
-      <link>http://localhost:1313/post/2023-fg-best/</link>
+      <link>https://ustc-ac.github.io/post/2023-fg-best/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-fg-best/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-fg-best/</guid>
       <description>&lt;p&gt;Our work &lt;a href=&#34;../publication/manual-fg23-wang&#34;&gt;&lt;em&gt;Low-Resolution Face Recognition Enhanced by High-Resolution Facial Images&lt;/em&gt;&lt;/a&gt; received the FG2023 Best Paper&lt;/p&gt;
 
 
@@ -759,7 +727,7 @@ W&lt;/p&gt;</description>
                /post/2023-fg-best/featured_hua1bf0bdc129d60b4e161755a58ae0725_640903_8109cdff835462a949b630452578997f.jpg 400w,
                /post/2023-fg-best/featured_hua1bf0bdc129d60b4e161755a58ae0725_640903_a51b3fd9bc4645d602082b5062d36fbd.jpg 760w,
                /post/2023-fg-best/featured_hua1bf0bdc129d60b4e161755a58ae0725_640903_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023-fg-best/featured_hua1bf0bdc129d60b4e161755a58ae0725_640903_8109cdff835462a949b630452578997f.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-fg-best/featured_hua1bf0bdc129d60b4e161755a58ae0725_640903_8109cdff835462a949b630452578997f.jpg&#34;
                width=&#34;760&#34;
                height=&#34;424&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -768,17 +736,17 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by ACCV2022</title>
-      <link>http://localhost:1313/post/2022-accv-wang/</link>
+      <link>https://ustc-ac.github.io/post/2022-accv-wang/</link>
       <pubDate>Sun, 02 Oct 2022 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-accv-wang/</guid>
+      <guid>https://ustc-ac.github.io/post/2022-accv-wang/</guid>
       <description>&lt;p&gt;One paper by &lt;a href=&#34;author/jiahe-wang/&#34;&gt;Jiahe Wang&lt;/a&gt; and &lt;a href=&#34;author/heyan-ding/&#34;&gt;Heyan Ding&lt;/a&gt; is accepted by ACCV22&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Two papers are accepted by FG2023</title>
-      <link>http://localhost:1313/post/2023-fg-two/</link>
+      <link>https://ustc-ac.github.io/post/2023-fg-two/</link>
       <pubDate>Sun, 11 Sep 2022 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-fg-two/</guid>
+      <guid>https://ustc-ac.github.io/post/2023-fg-two/</guid>
       <description>&lt;p&gt;Two papers by &lt;a href=&#34;../author/lin-fang/&#34;&gt;Lin Fang&lt;/a&gt; and &lt;a href=&#34;../author/haihan-wang&#34;&gt;Haihan Wang&lt;/a&gt; are accepted FG 2023&lt;/p&gt;
 
 
@@ -800,7 +768,7 @@ W&lt;/p&gt;</description>
                /post/2023-fg-two/featured_hu1ada13ffe5d3ff56922f72f76dc9c526_217126_d12a27a38e19347f6e3b1010f484882c.jpg 400w,
                /post/2023-fg-two/featured_hu1ada13ffe5d3ff56922f72f76dc9c526_217126_dbcb35b5e07f68d9da19c85af88c3b74.jpg 760w,
                /post/2023-fg-two/featured_hu1ada13ffe5d3ff56922f72f76dc9c526_217126_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023-fg-two/featured_hu1ada13ffe5d3ff56922f72f76dc9c526_217126_d12a27a38e19347f6e3b1010f484882c.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2023-fg-two/featured_hu1ada13ffe5d3ff56922f72f76dc9c526_217126_d12a27a38e19347f6e3b1010f484882c.jpg&#34;
                width=&#34;760&#34;
                height=&#34;371&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -809,9 +777,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is awarded the ICPR2022 Track 4 Best Scientific Paper</title>
-      <link>http://localhost:1313/post/2022-icpr-best/</link>
+      <link>https://ustc-ac.github.io/post/2022-icpr-best/</link>
       <pubDate>Sun, 28 Aug 2022 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-icpr-best/</guid>
+      <guid>https://ustc-ac.github.io/post/2022-icpr-best/</guid>
       <description>&lt;p&gt;Our work &lt;a href=&#34;../publication/manual-icpr22-fang&#34;&gt;&lt;em&gt;Adversarial Stacking Ensemble for Facial Landmark Tracking&lt;/em&gt;&lt;/a&gt; received the ICPR2022 Track 4 Best Scientific Paper&lt;/p&gt;
 
 
@@ -833,7 +801,7 @@ W&lt;/p&gt;</description>
                /post/2022-icpr-best/featured_huc064e49a8002d6cf3cc94672b85257f8_167250_104d94e5d5fd0f48b6aa6dc7ae03e669.jpg 400w,
                /post/2022-icpr-best/featured_huc064e49a8002d6cf3cc94672b85257f8_167250_0f471b9602af2ac510ec8496e2b93a51.jpg 760w,
                /post/2022-icpr-best/featured_huc064e49a8002d6cf3cc94672b85257f8_167250_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022-icpr-best/featured_huc064e49a8002d6cf3cc94672b85257f8_167250_104d94e5d5fd0f48b6aa6dc7ae03e669.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2022-icpr-best/featured_huc064e49a8002d6cf3cc94672b85257f8_167250_104d94e5d5fd0f48b6aa6dc7ae03e669.jpg&#34;
                width=&#34;760&#34;
                height=&#34;576&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -842,9 +810,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Incoming Talk in VALSE2022</title>
-      <link>http://localhost:1313/post/talk-2022-valse/</link>
+      <link>https://ustc-ac.github.io/post/talk-2022-valse/</link>
       <pubDate>Sat, 20 Aug 2022 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2022-valse/</guid>
+      <guid>https://ustc-ac.github.io/post/talk-2022-valse/</guid>
       <description>&lt;p&gt;Pro. Shangfei Wang will deliver a talk name &lt;em&gt;Video emotional content analysis&lt;/em&gt; in VALSE2022&lt;/p&gt;
 
 
@@ -866,7 +834,7 @@ W&lt;/p&gt;</description>
                /post/talk-2022-valse/poster_hu7ceaea2b9cebfd0738f846ec211fc9b8_206066_261870414c99a2da2de5f0632c9ad473.jpg 400w,
                /post/talk-2022-valse/poster_hu7ceaea2b9cebfd0738f846ec211fc9b8_206066_a714fe0bbd4e0942775a6daea18159d7.jpg 760w,
                /post/talk-2022-valse/poster_hu7ceaea2b9cebfd0738f846ec211fc9b8_206066_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2022-valse/poster_hu7ceaea2b9cebfd0738f846ec211fc9b8_206066_261870414c99a2da2de5f0632c9ad473.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2022-valse/poster_hu7ceaea2b9cebfd0738f846ec211fc9b8_206066_261870414c99a2da2de5f0632c9ad473.jpg&#34;
                width=&#34;760&#34;
                height=&#34;231&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -875,17 +843,17 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Three papers are accepted by ACMMM2022</title>
-      <link>http://localhost:1313/post/2022-mm-three/</link>
+      <link>https://ustc-ac.github.io/post/2022-mm-three/</link>
       <pubDate>Sun, 10 Jul 2022 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-mm-three/</guid>
+      <guid>https://ustc-ac.github.io/post/2022-mm-three/</guid>
       <description>&lt;p&gt;Three papers by &lt;a href=&#34;https://ustc-ac.github.io/author/haihan-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang&lt;/a&gt;, &lt;a href=&#34;https://ustc-ac.github.io/author/xiangyu-miao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miao&lt;/a&gt;, and &lt;a href=&#34;https://ustc-ac.github.io/author/jicai-pan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan&lt;/a&gt; are accepted by ACMMM2022&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>One paper is accepted by ICPR2022</title>
-      <link>http://localhost:1313/post/2022-icpr-fang/</link>
+      <link>https://ustc-ac.github.io/post/2022-icpr-fang/</link>
       <pubDate>Sat, 02 Apr 2022 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-icpr-fang/</guid>
+      <guid>https://ustc-ac.github.io/post/2022-icpr-fang/</guid>
       <description>&lt;p&gt;Our work &lt;em&gt;Adversarial Stacking Ensemble for Facial Landmark Tracking&lt;/em&gt; (ID 1281) by &lt;a href=&#34;https://ustc-ac.github.io/author/shi-yin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yin&lt;/a&gt; and &lt;a href=&#34;https://ustc-ac.github.io/author/lin-fang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fang&lt;/a&gt; is accepted by ICPR22&lt;/p&gt;
 
 
@@ -907,7 +875,7 @@ W&lt;/p&gt;</description>
                /post/2022-icpr-fang/accepted_hu5ed295fde70f1be183bce161e169ce61_37359_8c65777bf9b29f7d70bfbd9d2c665d86.jpg 400w,
                /post/2022-icpr-fang/accepted_hu5ed295fde70f1be183bce161e169ce61_37359_e03ad01044d7f4533bcbec8670152207.jpg 760w,
                /post/2022-icpr-fang/accepted_hu5ed295fde70f1be183bce161e169ce61_37359_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022-icpr-fang/accepted_hu5ed295fde70f1be183bce161e169ce61_37359_8c65777bf9b29f7d70bfbd9d2c665d86.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2022-icpr-fang/accepted_hu5ed295fde70f1be183bce161e169ce61_37359_8c65777bf9b29f7d70bfbd9d2c665d86.jpg&#34;
                width=&#34;548&#34;
                height=&#34;333&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -916,9 +884,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One of our work is accepted by CVPR2022 !</title>
-      <link>http://localhost:1313/post/2022-cvpr-chang/</link>
+      <link>https://ustc-ac.github.io/post/2022-cvpr-chang/</link>
       <pubDate>Thu, 03 Mar 2022 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-cvpr-chang/</guid>
+      <guid>https://ustc-ac.github.io/post/2022-cvpr-chang/</guid>
       <description>&lt;p&gt;Our work &lt;em&gt;Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition&lt;/em&gt; (ID 6728) by &lt;a href=&#34;https://ustc-ac.github.io/author/yanan-chang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chang&lt;/a&gt; is accepted by CVPR2022!&lt;/p&gt;
 
 
@@ -940,7 +908,7 @@ W&lt;/p&gt;</description>
                /post/2022-cvpr-chang/accepted_hu79d0e1e93d1cec17731ffea58c3d7948_21562_ec14882abbfde4244df964826fb9923d.jpg 400w,
                /post/2022-cvpr-chang/accepted_hu79d0e1e93d1cec17731ffea58c3d7948_21562_3bb272a26a77f668f40f73b8d4ad9c47.jpg 760w,
                /post/2022-cvpr-chang/accepted_hu79d0e1e93d1cec17731ffea58c3d7948_21562_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022-cvpr-chang/accepted_hu79d0e1e93d1cec17731ffea58c3d7948_21562_ec14882abbfde4244df964826fb9923d.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2022-cvpr-chang/accepted_hu79d0e1e93d1cec17731ffea58c3d7948_21562_ec14882abbfde4244df964826fb9923d.jpg&#34;
                width=&#34;760&#34;
                height=&#34;48&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -949,9 +917,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Incoming Talk</title>
-      <link>http://localhost:1313/post/talk-2022-ha/</link>
+      <link>https://ustc-ac.github.io/post/talk-2022-ha/</link>
       <pubDate>Sat, 01 Jan 2022 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2022-ha/</guid>
+      <guid>https://ustc-ac.github.io/post/talk-2022-ha/</guid>
       <description>&lt;p&gt;Pro. Shangfei Wang will deliver a talk name &lt;em&gt;Knowing Faces and Hearts-Emotional Human-Computer Interaction Research&lt;/em&gt; in Harbin Institute of Technology Wuhu Research Institute Conference on Artificial Intelligence and Machine Vision (Online)&lt;/p&gt;
 
 
@@ -973,7 +941,7 @@ W&lt;/p&gt;</description>
                /post/talk-2022-ha/poster_hu8d53b52848da6b5cee2b33e5b24ed64c_397749_9409ee8e8c9f6b478037b9d7beddf0c8.jpg 400w,
                /post/talk-2022-ha/poster_hu8d53b52848da6b5cee2b33e5b24ed64c_397749_c3526ae1aacd64cb8e1d1b28e20ad59b.jpg 760w,
                /post/talk-2022-ha/poster_hu8d53b52848da6b5cee2b33e5b24ed64c_397749_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2022-ha/poster_hu8d53b52848da6b5cee2b33e5b24ed64c_397749_9409ee8e8c9f6b478037b9d7beddf0c8.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2022-ha/poster_hu8d53b52848da6b5cee2b33e5b24ed64c_397749_9409ee8e8c9f6b478037b9d7beddf0c8.jpg&#34;
                width=&#34;182&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -982,9 +950,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by FG2021</title>
-      <link>http://localhost:1313/post/2021-fg-liang/</link>
+      <link>https://ustc-ac.github.io/post/2021-fg-liang/</link>
       <pubDate>Sun, 05 Dec 2021 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-fg-liang/</guid>
+      <guid>https://ustc-ac.github.io/post/2021-fg-liang/</guid>
       <description>&lt;p&gt;&amp;ldquo;Pose-lnvariant Facial Expression Recognition&amp;rdquo; by Guang Liang has been accepted FG 2021&lt;/p&gt;
 
 
@@ -1006,7 +974,7 @@ W&lt;/p&gt;</description>
                /post/2021-fg-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_0da4fd5137681798f432a9f075ec136d.jpg 400w,
                /post/2021-fg-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_4da344dce8cf5215b2e6fcdf4fe21595.jpg 760w,
                /post/2021-fg-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021-fg-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_0da4fd5137681798f432a9f075ec136d.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2021-fg-liang/featured_hu5438825b9b6d1014226d20d231e650c2_1500562_0da4fd5137681798f432a9f075ec136d.jpg&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1015,9 +983,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by IEEE Transactions on Affective Computing</title>
-      <link>http://localhost:1313/post/2021-journal-chang/</link>
+      <link>https://ustc-ac.github.io/post/2021-journal-chang/</link>
       <pubDate>Fri, 24 Sep 2021 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-journal-chang/</guid>
+      <guid>https://ustc-ac.github.io/post/2021-journal-chang/</guid>
       <description>&lt;p&gt;&amp;ldquo;Dual Learning for Joint Facial Landmark Detection and Action Unit Recognition&amp;rdquo; by Ya&amp;rsquo;nan Chang, has been accepted for publication in a future issue of &lt;em&gt;IEEE Transactions on Affective Computing&lt;/em&gt; journal. You can find it in &lt;em&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/em&gt; column and &lt;a href=&#34;https://ieeexplore.ieee.org/document/9543559&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 
@@ -1039,7 +1007,7 @@ W&lt;/p&gt;</description>
                /post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_02579d245c23656688c7338102ddcb9a.jpg 400w,
                /post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_c17c28bccb54fab710b1c2645fb64ded.jpg 760w,
                /post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_02579d245c23656688c7338102ddcb9a.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2021-journal-chang/featured_hu02b94926cf1a462548b33acc6dc3b6c0_19043_02579d245c23656688c7338102ddcb9a.jpg&#34;
                width=&#34;760&#34;
                height=&#34;227&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1048,9 +1016,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Incoming Talk in MIPR2021</title>
-      <link>http://localhost:1313/post/talk-2022-mipr/</link>
+      <link>https://ustc-ac.github.io/post/talk-2022-mipr/</link>
       <pubDate>Mon, 30 Aug 2021 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/talk-2022-mipr/</guid>
+      <guid>https://ustc-ac.github.io/post/talk-2022-mipr/</guid>
       <description>&lt;p&gt;Pro. Shangfei Wang will deliver a talk name &lt;em&gt;Facial Action Unit Recognition under Non-Full Annotation&lt;/em&gt; in &lt;a href=&#34;https://aiart2021.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIPR2021&lt;/a&gt;&lt;/p&gt;
 
 
@@ -1072,7 +1040,7 @@ W&lt;/p&gt;</description>
                /post/talk-2022-mipr/poster_hub2fbd4f15906ae5c9d91adda5b4611a7_206066_f8b986d45e1ed4a8a7ea26b86d7faf95.jpg 400w,
                /post/talk-2022-mipr/poster_hub2fbd4f15906ae5c9d91adda5b4611a7_206066_b562555b51dcf1507f7fa9a63810008c.jpg 760w,
                /post/talk-2022-mipr/poster_hub2fbd4f15906ae5c9d91adda5b4611a7_206066_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/talk-2022-mipr/poster_hub2fbd4f15906ae5c9d91adda5b4611a7_206066_f8b986d45e1ed4a8a7ea26b86d7faf95.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/talk-2022-mipr/poster_hub2fbd4f15906ae5c9d91adda5b4611a7_206066_f8b986d45e1ed4a8a7ea26b86d7faf95.jpg&#34;
                width=&#34;760&#34;
                height=&#34;340&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1081,9 +1049,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>One paper is accepted by IJCAI 2021</title>
-      <link>http://localhost:1313/post/2021-ijcai-bin-xia/</link>
+      <link>https://ustc-ac.github.io/post/2021-ijcai-bin-xia/</link>
       <pubDate>Tue, 29 Jun 2021 08:57:57 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-ijcai-bin-xia/</guid>
+      <guid>https://ustc-ac.github.io/post/2021-ijcai-bin-xia/</guid>
       <description>&lt;p&gt;Bin Xia&amp;rsquo;s paper “Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain” is accepted by the 2021 Conference on IJCAI.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ijcai-21.org/program-main-track/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
@@ -1106,7 +1074,7 @@ W&lt;/p&gt;</description>
                /post/2021-ijcai-bin-xia/featured_hu2c69917c91855ca124047f9f7218696c_193835_029ea1dd9d8d3922e8f3fb1957ac27d3.jpg 400w,
                /post/2021-ijcai-bin-xia/featured_hu2c69917c91855ca124047f9f7218696c_193835_758b1e297afccb5136b6560d166bd154.jpg 760w,
                /post/2021-ijcai-bin-xia/featured_hu2c69917c91855ca124047f9f7218696c_193835_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021-ijcai-bin-xia/featured_hu2c69917c91855ca124047f9f7218696c_193835_029ea1dd9d8d3922e8f3fb1957ac27d3.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/2021-ijcai-bin-xia/featured_hu2c69917c91855ca124047f9f7218696c_193835_029ea1dd9d8d3922e8f3fb1957ac27d3.jpg&#34;
                width=&#34;760&#34;
                height=&#34;365&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1115,9 +1083,9 @@ W&lt;/p&gt;</description>
     
     <item>
       <title>Three students from our group were awarded outstanding graduates</title>
-      <link>http://localhost:1313/post/outstanding-graduates/</link>
+      <link>https://ustc-ac.github.io/post/outstanding-graduates/</link>
       <pubDate>Sun, 20 Jun 2021 10:26:05 +0000</pubDate>
-      <guid>http://localhost:1313/post/outstanding-graduates/</guid>
+      <guid>https://ustc-ac.github.io/post/outstanding-graduates/</guid>
       <description>&lt;p&gt;They accepted the award at the graduation ceremony.&lt;/p&gt;
 &lt;p&gt;
 
@@ -1139,7 +1107,7 @@ W&lt;/p&gt;</description>
                /post/outstanding-graduates/yin_hubac859aa24d48443df50ef54c1c835f4_1229321_148e7ad4a7e1b84c00e4a6416e588a8c.jpg 400w,
                /post/outstanding-graduates/yin_hubac859aa24d48443df50ef54c1c835f4_1229321_9d31d81aa5afbb60fb46f935d7251e54.jpg 760w,
                /post/outstanding-graduates/yin_hubac859aa24d48443df50ef54c1c835f4_1229321_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/outstanding-graduates/yin_hubac859aa24d48443df50ef54c1c835f4_1229321_148e7ad4a7e1b84c00e4a6416e588a8c.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/outstanding-graduates/yin_hubac859aa24d48443df50ef54c1c835f4_1229321_148e7ad4a7e1b84c00e4a6416e588a8c.jpg&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1166,7 +1134,7 @@ W&lt;/p&gt;</description>
                /post/outstanding-graduates/xu_hu48fff2b7152bbc7bbed649388a630b60_1199446_01152d543151c11640d4b8bffc64257a.jpg 400w,
                /post/outstanding-graduates/xu_hu48fff2b7152bbc7bbed649388a630b60_1199446_2a1df60b248b6a1377d245d4edec1328.jpg 760w,
                /post/outstanding-graduates/xu_hu48fff2b7152bbc7bbed649388a630b60_1199446_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/outstanding-graduates/xu_hu48fff2b7152bbc7bbed649388a630b60_1199446_01152d543151c11640d4b8bffc64257a.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/outstanding-graduates/xu_hu48fff2b7152bbc7bbed649388a630b60_1199446_01152d543151c11640d4b8bffc64257a.jpg&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1193,7 +1161,7 @@ W&lt;/p&gt;</description>
                /post/outstanding-graduates/xia_hu886e5b37725fd74635920f35135d58ed_1177558_b33e8928cfdedf595ec41b47290ec777.jpg 400w,
                /post/outstanding-graduates/xia_hu886e5b37725fd74635920f35135d58ed_1177558_3976a911b0eae2ce9bd7f0d1a4f1c4fb.jpg 760w,
                /post/outstanding-graduates/xia_hu886e5b37725fd74635920f35135d58ed_1177558_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/outstanding-graduates/xia_hu886e5b37725fd74635920f35135d58ed_1177558_b33e8928cfdedf595ec41b47290ec777.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/outstanding-graduates/xia_hu886e5b37725fd74635920f35135d58ed_1177558_b33e8928cfdedf595ec41b47290ec777.jpg&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1203,10 +1171,21 @@ W&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Three students from our group were awarded outstanding graduates</title>
+      <link>https://ustc-ac.github.io/post/outstanding-doctor-yinshi/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/outstanding-doctor-yinshi/</guid>
+      <description>&lt;p&gt;They accepted the award at the graduation ceremony.&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;
+&lt;p&gt;{{}}&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Our facial expression recognition job is filmed in a CCTV-9 documentary</title>
-      <link>http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/</link>
+      <link>https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/</link>
       <pubDate>Fri, 01 Nov 2019 09:25:52 +0000</pubDate>
-      <guid>http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/</guid>
+      <guid>https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/</guid>
       <description>&lt;p&gt;A CCTV-9 documentary called &amp;ldquo;The Power of Science&amp;rdquo;, which filmed the facial expression recognition function of our robot Jiajia is online now!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://tv.cctv.com/2019/11/04/VIDEtJcLKelpZLWUd2TrHZIZ191104.shtml?spm=C55924871139.PKgX4CXWWE68.0.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; (17:44)&lt;/p&gt;
 &lt;p&gt;On the 70th anniversary of the founding of New China, in order to showcase the achievements of China&amp;rsquo;s scientific and technological development and tell the story of Chinese science, the Chinese Academy of Sciences and China Central Television have cooperated in-depth to create a series of documentary &amp;ldquo;The Power of Science&amp;rdquo;. In the seventh episode, &amp;ldquo;The Biggest Temptation of the Intelligent Era-Bionic Robots&amp;rdquo;, a story of Jiajia is told, a service robot developed by the University of Science and Technology.&lt;/p&gt;
@@ -1232,7 +1211,7 @@ W&lt;/p&gt;</description>
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/featured_hud42958405cab0abbd778f69f7e22b2bd_119843_f28d4bac54ca9cae83a31f2a830d1483.jpg 400w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/featured_hud42958405cab0abbd778f69f7e22b2bd_119843_eabe97cccb517d3efdd8c01303f391b1.jpg 760w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/featured_hud42958405cab0abbd778f69f7e22b2bd_119843_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/featured_hud42958405cab0abbd778f69f7e22b2bd_119843_f28d4bac54ca9cae83a31f2a830d1483.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/featured_hud42958405cab0abbd778f69f7e22b2bd_119843_f28d4bac54ca9cae83a31f2a830d1483.jpg&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1263,7 +1242,7 @@ W&lt;/p&gt;</description>
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/kejia_huc644d72809a34ad6e17e51e82fce8e17_133855_350a41798f23d2ebf6618ee94fb2259b.jpg 400w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/kejia_huc644d72809a34ad6e17e51e82fce8e17_133855_d25d82f42118cbb02d496142bd0f1b3e.jpg 760w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/kejia_huc644d72809a34ad6e17e51e82fce8e17_133855_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/kejia_huc644d72809a34ad6e17e51e82fce8e17_133855_350a41798f23d2ebf6618ee94fb2259b.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/kejia_huc644d72809a34ad6e17e51e82fce8e17_133855_350a41798f23d2ebf6618ee94fb2259b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;508&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1293,7 +1272,7 @@ W&lt;/p&gt;</description>
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/nature_hu78fee13afca7fa82f62c2e75c78da747_77253_9b0b338214ebfcb9b3122f0e104e8aad.jpg 400w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/nature_hu78fee13afca7fa82f62c2e75c78da747_77253_433eddcea31eac45c7388d202c34aaa6.jpg 760w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/nature_hu78fee13afca7fa82f62c2e75c78da747_77253_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/nature_hu78fee13afca7fa82f62c2e75c78da747_77253_9b0b338214ebfcb9b3122f0e104e8aad.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/nature_hu78fee13afca7fa82f62c2e75c78da747_77253_9b0b338214ebfcb9b3122f0e104e8aad.jpg&#34;
                width=&#34;760&#34;
                height=&#34;489&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1323,7 +1302,7 @@ W&lt;/p&gt;</description>
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/minister_hu14b22c93fc41905bddf176c6e7d8a93e_52235_fe5980a90ecef727d9dc611314e3fb0d.jpg 400w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/minister_hu14b22c93fc41905bddf176c6e7d8a93e_52235_610c58d3e327c2159ee896405bc84c2d.jpg 760w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/minister_hu14b22c93fc41905bddf176c6e7d8a93e_52235_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/minister_hu14b22c93fc41905bddf176c6e7d8a93e_52235_fe5980a90ecef727d9dc611314e3fb0d.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/minister_hu14b22c93fc41905bddf176c6e7d8a93e_52235_fe5980a90ecef727d9dc611314e3fb0d.jpg&#34;
                width=&#34;554&#34;
                height=&#34;369&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1353,7 +1332,7 @@ W&lt;/p&gt;</description>
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/cameron_hu69778a0b52edfba6cb4adb4f245ac760_167699_9ed4fb74fef830520db002ebb34fe552.jpg 400w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/cameron_hu69778a0b52edfba6cb4adb4f245ac760_167699_975bf43d91400451678f74c2c680ab52.jpg 760w,
                /post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/cameron_hu69778a0b52edfba6cb4adb4f245ac760_167699_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;http://localhost:1313/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/cameron_hu69778a0b52edfba6cb4adb4f245ac760_167699_9ed4fb74fef830520db002ebb34fe552.jpg&#34;
+               src=&#34;https://ustc-ac.github.io/post/our-facial-expression-recognition-job-is-filmed-in-a-cctv-9-documentary/cameron_hu69778a0b52edfba6cb4adb4f245ac760_167699_9ed4fb74fef830520db002ebb34fe552.jpg&#34;
                width=&#34;640&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

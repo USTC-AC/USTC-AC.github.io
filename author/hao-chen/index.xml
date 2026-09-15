@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hao Chen | USTC-AC</title>
-    <link>http://localhost:1313/author/hao-chen/</link>
-      <atom:link href="http://localhost:1313/author/hao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-ac.github.io/author/hao-chen/</link>
+      <atom:link href="https://ustc-ac.github.io/author/hao-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/hao-chen/avatar_hu1e243f0b14aedeec570a3756c77b3e5f_18050_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ustc-ac.github.io/author/hao-chen/avatar_hu1e243f0b14aedeec570a3756c77b3e5f_18050_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hao Chen</title>
-      <link>http://localhost:1313/author/hao-chen/</link>
+      <link>https://ustc-ac.github.io/author/hao-chen/</link>
     </image>
     
   </channel>

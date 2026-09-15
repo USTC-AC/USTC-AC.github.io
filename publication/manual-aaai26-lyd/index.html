@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Indigo6" src="https://github.com/Indigo6"  />
@@ -38,7 +38,7 @@
   <meta name="description" content="Multimodal sentiment analysis remains a challenging task due to the inherent heterogeneity across modalities. Such heterogeneity often manifests as asynchronous signals, imbalanced information between modalities, and interference from task-irrelevant noise, hindering the learning of robust and accurate sentiment representations. To address these issues, we propose a factorized multimodal fusion framework that first disentangles each modality into shared and unique representations, and then suppresses task-irrelevant noise within both to retain only sentiment-critical representations. This fine-grained decomposition improves representation quality by reducing redundancy, prompting cross-modal complementarity, and isolating task-relevant sentiment cues. Rather than manipulating the feature space directly, we adopt a mutual information–based optimization strategy to guide the factorization process in a more stable and principled manner. To further support feature extraction and long-term temporal modeling, we introduce two auxiliary modules: a Mixture of Q-Formers, placed before factorization, which precedes the factorization and uses learnable queries to extract fine-grained affective features from multiple modalities, and a Dynamic Contrastive Queue, placed after factorization, which stores latest high-level representations for contrastive learning, enabling the model to capture long-range discriminative patterns and improve class-level separability. Extensive experiments on multiple public datasets demonstrate that our method consistently outperforms existing approaches, validating the effecti veness and robustness of the proposed framework." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/manual-aaai26-lyd/" />
+  <link rel="alternate" hreflang="en-us" href="https://ustc-ac.github.io/publication/manual-aaai26-lyd/" />
 
   
 
@@ -253,10 +253,49 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.edf39e98fe042890b919bc1e96a1fd57.css" />
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202839921-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-202839921-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -278,10 +317,10 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/manual-aaai26-lyd/" />
+  <link rel="canonical" href="https://ustc-ac.github.io/publication/manual-aaai26-lyd/" />
 
   
   
@@ -298,18 +337,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="USTC-AC" />
-  <meta property="og:url" content="http://localhost:1313/publication/manual-aaai26-lyd/" />
+  <meta property="og:url" content="https://ustc-ac.github.io/publication/manual-aaai26-lyd/" />
   <meta property="og:title" content="FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation | USTC-AC" />
-  <meta property="og:description" content="Multimodal sentiment analysis remains a challenging task due to the inherent heterogeneity across modalities. Such heterogeneity often manifests as asynchronous signals, imbalanced information between modalities, and interference from task-irrelevant noise, hindering the learning of robust and accurate sentiment representations. To address these issues, we propose a factorized multimodal fusion framework that first disentangles each modality into shared and unique representations, and then suppresses task-irrelevant noise within both to retain only sentiment-critical representations. This fine-grained decomposition improves representation quality by reducing redundancy, prompting cross-modal complementarity, and isolating task-relevant sentiment cues. Rather than manipulating the feature space directly, we adopt a mutual information–based optimization strategy to guide the factorization process in a more stable and principled manner. To further support feature extraction and long-term temporal modeling, we introduce two auxiliary modules: a Mixture of Q-Formers, placed before factorization, which precedes the factorization and uses learnable queries to extract fine-grained affective features from multiple modalities, and a Dynamic Contrastive Queue, placed after factorization, which stores latest high-level representations for contrastive learning, enabling the model to capture long-range discriminative patterns and improve class-level separability. Extensive experiments on multiple public datasets demonstrate that our method consistently outperforms existing approaches, validating the effecti veness and robustness of the proposed framework." /><meta property="og:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Multimodal sentiment analysis remains a challenging task due to the inherent heterogeneity across modalities. Such heterogeneity often manifests as asynchronous signals, imbalanced information between modalities, and interference from task-irrelevant noise, hindering the learning of robust and accurate sentiment representations. To address these issues, we propose a factorized multimodal fusion framework that first disentangles each modality into shared and unique representations, and then suppresses task-irrelevant noise within both to retain only sentiment-critical representations. This fine-grained decomposition improves representation quality by reducing redundancy, prompting cross-modal complementarity, and isolating task-relevant sentiment cues. Rather than manipulating the feature space directly, we adopt a mutual information–based optimization strategy to guide the factorization process in a more stable and principled manner. To further support feature extraction and long-term temporal modeling, we introduce two auxiliary modules: a Mixture of Q-Formers, placed before factorization, which precedes the factorization and uses learnable queries to extract fine-grained affective features from multiple modalities, and a Dynamic Contrastive Queue, placed after factorization, which stores latest high-level representations for contrastive learning, enabling the model to capture long-range discriminative patterns and improve class-level separability. Extensive experiments on multiple public datasets demonstrate that our method consistently outperforms existing approaches, validating the effecti veness and robustness of the proposed framework." /><meta property="og:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2025-11-15T06:58:40&#43;00:00"
+        content="2025-11-15T14:58:40&#43;08:00"
       />
     
-    <meta property="article:modified_time" content="2025-11-15T06:58:40&#43;00:00">
+    <meta property="article:modified_time" content="2025-11-15T14:58:40&#43;08:00">
   
 
   
@@ -331,12 +370,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/manual-aaai26-lyd/"
+    "@id": "https://ustc-ac.github.io/publication/manual-aaai26-lyd/"
   },
   "headline": "FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation",
   
-  "datePublished": "2025-11-15T06:58:40Z",
-  "dateModified": "2025-11-15T06:58:40Z",
+  "datePublished": "2025-11-15T14:58:40+08:00",
+  "dateModified": "2025-11-15T14:58:40+08:00",
   
   "author": {
     "@type": "Person",
@@ -348,7 +387,7 @@
     "name": "USTC-AC",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_3.png"
+      "url": "https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Multimodal sentiment analysis remains a challenging task due to the inherent heterogeneity across modalities. Such heterogeneity often manifests as asynchronous signals, imbalanced information between modalities, and interference from task-irrelevant noise, hindering the learning of robust and accurate sentiment representations. To address these issues, we propose a factorized multimodal fusion framework that first disentangles each modality into shared and unique representations, and then suppresses task-irrelevant noise within both to retain only sentiment-critical representations. This fine-grained decomposition improves representation quality by reducing redundancy, prompting cross-modal complementarity, and isolating task-relevant sentiment cues. Rather than manipulating the feature space directly, we adopt a mutual information–based optimization strategy to guide the factorization process in a more stable and principled manner. To further support feature extraction and long-term temporal modeling, we introduce two auxiliary modules: a Mixture of Q-Formers, placed before factorization, which precedes the factorization and uses learnable queries to extract fine-grained affective features from multiple modalities, and a Dynamic Contrastive Queue, placed after factorization, which stores latest high-level representations for contrastive learning, enabling the model to capture long-range discriminative patterns and improve class-level separability. Extensive experiments on multiple public datasets demonstrate that our method consistently outperforms existing approaches, validating the effecti veness and robustness of the proposed framework."
@@ -382,7 +421,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
   
 
@@ -678,36 +717,6 @@
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/restricted"><span>Restricted</span></a>
-        </li>
-
-        
-        
-
       
 
         
@@ -843,44 +852,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/manual-aaai26-lyd/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
 
   
 </div>
@@ -892,8 +863,6 @@
     
     <h3>Abstract</h3>
     <p class="pub-abstract">Multimodal sentiment analysis remains a challenging task due to the inherent heterogeneity across modalities. Such heterogeneity often manifests as asynchronous signals, imbalanced information between modalities, and interference from task-irrelevant noise, hindering the learning of robust and accurate sentiment representations. To address these issues, we propose a factorized multimodal fusion framework that first disentangles each modality into shared and unique representations, and then suppresses task-irrelevant noise within both to retain only sentiment-critical representations. This fine-grained decomposition improves representation quality by reducing redundancy, prompting cross-modal complementarity, and isolating task-relevant sentiment cues. Rather than manipulating the feature space directly, we adopt a mutual information–based optimization strategy to guide the factorization process in a more stable and principled manner. To further support feature extraction and long-term temporal modeling, we introduce two auxiliary modules: a Mixture of Q-Formers, placed before factorization, which precedes the factorization and uses learnable queries to extract fine-grained affective features from multiple modalities, and a Dynamic Contrastive Queue, placed after factorization, which stores latest high-level representations for contrastive learning, enabling the model to capture long-range discriminative patterns and improve class-level separability. Extensive experiments on multiple public datasets demonstrate that our method consistently outperforms existing approaches, validating the effecti veness and robustness of the proposed framework.</p>
-    
-
     
 
     
@@ -963,7 +932,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/publication/manual-aaai26-lyd/&amp;text=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ustc-ac.github.io/publication/manual-aaai26-lyd/&amp;text=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -976,7 +945,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/publication/manual-aaai26-lyd/&amp;t=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ustc-ac.github.io/publication/manual-aaai26-lyd/&amp;t=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -989,7 +958,7 @@
       
       
       <li>
-        <a href="mailto:?subject=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation&amp;body=http://localhost:1313/publication/manual-aaai26-lyd/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation&amp;body=https://ustc-ac.github.io/publication/manual-aaai26-lyd/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1002,7 +971,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/publication/manual-aaai26-lyd/&amp;title=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ustc-ac.github.io/publication/manual-aaai26-lyd/&amp;title=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1015,7 +984,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation%20http://localhost:1313/publication/manual-aaai26-lyd/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation%20https://ustc-ac.github.io/publication/manual-aaai26-lyd/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1028,7 +997,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/publication/manual-aaai26-lyd/&amp;title=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ustc-ac.github.io/publication/manual-aaai26-lyd/&amp;title=FINE:%20Factorized%20multimodal%20sentiment%20analysis%20via%20mutual%20INformation%20Estimation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1345,7 +1314,7 @@
     
 
     
-    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.8b7df62fd2da18ce73e29c13cc0a6198.js"></script>
 
     
     
@@ -1370,7 +1339,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.js"></script>
+    <script src="/en/js/wowchemy.min.1e0d08e76174cf86fae2f45a189987fb.js"></script>
 
     
 
