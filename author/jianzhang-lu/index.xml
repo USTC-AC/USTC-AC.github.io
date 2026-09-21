@@ -5,12 +5,20 @@
     <link>https://ustc-ac.github.io/author/jianzhang-lu/</link>
       <atom:link href="https://ustc-ac.github.io/author/jianzhang-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianzhang Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 17:53:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2026 17:53:00 +0800</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/jianzhang-lu/avatar_hu5557e1307668bdf0ebe92917612f816b_78477_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jianzhang Lu</title>
       <link>https://ustc-ac.github.io/author/jianzhang-lu/</link>
     </image>
+    
+    <item>
+      <title>KeyTalking: Linguistic-Kinematic Keyframe Localization with Prior-Driven Parameter-Efficient Fine-Tuning and Hybrid Inference for Talking Head Generation</title>
+      <link>https://ustc-ac.github.io/publication/manual-siggraphasia26-liu/</link>
+      <pubDate>Tue, 15 Sep 2026 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-siggraphasia26-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search</title>

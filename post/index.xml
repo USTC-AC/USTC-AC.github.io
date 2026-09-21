@@ -5,12 +5,45 @@
     <link>https://ustc-ac.github.io/post/</link>
       <atom:link href="https://ustc-ac.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 17:25:52 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2026 17:25:52 +0800</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/media/icon_huc3da470f1a231b6fd15916059be12d5d_66382_512x512_fill_lanczos_center_2.png</url>
       <title>Latest News</title>
       <link>https://ustc-ac.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>One of our work is accepted by SIGGRAPH Asia 2026!</title>
+      <link>https://ustc-ac.github.io/post/2026-siggraphasia-one/</link>
+      <pubDate>Sat, 19 Sep 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2026-siggraphasia-one/</guid>
+      <description>&lt;p&gt;“KeyTalking: Linguistic-Kinematic Keyframe Localization with Prior-Driven Parameter-Efficient Fine-Tuning and Hybrid Inference for Talking Head Generation” by &lt;a href=&#34;../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of SIGGRAPH Asia 2026.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_e5b36c4806c93d6f381994dae6fe39f0.png 400w,
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_6cc7356aa0de9e73562666cfd2067fb2.png 760w,
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_e5b36c4806c93d6f381994dae6fe39f0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>We have won the First Prize of AdoDAS Challenge @ ACM MM 2026</title>
@@ -52,6 +85,39 @@
                src=&#34;https://ustc-ac.github.io/post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_ca01544658c0eacf66a49eab3c3d4579.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>One of our work is accepted by ACM MM26 !</title>
+      <link>https://ustc-ac.github.io/post/2026-mm-one/</link>
+      <pubDate>Mon, 15 Jun 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2026-mm-one/</guid>
+      <description>&lt;p&gt;“ Think Twice: a Two-Level Mismatch Discriminator for Generalized Referring Expression Grounding” by &lt;a href=&#34;../author/jiale-huang/&#34;&gt;Jiale Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM MM26&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_bae3ea57339008276272789c7636a29c.png 400w,
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_9e22c0f91bcccea5e4491c167141dda6.png 760w,
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_bae3ea57339008276272789c7636a29c.png&#34;
+               width=&#34;367&#34;
+               height=&#34;172&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>

@@ -5,7 +5,7 @@
     <link>https://ustc-ac.github.io/author/shangfei-wang/</link>
       <atom:link href="https://ustc-ac.github.io/author/shangfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shangfei Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 17:53:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2026 17:25:52 +0800</lastBuildDate>
     <image>
       <url>https://ustc-ac.github.io/author/shangfei-wang/avatar_hua0dcf0d7d729937dc57147819587ff23_443707_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shangfei Wang</title>
@@ -47,6 +47,47 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We conduct training on the official training set and test it on the official testing set of the challenge. Compared to the optimal results in baseline methods, our method increases Concordance Correlation Coefficients (CCC) by 19.64% and decreases Root Mean Square Error (RMSE) by 1.79% on the development set, and also increases CCC by 268.33% and decreases RMSE by 13.66% on the testing set, which means a significant performance compared to the baseline methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>One of our work is accepted by SIGGRAPH Asia 2026!</title>
+      <link>https://ustc-ac.github.io/post/2026-siggraphasia-one/</link>
+      <pubDate>Sat, 19 Sep 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2026-siggraphasia-one/</guid>
+      <description>&lt;p&gt;“KeyTalking: Linguistic-Kinematic Keyframe Localization with Prior-Driven Parameter-Efficient Fine-Tuning and Hybrid Inference for Talking Head Generation” by &lt;a href=&#34;../author/zhenjie-liu/&#34;&gt;Zhenjie Liu&lt;/a&gt;, has been accepted for publication in a future issue of SIGGRAPH Asia 2026.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_e5b36c4806c93d6f381994dae6fe39f0.png 400w,
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_6cc7356aa0de9e73562666cfd2067fb2.png 760w,
+               /post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2026-siggraphasia-one/featured_hu27d8a01dfa52573d8921dc4f75962af0_1173465_e5b36c4806c93d6f381994dae6fe39f0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>KeyTalking: Linguistic-Kinematic Keyframe Localization with Prior-Driven Parameter-Efficient Fine-Tuning and Hybrid Inference for Talking Head Generation</title>
+      <link>https://ustc-ac.github.io/publication/manual-siggraphasia26-liu/</link>
+      <pubDate>Tue, 15 Sep 2026 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-siggraphasia26-liu/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -97,6 +138,47 @@
                src=&#34;https://ustc-ac.github.io/post/talk-2026-smart-wellbeing/featured_hud15e3c049cc96838cb06c08ae0e811a6_447980_ca01544658c0eacf66a49eab3c3d4579.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Think Twice: a Two-Level Mismatch Discriminator for Generalized Referring Expression Grounding</title>
+      <link>https://ustc-ac.github.io/publication/manual-mm26-huang/</link>
+      <pubDate>Mon, 15 Jun 2026 17:53:00 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/publication/manual-mm26-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One of our work is accepted by ACM MM26 !</title>
+      <link>https://ustc-ac.github.io/post/2026-mm-one/</link>
+      <pubDate>Mon, 15 Jun 2026 17:25:52 +0800</pubDate>
+      <guid>https://ustc-ac.github.io/post/2026-mm-one/</guid>
+      <description>&lt;p&gt;“ Think Twice: a Two-Level Mismatch Discriminator for Generalized Referring Expression Grounding” by &lt;a href=&#34;../author/jiale-huang/&#34;&gt;Jiale Huang&lt;/a&gt;, has been accepted for publication in a future issue of ACM MM26&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_bae3ea57339008276272789c7636a29c.png 400w,
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_9e22c0f91bcccea5e4491c167141dda6.png 760w,
+               /post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://ustc-ac.github.io/post/2026-mm-one/featured_hu724794e845c5ad68060d94fdc699081c_21785_bae3ea57339008276272789c7636a29c.png&#34;
+               width=&#34;367&#34;
+               height=&#34;172&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
     </item>
