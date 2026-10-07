@@ -813,8 +813,61 @@
 
 
   <div class="col-12">
-    <p>The Key Laboratory of Computing and Communication Software of Anhui Province(CCSL) has constructed the USTC-NVIE (Natural Visible and Infrared facial Expression) database under the sponsor of the 863 project. To date, most facial expression analysis has been based on visible and posed expression databases. Visible images, however, are easily affected by illumination variations, while posed expressions differ in appearance and timing from natural ones. We propose and establish a natural visible and infrared facial expression database, which contains both spontaneous and posed expressions of more than 100 subjects, recorded simultaneously by a visible and an infrared thermal camera, with illumination provided from three different directions. The posed database also includes expression image sequences with and without glasses.</p>
-<p>Link: <a href="https://nvie.ustc.edu.cn/" target="_blank" rel="noopener">https://nvie.ustc.edu.cn/</a></p>
+    <h2 id="overview">Overview</h2>
+<p>USTC-NVIE (Natural Visible and Infrared facial Expression) is a database for facial expression recognition and emotion inference. It was constructed by the Key Laboratory of Computing and Communication Software of Anhui Province (CCSL) with support from China&rsquo;s National 863 Program. By combining spontaneous and posed expressions with visible and infrared thermal imagery, NVIE supports research on natural facial behavior under varying illumination conditions.</p>
+<h2 id="dataset-description">Dataset Description</h2>
+<p>NVIE contains facial expressions from more than 100 subjects, recorded simultaneously using a visible camera and an infrared thermal camera. Data were collected under three illumination conditions: <strong>front</strong>, <strong>left</strong>, and <strong>right</strong>. The posed database also includes images captured <strong>with and without glasses</strong>, allowing researchers to study the effects of glasses on expression recognition.</p>
+<h2 id="dataset-composition">Dataset Composition</h2>
+<p>The database comprises two complementary subsets, each containing visible and infrared images:</p>
+<ol>
+<li><strong>Spontaneous Expressions</strong>: Image sequences captured while subjects watched emotion-eliciting video clips, spanning expression onset to apex.</li>
+<li><strong>Posed Expressions</strong>: Apex images of expressions performed on request, collected both with and without glasses.</li>
+</ol>
+<h2 id="labels-and-annotations">Labels and Annotations</h2>
+<p>NVIE distinguishes between annotations of displayed facial expressions and subjects' self-reported emotions:</p>
+<ul>
+<li><strong>Expression Categories</strong>: Happiness, sadness, surprise, fear, anger, and disgust.</li>
+<li><strong>Observer Annotations</strong>: Five raters assessed spontaneous visible apex images for expression intensities, valence, and arousal on three-point scales. The dominant expression category and mean valence and arousal scores label the visible and infrared apex images.</li>
+<li><strong>Self-Reported Emotions</strong>: Subjects reported their experienced emotion category and rated its intensity, valence, and arousal on five-point scales, providing emotion annotations for the corresponding sequences.</li>
+</ul>
+<h2 id="usage">Usage</h2>
+<p>NVIE can be used to train and evaluate facial expression recognition methods, compare spontaneous and posed expressions, and investigate emotion inference from facial thermal information. Its paired modalities and controlled recording conditions also support studies of illumination variation and glasses.</p>
+<h2 id="license-and-agreement">License and Agreement</h2>
+<p>NVIE is available for <strong>scientific research only</strong>. Commercial use and further redistribution are prohibited under the <a href="release_agreement_nvie.pdf">USTC-NVIE Database Release Agreement</a>.</p>
+<p>To request access, print and complete the agreement, obtain your supervisor&rsquo;s signature and your department&rsquo;s seal, and send the signed agreement to the contact below. Publications using NVIE must cite both papers listed below and forward a copy of the resulting publication or report to CCSL.</p>
+<h2 id="citation">Citation</h2>
+<p>Please cite the database paper and the subsequent analysis paper when using NVIE:</p>
+<pre><code class="language-bibtex">@article{wang2010nvie,
+  title={A Natural Visible and Infrared Facial Expression Database for Expression Recognition and Emotion Inference},
+  author={Wang, Shangfei and Liu, Zhilei and Lv, Siliang and Lv, Yanpeng and Wu, Guobing and Peng, Peng and Chen, Fei and Wang, Xufa},
+  journal={IEEE Transactions on Multimedia},
+  volume={12},
+  number={7},
+  pages={682--691},
+  year={2010},
+  doi={10.1109/TMM.2010.2060716},
+  url={https://doi.org/10.1109/TMM.2010.2060716}
+}
+
+@article{wang2013nvie,
+  title={Analyses of a Multimodal Spontaneous Facial Expression Database},
+  author={Wang, Shangfei and Liu, Zhilei and Wang, Zhaoyu and Wu, Guobing and Shen, Peijia and He, Shan and Wang, Xufa},
+  journal={IEEE Transactions on Affective Computing},
+  volume={4},
+  number={1},
+  pages={34--46},
+  year={2013},
+  doi={10.1109/T-AFFC.2012.32},
+  url={https://doi.org/10.1109/T-AFFC.2012.32}
+}
+</code></pre>
+<h2 id="contact-us">Contact Us</h2>
+<p>For dataset access requests or any inquiries about NVIE, please contact:</p>
+<ul>
+<li><strong>Shangfei Wang</strong>: <a href="mailto:sfwang@ustc.edu.cn">sfwang@ustc.edu.cn</a></li>
+<li><strong>Bingzhao Cai</strong>: <a href="mailto:cbz_2020@mail.ustc.edu.cn">cbz_2020@mail.ustc.edu.cn</a></li>
+</ul>
+<p><strong>Official Website of our Research Group</strong>: <a href="https://ustc-ac.github.io/" target="_blank" rel="noopener">USTC-AC</a></p>
 
   </div>
 
